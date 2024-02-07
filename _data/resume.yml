@@ -1,0 +1,199 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: Steven Noble
+  label: Software Engineer, Growth
+  picture: /assets/img/profile.jpg
+  email: stevendananoble@gmail.com
+  phone: (413) 539-1192
+  website: https://stevendnoble.com
+  summary: >
+    As a Software Engineer on the Growth team at Upstart, I apply my skills
+    and knowledge in Ruby on Rails, JavaScript, PostgreSQL, Redis,
+    Microservices, and A/B Testing to improve the user experience and
+    conversion rate of our online lending platform. I have been working at
+    Upstart for four years, and I enjoy being part of a mission-driven,
+    innovative, and collaborative team that is transforming the credit
+    industry with AI and data science.
+
+    Before joining Upstart, I was a Software Engineer at Snapdocs, where I
+    built back-end solutions for connecting our notary scheduling app and
+    our digital closing solution for lenders and designed and implemented
+    a microservice for storing eNotes. I also have two years of experience
+    as an Outcomes Instructor at General Assembly, where I taught algorithms
+    and interview prep to recent graduates of the web development boot camp.
+    My background in mathematics and special education has given me a unique
+    perspective and a strong foundation in problem-solving, communication,
+    and mentorship. I am passionate about creating software that is
+    accessible, user-friendly, and impactful.
+  location:
+    postalCode: CA 94114
+    city: San Francisco
+    countryCode: US
+    region: California
+  profiles:
+    - network: Github
+      username: stevendnoble
+      url:
+    - network: LinkedIn
+      username: stevendnoble
+      url:
+work:
+  - company: Upstart
+    position: Software Engineer, Growth
+    website: https://upstart.com
+    startDate: 2020-03-01
+    endDate:
+    summary: >
+      Upstart's mission is to enable effortless credit based on true risk. We
+      are a leading artificial intelligence (AI) lending platform designed to
+      improve access to affordable credit while reducing the risk and costs of
+      lending for our bank partners.
+    highlights:
+      - Led 7 engineers to decouple user account creation from loan applications.
+        This involved collaboration with 4 other engineering teams, creation of a
+        microservice written in Kotlin, and experimentation with our conversion funnel.
+      - Spearheaded a successful loan attribution overhaul, resulting in a remarkable
+        $1 million reduction in partner fees within the first four months after launch.
+      - Enhanced the reliability of reporting systems during the business's scaling
+        phase, implementing measures for accurate and consistent data.
+      - Redesigned the A/B testing framework, introducing key features
+        for multivariate experiments, enabling testing on logged-out visitors,
+        and implementing a controlled rollout mechanism.
+      - Played a crucial role in helping the business diversify its offerings and
+        facilitating marketing efforts by enabling strategic partnerships for new
+        product launches.
+  - company: Snapdocs
+    position: Software Engineer, Growth
+    website: https://snapdocs.com
+    startDate: 2018-12-01
+    endDate: 2020-03-01
+    summary: >
+      Snapdocs is dedicated to simplifying and modernizing the mortgage process by
+      providing a seamless digital solution for all parties involved.
+    highlights:
+      - Engineered backend solutions to seamlessly connect notary scheduling and digital
+        closing products, optimizing customer workflow.
+      - Designed and implemented a Ruby on Rails microservice for storing eNotes, a
+        crucial step towards a 100% digital closing experience.
+  - company: General Assembly
+    position: Outcomes Instructor
+    website: https://generalassemb.ly
+    startDate: 2017-01-01
+    endDate: 2018-12-01
+    summary: >
+      General Assembly's mission focuses on empowering underrepresented communities
+      in tech.
+    highlights:
+      - Taught Algorithms and Interview Prep course to recent graduates of the Web
+        Development Immersive 12-week coding boot camp.
+      - Covered essential topics including space/time complexity, object-oriented
+        programming, prototypal inheritance, and special topics in Ruby and JavaScript.
+      - Played a key role in preparing students for the challenges of web development
+        through effective teaching and guidance.
+  - company: RepairPal
+    position: Software Engineer
+    website: https://repairpal.com
+    startDate: 2017-10-01
+    endDate: 2018-11-01
+    summary: >
+      RepairPal's mission statement is to give consumers trust, quality and fair pricing
+      in caring for their cars. Too many people don't know which mechanic they can trust,
+      or if they're getting ripped off when they need repairs.
+    highlights:
+      - Revitalized consumer-facing pages, implementing a redesign to enhance branding and
+        improve performance, resulting in a 35% reduction in average page load time (4
+        seconds to 2.6 seconds).
+      - Led A/B testing initiatives using proprietary software, optimizing conversion
+        rates on high-traffic landing pages.
+      - Leveraged analytics to drive data-driven decision-making.
+  - company: Rocksbox
+    position: Software Engineer
+    website: https://rocksbox.com
+    startDate: 2016-03-01
+    endDate: 2017-09-01
+    summary: >
+      Our mission is to bring the joy of jewelry to everyone. We believe jewelry is a
+      celebration of individuality and self-expression that needs no special occasion and
+      has no gender.
+    highlights:
+      - Enhanced the stylist experience, improving usability, and incorporating
+        data-driven recommendations.
+      - Successfully increased subscription conversion rates through strategic marketing
+        campaigns and experimentation.
+      - Optimized Warehouse Management Systems (WMS) to enhance inventory management.
+volunteer:
+  - organization: General Assembly
+    position: Host of Interview Prep
+    website: https://generalassemb.ly/
+    startDate: 2016-03-01
+    endDate: 2016-06-01
+    summary: >
+      Hosted meetups for General Assembly bootcamp students & graduates to practice coding
+      interviews and network with their peers.
+  - organization: Techtonica
+    position: Mentor
+    website: https:/techtonica.org/
+    startDate: 2021-03-01
+    endDate: 2021-06-01
+    summary: >
+      Mentored women and non-binary adult students in a coding bootcamp - helped them with
+      their projects and conducted mock interviews.
+education:
+  - institution: Framingham State University
+    area: Mathematics
+    studyType: B.S.
+    gpa: 3.6
+  - institution: Grand Canyon University
+    area: Special Education
+    studyType: M.S.
+    gpa: 4.0
+  - institution: New York University
+    area: Mathematics
+    studyType: Master's courses
+    gpa: 3.6
+current_skills:
+  - name: Ruby on Rails
+  - name: JavaScript
+  - name: PostgreSQL
+  - name: Redis
+  - name: Microservices
+  - name: AWS & Heroku
+  - name: DataBricks
+  - name: DataDog
+  - name: SumoLogic
+  - name: SEO
+  - name: Funnel Optimization
+  - name: A/B Testing
+  - name: Unit Testing
+past_skills:
+  - name: React
+  - name: Node/Express
+  - name: Angular
+  - name: Bootstrap
+  - name: Foundation
+  - name: jQuery
+  - name: MongoDB
+  - name: Mixpanel/Segment
+  - name: Google Analytics
+  - name: Search Console
+  - name: Responsive Design
+  - name: Accessibility
+languages:
+  - language: English
+    fluency: Native speaker
+  - language: Spanish
+    fluency: Limited working proficiency
+  - language: French
+    fluency: Limited working proficiency
+  - language: German
+    fluency: Elementary proficiency
+  - language: Italian
+    fluency: Elementary proficiency
+interests:
+  - name: 🌈 Member of Upstart Catalyst LGBTQ2IA+ ERG
+  - name: 🍲 Participated in and hosted “Snapfoodies”, a group for like-minded foodies
+  - name: 🌹 League commissioner for Rocksbox Bachelorette fantasy league
+  - name: "🖥️ WebDevFun Blog: Putting the FUN in Web Development Fundamentals"
+  - name: "🧼 Soap Making: visit my blog Worldly Lathers!"

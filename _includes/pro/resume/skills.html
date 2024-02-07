@@ -1,0 +1,28 @@
+{% if resume.current_skills.size > 0 | resume.past_skills.size > 0 %}
+<section class="npb">
+  <h2 id="skills" class="h3 hr-bottom">
+    {{ strings.resume.skills | default:"Skills" }}
+    <span class="symbol {{ icons.skills | default:'icon-wrench' }}"></span>
+  </h2>
+  {% if resume.current_skills.size > 0 %}
+    <h3 id="current_proficient_skills" class="h4 hr-bottom">
+      {{ strings.resume.current_skills | default:"Current/Proficient" }}
+    </h3>
+    <ul class="skills tags">
+    {% for skl in resume.current_skills %}
+      <li class="tag">{{ skl.name }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  {% if resume.past_skills.size > 0 %}
+    <h3 id="current_proficient_skills" class="h4 hr-bottom">
+      {{ strings.resume.past_skills | default:"Side Project/Past" }}
+    </h3>
+    <ul class="skills tags">
+    {% for skl in resume.past_skills %}
+      <li class="tag">{{ skl.name }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</section>
+{% endif %}

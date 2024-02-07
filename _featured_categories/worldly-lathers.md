@@ -24,6 +24,8 @@ sitemap: true
 
 # Worldly Lathers: Artisanal Soap Making
 
+Please refer to our [Community Guidelines](/community-guidelines)
+
 ## [Basics of Soap Making](/basics-of-soap-making)
 
 Our insightful series on soapmaking basics offers a comprehensive introduction to the

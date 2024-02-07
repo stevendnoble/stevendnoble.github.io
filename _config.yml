@@ -14,8 +14,8 @@ author:
   name:                Steven Noble
   email:               stevendananoble@gmail.com
 menu:
-  # - title:             WebDevFun
-    # url:               /webdevfun/
+  - title:             WebDevFun
+    url:               /webdevfun/
   - title:             Worldly Lathers
     url:               /worldly-lathers/
   # - title:             Recipes

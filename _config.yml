@@ -19,13 +19,11 @@ menu:
   - title:             Worldly Lathers
     url:               /worldly-lathers/
   # - title:             Recipes
-    # url:               /recipes/
+  #   url:               /recipes/
   - title:             Resume
     url:               /resume/
   - title:             About
     url:               /about/
-  # - title:             Projects
-    # url:               /projects/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

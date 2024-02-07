@@ -22,8 +22,6 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-# Unraveling the Chemistry Behind Soap Making: A Fusion of Science and Art
-
 Soap making, an ancient craft that has evolved through centuries, is a fascinating intersection of chemistry and art. At its core, the creation of soap is a chemical process known as saponification, a reaction that transforms fats or oils and an alkali (such as lye) into soap and glycerin. This blog post delves into the scientific principles that underpin this transformative process, shedding light on how understanding the chemistry behind soap making can elevate the craft to new heights.
 
 ## What Is Soap?

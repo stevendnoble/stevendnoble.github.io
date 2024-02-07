@@ -22,8 +22,6 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-# Exploring the Creamy Luxe: Incorporating Goat Milk into Handmade Soaps
-
 In the expansive world of soap making, goat milk holds a revered spot, celebrated for transforming the simple act of cleansing into a luxurious skincare experience. Rich in nutrients and boasting a creamy texture, goat milk soap caters to a wide range of skin types and concerns. This blog post delves into the why and how of using goat milk in handmade soaps, highlighting its benefits and providing a basic guide to crafting your own nourishing bars at home.
 
 ## Why Goat Milk?

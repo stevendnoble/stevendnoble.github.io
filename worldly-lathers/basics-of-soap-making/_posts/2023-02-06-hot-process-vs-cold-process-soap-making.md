@@ -22,8 +22,6 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-# Hot Process vs. Cold Process Soap Making: Unveiling the Craft Behind the Bar
-
 The world of handmade soap is rich with creativity and tradition, where the melding of simple ingredients transforms into something both useful and beautiful. Central to this transformation are two primary methods of soap making: hot process and cold process. Each technique has its own charm, characteristics, and loyal following. This blog post dives into the nuances of hot process and cold process soap making, highlighting the differences that set them apart and guide artisans in choosing the method that best suits their craft.
 
 ## The Basics of Soap Making

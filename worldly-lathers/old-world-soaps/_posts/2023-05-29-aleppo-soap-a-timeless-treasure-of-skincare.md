@@ -20,8 +20,6 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-# Aleppo Soap: A Timeless Treasure of Skincare
-
 Nestled in the ancient city of Aleppo, Syria, lies the origin of one of the oldest and most revered skincare secrets: Aleppo soap. Known for its purity, gentle cleansing properties, and rich history, Aleppo soap has transcended centuries, offering a natural and effective solution for a myriad of skin concerns. This blog post delves into the heritage, benefits, and unique qualities of Aleppo soap, shedding light on why it remains a cherished item in beauty regimens around the world.
 
 ## The Rich Heritage of Aleppo Soap

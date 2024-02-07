@@ -23,8 +23,6 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-# Marseille Soap: A Legacy of Purity and Tradition
-
 In the heart of Provence lies the story of a soap that has transcended centuries, known for its purity, natural ingredients, and minimalistic approach to skincare. Marseille soap, or Savon de Marseille, is not just a cleansing product but a symbol of French heritage and artisanal craftsmanship. This blog post delves into the rich history, traditional production methods, and enduring appeal of Marseille soap, a staple in homes and hearts across the globe.
 
 ## The Origins of Marseille Soap

@@ -21,8 +21,6 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-# Castile Soap: The Gentle Giant of Natural Skincare
-
 In the realm of natural skincare and sustainable living, Castile soap occupies a venerable position. Renowned for its simplicity, versatility, and environmental friendliness, this soap has roots that stretch back to the Castile region of Spain, from where it derives its name. Unlike the myriad of modern cleaning products that are often laden with chemicals and synthetic fragrances, Castile soap offers a gentle, effective alternative made from all-natural ingredients. This blog post delves into the rich history, benefits, and myriad uses of Castile soap, shedding light on why it remains a staple in eco-conscious households.
 
 ## A Brief History of Castile Soap

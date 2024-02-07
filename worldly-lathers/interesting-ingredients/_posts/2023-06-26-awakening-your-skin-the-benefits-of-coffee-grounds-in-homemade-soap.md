@@ -22,8 +22,6 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-# Awakening Your Skin: The Benefits of Coffee Grounds in Handmade Soap
-
 In the artisanal world of handmade soaps, incorporating natural ingredients is not just a trend; it's a testament to the power of nature in enhancing our daily skincare rituals. Among these natural wonders, coffee grounds emerge as a surprisingly effective ingredient, transforming the humble bar of soap into a rejuvenating skincare marvel. This blog post brews up the reasons behind the popularity of coffee grounds in handmade soap, exploring their benefits, uses, and the sheer delight of turning your shower into a café-esque experience.
 
 ## The Grounds for Inclusion: Why Coffee?

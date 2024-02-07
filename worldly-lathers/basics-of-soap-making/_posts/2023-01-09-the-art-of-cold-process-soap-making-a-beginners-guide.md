@@ -21,8 +21,6 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-# The Art of Cold Process Soap Making: A Beginner's Guide
-
 In the world of handmade crafts, cold process soap making holds a special place. It's not just about creating a cleaning product; it's an art form that allows for endless creativity in scents, colors, and textures. Moreover, making your own soap ensures that you know exactly what's going into it—ideal for those with sensitive skin or those looking to reduce their environmental footprint. If you're intrigued by the idea of crafting your own bespoke bars of soap, you've come to the right place. This beginner's guide will walk you through the basics of cold process soap making.
 
 ## Understanding Cold Process Soap Making

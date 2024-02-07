@@ -22,8 +22,6 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-# The Dark Marvel: Activated Charcoal in Handmade Soaps
-
 In the artisanal world of handmade soaps, one ingredient has been capturing the imagination
 of crafters and consumers alike: activated charcoal. Known for its striking black hue and
 impressive purifying properties, activated charcoal has become a staple in the realm of

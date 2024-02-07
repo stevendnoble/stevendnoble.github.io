@@ -22,8 +22,6 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-# Crafting the Perfect Bar: The Best Oils for Handmade Soap
-
 The art of soap making allows for endless creativity, not just in shape and scent, but also in the choice of oils that form the base of the soap. Each oil brings its own unique properties to the final product, influencing everything from lather and hardness to moisturizing qualities and shelf life. For those embarking on the journey of soap making, selecting the right oils can be both exciting and daunting. This blog post will guide you through some of the best oils for handmade soap, helping you craft bars that are not only beautiful but also perfectly suited to your skincare needs.
 
 ## Olive Oil

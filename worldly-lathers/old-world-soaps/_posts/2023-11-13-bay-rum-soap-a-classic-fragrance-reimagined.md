@@ -23,8 +23,6 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-# Bay Rum Soap: A Classic Fragrance Reimagined
-
 In the world of artisanal soap making, certain scents capture the imagination and transport us to another time and place. Among these, Bay Rum stands out as a classic fragrance with a rich history that spans centuries. Traditionally associated with old-world barbershops and masculine grooming rituals, Bay Rum soap has made a remarkable comeback, reimagined for the modern connoisseur. This blog post delves into the origins, allure, and making of Bay Rum soap, celebrating its enduring legacy and newfound popularity.
 
 ## The Origins of Bay Rum

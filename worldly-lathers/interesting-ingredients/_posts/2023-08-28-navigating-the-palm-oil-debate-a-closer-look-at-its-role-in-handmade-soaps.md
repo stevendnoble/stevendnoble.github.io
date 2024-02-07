@@ -22,8 +22,6 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-# Navigating the Palm Oil Debate: A Closer Look at Its Role in Handmade Soaps
-
 In the diverse world of handmade soaps, the choice of oils can significantly influence the quality, texture, and environmental impact of the final product. Palm oil, with its creamy lather and hardening properties, has long been a popular choice among soap makers. However, its use has become a topic of ethical and environmental debate, prompting a closer examination of its role in artisanal soap production. This blog post explores the benefits of using palm oil in handmade soaps, the concerns associated with its cultivation, and how soap makers can navigate these waters responsibly.
 
 ## The Appeal of Palm Oil in Soap Making

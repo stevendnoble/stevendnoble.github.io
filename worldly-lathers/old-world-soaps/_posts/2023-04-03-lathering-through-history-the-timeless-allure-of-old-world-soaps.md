@@ -21,8 +21,6 @@ sitemap: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-# Lathering Through History: The Timeless Allure of Old World Soaps
-
 In the tapestry of human civilization, few items weave through the fibers of time like the humble bar of soap. This essential commodity, often overlooked in our daily routines, carries with it centuries of history, innovation, and cultural significance. "Lathering Through History: The Timeless Allure of Old World Soaps" explores the journey of soap making from its ancient origins to its revered status in the old world, highlighting the artisanal craftsmanship that has preserved its legacy.
 
 ## The Dawn of Cleansing

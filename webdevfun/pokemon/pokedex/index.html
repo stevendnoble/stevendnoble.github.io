@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Pokédex</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/handlebars/dist/handlebars.min.js"></script>
+</head>
+<body>
+    <div class="container mt-5">
+        <header class="mb-4">
+            <h1 class="text-center">Welcome to My Pokédex</h1>
+        </header>
+        <div class="row">
+            <!-- Search Box in a Card on the Left -->
+            <div class="col-md-5">
+                <div class="card search-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Search for Pokémon</h5>
+                        <form id="pokemon-search-form" class="input-group mb-3">
+                            <input type="text" id="pokemon-search" class="form-control" placeholder="Enter Pokémon Name or ID">
+                            <div class="input-group-append">
+                                <button class="btn btn-secondary" type="submit" id="search-btn">Search</button>
+                            </div>
+                        </form>
+                        <div id="pokemon-display">
+                            <script id="pokemon-template" type="text/x-handlebars-template">
+                                <div class="card mt-4 mb-4">
+                                    <img src="{{image}}" class="card-img-top" alt="Image of {{name}}">
+                                    <div class="card-body">
+                                        <h5 class="card-title">{{name}}</h5>
+                                        <p class="card-text">{{types}}</p>
+                                        <button class="btn btn-info btn-block capture-btn" data-name="{{name}}" data-image="{{image}}" data-types="{{types}}">Capture</button>
+                                    </div>
+                                </div>
+                            </script>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pokémon Box on the Right -->
+            <div class="col-md-7">
+                <div class="card box-card">
+                    <div class="card-body">
+                        <h5 class="card-title">My Box</h5>
+                        <div id="pokemon-box" class="row">
+                            <script id="captured-pokemon-template" type="text/x-handlebars-template">
+                                <div class="col-sm-6">
+                                    <div class="captured-pokemon-card card mt-4 mb-4" data-name="{{name}}"">
+                                        <img src="{{image}}" class="card-img-top" alt="Image of {{name}}">
+                                        <div class="card-body">
+                                            <h5 class="card-title">{{name}}</h5>
+                                            <p class="card-text">{{types}}</p>
+                                            <button class="btn btn-info btn-block release-btn" data-name="{{name}}">Release</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </script>
+                        </div>
+                        <button id="view-box-btn" class="btn btn-info mb-3">View My Pokémon Box</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="text-center py-4 mt-5">
+        <p>Made with love by The Pokémon Chronicles Team</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+body {
+    background-color: whitesmoke;
+}
+
+.search-card {
+    background-color: lightgray;
+}
+
+.box-card {
+    background-color: lightgray;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+#pokemon-display {
+    margin-top: 20px;
+}
+
+.card {
+    width: 100%;
+}

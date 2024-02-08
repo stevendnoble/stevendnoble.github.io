@@ -1,0 +1,21 @@
+body {
+    background-color: #f0f0f0; /* Light gray background */
+}
+
+.pokemon-image {
+    width: 100%;
+    height: auto;
+    max-width: 200px;
+    margin: 0 auto;
+    object-fit: contain;
+}
+
+.pokemon {
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow around cards */
+    transition: transform 0.2s; /* Animation for hover effect */
+}
+
+.pokemon:hover {
+    transform: translateY(-5px); /* Lift card on hover */
+}

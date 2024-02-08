@@ -16,7 +16,6 @@ image: /assets/img/webdevfun/version-control-with-git-the-whimsical-world-of-web
 tags: ['Git Version Control', 'commit', 'branch', 'remote', 'init']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2022-02-28-the-ultimate-web-dev-toolkit-unleashing-your-inner-code-wizard.md
   - webdevfun/_posts/2022-03-28-navigating-the-deeper-waters-of-git-advanced-commands-unveiled.md
   - webdevfun/_posts/2022-04-11-the-basics-of-web-hosting-and-domain-names.md
 sitemap: false

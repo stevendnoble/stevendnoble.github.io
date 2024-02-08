@@ -199,14 +199,12 @@ Bootstrap does a lot of the heavy lifting, but to give our pizza page its unique
 </html>
 ~~~
 
-See how different our pizza-themed website looks on mobile and desktop devices with just some bootstrap classes added!
+See how different our pizza-themed website looks on mobile and desktop devices with just some bootstrap classes added! To see it on mobile, click the link and adjust the screen size.
 
-{:style="text-align:center;"}
-![bootstrap_pizza.html mobile version](/assets/img/webdevfun/pizza/bootstrap-pizza-mobile.png){: width="400" loading="lazy"}
-
-![bootstrap_pizza.html desktop version](/assets/img/webdevfun/pizza/bootstrap-pizza-desktop.png){: width="800" loading="lazy"}
+![Bootstrap Pizza Website](/assets/img/webdevfun/pizza/bootstrap.png){:lead loading="lazy"}
 
 [See it live!](/webdevfun/pizza/bootstrap)
+{:.figcaption}
 
 <details>
 <summary>Click here to see the css styles used.</summary>

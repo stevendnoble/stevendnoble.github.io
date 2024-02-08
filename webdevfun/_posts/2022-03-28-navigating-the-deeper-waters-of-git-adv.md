@@ -11,11 +11,10 @@ description: >
   the art of efficient project management and collaboration. It's a call to arms (or codes)
   for developers looking to harness the full potential of Git in their quest for coding
   excellence, ensuring their projects are not just managed, but truly mastered.
-# image: /assets/img/webdevfun/navigating-the-deeper-waters-of-git-advanced-commands-unveiled.jpg
+image: /assets/img/webdevfun/navigating-the-deeper-waters-of-git-advanced-commands-unveiled.jpg
 tags: ['Advanced Git Commands', 'reflog', 'rebase', 'cherry-pick', 'bisect', 'stash', 'tag', 'submodule']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2022-02-28-the-ultimate-web-dev-toolkit-unleashing-your-inner-code-wizard.md
   - webdevfun/_posts/2022-03-14-version-control-with-git-the-whimsical-world-of-web-development-wizardry.md
   - webdevfun/_posts/2022-04-11-the-basics-of-web-hosting-and-domain-names.md
 sitemap: false

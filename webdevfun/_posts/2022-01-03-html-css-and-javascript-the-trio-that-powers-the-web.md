@@ -188,9 +188,10 @@ Similar to adding the styles.css file to the <head> as described earlier, you wi
 
 Save all three files in the same directory, and you should be able to open it in your browser. If you are seeing any errors, your HTML file should look like this:
 
-![bootstrap_pizza.html desktop version](/assets/img/webdevfun/pizza/pizza.png){: width="800" loading="lazy"}
+![Pizza Website](/assets/img/webdevfun/pizza/pizza.png){:lead loading="lazy"}
 
 [See it live!](/webdevfun/pizza/basics)
+{:.figcaption}
 
 <details>
 <summary>Click here to view the hidden html</summary>

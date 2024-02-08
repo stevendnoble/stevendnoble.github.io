@@ -12,11 +12,10 @@ description: >
   ensuring they make informed decisions that reflect their needs and aspirations. Whether
   you're a business owner, a blogger, or an online enthusiast, this post lights the path to
   establishing a robust, scalable, and identifiable presence on the internet.
-# image: /assets/img/webdevfun/the-basics-of-web-hosting-and-domain-names.jpg
+image: /assets/img/webdevfun/the-basics-of-web-hosting-and-domain-names.jpg
 tags: ['Web Hosting', 'Domain Names', 'Domain Registration', 'Content Management Systems', 'WordPress']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2022-02-28-the-ultimate-web-dev-toolkit-unleashing-your-inner-code-wizard.md
   - webdevfun/_posts/2022-03-14-version-control-with-git-the-whimsical-world-of-web-development-wizardry.md
   - webdevfun/_posts/2022-03-28-navigating-the-deeper-waters-of-git-advanced-commands-unveiled.md
 sitemap: false

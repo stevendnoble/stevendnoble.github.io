@@ -214,17 +214,12 @@ body {
 </div>
 </details>
 
-Here is how our page looks at mobile, tablet, and desktop sizes:
+Here is how our page looks. Click on the link and adjust the screen sizes to see it on mobile, tablet, and desktop sizes:
 
-{:style="text-align:center;"}
-![media_query_pizza.html mobile version](/assets/img/webdevfun/pizza/media-query-pizza-mobile.png){: width="400" loading="lazy"}
-
-{:style="text-align:center;"}
-![media_query_pizza.html tablet version](/assets/img/webdevfun/pizza/media-query-pizza-tablet.png){: width="600" loading="lazy"}
-
-![media_query_pizza.html desktop version](/assets/img/webdevfun/pizza/media-query-pizza-desktop.png){: width="800" loading="lazy"}
+![Media Query Pizza Website](/assets/img/webdevfun/pizza/media-query.png){:lead loading="lazy"}
 
 [See it live!](/webdevfun/pizza/media-queries)
+{:.figcaption}
 
 ## Flipping the Pizza: Handling Different Orientations
 

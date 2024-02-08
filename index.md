@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: welcome
+title: Hey There! 👋
+cover: true
 ---
-
-Hey There! 👋
 
 I'm a tech enthusiast with a knack for simplifying the complex - especially in the fintech world. Currently, I'm weaving my coding magic at Upstart, using AI and data science to change the game in the credit industry. It's an adventure I've been on for the past four years, alongside a team that's as gung-ho about making a difference as I am.
 

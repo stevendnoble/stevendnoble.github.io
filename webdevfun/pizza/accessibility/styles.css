@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fffbea; /* Light background to evoke a warm, pizza dough color */
+}
+
+.container {
+    padding: 20px;
+}
+
+.pizza-menu {
+    background: tomato;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.pizza-gallery {
+    display: block;
+}
+
+.pizza-gallery img {
+    width: 250px;
+    margin: 20px;
+    border-radius: 8px;
+    height: 250px;
+}

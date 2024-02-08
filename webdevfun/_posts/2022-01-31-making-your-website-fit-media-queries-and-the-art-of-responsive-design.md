@@ -12,13 +12,12 @@ description: >
   a seasoned chef in the kitchen of web development or just rolling out your dough, this
   post promises to pepper your skills with practical tips, ensuring your websites are as
   mouthwatering as your favorite pie.
-# image: /assets/img/webdevfun/making-your-website-fit-media-queries-and-the-art-of-responsive-design.jpg
+image: /assets/img/webdevfun/making-your-website-fit-media-queries-and-the-art-of-responsive-design.jpg
 tags: ['Responsive Web Design', 'Mobile-First', 'Flexible Grids', 'Media Queries', 'Screen Size Optimization']
 author: stevendnoble
 related_posts:
-    - webdevfun/_posts/2022-01-03-html-css-and-javascript-the-trio-that-powers-the-web.md
-    - webdevfun/_posts/2022-01-17-a-beginners-guide-to-responsive-web-design.md
     - webdevfun/_posts/2022-02-14-exploring-the-fundamentals-of-web-accessibility.md
+    - webdevfun/_posts/2022-01-17-a-beginners-guide-to-responsive-web-design.md
 sitemap: false
 ---
 
@@ -36,14 +35,14 @@ Media queries are the secret recipe behind responsive design. They're like the k
 To complement the playful and instructive content on using media queries for a responsive pizza-themed website, let's create an HTML file that integrates with the provided CSS styles. This HTML file will include a simple structure to demonstrate how the media queries adjust the layout and appearance for different device sizes, focusing on a pizza menu and a gallery of pizza images as examples.
 
 ~~~html
-<!-- file: "media_query_pizza.html" -->
+<!-- file: "index.html" -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Responsive Pizza Parlor</title>
-    <link rel="stylesheet" href="media_query_pizza_styles.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
@@ -80,12 +79,12 @@ This basic HTML structure includes:
 Please ensure you update the image sources to point to actual images you have access to, and adjust the CSS file name in the <link> tag if your stylesheet is named differently. This setup provides a simple yet effective demonstration of how responsive design can be applied to a thematic website using media queries.
 
 ~~~css
-/* file: "media_query_pizza_styles.css" */
+/* file: "styles.css" */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #fffbea; /* Light background to evoke a warm, pizza dough color */
+    background-color: wheat; /* Light background to evoke a warm, pizza dough color */
 }
 
 .container {
@@ -94,7 +93,7 @@ body {
 
 .pizza-menu {
     background: tomato;
-    color: wheat;
+    color: white;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
@@ -162,7 +161,7 @@ For our pizza website, we'll start simple:
 <div markdown="1">
 
 ~~~css
-/* file: "media_query_pizza.css" */
+/* file: "styles.css" */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -223,8 +222,9 @@ Here is how our page looks at mobile, tablet, and desktop sizes:
 {:style="text-align:center;"}
 ![media_query_pizza.html tablet version](/assets/img/webdevfun/pizza/media-query-pizza-tablet.png){: width="600" loading="lazy"}
 
-![media_query_pizza.html desktop version](/assets/img/webdevfun/pizza/media-query-pizza-desktop.png){: width="800" height="100" loading="lazy"}
+![media_query_pizza.html desktop version](/assets/img/webdevfun/pizza/media-query-pizza-desktop.png){: width="800" loading="lazy"}
 
+[See it live!](/webdevfun/pizza/media-queries)
 
 ## Flipping the Pizza: Handling Different Orientations
 

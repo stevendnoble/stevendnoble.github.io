@@ -1,0 +1,28 @@
+body {
+    background-color: wheat; /* Light grey background for a subtle effect */
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: tomato;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+section {
+    padding: 1rem;
+    background-color: papayawhip; /* Lighter background to make the text sections stand out */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adding a subtle shadow for depth */
+    border-radius: 8px; /* Rounded corners for a modern look */
+}
+
+.btn-primary, .btn-secondary {
+    margin-top: 1rem;
+}
+
+footer {
+    background-color: tomato;
+    color: white;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}

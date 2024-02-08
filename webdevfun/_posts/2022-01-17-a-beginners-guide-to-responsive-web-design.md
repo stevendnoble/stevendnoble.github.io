@@ -13,13 +13,12 @@ description: >
   devices, ensuring a top-notch user experience. Whether you're a budding web developer or
   just curious about how websites adapt to your screen, this post is your ticket to
   understanding the magic behind responsive web design.
-# image: /assets/img/webdevfun/a-beginners-guide-to-responsive-web-design.jpg
+image: /assets/img/webdevfun/a-beginners-guide-to-responsive-web-design.jpg
 tags: ['Responsive Web Design', 'Mobile-First', 'Flexible Grids', 'Media Queries', 'Screen Size Optimization']
 author: stevendnoble
 related_posts:
-    - webdevfun/_posts/2022-01-03-html-css-and-javascript-the-trio-that-powers-the-web.md
-    - webdevfun/_posts/2022-01-31-making-your-website-fit-media-queries-and-the-art-of-responsive-design.md
     - webdevfun/_posts/2022-02-14-exploring-the-fundamentals-of-web-accessibility.md
+    - webdevfun/_posts/2022-01-31-making-your-website-fit-media-queries-and-the-art-of-responsive-design.md
 sitemap: false
 ---
 
@@ -141,7 +140,7 @@ To add a cherry (tomato) on top, we introduced a couple of interactive buttons u
 Bootstrap does a lot of the heavy lifting, but to give our pizza page its unique flavor, we added custom styles in the <head>. These tweaks ensure our site not only responds to different devices but also retains its pizzeria charm across all views.
 
 ~~~html
-<!-- file: "bootstrap_pizza.html" -->
+<!-- file: "index.html" -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -150,7 +149,7 @@ Bootstrap does a lot of the heavy lifting, but to give our pizza page its unique
     <title>The Pizza Chronicles</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="bootstrap_pizza_styles.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
@@ -205,14 +204,16 @@ See how different our pizza-themed website looks on mobile and desktop devices w
 {:style="text-align:center;"}
 ![bootstrap_pizza.html mobile version](/assets/img/webdevfun/pizza/bootstrap-pizza-mobile.png){: width="400" loading="lazy"}
 
-![bootstrap_pizza.html desktop version](/assets/img/webdevfun/pizza/bootstrap-pizza-desktop.png){: width="800" height="100" loading="lazy"}
+![bootstrap_pizza.html desktop version](/assets/img/webdevfun/pizza/bootstrap-pizza-desktop.png){: width="800" loading="lazy"}
+
+[See it live!](/webdevfun/pizza/bootstrap)
 
 <details>
 <summary>Click here to see the css styles used.</summary>
 <div markdown="1">
 
 ~~~css
-/* file: "bootstrap_pizza_styles.css" */
+/* file: "styles.css" */
 body {
     background-color: wheat; /* Light grey background for a subtle effect */
     font-family: 'Arial', sans-serif;

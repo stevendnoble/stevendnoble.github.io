@@ -12,7 +12,7 @@ description: >
   ensuring your digital creations withstand the test of time and collaboration. So grab your
   wand and prepare to cast your projects into the future with the spellbinding sorcery of
   Git!
-# image: /assets/img/webdevfun/version-control-with-git-the-whimsical-world-of-web-development-wizardry.jpg
+image: /assets/img/webdevfun/version-control-with-git-the-whimsical-world-of-web-development-wizardry.jpg
 tags: ['Git Version Control', 'commit', 'branch', 'remote', 'init']
 author: stevendnoble
 related_posts:

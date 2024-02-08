@@ -12,7 +12,7 @@ description: >
   the perfect pizza, this post invites readers to consider inclusivity as a key ingredient in
   their web development recipe, making the digital world a place where everyone can enjoy
   their slice of the web.
-# image: /assets/img/webdevfun/exploring-the-fundamentals-of-web-accessibility.jpg
+image: /assets/img/webdevfun/exploring-the-fundamentals-of-web-accessibility.jpg
 tags: ['Web Accessibility', 'WCAG Guidelines', 'Inclusive Design', 'Assistive Technology', 'Screen Readers', 'Alt Text', 'SEO', 'ARIA (Accessible Rich Internet Applications)', 'Usability']
 author: stevendnoble
 related_posts:
@@ -67,7 +67,7 @@ Implementing web accessibility can seem daunting, but like spreading cheese on a
 To enhance the pizza-themed HTML page with web accessibility features, we'll implement several key improvements. These changes aim to ensure the page is more accessible to users with disabilities, including those who rely on screen readers or keyboard navigation. Below is an updated version of the pizza HTML page incorporating these accessibility features:
 
 ~~~html
-<!-- file: "accessible_pizza.html" -->
+<!-- file: "index.html" -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -75,6 +75,7 @@ To enhance the pizza-themed HTML page with web accessibility features, we'll imp
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Accessible Pizza Chronicles</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
@@ -82,7 +83,7 @@ To enhance the pizza-themed HTML page with web accessibility features, we'll imp
             <h1 tabindex="0">Welcome to The Accessible Pizza Chronicles</h1>
         </header>
         <main>
-            <section aria-labelledby="menu-heading">
+            <section aria-labelledby="menu-heading" class="pizza-menu">
                 <h2 id="menu-heading" tabindex="0">Our Delicious Pizza Menu</h2>
                 <p tabindex="0">Explore our mouth-watering pizza options, perfect for any taste and size. From the classic Margherita to our adventurous Hawaiian surprise, there's a slice for everyone!</p>
                 <button type="button" class="btn btn-primary" onclick="alert('This is a non-functional demo button.');">Suggest a Topping</button>
@@ -90,9 +91,11 @@ To enhance the pizza-themed HTML page with web accessibility features, we'll imp
             </section>
             <section aria-labelledby="gallery-heading">
                 <h2 id="gallery-heading" tabindex="0">Pizza Gallery</h2>
-                <img src="margherita.jpg" alt="A delicious Margherita pizza" tabindex="0">
-                <img src="pepperoni.jpg" alt="A spicy Pepperoni pizza" tabindex="0">
-                <img src="vegetarian.jpg" alt="A fresh Vegetarian pizza loaded with vegetables" tabindex="0">
+                <div class="pizza-gallery">
+                    <img src="margherita.jpg" alt="A delicious Margherita pizza" tabindex="0">
+                    <img src="pepperoni.jpg" alt="A spicy Pepperoni pizza" tabindex="0">
+                    <img src="vegetarian.jpg" alt="A fresh Vegetarian pizza loaded with vegetables" tabindex="0">
+                </div>
             </section>
         </main>
         <footer tabindex="0">
@@ -105,6 +108,8 @@ To enhance the pizza-themed HTML page with web accessibility features, we'll imp
 </body>
 </html>
 ~~~
+
+[See it live!](/webdevfun/pizza/accessibility)
 
 ## Key Accessibility Enhancements:
 

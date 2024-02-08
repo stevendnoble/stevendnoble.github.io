@@ -17,9 +17,8 @@ image: /assets/img/webdevfun/html-css-and-javascript-the-trio-that-powers-the-we
 tags: ['Web Development Basics', 'HTML Introduction', 'CSS Styling', 'JavaScript Functionality', 'Building Websites']
 author: stevendnoble
 related_posts:
-    - webdevfun/_posts/2022-01-17-a-beginners-guide-to-responsive-web-design.md
     - webdevfun/_posts/2022-01-31-making-your-website-fit-media-queries-and-the-art-of-responsive-design.md
-    - webdevfun/_posts/2022-02-14-exploring-the-fundamentals-of-web-accessibility.md
+    - webdevfun/_posts/2022-01-17-a-beginners-guide-to-responsive-web-design.md
 sitemap: false
 ---
 
@@ -189,7 +188,9 @@ Similar to adding the styles.css file to the <head> as described earlier, you wi
 
 Save all three files in the same directory, and you should be able to open it in your browser. If you are seeing any errors, your HTML file should look like this:
 
-![bootstrap_pizza.html desktop version](/assets/img/webdevfun/pizza/pizza.png){: width="800" height="100" loading="lazy"}
+![bootstrap_pizza.html desktop version](/assets/img/webdevfun/pizza/pizza.png){: width="800" loading="lazy"}
+
+[See it live!](/webdevfun/pizza/basics)
 
 <details>
 <summary>Click here to view the hidden html</summary>

@@ -178,7 +178,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 This setup assumes you're fetching the first 12 Pokémon from the PokéAPI for demonstration purposes. The code above is structured to be relatively simple but functional, offering a great starting point for further exploration and customization.
 
+![Handlebars Templating Pokédex Website Screenshot](/assets/img/webdevfun/pokemon/dynamic-pokedex.png){:lead loading="lazy"}
+
 [See it live!](/webdevfun/pokemon/handlebars)
+{:.figcaption}
 
 Remember, for production use, it's important to handle API rate limits and potential errors more robustly, ensuring a smooth user experience.
 

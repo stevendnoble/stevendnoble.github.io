@@ -18,6 +18,10 @@ related_posts:
   - webdevfun/_posts/2022-05-09-catching-data-with-poke-balls-dynamic-content-with-html-templating-and-the-pokeapi.md
 sitemap: false
 ---
+
+* this unordered seed list will be replaced by the toc
+{:toc}
+
 Embark on a thrilling journey into the digital world of Pokémon, where aspiring web developers and Pokémon enthusiasts alike can unite their passions by building their very own Pokédex. Leveraging the vast database of the PokéAPI and the dynamic capabilities of JavaScript, this project offers an engaging way to explore web development while diving deep into the Pokémon universe. Let's set off on this coding adventure to create an interactive Pokédex that brings your favorite Pokémon to life right on your web page.
 
 ## The Quest Begins: Understanding the PokéAPI

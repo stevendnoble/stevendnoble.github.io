@@ -14,8 +14,8 @@ image: /assets/img/webdevfun/harnessing-state-and-props-in-react-with-functional
 tags: ['React', 'React state management', 'Component design patterns', 'Flexbox in React', 'PokeAPI']
 author: stevendnoble
 related_posts:
+  - webdevfun/_posts/2022-06-06-setting-up-your-first-react-app-a-pokemon-adventure.md
   - webdevfun/_posts/2022-05-23-project-showcase-build-your-own-pokedex-with-javascript-and-the-pokeapi.md
-  - webdevfun/_posts/2022-05-09-catching-data-with-poke-balls-dynamic-content-with-html-templating-and-the-pokeapi.md
 sitemap: false
 ---
 

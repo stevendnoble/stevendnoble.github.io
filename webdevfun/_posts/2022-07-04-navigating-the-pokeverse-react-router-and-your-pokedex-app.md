@@ -50,7 +50,6 @@ In App.js, we set the foundation of our Pokéverse by defining these routes usin
 
 ~~~jsx
 // file: "src/App/App.js"
-import { createContext, useState, useContext, Fragment } from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { ErrorPage } from "../ErrorPage/ErrorPage";
 import { Home } from "../Home/Home";
@@ -262,6 +261,7 @@ export function PokemonDetailsWithProvider({ pokemon }) {
 import { useState, useContext, useEffect } from "react";
 import { PokedexContext, PokedexProvider } from "../Pokedex/PokedexProvider";
 import { Button } from "../Button/Button";
+import { capitalizeFirstLetter } from "../../utils/stringUtils";
 import styles from "./Pokedex.module.css";
 
 export function Pokedex() {
@@ -274,7 +274,7 @@ export function Pokedex() {
         {capturedPokemon.map((pokemon) => (
           <div key={pokemon.name} className={styles.pokemonCard}>
             <img src={pokemon.sprites.front_default} alt={pokemon.name} />
-            <h3>{pokemon.name.toUpperCase()}</h3>
+            <h3>{capitalizeFirstLetter(pokemon.name)}</h3>
             <Button
               onClick={() => release(pokemon)}
               className={styles.releaseBtn}

@@ -20,6 +20,7 @@ related_posts:
     - webdevfun/_posts/2022-01-31-making-your-website-fit-media-queries-and-the-art-of-responsive-design.md
     - webdevfun/_posts/2022-01-17-a-beginners-guide-to-responsive-web-design.md
 sitemap: false
+hide_description: true
 ---
 
 * this unordered seed list will be replaced by the toc

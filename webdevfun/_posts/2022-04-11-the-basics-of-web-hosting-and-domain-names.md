@@ -19,6 +19,7 @@ related_posts:
   - webdevfun/_posts/2022-03-14-version-control-with-git-the-whimsical-world-of-web-development-wizardry.md
   - webdevfun/_posts/2022-03-28-navigating-the-deeper-waters-of-git-advanced-commands-unveiled.md
 sitemap: false
+hide_description: true
 ---
 
 * this unordered seed list will be replaced by the toc

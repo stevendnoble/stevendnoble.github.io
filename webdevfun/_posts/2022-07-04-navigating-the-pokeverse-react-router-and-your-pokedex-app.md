@@ -19,6 +19,7 @@ related_posts:
   - webdevfun/_posts/2022-06-20-harnessing-state-and-props-in-react-with-functional-components-a-pokemon-adventure.md
   - webdevfun/_posts/2022-06-06-setting-up-your-first-react-app-a-pokemon-adventure.md
 sitemap: false
+hide_description: true
 ---
 
 * this unordered seed list will be replaced by the toc

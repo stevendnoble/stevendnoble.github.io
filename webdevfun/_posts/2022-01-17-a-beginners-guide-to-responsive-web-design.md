@@ -20,6 +20,7 @@ related_posts:
     - webdevfun/_posts/2022-02-14-exploring-the-fundamentals-of-web-accessibility.md
     - webdevfun/_posts/2022-01-31-making-your-website-fit-media-queries-and-the-art-of-responsive-design.md
 sitemap: false
+hide_description: true
 ---
 
 * this unordered seed list will be replaced by the toc

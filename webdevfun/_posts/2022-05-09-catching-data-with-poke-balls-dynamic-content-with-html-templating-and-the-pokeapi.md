@@ -17,6 +17,7 @@ related_posts:
   - webdevfun/_posts/2022-04-25-rest-apis-unleashing-the-power-of-poke-balls-in-the-digital-realm.md
   - webdevfun/_posts/2022-05-23-project-showcase-build-your-own-pokedex-with-javascript-and-the-pokeapi.md
 sitemap: false
+hide_description: true
 ---
 
 * this unordered seed list will be replaced by the toc

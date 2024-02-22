@@ -141,7 +141,7 @@ Create a new file named `init-db.js` in your project directory and add the follo
 ~~~js
 // file: "init-db.js"
 const sqlite3 = require('sqlite3').verbose();
-const db = new sqlite3.Database('./myDragDatabase.db', sqlite3.OPEN_READWRITE | sqlite3.OPEN_CREATE, (err) => {
+const db = new sqlite3.Database('./drag_database.db', sqlite3.OPEN_READWRITE | sqlite3.OPEN_CREATE, (err) => {
   if (err) {
     console.error('Error opening database', err);
     return;
@@ -171,19 +171,19 @@ const db = new sqlite3.Database('./myDragDatabase.db', sqlite3.OPEN_READWRITE | 
   });
 
   // Create the drag queens table
-  db.run(`CREATE TABLE IF NOT EXISTS dragQueens (
+  db.run(`CREATE TABLE IF NOT EXISTS drag_queens (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     name TEXT NOT NULL,
-    ageDuringSeason INTEGER NOT NULL,
+    age_during_season INTEGER NOT NULL,
     hometown TEXT NOT NULL,
     placement INTEGER NOT NULL,
-    seasonId INTEGER NOT NULL,
-    FOREIGN KEY (seasonId) REFERENCES seasons(id)
+    season_id INTEGER NOT NULL,
+    FOREIGN KEY (season_id) REFERENCES seasons(id)
   )`, (err) => {
     if (err) {
-      console.log('Error creating dragQueens table', err);
+      console.log('Error creating drag_queens table', err);
     } else {
-      console.log('DragQueens table created or already exists.');
+      console.log('Drag_queens table created or already exists.');
 
       // Insert drag queens from Season 1
       const queens = [
@@ -198,7 +198,7 @@ const db = new sqlite3.Database('./myDragDatabase.db', sqlite3.OPEN_READWRITE | 
         ['Victoria "Porkchop" Parker', 39, 'Raleigh, North Carolina', 9, 1]
       ];
 
-      const insert = db.prepare(`INSERT INTO dragQueens (name, ageDuringSeason, hometown, placement, seasonId) VALUES (?, ?, ?, ?, ?)`);
+      const insert = db.prepare(`INSERT INTO drag_queens (name, age_during_season, hometown, placement, season_id) VALUES (?, ?, ?, ?, ?)`);
       queens.forEach(queen => {
         insert.run(queen, function(err) {
           if (err) {
@@ -216,10 +216,10 @@ const db = new sqlite3.Database('./myDragDatabase.db', sqlite3.OPEN_READWRITE | 
 
 This script does the following:
 
-* Opens or creates a SQLite database named `myDragDatabase.db`.
-* Creates two tables: `seasons` for storing seasons of the show, and `dragQueens` for storing information about the drag queens, linking each queen to their respective season through a foreign key.
+* Opens or creates a SQLite database named `drag_database.db`.
+* Creates two tables: `seasons` for storing seasons of the show, and `drag_queens` for storing information about the drag queens, linking each queen to their respective season through a foreign key.
 * Inserts data for Season 1 into the `seasons` table.
-* Inserts data for the drag queens from Season 1 into the `dragQueens` table.
+* Inserts data for the drag queens from Season 1 into the `drag_queens` table.
 
 Run this script with Node to set up your database and table:
 
@@ -240,7 +240,7 @@ const sqlite3 = require('sqlite3').verbose();
 const app = express();
 const port = 3000;
 
-const db = new sqlite3.Database('./myDragDatabase.db', (err) => {
+const db = new sqlite3.Database('./drag_database.db', (err) => {
   if (err) {
     console.error('Error opening database', err);
   } else {
@@ -253,9 +253,9 @@ app.get('/', (req, res) => {
   res.send('Welcome to the main stage of my fabulous Express server!');
 });
 
-app.get('/dragQueens', (req, res) => {
+app.get('/drag_queens', (req, res) => {
   db.serialize(() => {
-    db.all(`SELECT * FROM dragQueens`, [], (err, rows) => {
+    db.all(`SELECT * FROM drag_queens`, [], (err, rows) => {
       if (err) {
         res.status(500).send(err.message);
         return;

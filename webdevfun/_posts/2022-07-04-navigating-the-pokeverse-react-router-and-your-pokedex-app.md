@@ -200,9 +200,10 @@ const useCapturedPokemen = () => {
 
 export const PokedexProvider = ({ children }) => {
   const { capture, release, capturedPokemon } = useCapturedPokemen();
+  const contextValue = { capture, release, capturedPokemon };
 
   return (
-    <PokedexContext.Provider value={{ capture, release, capturedPokemon }}>
+    <PokedexContext.Provider value={contextValue}>
       {children}
     </PokedexContext.Provider>
   );

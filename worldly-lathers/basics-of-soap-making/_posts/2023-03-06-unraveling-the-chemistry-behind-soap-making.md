@@ -16,6 +16,9 @@ description: >
 image: /assets/img/worldly-lathers/unraveling-the-chemistry-behind-soap-making.jpg
 tags: ['Saponification', 'Handmade Soap', 'Chemical Reactions', 'Natural Ingredients']
 author: worldlylathers
+related_posts:
+  - worldly-lathers/basics-of-soap-making/_posts/2023-02-06-hot-process-vs-cold-process-soap-making.md
+  - worldly-lathers/basics-of-soap-making/_posts/2023-01-09-the-art-of-cold-process-soap-making-a-beginners-guide.md
 sitemap: false
 ---
 

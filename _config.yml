@@ -18,8 +18,8 @@ menu:
     url:               /webdevfun/
   - title:             Worldly Lathers
     url:               /worldly-lathers/
-  # - title:             Recipes
-  #   url:               /recipes/
+  - title:             Recipes
+    url:               /recipes/
   - title:             Resume
     url:               /software-engineer-resume/
   - title:             About

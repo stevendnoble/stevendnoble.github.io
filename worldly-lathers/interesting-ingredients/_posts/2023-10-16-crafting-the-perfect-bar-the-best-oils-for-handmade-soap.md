@@ -16,6 +16,9 @@ description: >
 image: /assets/img/worldly-lathers/crafting-the-perfect-bar-the-best-oils-for-handmade-soap.jpg
 tags: ['Handmade Soap Oils', 'Olive Oil', 'Coconut Oil', 'Palm Oil', 'Shea Butter', 'Castor Oil', 'Sweet Almond Oil', 'Avocado Oil', 'Jojoba Oil', 'Soap Hardness', 'Lather']
 author: worldlylathers
+related_posts:
+  - worldly-lathers/interesting-ingredients/_posts/2023-08-28-navigating-the-palm-oil-debate-a-closer-look-at-its-role-in-handmade-soaps.md
+  - worldly-lathers/interesting-ingredients/_posts/2023-06-26-awakening-your-skin-the-benefits-of-coffee-grounds-in-homemade-soap.md
 sitemap: false
 ---
 

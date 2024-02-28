@@ -16,6 +16,9 @@ description: >
 image: /assets/img/worldly-lathers/exploring-the-creamy-luxe-incorporating-goat-milk-into-handmade-soaps.jpg
 tags: ['Goat Milk Soap', 'Handmade Soaps', 'Moisturizing Soap', 'Lactic Acid Exfoliation', 'Sensitive Skin']
 author: worldlylathers
+related_posts:
+  - worldly-lathers/interesting-ingredients/_posts/2023-08-28-navigating-the-palm-oil-debate-a-closer-look-at-its-role-in-handmade-soaps.md
+  - worldly-lathers/interesting-ingredients/_posts/2023-10-16-crafting-the-perfect-bar-the-best-oils-for-handmade-soap.md
 sitemap: false
 ---
 

@@ -16,6 +16,9 @@ description: >
 image: /assets/img/worldly-lathers/awakening-your-skin-the-benefits-of-coffee-grounds-in-homemade-soap.jpg
 tags: ['Coffee Grounds', 'Handmade Soap', 'Exfoliating Soap', 'Skin Awakening Benefits', 'Rejuvenating Soap Bars']
 author: worldlylathers
+related_posts:
+  - worldly-lathers/interesting-ingredients/_posts/2023-05-01-the-dark-marvel-activated-charcoal-in-handmade-soaps.md
+  - worldly-lathers/interesting-ingredients/_posts/2023-08-28-navigating-the-palm-oil-debate-a-closer-look-at-its-role-in-handmade-soaps.md
 sitemap: false
 ---
 

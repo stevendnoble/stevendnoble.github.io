@@ -11,11 +11,11 @@ description: >
   principles of resilience, unity, and the power of collective action, symbolizing the
   ongoing struggle for rights and recognition within the LGBTQ+ community.
 image: /assets/img/webdevfun/building-brickbybrick-advocacy-foundations-and-empowerment.jpg
-tags: ['Ruby on Rails', 'LGBTQ+ Advocacy', 'Devise', 'User Authentication', 'Stonewall Riots', 'Activism Platform']
+tags: ['Ruby on Rails', 'BrickByBrick Advocacy', 'LGBTQ+ Advocacy', 'Devise', 'User Authentication', 'Stonewall Riots', 'Activism Platform']
 author: stevendnoble
 related_posts:
   - webdevfun/_posts/2022-09-12-glam-up-your-drag-queen-database-app-refactoring-for-elegance-and-efficiency.md
-  - webdevfun/_posts/2022-08-29-spotlight-on-crud-managing-your-drag-queen-database-with-elegance.md
+  - webdevfun/_posts/2022-09-26-ensuring-flawless-performances-unit-testing-your-drag-queen-database.md
 sitemap: false
 hide_description: true
 ---

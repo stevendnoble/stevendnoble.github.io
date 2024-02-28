@@ -16,6 +16,9 @@ description: >
 image: /assets/img/worldly-lathers/hot-process-vs-cold-process-soap-making.jpg
 tags: ['Cold Process', 'Hot Process', 'Soap Making', 'Soap Making for Beginners']
 author: worldlylathers
+related_posts:
+  - worldly-lathers/basics-of-soap-making/_posts/2023-01-09-the-art-of-cold-process-soap-making-a-beginners-guide.md
+  - worldly-lathers/basics-of-soap-making/_posts/2023-03-06-unraveling-the-chemistry-behind-soap-making.md
 sitemap: false
 ---
 

@@ -16,6 +16,9 @@ description: >
 image: /assets/img/worldly-lathers/navigating-the-palm-oil-debate-a-closer-look-at-its-role-in-handmade-soaps.jpg
 tags: ['Palm Oil', 'Palm Oil Debate', 'Sustainable Palm Oil', 'Eco-Friendly Soap Making', 'Environmental Impact']
 author: worldlylathers
+related_posts:
+  - worldly-lathers/interesting-ingredients/_posts/2023-05-01-the-dark-marvel-activated-charcoal-in-handmade-soaps.md
+  - worldly-lathers/interesting-ingredients/_posts/2023-06-26-awakening-your-skin-the-benefits-of-coffee-grounds-in-homemade-soap.md
 sitemap: false
 ---
 

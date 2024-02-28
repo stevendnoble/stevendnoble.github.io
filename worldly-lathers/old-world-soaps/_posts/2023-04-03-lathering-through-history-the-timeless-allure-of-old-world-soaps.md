@@ -15,6 +15,9 @@ description: >
 image: /assets/img/worldly-lathers/lathering-through-history-the-timeless-allure-of-old-world-soaps.jpg
 tags: ['Aleppo Soap', 'Castile Soap', 'Marseille Soap', 'Lanolin Soap', 'Bay Rum Soap']
 author: worldlylathers
+related_posts:
+  - worldly-lathers/old-world-soaps/_posts/2023-05-29-aleppo-soap-a-timeless-treasure-of-skincare.md
+  - worldly-lathers/old-world-soaps/_posts/2023-07-24-castile-soap-the-gentle-giant-of-natural-skincare.md
 sitemap: false
 ---
 

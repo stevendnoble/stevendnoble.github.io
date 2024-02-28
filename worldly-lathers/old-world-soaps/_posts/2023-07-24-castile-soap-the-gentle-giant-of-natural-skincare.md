@@ -15,6 +15,9 @@ description: >
 image: /assets/img/worldly-lathers/castile-soap-the-gentle-giant-of-natural-skincare.jpg
 tags: ['Castile Soap', 'Olive Oil Soap', 'Natural Skincare', 'Gentle Cleanser', 'Sensitive Skin', 'Environmentally Friendly']
 author: worldlylathers
+related_posts:
+  - worldly-lathers/old-world-soaps/_posts/2023-05-29-aleppo-soap-a-timeless-treasure-of-skincare.md
+  - worldly-lathers/old-world-soaps/_posts/2023-04-03-lathering-through-history-the-timeless-allure-of-old-world-soaps.md
 sitemap: false
 ---
 

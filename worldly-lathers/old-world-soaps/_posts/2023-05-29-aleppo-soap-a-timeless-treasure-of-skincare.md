@@ -14,6 +14,9 @@ description: >
 image: /assets/img/worldly-lathers/aleppo-soap-a-timeless-treasure-of-skincare.jpg
 tags: ['Aleppo Soap', 'Olive Oil Soap', 'Laurel Berry Oil', 'Syrian Soap', 'Sensitive Skin']
 author: worldlylathers
+related_posts:
+  - worldly-lathers/old-world-soaps/_posts/2023-07-24-castile-soap-the-gentle-giant-of-natural-skincare.md
+  - worldly-lathers/old-world-soaps/_posts/2023-04-03-lathering-through-history-the-timeless-allure-of-old-world-soaps.md
 sitemap: false
 ---
 

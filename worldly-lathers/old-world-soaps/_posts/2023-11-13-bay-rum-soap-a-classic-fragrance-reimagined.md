@@ -17,6 +17,9 @@ description: >
 image: /assets/img/worldly-lathers/bay-rum-soap-a-classic-fragrance-reimagined.jpg
 tags: ['Bay Rum Soap', 'Artisanal Soap Making', 'West Indian Bay Tree', 'Cold Process', 'Aromatic Soaps']
 author: worldlylathers
+related_posts:
+  - worldly-lathers/old-world-soaps/_posts/2023-09-18-marseille-soap-a-legacy-of-purity-and-tradition.md
+  - worldly-lathers/old-world-soaps/_posts/2023-07-24-castile-soap-the-gentle-giant-of-natural-skincare.md
 sitemap: false
 ---
 

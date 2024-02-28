@@ -17,6 +17,9 @@ description: >
 image: /assets/img/worldly-lathers/marseille-soap-a-legacy-of-purity-and-tradition.jpg
 tags: ['Marseille Soap', 'Savon de Marseille', 'French Heritage', 'Olive Oil Soap', 'Natural Skincare', 'Environmentally Friendly']
 author: worldlylathers
+related_posts:
+  - worldly-lathers/old-world-soaps/_posts/2023-05-29-aleppo-soap-a-timeless-treasure-of-skincare.md
+  - worldly-lathers/old-world-soaps/_posts/2023-07-24-castile-soap-the-gentle-giant-of-natural-skincare.md
 sitemap: false
 ---
 

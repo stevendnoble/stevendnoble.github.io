@@ -16,10 +16,8 @@ stevendnoble:
     mathematics and special education has given me a unique perspective and a strong foundation
     in problem-solving, communication, and mentorship. I am passionate about creating software
     that is accessible, user-friendly, and impactful.
-
   picture:
     path:            /assets/img/profile.jpg
-
   social:
     email:           stevendananoble@gmail.com
     github:          stevendnoble
@@ -44,9 +42,37 @@ worldlylathers:
     creativity.
   picture:
     path:            /assets/img/profile.jpg
-
   social:
     email:           stevendananoble@gmail.com
     github:          stevendnoble
     linkedin:        stevendnoble
     instagram:       barnsan
+
+stevendnoble-recipes:
+  name:              Steven Noble
+  email:             stevendananoble@gmail.com
+  about:             |
+    Welcome to my culinary corner, a place where the legacy of my grandmother Elsie's
+    farm-to-table cooking meets the practicality of my mother Linda's culinary approach,
+    creating a unique blend of tradition and pragmatism in my approach to food. Growing
+    up surrounded by the wholesome, home-grown ingredients from Elsie's farm, I learned
+    the value of fresh, healthy produce and the magic it brings to even the simplest of
+    dishes. My mother Linda's practical tastes in food taught me the importance of creating
+    nourishing, straightforward meals that are both comforting and easy to prepare. This
+    fusion of influences has ignited my love for Asian and Mediterranean cuisines, where
+    the emphasis on fresh, vibrant ingredients and the art of balancing flavors aligns with
+    my culinary ethos. Join me on this flavorful journey, where we'll explore recipes that
+    celebrate the best of both worlds: the wholesome goodness of farm-fresh cooking and
+    the exciting diversity of global cuisines.
+  picture:
+    path:            /assets/img/profile.jpg
+  social:
+    email:           stevendananoble@gmail.com
+    github:          stevendnoble
+    linkedin:        stevendnoble
+    instagram:       barnsan
+
+
+
+
+

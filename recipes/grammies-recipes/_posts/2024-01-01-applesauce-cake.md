@@ -9,7 +9,7 @@ description: >
   bathed in warm lighting, this cake invites you to enjoy a slice of comfort, perfect for
   any season.
 image: /assets/img/recipes/applesauce-cake.jpg
-tags: ['Grammy', 'Elsie', 'Applesauce Cake', 'Dessert']
+tags: ['Grammie', 'Elsie', 'Applesauce Cake', 'Dessert']
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-whoopie-pies.md

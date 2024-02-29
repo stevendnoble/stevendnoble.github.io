@@ -8,7 +8,7 @@ description: >
   this vibrant preserve into your meals. Join us on a culinary adventure that celebrates the
   simplicity and versatility of this delightful, ruby-red treat.
 image: /assets/img/recipes/pickled-beets.jpg
-tags: ['Grammy', 'Elsie', 'Pickled Beets', 'Pickling']
+tags: ['Grammie', 'Elsie', 'Pickled Beets', 'Pickling']
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-harvard-beets.md

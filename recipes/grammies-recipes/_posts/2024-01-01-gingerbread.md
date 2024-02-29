@@ -11,7 +11,7 @@ description: >
   dessert but also a heartwarming baking experience that celebrates the essence of home and
   holiday cheer.
 image: /assets/img/recipes/classic-gingerbread.jpg
-tags: ['Grammy', 'Elsie', 'Classic Gingerbread', 'Dessert']
+tags: ['Grammie', 'Elsie', 'Classic Gingerbread', 'Dessert']
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-whoopie-pies.md
@@ -174,11 +174,7 @@ Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyze
     "carbohydrateContent": "85.4g",
     "fiberContent": "7.7g",
     "sugarContent": "7.3g",
-    "proteinContent": "8.6g",
-    "vitaminDContent": "2mcg",
-    "calciumContent": "1606mg",
-    "ironContent": "8mg",
-    "potassiumContent": "3788mg"
+    "proteinContent": "8.6g"
   }
 }
 </script>

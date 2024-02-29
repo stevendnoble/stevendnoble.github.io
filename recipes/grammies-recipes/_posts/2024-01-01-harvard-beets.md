@@ -8,7 +8,7 @@ description: >
   sauced beetroot delight that's sure to impress. Join us in celebrating the beauty of beets
   through this classic dish, a testament to the simple pleasures of home cooking.
 image: /assets/img/recipes/harvard-beets.jpg
-tags: ['Grammy', 'Elsie', 'Harvard Beets', 'Savory Dishes']
+tags: ['Grammie', 'Elsie', 'Harvard Beets', 'Savory Dishes']
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-pickled-beets.md

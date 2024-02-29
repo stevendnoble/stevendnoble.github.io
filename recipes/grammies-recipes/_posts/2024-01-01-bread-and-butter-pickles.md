@@ -8,7 +8,7 @@ description: >
   is irresistible. Perfect for picnics, barbecues, or as a flavorful snack, these homemade
   pickles are sure to become a cherished addition to your culinary repertoire.
 image: /assets/img/recipes/bread-and-butter-pickles.jpg
-tags: ['Grammy', 'Elsie', 'Bread and Butter Pickles', 'Pickling']
+tags: ['Grammie', 'Elsie', 'Bread and Butter Pickles', 'Pickling']
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-harvard-beets.md

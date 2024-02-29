@@ -10,7 +10,7 @@ description: >
   culminating in the creation of these irresistible, bite-sized treats that are perfect
   for sharing.
 image: /assets/img/recipes/whoopie-pies.jpg
-tags: ['Grammy', 'Elsie', 'Whoopie Pie', 'Dessert']
+tags: ['Grammie', 'Elsie', 'Whoopie Pie', 'Dessert']
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-squash-pie.md
@@ -183,9 +183,7 @@ Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyze
     "saturatedFatContent": "5.4g",
     "servingSize": "1 pie",
     "sodiumContent": "2630mg",
-    "sugarContent": "18.9g",
-    "transFatContent": "0g",
-    "unsaturatedFatContent": "7.8g",
+    "sugarContent": "18.9g"
   }
 }
 </script>

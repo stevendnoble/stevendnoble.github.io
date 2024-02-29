@@ -9,7 +9,7 @@ description: >
   of fall baking, this pie is a perfect celebration of the harvest, promising to become a
   cherished addition to your autumnal traditions.
 image: /assets/img/recipes/squash-pie.jpg
-tags: ['Grammy', 'Elsie', 'Squash Pie', 'Dessert']
+tags: ['Grammie', 'Elsie', 'Squash Pie', 'Dessert']
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-pear-pie.md
@@ -152,11 +152,7 @@ Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyze
     "carbohydrateContent": "42.3g",
     "fiberContent": "9.9g",
     "sugarContent": "21.2g",
-    "proteinContent": "8.3g",
-    "vitaminDContent": "9mcg",
-    "calciumContent": "269mg",
-    "ironContent": "3mg",
-    "potassiumContent": "204mg"
+    "proteinContent": "8.3g"
   }
 }
 </script>

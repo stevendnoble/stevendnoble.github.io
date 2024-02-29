@@ -9,7 +9,7 @@ description: >
   alike. Each quart jar captures the essence of seasonal transitions, offering a gourmet
   twist on classic flavors that can be enjoyed throughout the year.
 image: /assets/img/recipes/tomato-mincemeat.jpg
-tags: ['Grammy', 'Elsie', 'Tomato Mincemeat', 'Dessert']
+tags: ['Grammie', 'Elsie', 'Tomato Mincemeat', 'Dessert']
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-mincemeat-pie.md
@@ -141,11 +141,7 @@ Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyze
     "carbohydrateContent": "110.8g",
     "fiberContent": "12.7g",
     "sugarContent": "90.3g",
-    "proteinContent": "3.7g",
-    "vitaminDContent": "0mcg",
-    "calciumContent": "128mg",
-    "ironContent": "3mg",
-    "potassiumContent": "732mg"
+    "proteinContent": "3.7g"
   }
 }
 </script>

@@ -10,7 +10,7 @@ description: >
   rhubarb, this pie brings a homemade, comforting essence to your dessert repertoire, making
   each slice a testament to the joy of baking with fresh ingredients.
 image: /assets/img/recipes/rhubarb-pie.jpg
-tags: ['Grammy', 'Elsie', 'Rhubarb Pie', 'Strawberry Rhubarb Pie', 'Dessert']
+tags: ['Grammie', 'Elsie', 'Rhubarb Pie', 'Strawberry Rhubarb Pie', 'Dessert']
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-peach-pie.md
@@ -147,11 +147,7 @@ Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyze
     "carbohydrateContent": "45.8g",
     "fiberContent": "3.2g",
     "sugarContent": "18.9g",
-    "proteinContent": "6g",
-    "vitaminDContent": "11mcg",
-    "calciumContent": "132mg",
-    "ironContent": "2mg",
-    "potassiumContent": "437mg"
+    "proteinContent": "6g"
   }
 }
 </script>

@@ -9,7 +9,7 @@ description: >
   classic ingredients. Ideal for sharing, these delightful squares bring a touch of warmth
   and nostalgia to any gathering, making them a festive favorite.
 image: /assets/img/recipes/mincemeat-squares.jpg
-tags: ['Grammy', 'Elsie', 'Mincemeat Squares', 'Dessert']
+tags: ['Grammie', 'Elsie', 'Mincemeat Squares', 'Dessert']
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-mincemeat-pie.md
@@ -137,11 +137,7 @@ Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyze
     "carbohydrateContent": "51.8g",
     "fiberContent": "2.8g",
     "sugarContent": "6.3g",
-    "proteinContent": "5.8g",
-    "vitaminDContent": "0mcg",
-    "calciumContent": "20mg",
-    "ironContent": "2mg",
-    "potassiumContent": "108mg"
+    "proteinContent": "5.8g"
   }
 }
 </script>

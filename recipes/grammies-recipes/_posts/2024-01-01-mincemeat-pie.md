@@ -9,7 +9,7 @@ description: >
   mincemeat pie is not just a treat; it's a storied tradition that brings warmth and joy to
   your table.
 image: /assets/img/recipes/mincemeat-pie.jpg
-tags: ['Grammy', 'Elsie', 'Mincemeat Pie', 'Dessert']
+tags: ['Grammie', 'Elsie', 'Mincemeat Pie', 'Dessert']
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-mincemeat-squares.md

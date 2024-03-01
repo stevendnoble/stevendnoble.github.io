@@ -12,8 +12,8 @@ image: /assets/img/recipes/baby-back-ribs.jpg
 tags: ['Mom', 'Linda', 'Baby Back Ribs', 'Comfort Food']
 author: stevendnoble-recipes
 related_posts:
-  - recipes/moms-recipes/_posts/2024-01-01-baked-mac-and-cheese.md
-  - recipes/moms-recipes/_posts/2024-01-01-country-apple-fritter-bread.md
+  - recipes/moms-recipes/_posts/2024-01-01-dump-and-bake-chicken-parmesan.md
+  - recipes/moms-recipes/_posts/2024-01-01-salmon-loaf.md
 sitemap: false
 hide_description: true
 ---

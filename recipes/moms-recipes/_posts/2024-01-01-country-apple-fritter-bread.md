@@ -12,8 +12,8 @@ image: /assets/img/recipes/country-apple-fritter-bread.jpg
 tags: ['Mom', 'Linda', 'Country Apple Fritter Bread', 'Comfort Food']
 author: stevendnoble-recipes
 related_posts:
-  - recipes/moms-recipes/_posts/2024-01-01-baked-mac-and-cheese.md
-  - recipes/moms-recipes/_posts/2024-01-01-baby-back-ribs.md
+  - recipes/moms-recipes/_posts/2024-01-01-cheesy-salmon-casserole.md
+  - recipes/moms-recipes/_posts/2024-01-01-classic-homestyle-meatloaf.md
 sitemap: false
 hide_description: true
 ---

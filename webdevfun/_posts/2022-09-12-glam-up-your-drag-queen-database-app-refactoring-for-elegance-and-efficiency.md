@@ -16,7 +16,7 @@ image: /assets/img/webdevfun/glam-up-your-drag-queen-database-app-refactoring-fo
 tags: ['Node.js', 'Express Router', 'Bootstrap Navbar', 'CRUD', 'Knex', 'Nodemon', 'Drag Queens']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2022-08-15-behind-the-curtains-setting-up-your-stage-with-a-nodejs-server.md
+  - webdevfun/_posts/2022-09-26-ensuring-flawless-performances-unit-testing-your-drag-queen-database.md
   - webdevfun/_posts/2022-08-29-spotlight-on-crud-managing-your-drag-queen-database-with-elegance.md
 sitemap: false
 hide_description: true

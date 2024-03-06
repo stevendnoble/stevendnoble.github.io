@@ -17,8 +17,8 @@ image: /assets/img/webdevfun/a-beginners-guide-to-responsive-web-design.jpg
 tags: ['Responsive Web Design', 'Mobile-First', 'Flexible Grids', 'Media Queries', 'Screen Size Optimization']
 author: stevendnoble
 related_posts:
-    - webdevfun/_posts/2022-02-14-exploring-the-fundamentals-of-web-accessibility.md
     - webdevfun/_posts/2022-01-31-making-your-website-fit-media-queries-and-the-art-of-responsive-design.md
+    - webdevfun/_posts/2022-01-03-html-css-and-javascript-the-trio-that-powers-the-web.md
 sitemap: false
 hide_description: true
 ---

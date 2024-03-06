@@ -20,6 +20,6 @@ no_groups: true
 sitemap: false
 ---
 
-# Mom's Recipes: From the kitchen of Linda Travers
+# Mom's Recipes: From the Kitchen of Linda Travers
 
 Please refer to our [Community Guidelines](/community-guidelines)

@@ -16,8 +16,8 @@ image: /assets/img/webdevfun/navigating-the-pokeverse-react-router-and-your-poke
 tags: ['React', 'React Router', 'React Context API', 'State Management', 'Local Storage', 'PokeAPI']
 author: stevendnoble
 related_posts:
+  - webdevfun/_posts/2022-07-18-pokemon-training-for-developers-mastering-lifecycle-methods-and-hooks-in-react.md
   - webdevfun/_posts/2022-06-20-harnessing-state-and-props-in-react-with-functional-components-a-pokemon-adventure.md
-  - webdevfun/_posts/2022-06-06-setting-up-your-first-react-app-a-pokemon-adventure.md
 sitemap: false
 hide_description: true
 ---

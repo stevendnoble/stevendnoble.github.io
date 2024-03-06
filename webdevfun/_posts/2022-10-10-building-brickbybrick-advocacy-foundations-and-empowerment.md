@@ -14,7 +14,7 @@ image: /assets/img/webdevfun/building-brickbybrick-advocacy-foundations-and-empo
 tags: ['Ruby on Rails', 'BrickByBrick Advocacy', 'LGBTQ+ Advocacy', 'Devise', 'User Authentication', 'Stonewall Riots', 'Activism Platform']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2022-09-12-glam-up-your-drag-queen-database-app-refactoring-for-elegance-and-efficiency.md
+  - webdevfun/_posts/2022-10-24-building-brickbybrick-advocacy-legislators-database-and-highlighting-issues.md
   - webdevfun/_posts/2022-09-26-ensuring-flawless-performances-unit-testing-your-drag-queen-database.md
 sitemap: false
 hide_description: true

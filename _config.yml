@@ -35,7 +35,7 @@ legal:
   - title:             CHANGELOG
     url:               /CHANGELOG/
 copyright:             © 2024. All rights reserved.
-permalink:             /:categories/:year-:month-:day-:title/
+permalink:             /:categories/:title/
 
 # Pagination configuration (used by the `blog` layout)
 # paginate:              10

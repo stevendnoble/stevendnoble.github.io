@@ -13,8 +13,8 @@ image: /assets/img/webdevfun/crafting-a-react-pokedex-with-zustand-a-simpler-sta
 tags: ['Zustand', 'State Management', 'React', 'React Hooks', 'Lightweight State Management', 'PokeAPI']
 author: stevendnoble
 related_posts:
+  - webdevfun/_posts/2022-08-15-behind-the-curtains-setting-up-your-stage-with-a-nodejs-server.md
   - webdevfun/_posts/2022-07-18-pokemon-training-for-developers-mastering-lifecycle-methods-and-hooks-in-react.md
-  - webdevfun/_posts/2022-07-04-navigating-the-pokeverse-react-router-and-your-pokedex-app.md
 sitemap: false
 hide_description: true
 ---

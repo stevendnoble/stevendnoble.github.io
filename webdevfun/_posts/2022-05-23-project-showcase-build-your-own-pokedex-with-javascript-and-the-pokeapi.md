@@ -14,7 +14,7 @@ image: /assets/img/webdevfun/project-showcase-build-your-own-pokedex-with-javasc
 tags: ['HTML Templating', 'API Endpoints', 'Pokémon API', 'HTTP Requests', 'Handlebars.js', 'API Calls']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2022-04-25-rest-apis-unleashing-the-power-of-poke-balls-in-the-digital-realm.md
+  - webdevfun/_posts/2022-06-06-setting-up-your-first-react-app-a-pokemon-adventure.md
   - webdevfun/_posts/2022-05-09-catching-data-with-poke-balls-dynamic-content-with-html-templating-and-the-pokeapi.md
 sitemap: false
 hide_description: true

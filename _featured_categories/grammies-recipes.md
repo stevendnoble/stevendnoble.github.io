@@ -26,6 +26,6 @@ no_groups: true
 sitemap: false
 ---
 
-# Grammie's Recipes: From the kitchen of Elsie Damren
+# Grammie's Recipes: From the Kitchen of Elsie Damren
 
 Please refer to our [Community Guidelines](/community-guidelines)

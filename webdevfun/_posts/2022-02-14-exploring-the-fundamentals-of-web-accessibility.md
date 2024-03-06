@@ -16,8 +16,7 @@ image: /assets/img/webdevfun/exploring-the-fundamentals-of-web-accessibility.jpg
 tags: ['Web Accessibility', 'WCAG Guidelines', 'Inclusive Design', 'Assistive Technology', 'Screen Readers', 'Alt Text', 'SEO', 'ARIA (Accessible Rich Internet Applications)', 'Usability']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2022-01-03-html-css-and-javascript-the-trio-that-powers-the-web.md
-  - webdevfun/_posts/2022-01-17-a-beginners-guide-to-responsive-web-design.md
+  - webdevfun/_posts/2022-02-28-the-ultimate-web-dev-toolkit-unleashing-your-inner-code-wizard.md
   - webdevfun/_posts/2022-01-31-making-your-website-fit-media-queries-and-the-art-of-responsive-design.md
 sitemap: false
 hide_description: true

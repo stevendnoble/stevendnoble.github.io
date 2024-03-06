@@ -15,7 +15,7 @@ image: /assets/img/webdevfun/pokemon-training-for-developers-mastering-lifecycle
 tags: ['React', 'Functional Components', 'Class vs. Functional Components', 'React Hooks', 'React Lifecycle Methods', 'PokeAPI']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2022-06-20-harnessing-state-and-props-in-react-with-functional-components-a-pokemon-adventure.md
+  - webdevfun/_posts/2022-08-01-crafting-a-react-pokedex-with-zustand-a-simpler-state-management-saga.md
   - webdevfun/_posts/2022-07-04-navigating-the-pokeverse-react-router-and-your-pokedex-app.md
 sitemap: false
 hide_description: true

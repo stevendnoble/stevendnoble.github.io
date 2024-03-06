@@ -15,8 +15,8 @@ image: /assets/img/webdevfun/spotlight-on-crud-managing-your-drag-queen-database
 tags: ['Node.js', 'Express', 'SQLite3', 'CRUD', 'Knex', 'Drag Queens']
 author: stevendnoble
 related_posts:
+  - webdevfun/_posts/2022-09-12-glam-up-your-drag-queen-database-app-refactoring-for-elegance-and-efficiency.md
   - webdevfun/_posts/2022-08-15-behind-the-curtains-setting-up-your-stage-with-a-nodejs-server.md
-  - webdevfun/_posts/2022-08-01-crafting-a-react-pokedex-with-zustand-a-simpler-state-management-saga.md
 sitemap: false
 hide_description: true
 ---

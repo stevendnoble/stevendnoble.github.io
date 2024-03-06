@@ -17,8 +17,8 @@ image: /assets/img/webdevfun/html-css-and-javascript-the-trio-that-powers-the-we
 tags: ['Web Development Basics', 'HTML Introduction', 'CSS Styling', 'JavaScript Functionality', 'Building Websites']
 author: stevendnoble
 related_posts:
-    - webdevfun/_posts/2022-01-31-making-your-website-fit-media-queries-and-the-art-of-responsive-design.md
     - webdevfun/_posts/2022-01-17-a-beginners-guide-to-responsive-web-design.md
+    - webdevfun/_posts/2022-01-31-making-your-website-fit-media-queries-and-the-art-of-responsive-design.md
 sitemap: false
 hide_description: true
 ---

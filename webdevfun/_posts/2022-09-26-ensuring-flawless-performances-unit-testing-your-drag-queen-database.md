@@ -16,8 +16,8 @@ image: /assets/img/webdevfun/ensuring-flawless-performances-unit-testing-your-dr
 tags: ['Node.js', 'Express Router', 'Bootstrap Navbar', 'CRUD', 'Knex', 'Nodemon', 'Drag Queens']
 author: stevendnoble
 related_posts:
+  - webdevfun/_posts/2022-10-10-building-brickbybrick-advocacy-foundations-and-empowerment.md
   - webdevfun/_posts/2022-09-12-glam-up-your-drag-queen-database-app-refactoring-for-elegance-and-efficiency.md
-  - webdevfun/_posts/2022-08-29-spotlight-on-crud-managing-your-drag-queen-database-with-elegance.md
 sitemap: false
 hide_description: true
 ---

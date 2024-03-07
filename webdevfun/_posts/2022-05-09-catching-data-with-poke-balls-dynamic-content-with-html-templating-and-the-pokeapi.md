@@ -93,32 +93,32 @@ Below is a full example that demonstrates how to put everything together.
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Pokédex</title>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link href="styles.css" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/handlebars/dist/handlebars.min.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dynamic Pokédex</title>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <link href="styles.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/handlebars/dist/handlebars.min.js"></script>
 </head>
 <body>
-    <div class="container mt-5">
-        <h1 class="text-center mb-5">Dynamic Pokédex</h1>
-        <div id="pokemon-container" class="row"></div>
-    </div>
+  <div class="container mt-5">
+    <h1 class="text-center mb-5">Dynamic Pokédex</h1>
+    <div id="pokemon-container" class="row"></div>
+  </div>
 
-    <script id="pokemon-template" type="text/x-handlebars-template">
-        <div class="col-lg-3 col-md-4 col-6 mb-4">
-            <div class="pokemon card">
-                <img class="card-img-top pokemon-image" src="{{sprites.front_default}}" alt="Image of {{name}}">
-                <div class="card-body">
-                    <h5 class="card-title pokemon-name">{{name}}</h5>
-                    <p class="card-text pokemon-type">{{types}}</p>
-                </div>
-            </div>
+  <script id="pokemon-template" type="text/x-handlebars-template">
+    <div class="col-lg-3 col-md-4 col-6 mb-4">
+      <div class="pokemon card">
+        <img class="card-img-top pokemon-image" src="{{sprites.front_default}}" alt="Image of {{name}}">
+        <div class="card-body">
+          <h5 class="card-title pokemon-name">{{name}}</h5>
+          <p class="card-text pokemon-type">{{types}}</p>
         </div>
-    </script>
+      </div>
+    </div>
+  </script>
 
-    <script src="script.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
 ~~~
@@ -126,25 +126,25 @@ Below is a full example that demonstrates how to put everything together.
 ~~~css
 /* file: "style.css" */
 body {
-    background-color: #f0f0f0; /* Light gray background */
+  background-color: #f0f0f0; /* Light gray background */
 }
 
 .pokemon-image {
-    width: 100%;
-    height: auto;
-    max-width: 200px;
-    margin: 0 auto;
-    object-fit: contain;
+  width: 100%;
+  height: auto;
+  max-width: 200px;
+  margin: 0 auto;
+  object-fit: contain;
 }
 
 .pokemon {
-    background-color: #ffffff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow around cards */
-    transition: transform 0.2s; /* Animation for hover effect */
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow around cards */
+  transition: transform 0.2s; /* Animation for hover effect */
 }
 
 .pokemon:hover {
-    transform: translateY(-5px); /* Lift card on hover */
+  transform: translateY(-5px); /* Lift card on hover */
 }
 ~~~
 
@@ -153,27 +153,27 @@ This script fetches a list of Pokémon from the PokéAPI, uses Handlebars to tem
 ~~~javascript
 // file: "script.js"
 document.addEventListener('DOMContentLoaded', function() {
-    const apiUrl = 'https://pokeapi.co/api/v2/pokemon?limit=12'; // Fetches first 12 Pokémon
-    fetch(apiUrl)
-        .then(response => response.json())
-        .then(data => {
-            const source = document.getElementById('pokemon-template').innerHTML;
-            const template = Handlebars.compile(source);
-            data.results.forEach(pokemon => {
-                fetch(pokemon.url) // Fetch individual Pokémon details
-                    .then(response => response.json())
-                    .then(details => {
-                        const context = {
-                            name: details.name,
-                            sprites: details.sprites,
-                            types: details.types.map(type => type.type.name).join(', ')
-                        };
-                        const html = template(context);
-                        document.getElementById('pokemon-container').innerHTML += html;
-                    });
-            });
-        })
-        .catch(error => console.error('Error:', error));
+  const apiUrl = 'https://pokeapi.co/api/v2/pokemon?limit=12'; // Fetches first 12 Pokémon
+  fetch(apiUrl)
+    .then(response => response.json())
+    .then(data => {
+      const source = document.getElementById('pokemon-template').innerHTML;
+      const template = Handlebars.compile(source);
+      data.results.forEach(pokemon => {
+        fetch(pokemon.url) // Fetch individual Pokémon details
+          .then(response => response.json())
+          .then(details => {
+            const context = {
+              name: details.name,
+              sprites: details.sprites,
+              types: details.types.map(type => type.type.name).join(', ')
+            };
+            const html = template(context);
+            document.getElementById('pokemon-container').innerHTML += html;
+          });
+      });
+    })
+    .catch(error => console.error('Error:', error));
 });
 ~~~
 

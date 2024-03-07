@@ -40,32 +40,32 @@ To complement the playful and instructive content on using media queries for a r
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Responsive Pizza Parlor</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Responsive Pizza Parlor</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>Welcome to The Responsive Pizza Parlor</h1>
-        </header>
-        <section class="pizza-menu">
-            <h2>Our Delicious Pizza Menu</h2>
-            <p>Explore our mouth-watering pizza options, perfect for any taste and size. From the classic Margherita to our adventurous Hawaiian surprise, there's a slice for everyone!</p>
-        </section>
-        <section class="pizza-gallery-section">
-            <h2>Pizza Gallery</h2>
-            <div class="pizza-gallery">
-                <img src="pizza1.jpg" alt="Classic Margherita">
-                <img src="pizza2.jpg" alt="Pepperoni Pizza">
-                <img src="pizza3.jpg" alt="Vegetarian Pizza">
-            </div>
-        </section>
-        <footer>
-            <p>Made with love by The Responsive Pizza Parlor Team</p>
-        </footer>
-    </div>
+  <div class="container">
+    <header>
+      <h1>Welcome to The Responsive Pizza Parlor</h1>
+    </header>
+    <section class="pizza-menu">
+      <h2>Our Delicious Pizza Menu</h2>
+      <p>Explore our mouth-watering pizza options, perfect for any taste and size. From the classic Margherita to our adventurous Hawaiian surprise, there's a slice for everyone!</p>
+    </section>
+    <section class="pizza-gallery-section">
+      <h2>Pizza Gallery</h2>
+      <div class="pizza-gallery">
+        <img src="pizza1.jpg" alt="Classic Margherita">
+        <img src="pizza2.jpg" alt="Pepperoni Pizza">
+        <img src="pizza3.jpg" alt="Vegetarian Pizza">
+      </div>
+    </section>
+    <footer>
+      <p>Made with love by The Responsive Pizza Parlor Team</p>
+    </footer>
+  </div>
 </body>
 </html>
 ~~~
@@ -82,33 +82,33 @@ Please ensure you update the image sources to point to actual images you have ac
 ~~~css
 /* file: "styles.css" */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: wheat; /* Light background to evoke a warm, pizza dough color */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: wheat; /* Light background to evoke a warm, pizza dough color */
 }
 
 .container {
-    padding: 20px;
+  padding: 20px;
 }
 
 .pizza-menu {
-    background: tomato;
-    color: white;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 8px;
+  background: tomato;
+  color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
 }
 
 .pizza-gallery {
-    display: block;
+  display: block;
 }
 
 .pizza-gallery img {
-    width: 250px;
-    margin: 20px;
-    border-radius: 8px;
-    height: 250px;
+  width: 250px;
+  margin: 20px;
+  border-radius: 8px;
+  height: 250px;
 }
 ~~~
 
@@ -116,9 +116,9 @@ Here’s a taste of how you can use media queries to ensure your pizza website l
 
 ~~~css
 @media only screen and (max-width: 600px) {
-    .pizza-menu {
-        font-size: 12px;
-    }
+  .pizza-menu {
+    font-size: 12px;
+  }
 }
 ~~~
 
@@ -133,27 +133,27 @@ For our pizza website, we'll start simple:
 ~~~css
 /* Base toppings for mobile devices */
 .pizza-menu {
-    background: tomato;
-    color: mozzarella;
+  background: tomato;
+  color: mozzarella;
 }
 
 /* Extra toppings for tablets */
 @media screen and (min-width: 768px) {
-    .pizza-menu {
-        background: tomato;
-        color: mozzarella;
-        border-left: 5px solid basil;
-    }
+  .pizza-menu {
+    background: tomato;
+    color: mozzarella;
+    border-left: 5px solid basil;
+  }
 }
 
 /* Full feast for desktops */
 @media screen and (min-width: 1024px) {
-    .pizza-menu {
-        background: tomato;
-        color: mozzarella;
-        border-left: 10px solid basil;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    }
+  .pizza-menu {
+    background: tomato;
+    color: mozzarella;
+    border-left: 10px solid basil;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
 }
 ~~~
 
@@ -164,52 +164,52 @@ For our pizza website, we'll start simple:
 ~~~css
 /* file: "styles.css" */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #fffbea; /* Light background to evoke a warm, pizza dough color */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fffbea; /* Light background to evoke a warm, pizza dough color */
 }
 
 .container {
-    padding: 20px;
+  padding: 20px;
 }
 
 .pizza-menu {
-    background: tomato;
-    color: wheat;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 8px;
+  background: tomato;
+  color: wheat;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
 }
 
 .pizza-gallery {
-    display: block;
+  display: block;
 }
 
 .pizza-gallery img {
-    width: 250px;
-    margin: 20px;
-    border-radius: 8px;
-    height: 250px;
+  width: 250px;
+  margin: 20px;
+  border-radius: 8px;
+  height: 250px;
 }
 
 @media only screen and (max-width: 600px) {
-    .pizza-menu {
-        font-size: 12px;
-    }
+  .pizza-menu {
+    font-size: 12px;
+  }
 }
 
 @media screen and (min-width: 768px) {
-    .pizza-menu {
-        border-left: 5px solid olive;
-    }
+  .pizza-menu {
+    border-left: 5px solid olive;
+  }
 }
 
 @media screen and (min-width: 1024px) {
-    .pizza-menu {
-        border-left: 10px solid olive;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    }
+  .pizza-menu {
+    border-left: 10px solid olive;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
 }
 ~~~
 </div>
@@ -228,9 +228,9 @@ Just like how a pizza can be rotated but still tastes amazing, media queries hel
 
 ~~~css
 @media screen and (orientation: landscape) {
-    .pizza-gallery {
-        display: flex;
-    }
+  .pizza-gallery {
+    display: flex;
+  }
 }
 ~~~
 

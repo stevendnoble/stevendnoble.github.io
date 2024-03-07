@@ -71,40 +71,40 @@ To enhance the pizza-themed HTML page with web accessibility features, we'll imp
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Accessible Pizza Chronicles</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Accessible Pizza Chronicles</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1 tabindex="0">Welcome to The Accessible Pizza Chronicles</h1>
-        </header>
-        <main>
-            <section aria-labelledby="menu-heading" class="pizza-menu">
-                <h2 id="menu-heading" tabindex="0">Our Delicious Pizza Menu</h2>
-                <p tabindex="0">Explore our mouth-watering pizza options, perfect for any taste and size. From the classic Margherita to our adventurous Hawaiian surprise, there's a slice for everyone!</p>
-                <button type="button" class="btn btn-primary" onclick="alert('This is a non-functional demo button.');">Suggest a Topping</button>
-                <small class="form-text text-muted">(This button is for demonstration purposes and is non-functional.)</small>
-            </section>
-            <section aria-labelledby="gallery-heading">
-                <h2 id="gallery-heading" tabindex="0">Pizza Gallery</h2>
-                <div class="pizza-gallery">
-                    <img src="margherita.jpg" alt="A delicious Margherita pizza" tabindex="0">
-                    <img src="pepperoni.jpg" alt="A spicy Pepperoni pizza" tabindex="0">
-                    <img src="vegetarian.jpg" alt="A fresh Vegetarian pizza loaded with vegetables" tabindex="0">
-                </div>
-            </section>
-        </main>
-        <footer tabindex="0">
-            <p>Made with love by The Accessible Pizza Chronicles Team</p>
-        </footer>
-    </div>
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <div class="container">
+      <header>
+        <h1 tabindex="0">Welcome to The Accessible Pizza Chronicles</h1>
+      </header>
+      <main>
+        <section aria-labelledby="menu-heading" class="pizza-menu">
+          <h2 id="menu-heading" tabindex="0">Our Delicious Pizza Menu</h2>
+          <p tabindex="0">Explore our mouth-watering pizza options, perfect for any taste and size. From the classic Margherita to our adventurous Hawaiian surprise, there's a slice for everyone!</p>
+          <button type="button" class="btn btn-primary" onclick="alert('This is a non-functional demo button.');">Suggest a Topping</button>
+          <small class="form-text text-muted">(This button is for demonstration purposes and is non-functional.)</small>
+        </section>
+        <section aria-labelledby="gallery-heading">
+          <h2 id="gallery-heading" tabindex="0">Pizza Gallery</h2>
+          <div class="pizza-gallery">
+            <img src="margherita.jpg" alt="A delicious Margherita pizza" tabindex="0">
+            <img src="pepperoni.jpg" alt="A spicy Pepperoni pizza" tabindex="0">
+            <img src="vegetarian.jpg" alt="A fresh Vegetarian pizza loaded with vegetables" tabindex="0">
+          </div>
+        </section>
+      </main>
+      <footer tabindex="0">
+        <p>Made with love by The Accessible Pizza Chronicles Team</p>
+      </footer>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
 ~~~

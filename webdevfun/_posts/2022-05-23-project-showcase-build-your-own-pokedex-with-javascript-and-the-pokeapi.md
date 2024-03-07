@@ -44,55 +44,55 @@ Handlebars.js is a powerful templating engine that lets you build semantic templ
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Pokédex</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="styles.css">
-    <script src="https://cdn.jsdelivr.net/npm/handlebars/dist/handlebars.min.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Pokédex</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/handlebars/dist/handlebars.min.js"></script>
 </head>
 <body>
-    <div class="container mt-5">
-        <header class="mb-4">
-            <h1 class="text-center">Welcome to My Pokédex</h1>
-        </header>
-        <div class="row">
-            <div class="col-md-6 offset-md-3">
-                <div class="card search-card">
-                    <div class="card-body">
-                        <h5 class="card-title">Search for Pokémon</h5>
-                        <form id="pokemon-search-form" class="input-group mb-3">
-                            <input type="text" id="pokemon-search" class="form-control" placeholder="Enter Pokémon Name or ID">
-                            <div class="input-group-append">
-                                <button class="btn btn-secondary" type="submit" id="search-btn">Search</button>
-                            </div>
-                        </form>
-                        <div id="pokemon-display">
-                            <script id="pokemon-template" type="text/x-handlebars-template">
-                                <div class="card mt-4 mb-4">
-                                    <img src="{{image}}" class="card-img-top" alt="Image of {{name}}">
-                                    <div class="card-body">
-                                        <h5 class="card-title">{{name}}</h5>
-                                        <p class="card-text">{{types}}</p>
-                                        <button class="btn btn-info btn-block capture-btn" data-name="{{name}}" data-image="{{image}}" data-types="{{types}}">Capture</button>
-                                    </div>
-                                </div>
-                            </script>
-                        </div>
-                    </div>
+  <div class="container mt-5">
+    <header class="mb-4">
+      <h1 class="text-center">Welcome to My Pokédex</h1>
+    </header>
+    <div class="row">
+      <div class="col-md-6 offset-md-3">
+        <div class="card search-card">
+          <div class="card-body">
+            <h5 class="card-title">Search for Pokémon</h5>
+            <form id="pokemon-search-form" class="input-group mb-3">
+              <input type="text" id="pokemon-search" class="form-control" placeholder="Enter Pokémon Name or ID">
+              <div class="input-group-append">
+                <button class="btn btn-secondary" type="submit" id="search-btn">Search</button>
+              </div>
+            </form>
+            <div id="pokemon-display">
+              <script id="pokemon-template" type="text/x-handlebars-template">
+                <div class="card mt-4 mb-4">
+                  <img src="{{image}}" class="card-img-top" alt="Image of {{name}}">
+                  <div class="card-body">
+                    <h5 class="card-title">{{name}}</h5>
+                    <p class="card-text">{{types}}</p>
+                    <button class="btn btn-info btn-block capture-btn" data-name="{{name}}" data-image="{{image}}" data-types="{{types}}">Capture</button>
+                  </div>
                 </div>
+              </script>
             </div>
+          </div>
         </div>
+      </div>
     </div>
+  </div>
 
-    <footer class="text-center py-4 mt-5">
-        <p>Made with love by The Pokémon Chronicles Team</p>
-    </footer>
+  <footer class="text-center py-4 mt-5">
+    <p>Made with love by The Pokémon Chronicles Team</p>
+  </footer>
 
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <script src="script.js"></script>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
 ~~~
@@ -104,25 +104,25 @@ Add some basic styling to your style.css file. You'll want your Pokédex to be v
 ~~~css
 /* file: "styles.css" */
 body {
-    background-color: whitesmoke;
+  background-color: whitesmoke;
 }
 
 .search-card {
-    background-color: lightgray;
+  background-color: lightgray;
 }
 
 .container {
-    width: 80%;
-    margin: auto;
-    text-align: center;
+  width: 80%;
+  margin: auto;
+  text-align: center;
 }
 
 #pokemon-display {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 .card {
-    width: 100%;
+  width: 100%;
 }
 ~~~
 
@@ -135,21 +135,21 @@ In your script.js file, use the Fetch API to retrieve data from the PokéAPI bas
 const pokemonTemplate = document.getElementById('pokemon-template').innerHTML;
 
 document.getElementById('pokemon-search-form').addEventListener('submit', function(event) {
-    event.preventDefault(); // Prevent the form from submitting the traditional way
-    const pokemonName = document.getElementById('pokemon-search').value.toLowerCase();
-    fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`)
-        .then(response => response.json())
-        .then(data => {
-            const template = Handlebars.compile(pokemonTemplate);
-            const context = {
-                name: data.name,
-                image: data.sprites.front_default,
-                types: data.types.map(type => type.type.name).join(', ')
-            };
-            const html = template(context);
-            document.getElementById('pokemon-display').innerHTML = html;
-        })
-        .catch(error => console.error('Error:', error));
+  event.preventDefault(); // Prevent the form from submitting the traditional way
+  const pokemonName = document.getElementById('pokemon-search').value.toLowerCase();
+  fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`)
+    .then(response => response.json())
+    .then(data => {
+      const template = Handlebars.compile(pokemonTemplate);
+      const context = {
+        name: data.name,
+        image: data.sprites.front_default,
+        types: data.types.map(type => type.type.name).join(', ')
+      };
+      const html = template(context);
+      document.getElementById('pokemon-display').innerHTML = html;
+    })
+    .catch(error => console.error('Error:', error));
 });
 ~~~
 
@@ -162,28 +162,28 @@ Diving deeper into the realm of Pokémon and web development, let's extend the f
 ~~~javascript
 // file: "add to script.js"
 function capturePokemon(pokemon) {
-    let pokemonBox = JSON.parse(localStorage.getItem('pokemonBox')) || [];
+  let pokemonBox = JSON.parse(localStorage.getItem('pokemonBox')) || [];
 
-    const isPokemonCaptured = pokemonBox.some(storedPokemon => storedPokemon.name === pokemon.name);
+  const isPokemonCaptured = pokemonBox.some(storedPokemon => storedPokemon.name === pokemon.name);
 
-    if (!isPokemonCaptured) {
-        pokemonBox.push(pokemon);
-        localStorage.setItem('pokemonBox', JSON.stringify(pokemonBox));
-        alert(`${pokemon.name} was captured and added to your box!`);
-    } else {
-        alert(`${pokemon.name} is already in your box.`);
-    }
+  if (!isPokemonCaptured) {
+    pokemonBox.push(pokemon);
+    localStorage.setItem('pokemonBox', JSON.stringify(pokemonBox));
+    alert(`${pokemon.name} was captured and added to your box!`);
+  } else {
+    alert(`${pokemon.name} is already in your box.`);
+  }
 }
 
 document.addEventListener('click', function(e) {
-    if (e.target && e.target.className.includes('capture-btn')) {
-        const pokemon = {
-            name: e.target.getAttribute('data-name'),
-            image: e.target.getAttribute('data-image'),
-            types: e.target.getAttribute('data-types')
-        };
-        capturePokemon(pokemon);
-    }
+  if (e.target && e.target.className.includes('capture-btn')) {
+    const pokemon = {
+      name: e.target.getAttribute('data-name'),
+      image: e.target.getAttribute('data-image'),
+      types: e.target.getAttribute('data-types')
+    };
+    capturePokemon(pokemon);
+  }
 });
 ~~~
 
@@ -193,25 +193,25 @@ Now that the pokémon are stored in the box, let's allow users to view captured 
 ~~~html
 <!-- file: "add to index.html" -->
 <div class="col-md-7">
-    <div class="card box-card">
-        <div class="card-body">
-            <h5 class="card-title">My Box</h5>
-            <div id="pokemon-box" class="row">
-                <script id="captured-pokemon-template" type="text/x-handlebars-template">
-                    <div class="col-sm-6">
-                        <div class="captured-pokemon-card card mt-4 mb-4" data-name="{{name}}"">
-                            <img src="{{image}}" class="card-img-top" alt="Image of {{name}}">
-                            <div class="card-body">
-                                <h5 class="card-title">{{name}}</h5>
-                                <p class="card-text">{{types}}</p>
-                            </div>
-                        </div>
-                    </div>
-                </script>
+  <div class="card box-card">
+    <div class="card-body">
+      <h5 class="card-title">My Box</h5>
+      <div id="pokemon-box" class="row">
+        <script id="captured-pokemon-template" type="text/x-handlebars-template">
+          <div class="col-sm-6">
+            <div class="captured-pokemon-card card mt-4 mb-4" data-name="{{name}}"">
+              <img src="{{image}}" class="card-img-top" alt="Image of {{name}}">
+              <div class="card-body">
+                <h5 class="card-title">{{name}}</h5>
+                <p class="card-text">{{types}}</p>
+              </div>
             </div>
-            <button id="view-box-btn" class="btn btn-info mb-3">View My Pokémon Box</button>
-        </div>
+          </div>
+        </script>
+      </div>
+      <button id="view-box-btn" class="btn btn-info mb-3">View My Pokémon Box</button>
     </div>
+  </div>
 </div>
 ~~~
 
@@ -230,14 +230,14 @@ Then add the javascript to show the pokémon that are stored. Here are the steps
 const capturedPokemonTemplate = document.getElementById('captured-pokemon-template').innerHTML;
 
 document.getElementById('view-box-btn').addEventListener('click', function(e) {
-    const pokemonBox = JSON.parse(localStorage.getItem('pokemonBox')) || [];
-    const template = Handlebars.compile(capturedPokemonTemplate);
-    let boxHtml = '';
-    pokemonBox.forEach(pokemon => {
-        boxHtml += template(pokemon);
-    });
-    document.getElementById('pokemon-box').innerHTML = boxHtml;
-    event.target.textContent = "Update My Pokémon Box";
+  const pokemonBox = JSON.parse(localStorage.getItem('pokemonBox')) || [];
+  const template = Handlebars.compile(capturedPokemonTemplate);
+  let boxHtml = '';
+  pokemonBox.forEach(pokemon => {
+    boxHtml += template(pokemon);
+  });
+  document.getElementById('pokemon-box').innerHTML = boxHtml;
+  event.target.textContent = "Update My Pokémon Box";
 });
 ~~~
 
@@ -248,18 +248,17 @@ As you capture more and more pokémon, you will notice that the box does not eve
 ~~~html
 <!-- file: "add to index.html" -->
 <script id="captured-pokemon-template" type="text/x-handlebars-template">
-    <div class="col-sm-6">
-        <div class="card mt-4 mb-4" data-name="{{name}}"">
-            <img src="{{image}}" class="card-img-top" alt="Image of {{name}}">
-            <div class="card-body">
-                <h5 class="card-title">{{name}}</h5>
-                <p class="card-text">{{types}}</p>
-                <button class="btn btn-info btn-block release-btn" data-name="{{name}}">Release</button>
-            </div>
-        </div>
+  <div class="col-sm-6">
+    <div class="card mt-4 mb-4" data-name="{{name}}"">
+      <img src="{{image}}" class="card-img-top" alt="Image of {{name}}">
+      <div class="card-body">
+        <h5 class="card-title">{{name}}</h5>
+        <p class="card-text">{{types}}</p>
+        <button class="btn btn-info btn-block release-btn" data-name="{{name}}">Release</button>
+      </div>
     </div>
+  </div>
 </script>
-
 ~~~~
 
 Implement a function to handle the release of a Pokémon. This function should filter the Pokémon with the given name from the array stored in localStorage, save it back to localStorage, and then update the display to reflect this change.
@@ -267,17 +266,17 @@ Implement a function to handle the release of a Pokémon. This function should f
 ~~~javascript
 // file: "add to script.js"
 document.addEventListener('click', function(event) {
-    if (event.target && event.target.className.includes('release-btn')) {
-        const pokemonName = event.target.getAttribute('data-name');
-        releasePokemon(pokemonName);
-    }
+  if (event.target && event.target.className.includes('release-btn')) {
+    const pokemonName = event.target.getAttribute('data-name');
+    releasePokemon(pokemonName);
+  }
 });
 
 function releasePokemon(pokemonName) {
-    let pokemonBox = JSON.parse(localStorage.getItem('pokemonBox')) || [];
-    pokemonBox = pokemonBox.filter(pokemon => pokemon.name !== pokemonName);
-    localStorage.setItem('pokemonBox', JSON.stringify(pokemonBox));
-    document.querySelector(`.pokemon-card[data-name="${pokemonName}"]`).remove();
+  let pokemonBox = JSON.parse(localStorage.getItem('pokemonBox')) || [];
+  pokemonBox = pokemonBox.filter(pokemon => pokemon.name !== pokemonName);
+  localStorage.setItem('pokemonBox', JSON.stringify(pokemonBox));
+  document.querySelector(`.pokemon-card[data-name="${pokemonName}"]`).remove();
 }
 ~~~
 

@@ -118,12 +118,12 @@ With Bootstrap's ingredients at our fingertips, we redesigned our page layout us
 
 ~~~html
 <div class="row">
-    <div class="col-md-6">
-        <!-- Content about why pizza is the ultimate food -->
-    </div>
-    <div class="col-md-6">
-        <!-- Content about the art of pizza making -->
-    </div>
+  <div class="col-md-6">
+    <!-- Content about why pizza is the ultimate food -->
+  </div>
+  <div class="col-md-6">
+    <!-- Content about the art of pizza making -->
+  </div>
 </div>
 ~~~
 
@@ -145,57 +145,61 @@ Bootstrap does a lot of the heavy lifting, but to give our pizza page its unique
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Pizza Chronicles</title>
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Pizza Chronicles</title>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <header class="text-center my-4">
-            <h1>Welcome to The Pizza Chronicles</h1>
-        </header>
-        <main>
-            <div class="row">
-                <div class="col-md-6">
-                    <section class="mb-4">
-                        <h2>Why Pizza Is The Ultimate Food</h2>
-                        <p>
-                            Pizza is not just a meal; it's a lifestyle. Whether it's the thin crust with its audible crunch or the deep dish that feels like a warm hug, pizza encompasses a variety of textures and flavors that cater to every palate. Its versatility is unmatched, making it the ultimate crowd-pleaser at any gathering.
-                        </p>
-                        <p>
-                            The beauty of pizza lies in its simplicity. A basic dough topped with tomato sauce and cheese transforms into a canvas for creativity. From the classic Margherita to the adventurous pineapple topping, each pizza is a reflection of culinary artistry and personal taste. It's the food equivalent of a chameleon, constantly adapting and evolving with every slice.
-                        </p>
-                        <button type="button" class="btn btn-primary btn-block" id="toppingButton">Suggest a Topping</button>
-                    </section>
-                </div>
-                <div class="col-md-6">
-                    <section>
-                        <h2>The Art of Pizza Making</h2>
-                        <p>
-                            Making pizza is an art form that has been perfected over centuries. It begins with the dough, the foundation that requires just the right amount of kneading to achieve its iconic texture. The sauce, rich and tomatoey, is spread generously before sprinkling the cheese, which melts into a pool of gooey goodness.
-                        </p>
-                        <p>
-                            But the real magic happens in the oven, where high heat works its wonders, baking the pizza to perfection. The result? A symphony of flavors that dances on your taste buds, making each bite better than the last. Pizza isn't just food; it's a culinary masterpiece that brings people together, one slice at a time.
-                        </p>
-                        <button type="button" class="btn btn-secondary btn-block" id="placeButton">Suggest a Pizza Place</button>
-                        <small class="form-text text-muted text-center">This button is decorative and non-functional.</small>
-                    </section>
-                </div>
-            </div>
-        </main>
-        <footer class="text-center my-4">
-            <p>Created with love by The Pizza Chronicles Team</p>
-        </footer>
-    </div>
-    <script src="script.js"></script>
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <div class="container">
+    <header class="text-center my-4">
+      <h1>Welcome to The Pizza Chronicles</h1>
+    </header>
+    <main>
+      <div class="row">
+        <div class="col-md-6">
+          <section class="mb-4">
+            <h2>Why Pizza Is The Ultimate Food</h2>
+            <p>
+              Pizza is not just a meal; it's a lifestyle. Whether it's the thin crust with its audible crunch or the deep dish that feels like a warm hug, pizza encompasses a variety of textures and flavors that cater to every palate. Its versatility is unmatched, making it the ultimate crowd-pleaser at any gathering.
+            </p>
+            <p>
+              The beauty of pizza lies in its simplicity. A basic dough topped with tomato sauce and cheese transforms into a canvas for creativity. From the classic Margherita to the adventurous pineapple topping, each pizza is a reflection of culinary artistry and personal taste. It's the food equivalent of a chameleon, constantly adapting and evolving with every slice.
+            </p>
+            <button type="button" class="btn btn-primary btn-block" id="toppingButton">Suggest a Topping</button>
+          </section>
+        </div>
+        <div class="col-md-6">
+          <section>
+            <h2>The Art of Pizza Making</h2>
+            <p>
+              Making pizza is an art form that has been perfected over centuries. It begins with the dough, the foundation that requires just the right amount of kneading to achieve its iconic texture. The sauce, rich and tomatoey, is spread generously before sprinkling the cheese, which melts into a pool of gooey goodness.
+            </p>
+            <p>
+              But the real magic happens in the oven, where high heat works its wonders, baking the pizza to perfection. The result? A symphony of flavors that dances on your taste buds, making each bite better than the last. Pizza isn't just food; it's a culinary masterpiece that brings people together, one slice at a time.
+            </p>
+            <button type="button" class="btn btn-secondary btn-block" id="placeButton">
+              Suggest a Pizza Place
+            </button>
+            <small class="form-text text-muted text-center">
+              This button is decorative and non-functional.
+            </small>
+          </section>
+        </div>
+      </div>
+    </main>
+    <footer class="text-center my-4">
+      <p>Created with love by The Pizza Chronicles Team</p>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
 ~~~
@@ -214,32 +218,32 @@ See how different our pizza-themed website looks on mobile and desktop devices w
 ~~~css
 /* file: "styles.css" */
 body {
-    background-color: wheat; /* Light grey background for a subtle effect */
-    font-family: 'Arial', sans-serif;
+  background-color: wheat; /* Light grey background for a subtle effect */
+  font-family: 'Arial', sans-serif;
 }
 
 header {
-    background-color: tomato;
-    color: white;
-    margin-bottom: 2rem;
+  background-color: tomato;
+  color: white;
+  margin-bottom: 2rem;
 }
 
 section {
-    padding: 1rem;
-    background-color: papayawhip; /* Lighter background to make the text sections stand out */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adding a subtle shadow for depth */
-    border-radius: 8px; /* Rounded corners for a modern look */
+  padding: 1rem;
+  background-color: papayawhip; /* Lighter background to make the text sections stand out */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adding a subtle shadow for depth */
+  border-radius: 8px; /* Rounded corners for a modern look */
 }
 
 .btn-primary, .btn-secondary {
-    margin-top: 1rem;
+  margin-top: 1rem;
 }
 
 footer {
-    background-color: tomato;
-    color: white;
-    padding: 1rem 0;
-    margin-top: 2rem;
+  background-color: tomato;
+  color: white;
+  padding: 1rem 0;
+  margin-top: 2rem;
 }
 ~~~
 </div>

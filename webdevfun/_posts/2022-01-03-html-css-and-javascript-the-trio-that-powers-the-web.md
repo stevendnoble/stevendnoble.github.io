@@ -54,42 +54,42 @@ Here's a simple HTML snippet to create a basic page featuring our favorite dishâ
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Pizza Chronicles</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Pizza Chronicles</title>
 </head>
 <body>
-    <header>
-        <h1>Welcome to The Pizza Chronicles</h1>
-    </header>
-    <main>
-        <section>
-            <h2>Why Pizza Is The Ultimate Food</h2>
-            <p>
-                Pizza is not just a meal; it's a lifestyle. Whether it's the thin crust with its audible crunch or the deep dish that feels like a warm hug, pizza encompasses a variety of textures and flavors that cater to every palate. Its versatility is unmatched, making it the ultimate crowd-pleaser at any gathering.
-            </p>
-            <p>
-                The beauty of pizza lies in its simplicity. A basic dough topped with tomato sauce and cheese transforms into a canvas for creativity. From the classic Margherita to the adventurous pineapple topping, each pizza is a reflection of culinary artistry and personal taste. It's the food equivalent of a chameleon, constantly adapting and evolving with every slice.
-            </p>
-        </section>
-        <section>
-            <h2>The Art of Pizza Making</h2>
-            <p>
-                Making pizza is an art form that has been perfected over centuries. It begins with the dough, the foundation that requires just the right amount of kneading to achieve its iconic texture. The sauce, rich and tomatoey, is spread generously before sprinkling the cheese, which melts into a pool of gooey goodness.
-            </p>
-            <p>
-                But the real magic happens in the oven, where high heat works its wonders, baking the pizza to perfection. The result? A symphony of flavors that dances on your taste buds, making each bite better than the last. Pizza isn't just food; it's a culinary masterpiece that brings people together, one slice at a time.
-            </p>
-        </section>
-        <section id="pizzaToppingSection">
-            <h2>Need a Topping Suggestion?</h2>
-            <button id="toppingButton">Suggest a Topping</button>
-            <p id="toppingSuggestion"></p>
-        </section>
-    </main>
-    <footer>
-        <p>Created with love by The Pizza Chronicles Team</p>
-    </footer>
+  <header>
+    <h1>Welcome to The Pizza Chronicles</h1>
+  </header>
+  <main>
+    <section>
+      <h2>Why Pizza Is The Ultimate Food</h2>
+      <p>
+        Pizza is not just a meal; it's a lifestyle. Whether it's the thin crust with its audible crunch or the deep dish that feels like a warm hug, pizza encompasses a variety of textures and flavors that cater to every palate. Its versatility is unmatched, making it the ultimate crowd-pleaser at any gathering.
+      </p>
+      <p>
+        The beauty of pizza lies in its simplicity. A basic dough topped with tomato sauce and cheese transforms into a canvas for creativity. From the classic Margherita to the adventurous pineapple topping, each pizza is a reflection of culinary artistry and personal taste. It's the food equivalent of a chameleon, constantly adapting and evolving with every slice.
+      </p>
+    </section>
+    <section>
+      <h2>The Art of Pizza Making</h2>
+      <p>
+        Making pizza is an art form that has been perfected over centuries. It begins with the dough, the foundation that requires just the right amount of kneading to achieve its iconic texture. The sauce, rich and tomatoey, is spread generously before sprinkling the cheese, which melts into a pool of gooey goodness.
+      </p>
+      <p>
+        But the real magic happens in the oven, where high heat works its wonders, baking the pizza to perfection. The result? A symphony of flavors that dances on your taste buds, making each bite better than the last. Pizza isn't just food; it's a culinary masterpiece that brings people together, one slice at a time.
+      </p>
+    </section>
+    <section id="pizzaToppingSection">
+      <h2>Need a Topping Suggestion?</h2>
+      <button id="toppingButton">Suggest a Topping</button>
+      <p id="toppingSuggestion"></p>
+    </section>
+  </main>
+  <footer>
+    <p>Created with love by The Pizza Chronicles Team</p>
+  </footer>
 </body>
 </html>
 ~~~
@@ -103,52 +103,52 @@ Let's add some style to our pizza-themed HTML page with this snazzy CSS. Create 
 ~~~css
 /* file: "styles.css" */
 body {
-    font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: wheat;
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: wheat;
 }
 
 header {
-    background-color: tomato;
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
+  background-color: tomato;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
 }
 
 main {
-    padding: 20px;
-    max-width: 800px;
-    margin: auto;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
 }
 
 section {
-    margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 
 h1, h2 {
-    font-family: 'Georgia', serif;
+  font-family: 'Georgia', serif;
 }
 
 h1 {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 h2 {
-    color: tomato;
+  color: tomato;
 }
 
 p {
-    line-height: 1.6;
+  line-height: 1.6;
 }
 
 footer {
-    background-color: tomato;
-    text-align: center;
-    padding: 10px 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+  background-color: tomato;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 ~~~
 
@@ -161,24 +161,25 @@ Let's add a fun JavaScript snippet to your page that randomly suggests pizza top
 ~~~js
 // file: "script.js"
 // Add this script before the closing </body> tag in your HTML file
+function getRandomTopping() {
+  const toppings = [
+    'Pepperoni',
+    'Mushrooms',
+    'Onions',
+    'Sausage',
+    'Bacon',
+    'Extra cheese',
+    'Black olives',
+    'Green peppers',
+    'Pineapple',
+    'Spinach'
+  ];
 
-document.getElementById('toppingButton').addEventListener('click', function() {
-    const toppings = [
-        'Pepperoni',
-        'Mushrooms',
-        'Onions',
-        'Sausage',
-        'Bacon',
-        'Extra cheese',
-        'Black olives',
-        'Green peppers',
-        'Pineapple',
-        'Spinach'
-    ];
+  const randomTopping = toppings[Math.floor(Math.random() * toppings.length)];
+  document.getElementById('toppingSuggestion').innerText = `How about some ${randomTopping}?`;
+}
 
-    const randomTopping = toppings[Math.floor(Math.random() * toppings.length)];
-    document.getElementById('toppingSuggestion').innerText = `How about some ${randomTopping}?`;
-});
+document.getElementById('toppingButton').addEventListener('click', getRandomTopping);
 ~~~
 
 This JavaScript code listens for clicks on the "Suggest a Topping" button. When clicked, it randomly selects a pizza topping from the toppings array and displays the suggestion in the <p> element with the ID of toppingSuggestion.
@@ -203,44 +204,44 @@ Save all three files in the same directory, and you should be able to open it in
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>The Pizza Chronicles</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>The Pizza Chronicles</title>
 </head>
 <body>
-    <header>
-        <h1>Welcome to The Pizza Chronicles</h1>
-    </header>
-    <main>
-        <section>
-            <h2>Why Pizza Is The Ultimate Food</h2>
-            <p>
-                Pizza is not just a meal; it's a lifestyle. Whether it's the thin crust with its audible crunch or the deep dish that feels like a warm hug, pizza encompasses a variety of textures and flavors that cater to every palate. Its versatility is unmatched, making it the ultimate crowd-pleaser at any gathering.
-            </p>
-            <p>
-                The beauty of pizza lies in its simplicity. A basic dough topped with tomato sauce and cheese transforms into a canvas for creativity. From the classic Margherita to the adventurous pineapple topping, each pizza is a reflection of culinary artistry and personal taste. It's the food equivalent of a chameleon, constantly adapting and evolving with every slice.
-            </p>
-        </section>
-        <section>
-            <h2>The Art of Pizza Making</h2>
-            <p>
-                Making pizza is an art form that has been perfected over centuries. It begins with the dough, the foundation that requires just the right amount of kneading to achieve its iconic texture. The sauce, rich and tomatoey, is spread generously before sprinkling the cheese, which melts into a pool of gooey goodness.
-            </p>
-            <p>
-                But the real magic happens in the oven, where high heat works its wonders, baking the pizza to perfection. The result? A symphony of flavors that dances on your taste buds, making each bite better than the last. Pizza isn't just food; it's a culinary masterpiece that brings people together, one slice at a time.
-            </p>
-        </section>
-        <section id="pizzaToppingSection">
-            <h2>Need a Topping Suggestion?</h2>
-            <button id="toppingButton">Suggest a Topping</button>
-            <p id="toppingSuggestion"></p>
-        </section>
-    </main>
-    <footer>
-        <p>Created with love by The Pizza Chronicles Team</p>
-    </footer>
-    <script src="script.js"></script>
+  <header>
+    <h1>Welcome to The Pizza Chronicles</h1>
+  </header>
+  <main>
+    <section>
+      <h2>Why Pizza Is The Ultimate Food</h2>
+      <p>
+        Pizza is not just a meal; it's a lifestyle. Whether it's the thin crust with its audible crunch or the deep dish that feels like a warm hug, pizza encompasses a variety of textures and flavors that cater to every palate. Its versatility is unmatched, making it the ultimate crowd-pleaser at any gathering.
+      </p>
+      <p>
+        The beauty of pizza lies in its simplicity. A basic dough topped with tomato sauce and cheese transforms into a canvas for creativity. From the classic Margherita to the adventurous pineapple topping, each pizza is a reflection of culinary artistry and personal taste. It's the food equivalent of a chameleon, constantly adapting and evolving with every slice.
+      </p>
+    </section>
+    <section>
+      <h2>The Art of Pizza Making</h2>
+      <p>
+        Making pizza is an art form that has been perfected over centuries. It begins with the dough, the foundation that requires just the right amount of kneading to achieve its iconic texture. The sauce, rich and tomatoey, is spread generously before sprinkling the cheese, which melts into a pool of gooey goodness.
+      </p>
+      <p>
+        But the real magic happens in the oven, where high heat works its wonders, baking the pizza to perfection. The result? A symphony of flavors that dances on your taste buds, making each bite better than the last. Pizza isn't just food; it's a culinary masterpiece that brings people together, one slice at a time.
+      </p>
+    </section>
+    <section id="pizzaToppingSection">
+      <h2>Need a Topping Suggestion?</h2>
+      <button id="toppingButton">Suggest a Topping</button>
+      <p id="toppingSuggestion"></p>
+    </section>
+  </main>
+  <footer>
+    <p>Created with love by The Pizza Chronicles Team</p>
+  </footer>
+  <script src="script.js"></script>
 </body>
 </html>
 ~~~

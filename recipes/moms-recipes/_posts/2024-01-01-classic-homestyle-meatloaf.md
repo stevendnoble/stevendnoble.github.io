@@ -142,11 +142,7 @@ Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyze
     "carbohydrateContent": "7.3 grams",
     "fiberContent": "1.1 grams",
     "sugarContent": "0.8 grams",
-    "proteinContent": "28.2 grams",
-    "vitaminDContent": "4 micrograms",
-    "calciumContent": "28 milligrams",
-    "ironContent": "3 milligrams",
-    "potassiumContent": "408 milligrams"
+    "proteinContent": "28.2 grams"
   }
 }
 </script>

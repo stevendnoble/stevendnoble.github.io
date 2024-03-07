@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Résumé*
+title: Résumé
 description: >
   As a Software Engineer on the Growth team at Upstart, I apply my skills and knowledge in Ruby on
   Rails, JavaScript, PostgreSQL, Redis, Microservices, and A/B Testing to improve the user experience

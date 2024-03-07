@@ -20,10 +20,7 @@ description: >
   one delicious bite at a time.
 author: stevendnoble-recipes
 no_groups: true
-
-# Exclude this example category from the sitemap.
-# DON'T USE THIS SETTING IN YOUR CATEGORIES!
-sitemap: false
+sitemap: true
 ---
 
 # Grammie's Recipes: From the Kitchen of Elsie Damren

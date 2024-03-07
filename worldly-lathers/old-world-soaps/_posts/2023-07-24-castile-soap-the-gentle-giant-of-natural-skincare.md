@@ -18,7 +18,8 @@ author: worldlylathers
 related_posts:
   - worldly-lathers/old-world-soaps/_posts/2023-05-29-aleppo-soap-a-timeless-treasure-of-skincare.md
   - worldly-lathers/old-world-soaps/_posts/2023-04-03-lathering-through-history-the-timeless-allure-of-old-world-soaps.md
-sitemap: false
+sitemap: true
+hide_description: true
 ---
 
 * this unordered seed list will be replaced by the toc

@@ -15,7 +15,7 @@ author: stevendnoble
 related_posts:
   - growth-engineering/_posts/2023-05-27-mastering-multivariate-testing-a-comprehensive-guide-for-digital-marketers.md
   - growth-engineering/_posts/2023-04-24-ab-testing-the-key-to-optimized-digital-experiences.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

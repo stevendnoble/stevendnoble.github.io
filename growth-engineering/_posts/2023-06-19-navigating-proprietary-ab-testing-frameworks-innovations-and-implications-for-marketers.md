@@ -16,7 +16,7 @@ author: stevendnoble
 related_posts:
   - growth-engineering/_posts/2023-07-03-unlocking-the-full-potential-of-ab-testing-a-deep-dive-into-down-funnel-metrics.md
   - growth-engineering/_posts/2023-06-05-demystifying-statistical-significance-in-ab-testing-a-marketers-guide.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

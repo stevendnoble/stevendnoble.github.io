@@ -15,7 +15,7 @@ author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-peach-pie.md
   - recipes/grammies-recipes/_posts/2024-01-01-pear-pie.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

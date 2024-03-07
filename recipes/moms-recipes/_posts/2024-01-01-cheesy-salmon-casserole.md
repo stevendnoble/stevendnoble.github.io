@@ -15,7 +15,7 @@ author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-baby-back-ribs.md
   - recipes/moms-recipes/_posts/2024-01-01-baked-mac-and-cheese.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

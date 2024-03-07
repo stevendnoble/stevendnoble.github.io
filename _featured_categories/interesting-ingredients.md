@@ -15,10 +15,7 @@ description: >
   endless possibilities that natural and innovative ingredients bring to the crafting table.
 author: worldlylathers
 no_groups: true
-
-# Exclude this example category from the sitemap.
-# DON'T USE THIS SETTING IN YOUR CATEGORIES!
-sitemap: false
+sitemap: true
 ---
 
 # Worldly Lathers: Interesting Ingredients

@@ -18,7 +18,8 @@ author: worldlylathers
 related_posts:
   - worldly-lathers/basics-of-soap-making/_posts/2023-02-06-hot-process-vs-cold-process-soap-making.md
   - worldly-lathers/basics-of-soap-making/_posts/2023-03-06-unraveling-the-chemistry-behind-soap-making.md
-sitemap: false
+sitemap: true
+hide_description: true
 ---
 
 * this unordered seed list will be replaced by the toc

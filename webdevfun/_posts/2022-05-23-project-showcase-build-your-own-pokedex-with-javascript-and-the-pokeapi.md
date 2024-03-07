@@ -16,7 +16,7 @@ author: stevendnoble
 related_posts:
   - webdevfun/_posts/2022-06-06-setting-up-your-first-react-app-a-pokemon-adventure.md
   - webdevfun/_posts/2022-05-09-catching-data-with-poke-balls-dynamic-content-with-html-templating-and-the-pokeapi.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

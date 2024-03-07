@@ -18,7 +18,7 @@ author: stevendnoble
 related_posts:
   - webdevfun/_posts/2022-02-28-the-ultimate-web-dev-toolkit-unleashing-your-inner-code-wizard.md
   - webdevfun/_posts/2022-01-31-making-your-website-fit-media-queries-and-the-art-of-responsive-design.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

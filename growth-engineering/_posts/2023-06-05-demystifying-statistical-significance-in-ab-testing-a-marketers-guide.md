@@ -15,7 +15,7 @@ author: stevendnoble
 related_posts:
   - growth-engineering/_posts/2023-06-19-navigating-proprietary-ab-testing-frameworks-innovations-and-implications-for-marketers.md
   - growth-engineering/_posts/2023-05-27-mastering-multivariate-testing-a-comprehensive-guide-for-digital-marketers.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

@@ -14,7 +14,7 @@ author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-whoopie-pies.md
   - recipes/grammies-recipes/_posts/2024-01-01-squash-pie.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

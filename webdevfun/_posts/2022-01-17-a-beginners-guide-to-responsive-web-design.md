@@ -19,7 +19,7 @@ author: stevendnoble
 related_posts:
     - webdevfun/_posts/2022-01-31-making-your-website-fit-media-queries-and-the-art-of-responsive-design.md
     - webdevfun/_posts/2022-01-03-html-css-and-javascript-the-trio-that-powers-the-web.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

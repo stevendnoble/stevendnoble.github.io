@@ -15,7 +15,7 @@ author: stevendnoble
 related_posts:
   - growth-engineering/_posts/2023-07-17-designing-data-driven-experiments-for-maximum-impact.md
   - growth-engineering/_posts/2023-06-19-navigating-proprietary-ab-testing-frameworks-innovations-and-implications-for-marketers.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

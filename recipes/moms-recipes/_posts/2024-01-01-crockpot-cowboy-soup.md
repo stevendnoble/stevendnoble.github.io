@@ -14,7 +14,7 @@ author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-crispy-seasoned-baked-potato-rounds.md
   - recipes/moms-recipes/_posts/2024-01-01-country-apple-fritter-bread.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

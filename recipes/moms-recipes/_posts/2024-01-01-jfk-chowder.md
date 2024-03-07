@@ -14,7 +14,7 @@ author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-crab-rangoon-dip.md
   - recipes/moms-recipes/_posts/2024-01-01-deviled-crab-puffs.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

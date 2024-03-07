@@ -14,7 +14,7 @@ author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-bread-and-butter-pickles.md
   - recipes/grammies-recipes/_posts/2024-01-01-pickled-beets.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

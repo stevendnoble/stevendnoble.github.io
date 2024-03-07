@@ -15,7 +15,7 @@ author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-creamy-marshmallow-fudge.md
   - recipes/moms-recipes/_posts/2024-01-01-quick-nut-fudge.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

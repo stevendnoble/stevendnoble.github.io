@@ -18,7 +18,7 @@ author: stevendnoble
 related_posts:
     - webdevfun/_posts/2022-02-14-exploring-the-fundamentals-of-web-accessibility.md
     - webdevfun/_posts/2022-01-17-a-beginners-guide-to-responsive-web-design.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

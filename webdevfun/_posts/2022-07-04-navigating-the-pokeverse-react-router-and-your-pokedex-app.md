@@ -18,7 +18,7 @@ author: stevendnoble
 related_posts:
   - webdevfun/_posts/2022-07-18-pokemon-training-for-developers-mastering-lifecycle-methods-and-hooks-in-react.md
   - webdevfun/_posts/2022-06-20-harnessing-state-and-props-in-react-with-functional-components-a-pokemon-adventure.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

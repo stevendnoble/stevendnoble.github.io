@@ -14,7 +14,7 @@ author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-pear-pie.md
   - recipes/grammies-recipes/_posts/2024-01-01-rhubarb-pie.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

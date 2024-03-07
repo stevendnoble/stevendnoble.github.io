@@ -15,7 +15,7 @@ author: stevendnoble
 related_posts:
   - growth-engineering/_posts/2023-06-05-demystifying-statistical-significance-in-ab-testing-a-marketers-guide.md
   - growth-engineering/_posts/2023-05-08-navigating-the-ab-testing-landscape-top-off-the-shelf-tools-for-marketers.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

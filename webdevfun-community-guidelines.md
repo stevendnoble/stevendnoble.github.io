@@ -4,7 +4,7 @@ description: >
   Community Guidelines for the WebDevFun and Worldly Lathers blogs
 hide_description: true
 permalink: community-guidelines.html
-sitemap: false
+sitemap: true
 ---
 
 * this unordered seed list will be replaced by the toc

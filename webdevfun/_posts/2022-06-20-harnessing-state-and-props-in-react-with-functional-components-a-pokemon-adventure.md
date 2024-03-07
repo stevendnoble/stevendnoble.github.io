@@ -16,7 +16,7 @@ author: stevendnoble
 related_posts:
   - webdevfun/_posts/2022-07-04-navigating-the-pokeverse-react-router-and-your-pokedex-app.md
   - webdevfun/_posts/2022-06-06-setting-up-your-first-react-app-a-pokemon-adventure.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

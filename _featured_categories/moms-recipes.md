@@ -14,10 +14,7 @@ description: >
   rich, comforting legacy of Mom's culinary journey.
 author: stevendnoble-recipes
 no_groups: true
-
-# Exclude this example category from the sitemap.
-# DON'T USE THIS SETTING IN YOUR CATEGORIES!
-sitemap: false
+sitemap: true
 ---
 
 # Mom's Recipes: From the Kitchen of Linda Travers

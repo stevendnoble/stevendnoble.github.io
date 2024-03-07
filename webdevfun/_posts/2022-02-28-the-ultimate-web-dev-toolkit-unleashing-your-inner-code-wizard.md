@@ -17,7 +17,7 @@ author: stevendnoble
 related_posts:
   - webdevfun/_posts/2022-03-14-version-control-with-git-the-whimsical-world-of-web-development-wizardry.md
   - webdevfun/_posts/2022-02-14-exploring-the-fundamentals-of-web-accessibility.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

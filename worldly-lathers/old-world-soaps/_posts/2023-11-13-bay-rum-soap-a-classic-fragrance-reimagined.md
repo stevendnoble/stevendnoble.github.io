@@ -20,7 +20,8 @@ author: worldlylathers
 related_posts:
   - worldly-lathers/old-world-soaps/_posts/2023-09-18-marseille-soap-a-legacy-of-purity-and-tradition.md
   - worldly-lathers/old-world-soaps/_posts/2023-07-24-castile-soap-the-gentle-giant-of-natural-skincare.md
-sitemap: false
+sitemap: true
+hide_description: true
 ---
 
 * this unordered seed list will be replaced by the toc

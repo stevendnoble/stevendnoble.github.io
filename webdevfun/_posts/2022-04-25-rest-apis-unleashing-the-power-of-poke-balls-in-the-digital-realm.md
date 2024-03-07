@@ -17,7 +17,7 @@ author: stevendnoble
 related_posts:
   - webdevfun/_posts/2022-05-09-catching-data-with-poke-balls-dynamic-content-with-html-templating-and-the-pokeapi.md
   - webdevfun/_posts/2022-04-11-the-basics-of-web-hosting-and-domain-names.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

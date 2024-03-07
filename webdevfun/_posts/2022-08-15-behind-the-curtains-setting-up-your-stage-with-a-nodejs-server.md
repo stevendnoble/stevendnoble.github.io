@@ -16,7 +16,7 @@ author: stevendnoble
 related_posts:
   - webdevfun/_posts/2022-08-29-spotlight-on-crud-managing-your-drag-queen-database-with-elegance.md
   - webdevfun/_posts/2022-08-01-crafting-a-react-pokedex-with-zustand-a-simpler-state-management-saga.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

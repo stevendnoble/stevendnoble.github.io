@@ -18,7 +18,7 @@ author: stevendnoble
 related_posts:
   - webdevfun/_posts/2022-10-10-building-brickbybrick-advocacy-foundations-and-empowerment.md
   - webdevfun/_posts/2022-09-12-glam-up-your-drag-queen-database-app-refactoring-for-elegance-and-efficiency.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

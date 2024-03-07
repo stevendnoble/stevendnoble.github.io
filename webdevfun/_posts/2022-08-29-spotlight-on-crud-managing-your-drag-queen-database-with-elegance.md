@@ -17,7 +17,7 @@ author: stevendnoble
 related_posts:
   - webdevfun/_posts/2022-09-12-glam-up-your-drag-queen-database-app-refactoring-for-elegance-and-efficiency.md
   - webdevfun/_posts/2022-08-15-behind-the-curtains-setting-up-your-stage-with-a-nodejs-server.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

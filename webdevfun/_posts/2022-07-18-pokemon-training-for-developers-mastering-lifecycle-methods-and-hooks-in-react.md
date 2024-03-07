@@ -17,7 +17,7 @@ author: stevendnoble
 related_posts:
   - webdevfun/_posts/2022-08-01-crafting-a-react-pokedex-with-zustand-a-simpler-state-management-saga.md
   - webdevfun/_posts/2022-07-04-navigating-the-pokeverse-react-router-and-your-pokedex-app.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

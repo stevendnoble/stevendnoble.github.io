@@ -14,7 +14,7 @@ author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-mincemeat-pie.md
   - recipes/grammies-recipes/_posts/2024-01-01-mincemeat-squares.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

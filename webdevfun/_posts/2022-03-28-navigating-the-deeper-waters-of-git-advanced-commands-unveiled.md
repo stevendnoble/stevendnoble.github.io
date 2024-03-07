@@ -17,7 +17,7 @@ author: stevendnoble
 related_posts:
   - webdevfun/_posts/2022-04-11-the-basics-of-web-hosting-and-domain-names.md
   - webdevfun/_posts/2022-03-14-version-control-with-git-the-whimsical-world-of-web-development-wizardry.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

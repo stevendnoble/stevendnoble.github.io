@@ -14,7 +14,7 @@ author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-scalloped-corn-casserole.md
   - recipes/grammies-recipes/_posts/2024-01-01-zucchini-casserole.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

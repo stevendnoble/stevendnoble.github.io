@@ -16,7 +16,7 @@ author: stevendnoble
 related_posts:
   - webdevfun/_posts/2022-06-20-harnessing-state-and-props-in-react-with-functional-components-a-pokemon-adventure.md
   - webdevfun/_posts/2022-05-23-project-showcase-build-your-own-pokedex-with-javascript-and-the-pokeapi.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

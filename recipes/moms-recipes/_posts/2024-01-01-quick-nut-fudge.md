@@ -14,7 +14,7 @@ author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-millionaires-fudge.md
   - recipes/moms-recipes/_posts/2024-01-01-five-minute-fudge.md
-sitemap: false
+sitemap: true
 hide_description: true
 ---
 

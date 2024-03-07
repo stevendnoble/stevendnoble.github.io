@@ -9,12 +9,12 @@ description: >
   The post emphasizes the importance of monitoring social media metrics to refine SEO strategies,
   underscoring social media's role in elevating a brand's digital footprint and fostering community
   engagement.
-image: /assets/img/webdevfun/elevate-your-online-presence-for-seo-utilize-social-media.jpg
+image: /assets/img/growth-engineering/elevate-your-online-presence-for-seo-utilize-social-media.jpg
 tags: ['Growth Engineer', 'SEO Strategies', 'User-Generated Content', 'Influencers', 'Brands', 'Collaboration']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-03-13-elevate-your-online-presence-for-seo-earning-quality-backlinks.md
-  - webdevfun/_posts/2023-02-13-elevate-your-online-presence-for-seo-page-load-speed-and-mobile-optimization.md
+  - growth-engineering/_posts/2023-03-13-elevate-your-online-presence-for-seo-earning-quality-backlinks.md
+  - growth-engineering/_posts/2023-02-13-elevate-your-online-presence-for-seo-page-load-speed-and-mobile-optimization.md
 sitemap: false
 hide_description: true
 ---

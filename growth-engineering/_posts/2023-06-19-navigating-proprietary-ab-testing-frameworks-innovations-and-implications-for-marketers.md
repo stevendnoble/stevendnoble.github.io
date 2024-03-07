@@ -10,12 +10,12 @@ description: >
   benefits and complexities involved, the post underscores the strategic considerations for marketers and IT
   teams collaborating to harness the power of proprietary frameworks to achieve competitive advantage and
   drive business success.
-image: /assets/img/webdevfun/navigating-proprietary-ab-testing-frameworks-innovations-and-implications-for-marketers.jpg
+image: /assets/img/growth-engineering/navigating-proprietary-ab-testing-frameworks-innovations-and-implications-for-marketers.jpg
 tags: ['Growth Engineer', 'A/B Testing', 'Proprietary A/B Testing Frameworks', 'Custom Testing Solutions', 'In-House Testing Software', 'Experimentation Platforms']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-07-03-unlocking-the-full-potential-of-ab-testing-a-deep-dive-into-down-funnel-metrics.md
-  - webdevfun/_posts/2023-06-05-demystifying-statistical-significance-in-ab-testing-a-marketers-guide.md
+  - growth-engineering/_posts/2023-07-03-unlocking-the-full-potential-of-ab-testing-a-deep-dive-into-down-funnel-metrics.md
+  - growth-engineering/_posts/2023-06-05-demystifying-statistical-significance-in-ab-testing-a-marketers-guide.md
 sitemap: false
 hide_description: true
 ---

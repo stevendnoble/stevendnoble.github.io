@@ -9,12 +9,12 @@ description: >
   Through practical insights and actionable advice, the post guides readers on optimizing their digital
   presence, ensuring their content resonates with both search engines and their target audience, thereby
   driving traffic and conversions.
-image: /assets/img/webdevfun/elevate-your-online-presence-for-seo-content-and-keywords.jpg
+image: /assets/img/growth-engineering/elevate-your-online-presence-for-seo-content-and-keywords.jpg
 tags: ['Growth Engineer', 'SEO Strategies', 'Website Optimization', 'Online Presence', 'Content Quality', 'Page Load Speed']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-02-13-elevate-your-online-presence-for-seo-page-load-speed-and-mobile-optimization.md
-  - webdevfun/_posts/2023-01-16-unlocking-the-secrets-of-seo-boost-your-websites-visibility.md
+  - growth-engineering/_posts/2023-02-13-elevate-your-online-presence-for-seo-page-load-speed-and-mobile-optimization.md
+  - growth-engineering/_posts/2023-01-16-unlocking-the-secrets-of-seo-boost-your-websites-visibility.md
 sitemap: false
 hide_description: true
 ---

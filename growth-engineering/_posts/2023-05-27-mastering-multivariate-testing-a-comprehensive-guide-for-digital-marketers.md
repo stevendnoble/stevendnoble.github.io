@@ -9,12 +9,12 @@ description: >
   marketers to leverage multivariate testing for deeper insights and more significant website optimizations.
   It emphasizes best practices and the strategic use of popular tools, guiding marketers toward informed
   decisions that enhance user experience and drive digital success.
-image: /assets/img/webdevfun/mastering-multivariate-testing-a-comprehensive-guide-for-digital-marketers.jpg
+image: /assets/img/growth-engineering/mastering-multivariate-testing-a-comprehensive-guide-for-digital-marketers.jpg
 tags: ['Growth Engineer', 'A/B Testing', 'Multivariate Testing', 'Conversion Rate Optimization (CRO)', 'Testing Variables', 'Experiment Design']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-06-05-demystifying-statistical-significance-in-ab-testing-a-marketers-guide.md
-  - webdevfun/_posts/2023-05-08-navigating-the-ab-testing-landscape-top-off-the-shelf-tools-for-marketers.md
+  - growth-engineering/_posts/2023-06-05-demystifying-statistical-significance-in-ab-testing-a-marketers-guide.md
+  - growth-engineering/_posts/2023-05-08-navigating-the-ab-testing-landscape-top-off-the-shelf-tools-for-marketers.md
 sitemap: false
 hide_description: true
 ---

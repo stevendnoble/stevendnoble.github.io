@@ -9,12 +9,12 @@ description: >
   operations and strategies for maximum impact. Through a detailed exploration of experiment design,
   randomization, and continuous optimization, readers are guided on a path to fostering a culture of
   curiosity and data-driven decision-making within their organizations.
-image: /assets/img/webdevfun/designing-data-driven-experiments-for-maximum-impact.jpg
+image: /assets/img/growth-engineering/designing-data-driven-experiments-for-maximum-impact.jpg
 tags: ['Growth Engineer', 'A/B Testing', 'Data-Driven Experiments', 'Control Groups', 'Statistical Significance', 'Randomization Techniques', 'Analyzing Experimental Data', 'Actionable Insights']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-07-03-unlocking-the-full-potential-of-ab-testing-a-deep-dive-into-down-funnel-metrics.md
-  - webdevfun/_posts/2023-06-19-navigating-proprietary-ab-testing-frameworks-innovations-and-implications-for-marketers.md
+  - growth-engineering/_posts/2023-07-03-unlocking-the-full-potential-of-ab-testing-a-deep-dive-into-down-funnel-metrics.md
+  - growth-engineering/_posts/2023-06-19-navigating-proprietary-ab-testing-frameworks-innovations-and-implications-for-marketers.md
 sitemap: false
 hide_description: true
 ---

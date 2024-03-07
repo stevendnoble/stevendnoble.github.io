@@ -9,12 +9,12 @@ description: >
   best practices and emphasizing the significance of data-driven decisions, the post serves as a
   comprehensive guide for businesses aiming to enhance their online presence and marketing strategies
   through meticulous experimentation and optimization.
-image: /assets/img/webdevfun/ab-testing-the-key-to-optimized-digital-experiences.jpg
+image: /assets/img/growth-engineering/ab-testing-the-key-to-optimized-digital-experiences.jpg
 tags: ['Growth Engineer', 'A/B Testing', 'Conversion Rate Optimization', 'User Experience (UX)', 'Test Variations', 'Multivariate Testing']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-05-08-navigating-the-ab-testing-landscape-top-off-the-shelf-tools-for-marketers.md
-  - webdevfun/_posts/2023-04-10-using-ai-to-enhance-seo-a-guide-to-futuristic-optimization.md
+  - growth-engineering/_posts/2023-05-08-navigating-the-ab-testing-landscape-top-off-the-shelf-tools-for-marketers.md
+  - growth-engineering/_posts/2023-04-10-using-ai-to-enhance-seo-a-guide-to-futuristic-optimization.md
 sitemap: false
 hide_description: true
 ---

@@ -8,12 +8,12 @@ description: >
   backlinks from industry-relevant sites. By implementing these targeted approaches and monitoring backlink
   profiles, marketers can significantly improve their website's credibility, search engine ranking, and
   attract more traffic.
-image: /assets/img/webdevfun/elevate-your-online-presence-for-seo-earning-quality-backlinks.jpg
+image: /assets/img/growth-engineering/elevate-your-online-presence-for-seo-earning-quality-backlinks.jpg
 tags: ['Growth Engineer', 'Search Engine Optimization', 'Quality Backlinks', 'Compelling Content', 'Guest Blogging', 'Influencers', 'Shareable Infographics']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-03-27-mastering-metrics-measuring-the-effectiveness-of-your-seo-strategies.md
-  - webdevfun/_posts/2023-02-27-elevate-your-online-presence-for-seo-utilize-social-media.md
+  - growth-engineering/_posts/2023-03-27-mastering-metrics-measuring-the-effectiveness-of-your-seo-strategies.md
+  - growth-engineering/_posts/2023-02-27-elevate-your-online-presence-for-seo-utilize-social-media.md
 sitemap: false
 hide_description: true
 ---

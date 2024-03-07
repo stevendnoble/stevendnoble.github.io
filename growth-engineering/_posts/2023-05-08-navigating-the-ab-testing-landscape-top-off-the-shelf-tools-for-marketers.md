@@ -9,12 +9,12 @@ description: >
   technical capabilities. Through this exploration, marketers are equipped to enhance their digital
   strategies with data-driven decisions, optimizing user experiences and conversion rates across their
   digital assets.
-image: /assets/img/webdevfun/navigating-the-ab-testing-landscape-top-off-the-shelf-tools-for-marketers.jpg
+image: /assets/img/growth-engineering/navigating-the-ab-testing-landscape-top-off-the-shelf-tools-for-marketers.jpg
 tags: ['Growth Engineer', 'A/B Testing Tools', 'Marketers', 'Off-the-Shelf Software', 'Conversion Rate Optimization', 'User Experience Testing', 'Website Optimization']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-05-27-mastering-multivariate-testing-a-comprehensive-guide-for-digital-marketers.md
-  - webdevfun/_posts/2023-04-24-ab-testing-the-key-to-optimized-digital-experiences.md
+  - growth-engineering/_posts/2023-05-27-mastering-multivariate-testing-a-comprehensive-guide-for-digital-marketers.md
+  - growth-engineering/_posts/2023-04-24-ab-testing-the-key-to-optimized-digital-experiences.md
 sitemap: false
 hide_description: true
 ---

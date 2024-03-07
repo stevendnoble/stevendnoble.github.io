@@ -14,6 +14,8 @@ author:
   name:                Steven Noble
   email:               stevendananoble@gmail.com
 menu:
+  - title:             Growth Engineering
+    url:               /growth-engineering/
   - title:             WebDevFun
     url:               /webdevfun/
   - title:             Worldly Lathers

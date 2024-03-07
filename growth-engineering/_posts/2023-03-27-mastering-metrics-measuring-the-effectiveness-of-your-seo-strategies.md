@@ -9,12 +9,12 @@ description: >
   each can be leveraged for comprehensive SEO analysis. Through practical advice on goal setting, metric
   tracking, and tool utilization, the post guides readers in making informed decisions to refine their SEO
   efforts and achieve measurable success in the digital realm.
-image: /assets/img/webdevfun/mastering-metrics-measuring-the-effectiveness-of-your-seo-strategies.jpg
+image: /assets/img/growth-engineering/mastering-metrics-measuring-the-effectiveness-of-your-seo-strategies.jpg
 tags: ['Growth Engineer', 'SEO Metrics', 'SEO Effectiveness', 'Organic Traffic', 'Keyword Rankings', 'Click-Through Rate (CTR)']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-04-10-using-ai-to-enhance-seo-a-guide-to-futuristic-optimization.md
-  - webdevfun/_posts/2023-03-13-elevate-your-online-presence-for-seo-earning-quality-backlinks.md
+  - growth-engineering/_posts/2023-04-10-using-ai-to-enhance-seo-a-guide-to-futuristic-optimization.md
+  - growth-engineering/_posts/2023-03-13-elevate-your-online-presence-for-seo-earning-quality-backlinks.md
 sitemap: false
 hide_description: true
 ---

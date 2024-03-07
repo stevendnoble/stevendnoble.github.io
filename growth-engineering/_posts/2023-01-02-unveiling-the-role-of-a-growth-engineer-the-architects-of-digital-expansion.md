@@ -9,12 +9,12 @@ description: >
   skills, responsibilities, and significant impact of growth engineers, the post illustrates how they're
   transforming startups and established companies alike by instigating a culture of data-driven
   experimentation and innovation.
-image: /assets/img/webdevfun/unveiling-the-role-of-a-growth-engineer-the-architects-of-digital-expansion.jpg
+image: /assets/img/growth-engineering/unveiling-the-role-of-a-growth-engineer-the-architects-of-digital-expansion.jpg
 tags: ['Growth Engineer', 'User Acquisition', 'A/B Testing', 'Data Analysis', 'Marketing', 'Retention']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-01-16-unlocking-the-secrets-of-seo-boost-your-websites-visibility.md
-  - webdevfun/_posts/2023-01-30-elevate-your-online-presence-for-seo-proven-seo-content-and-keywords.md
+  - growth-engineering/_posts/2023-01-16-unlocking-the-secrets-of-seo-boost-your-websites-visibility.md
+  - growth-engineering/_posts/2023-01-30-elevate-your-online-presence-for-seo-proven-seo-content-and-keywords.md
 sitemap: false
 hide_description: true
 ---

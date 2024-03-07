@@ -9,12 +9,12 @@ description: >
   creation, and technical SEO improvements. By staying abreast of SEO's evolving landscape and focusing on
   providing value to your audience, the post guides readers on how to effectively leverage SEO for
   transformative business outcomes.
-image: /assets/img/webdevfun/unlocking-the-secrets-of-seo-boost-your-websites-visibility.jpg
+image: /assets/img/growth-engineering/unlocking-the-secrets-of-seo-boost-your-websites-visibility.jpg
 tags: ['Growth Engineer', 'Search Engine Optimization', 'Quality Content Creation', 'Keyword Research', 'Marketing', 'Link Building']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-01-30-elevate-your-online-presence-for-seo-proven-seo-content-and-keywords.md
-  - webdevfun/_posts/2023-01-02-unveiling-the-role-of-a-growth-engineer-the-architects-of-digital-expansion.md
+  - growth-engineering/_posts/2023-01-30-elevate-your-online-presence-for-seo-proven-seo-content-and-keywords.md
+  - growth-engineering/_posts/2023-01-02-unveiling-the-role-of-a-growth-engineer-the-architects-of-digital-expansion.md
 sitemap: false
 hide_description: true
 ---

@@ -9,12 +9,12 @@ description: >
   assess the likelihood of results occurring by chance. By equipping marketers with the knowledge to
   calculate and understand statistical significance, the post empowers them to make data-driven decisions
   that substantiate real improvements over mere statistical flukes.
-image: /assets/img/webdevfun/demystifying-statistical-significance-in-ab-testing-a-marketers-guide.jpg
+image: /assets/img/growth-engineering/demystifying-statistical-significance-in-ab-testing-a-marketers-guide.jpg
 tags: ['Growth Engineer', 'A/B Testing', 'Statistical Significance', 'Data Analysis', 'Experimentation Strategy', 'Testing Hypotheses', 'P-value', 'Sample Size Calculation']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-06-19-navigating-proprietary-ab-testing-frameworks-innovations-and-implications-for-marketers.md
-  - webdevfun/_posts/2023-05-27-mastering-multivariate-testing-a-comprehensive-guide-for-digital-marketers.md
+  - growth-engineering/_posts/2023-06-19-navigating-proprietary-ab-testing-frameworks-innovations-and-implications-for-marketers.md
+  - growth-engineering/_posts/2023-05-27-mastering-multivariate-testing-a-comprehensive-guide-for-digital-marketers.md
 sitemap: false
 hide_description: true
 ---

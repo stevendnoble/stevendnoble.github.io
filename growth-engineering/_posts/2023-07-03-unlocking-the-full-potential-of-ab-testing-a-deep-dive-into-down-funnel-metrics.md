@@ -9,12 +9,12 @@ description: >
   to enhance marketing outcomes significantly. Through a comprehensive exploration of how to analyze and
   apply these insights, the post guides marketers in refining their experimentation strategies for improved
   conversion rates and more effective customer journey optimization.
-image: /assets/img/webdevfun/unlocking-the-full-potential-of-ab-testing-a-deep-dive-into-down-funnel-metrics.jpg
+image: /assets/img/growth-engineering/unlocking-the-full-potential-of-ab-testing-a-deep-dive-into-down-funnel-metrics.jpg
 tags: ['Growth Engineer', 'A/B Testing', 'Down-Funnel Metrics', 'Data Analysis', 'Conversion Optimization', 'User Journey Analysis', 'Marketing Analytics', 'Engagement Metrics']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-07-17-designing-data-driven-experiments-for-maximum-impact.md
-  - webdevfun/_posts/2023-06-19-navigating-proprietary-ab-testing-frameworks-innovations-and-implications-for-marketers.md
+  - growth-engineering/_posts/2023-07-17-designing-data-driven-experiments-for-maximum-impact.md
+  - growth-engineering/_posts/2023-06-19-navigating-proprietary-ab-testing-frameworks-innovations-and-implications-for-marketers.md
 sitemap: false
 hide_description: true
 ---

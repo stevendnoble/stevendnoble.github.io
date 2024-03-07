@@ -8,12 +8,12 @@ description: >
   predictive trend analysis and link-building efforts, offering a competitive edge in digital marketing.
   Integrating AI into SEO practices promises not only efficiency and effectiveness but also a futuristic
   approach to optimizing online visibility and engagement.
-image: /assets/img/webdevfun/using-ai-to-enhance-seo-a-guide-to-futuristic-optimization.jpg
+image: /assets/img/growth-engineering/using-ai-to-enhance-seo-a-guide-to-futuristic-optimization.jpg
 tags: ['Growth Engineer', 'Search Engine Optimization', 'AI in SEO', 'Artificial Intelligence', 'Content Personalization', 'AI-Driven Content Creation', 'Automated Link Building']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-04-24-ab-testing-the-key-to-optimized-digital-experiences.md
-  - webdevfun/_posts/2023-03-27-mastering-metrics-measuring-the-effectiveness-of-your-seo-strategies.md
+  - growth-engineering/_posts/2023-04-24-ab-testing-the-key-to-optimized-digital-experiences.md
+  - growth-engineering/_posts/2023-03-27-mastering-metrics-measuring-the-effectiveness-of-your-seo-strategies.md
 sitemap: false
 hide_description: true
 ---

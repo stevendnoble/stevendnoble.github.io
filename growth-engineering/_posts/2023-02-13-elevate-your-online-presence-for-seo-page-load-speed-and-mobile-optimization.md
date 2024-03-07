@@ -8,12 +8,12 @@ description: >
   ranking algorithms. Through practical advice on responsive design, image optimization, and leveraging
   browser caching, the post serves as a comprehensive guide for improving online presence and search engine
   rankings.
-image: /assets/img/webdevfun/elevate-your-online-presence-for-seo-page-load-speed-and-mobile-optimization.jpg
+image: /assets/img/growth-engineering/elevate-your-online-presence-for-seo-page-load-speed-and-mobile-optimization.jpg
 tags: ['Growth Engineer', 'Search Engine Optimization', 'Page Load Speed', 'Image Optimization', 'CDN', 'Responsive Design']
 author: stevendnoble
 related_posts:
-  - webdevfun/_posts/2023-02-27-elevate-your-online-presence-for-seo-utilize-social-media.md
-  - webdevfun/_posts/2023-01-30-elevate-your-online-presence-for-seo-proven-seo-content-and-keywords.md
+  - growth-engineering/_posts/2023-02-27-elevate-your-online-presence-for-seo-utilize-social-media.md
+  - growth-engineering/_posts/2023-01-30-elevate-your-online-presence-for-seo-proven-seo-content-and-keywords.md
 sitemap: false
 hide_description: true
 ---

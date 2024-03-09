@@ -50,15 +50,34 @@ In the heart of every New England kitchen lies the soul of comfort food: the cho
 5. **Simmer the Soup:** Over low heat until the potatoes are fork-tender, about 30 minutes. Remove the bay leaf afterward.
 
 6. **Dial Up the Dairy:** Stir in the milk and butter, simmering for an additional 5 minutes.
-Serve the Stew: Serve hot, garnished with the crispy salt pork.
+
+7. **Serve the Stew:** Serve hot, garnished with the crispy salt pork.
 
 ## The Essence of New England in a Bowl
 
 Crafted with deboned haddock, a quintessential New England fish, and simmered with potatoes, celery, and onions in a creamy broth, this chowder embodies the simple yet profound flavors of the region. The addition of salt pork introduces a subtle smokiness that complements the sweetness of the milk and the richness of the butter, creating a dish that's as complex as it is comforting.
 
-## Nutritional Profile
+## Mastering Texture: Thickening Your Chowder with Cornstarch
 
-This chowder serves up a nutritional balance that's as impressive as its flavor. Each serving delivers a good source of protein, essential vitamins, and minerals, making it a hearty meal that satisfies without overwhelming.
+Personally, I prefer a chowder that's a little thicker. Achieving the perfect consistency in your fish chowder can elevate the dish from good to gourmet. For a slightly thicker, more velvety texture without altering the flavor, cornstarch is your ally. This section will guide you through the simple yet effective process of using cornstarch to thicken your chowder, ensuring a silky, satisfying mouthfeel. Here are some simple instructions for using cornstarch to thicken your chowder:
+
+1. **Create a Slurry:** Start by mixing equal parts cornstarch and cold water to create a slurry. This step is crucial to prevent lumps. For a typical pot of chowder, 1 to 2 tablespoons of cornstarch mixed with an equal amount of water should suffice, but you can adjust this based on your desired thickness.
+2. **Add to the Chowder:** Once your chowder is nearly done, slowly stir in the cornstarch slurry. It's important to add the slurry towards the end of the cooking process to control the thickness more effectively and to avoid breaking down the starch too much, which can reduce its thickening power.
+3. **Simmer to Activate:** Bring your chowder to a gentle simmer. Cornstarch requires heat to activate its thickening properties. Let it simmer for a few minutes, stirring occasionally. You'll notice the chowder gradually thickening.
+4. **Check Consistency:** After simmering, check the consistency of your chowder. If it's still not as thick as you'd like, you can prepare a little more slurry and add it in, following the same process. Remember, the chowder will continue to thicken slightly as it cools.
+5. **Adjust Seasonings:** After thickening, taste your chowder and adjust the seasonings if necessary. Thickening agents can dilute flavors slightly, so you might need to add a touch more salt or herbs.
+
+## Elevating Your Fish Chowder: The Perfect Herb Harmony
+
+Elevating your fish chowder from simple to sublime is all about the harmony of herbs you choose to weave through it. Here’s a focused guide on incorporating thyme, parsley, dill, fennel, and chives into your chowder, each adding its unique layer of flavor and aroma to create a comforting, aromatic pot of joy.
+
+* **Thyme:** Thyme is a timeless classic that infuses the chowder with a subtle, earthy flavor. It’s robust enough to stand up to the cooking process, making it perfect to add early on.
+* **Parsley:** Bright and slightly peppery, parsley has the power to lift the chowder with a burst of freshness. Stir it in towards the end of cooking or sprinkle it on as a garnish for a pop of color.
+* **Dill:** The tangy twist of dill pairs exceptionally well with fish, introducing a layer of complexity to the creamy base. Its distinctive flavor makes it a delightful addition, especially when used sparingly.
+* **Fennel:** For a hint of sweet aniseed, fennel seeds or finely chopped fennel bulb can be a game-changer. It adds depth and a slight sweetness that complements seafood exquisitely.
+* **Chives:** Chopped chives bring a mild, onion-like flavor with a hint of garlic, making them an ideal garnish. Their vibrant green color and subtle taste enhance the chowder without overpowering the delicate fish.
+
+These herbs not only contribute to the depth of flavor in your fish chowder but also introduce an array of healthful properties, adding layers of taste with each spoonful. Experiment with these herbs to find your perfect blend and transform your fish chowder into a dish that sings with flavor.
 
 ## Celebrating JFK's Legacy Through Flavor
 

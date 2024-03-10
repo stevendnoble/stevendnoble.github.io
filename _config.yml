@@ -15,29 +15,29 @@ author:
   email:               stevendananoble@gmail.com
 menu:
   - title:             Growth Engineering
-    url:               /growth-engineering/
+    url:               /growth-engineering
   - title:             WebDevFun
-    url:               /webdevfun/
+    url:               /webdevfun
   - title:             Worldly Lathers
-    url:               /worldly-lathers/
+    url:               /worldly-lathers
   - title:             Recipes
-    url:               /recipes/
+    url:               /recipes
   - title:             Résumé
-    url:               /software-engineer-resume/
+    url:               /software-engineer-resume
   - title:             About
-    url:               /about/
+    url:               /about
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
   - title:             LICENSE
-    url:               /LICENSE/
+    url:               /LICENSE
   - title:             NOTICE
-    url:               /NOTICE/
+    url:               /NOTICE
   - title:             CHANGELOG
-    url:               /CHANGELOG/
+    url:               /CHANGELOG
 copyright:             © 2024. All rights reserved.
-permalink:             /:categories/:title/
+permalink:             /:categories/:title
 
 # Pagination configuration (used by the `blog` layout)
 # paginate:              10
@@ -253,11 +253,11 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /:name/
+    permalink:         /:name
     output:            true
 
   featured_tags:
-    permalink:         /tag-:name/
+    permalink:         /tag-:name
     output:            true
 
   # projects:

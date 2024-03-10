@@ -16,10 +16,9 @@ description: >
   for the art and science of soap making.
 author: worldlylathers
 no_groups: true
-
-# Exclude this example category from the sitemap.
-# DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: true
+redirect_from:
+  - /worldly-lathers/
 ---
 
 # Worldly Lathers: Artisanal Soap Making

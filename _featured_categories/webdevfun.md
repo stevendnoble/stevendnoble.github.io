@@ -17,10 +17,9 @@ description: >
   world of web development.
 author: stevendnoble
 no_groups: true
-
-# Exclude this example category from the sitemap.
-# DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: true
+redirect_from:
+  - /webdevfun/
 ---
 
 # WebDevFun: Putting the FUN in Web Development Fundamentals

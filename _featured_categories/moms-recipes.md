@@ -15,6 +15,8 @@ description: >
 author: stevendnoble-recipes
 no_groups: true
 sitemap: true
+redirect_from:
+  - /moms-recipes/
 ---
 
 # Mom's Recipes: From the Kitchen of Linda Travers

@@ -18,6 +18,8 @@ description: >
 author: stevendnoble
 no_groups: true
 sitemap: true
+redirect_from:
+  - /growth-engineering/
 ---
 
 # The Growth Engineer's Blueprint: Strategies for Digital Dominance

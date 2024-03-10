@@ -16,6 +16,8 @@ description: >
 author: worldlylathers
 no_groups: true
 sitemap: true
+redirect_from:
+  - /interesting-ingredients/
 ---
 
 # Worldly Lathers: Interesting Ingredients

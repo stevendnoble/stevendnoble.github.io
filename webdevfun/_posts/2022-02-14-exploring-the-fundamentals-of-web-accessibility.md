@@ -2,16 +2,17 @@
 layout: post
 title: "Exploring the Fundamentals of Web Accessibility: Ensuring Everyone Gets a Slice of the Web"
 description: >
-  "Exploring the Fundamentals of Web Accessibility: Ensuring Everyone Gets a Slice of the
-  Web" dives into the essential practice of making the internet accessible to all, including
-  individuals with disabilities. This blog post rolls out the dough of understanding web
-  accessibility, layers it with the importance of inclusive digital spaces, and tops it with
-  actionable strategies following the WCAG guidelines. It serves up a comprehensive look into
-  creating websites that are perceivable, operable, understandable, and robust, ensuring a
-  seamless user experience for a diverse audience. By comparing web accessibility to crafting
-  the perfect pizza, this post invites readers to consider inclusivity as a key ingredient in
-  their web development recipe, making the digital world a place where everyone can enjoy
-  their slice of the web.
+  "Exploring the Fundamentals of Web Accessibility: Ensuring Everyone Gets a Slice of
+  the Web" dives into the essential practice of making the internet accessible to all,
+  including individuals with disabilities. This blog post rolls out the dough of
+  understanding web accessibility, layers it with the importance of inclusive digital
+  spaces, and tops it with actionable strategies following the WCAG guidelines. It
+  serves up a comprehensive look into creating websites that are perceivable, operable,
+  understandable, and robust, ensuring a seamless user experience for a diverse
+  audience. By comparing web accessibility to crafting the perfect pizza, this post
+  invites readers to consider inclusivity as a key ingredient in their web development
+  recipe, making the digital world a place where everyone can enjoy their slice of the
+  web.
 image: /assets/img/webdevfun/exploring-the-fundamentals-of-web-accessibility.jpg
 tags: ['Web Accessibility', 'WCAG Guidelines', 'Inclusive Design', 'Assistive Technology', 'Screen Readers', 'Alt Text', 'SEO', 'ARIA (Accessible Rich Internet Applications)', 'Usability']
 author: stevendnoble

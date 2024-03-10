@@ -2,16 +2,16 @@
 layout: post
 title: "Making Your Website Fit Like the Perfect Slice: Media Queries and the Art of Responsive Pizza Design"
 description: >
-  Dive into "Making Your Website Fit Like the Perfect Slice: Media Queries and the Art of
-  Responsive Pizza Design," a flavorful journey through the world of responsive web design,
-  served with a side of pizza-themed humor. This tantalizing blog post slices into the
-  essentials of using media queries to ensure your website looks great on any device, just
-  like a perfectly sized slice of pizza fits into its box. By comparing web design elements
-  to the art of crafting a delicious pizza, we explore how flexible layouts, adaptive
-  images, and breakpoints work together to create a seamless user experience. Whether you're
-  a seasoned chef in the kitchen of web development or just rolling out your dough, this
-  post promises to pepper your skills with practical tips, ensuring your websites are as
-  mouthwatering as your favorite pie.
+  Dive into "Making Your Website Fit Like the Perfect Slice: Media Queries and the Art
+  of Responsive Pizza Design," a flavorful journey through the world of responsive web
+  design, served with a side of pizza-themed humor. This tantalizing blog post slices
+  into the essentials of using media queries to ensure your website looks great on any
+  device, just like a perfectly sized slice of pizza fits into its box. By comparing
+  web design elements to the art of crafting a delicious pizza, we explore how flexible
+  layouts, adaptive images, and breakpoints work together to create a seamless user
+  experience. Whether you're a seasoned chef in the kitchen of web development or just
+  rolling out your dough, this post promises to pepper your skills with practical tips,
+  ensuring your websites are as mouthwatering as your favorite pie.
 image: /assets/img/webdevfun/making-your-website-fit-media-queries-and-the-art-of-responsive-design.jpg
 tags: ['Responsive Web Design', 'Mobile-First', 'Flexible Grids', 'Media Queries', 'Screen Size Optimization']
 author: stevendnoble

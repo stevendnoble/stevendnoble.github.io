@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: recipe
 title: Bread and Butter Pickles
 description: >
   Discover the delightful balance of sweet and tangy with my grandmother Elsie's classic
   Bread and Butter Pickles recipe, a staple in the American pickling tradition. These
-  pickles not only add a burst of flavor to any meal but also offer a crunchy texture that
-  is irresistible. Perfect for picnics, barbecues, or as a flavorful snack, these homemade
-  pickles are sure to become a cherished addition to your culinary repertoire.
+  pickles not only add a burst of flavor to any meal but also offer a crunchy texture
+  that is irresistible. Perfect for picnics, barbecues, or as a flavorful snack, these
+  homemade pickles are sure to become a cherished addition to your culinary repertoire.
 image: /assets/img/recipes/bread-and-butter-pickles.jpg
 tags: ['Grammie', 'Elsie', 'Bread and Butter Pickles', 'Pickling']
 author: stevendnoble-recipes
@@ -15,37 +15,62 @@ related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-pickled-beets.md
 sitemap: true
 hide_description: true
+intro: >
+  Embark on a journey to create the quintessential American classic, Bread and Butter
+  Pickles, with this simple yet delicious recipe. This delightful pickle variety is
+  known for its sweet and tangy flavor profile, making it a perfect companion for
+  sandwiches, burgers, or as a standalone snack. The unique combination of spices and
+  the crispiness of the cucumbers ensure that these pickles will be a hit at any
+  gathering.
+ingredients:
+  - 2 dozen cucumbers
+  - 3 or 4 large onions
+  - 1 quart vinegar
+  - 1 pint water
+  - 2-4 cups sugar (adjust to taste)
+  - 1 tsp pepper
+  - 1 tsp alum (for crispness)
+  - 1 tsp dry mustard
+  - 1 tsp celery seed
+  - 1 tsp turmeric
+instructions:
+  - step:
+    title: Preparation
+    description: Slice the cucumbers and onions thinly. Soak them in salt water overnight to ensure crispness. The next day, drain them well.
+  - step:
+    title: Cook the Brine
+    description: In a large pot, combine the vinegar, water, sugar, pepper, alum, dry mustard, celery seed, and turmeric. Bring the mixture to a boil, stirring until the sugar dissolves completely.
+  - step:
+    title: Pickle the Vegetables
+    description: Add the drained cucumbers and onions to the boiling brine. Heat everything through but do not boil, to maintain the vegetables' crispness.
+  - step:
+    title: Canning
+    description: While the mixture is still hot, pack the pickles into sterilized jars, leaving a bit of headspace. Seal the jars while hot to ensure a proper vacuum seal.
+  - step:
+    title: Cool and Store
+    description: Allow the jars to cool at room temperature. Check the seals before storing them in a cool, dark place.
+nutrition:
+  serving_size: 1 cucumber
+  servings_per_recipe: 24
+  calories: 116
+  total_fat: 2.9
+  saturated_fat: 0.4
+  cholesterol: 0
+  sodium: 455
+  total_carbohydrates: 22.9
+  dietary_fiber: 3.9
+  total_sugars: 11
+  protein: 3.4
+  vitamin_d: 0
+  calcium: 386
+  iron: 6
+  potassium: 414
+prep_time: PT8H
+cook_time: PT15M
+total_time: PT8H15M
 ---
 
-* this unordered seed list will be replaced by the toc
-{:toc}
-
-Embark on a journey to create the quintessential American classic, Bread and Butter Pickles, with this simple yet delicious recipe. This delightful pickle variety is known for its sweet and tangy flavor profile, making it a perfect companion for sandwiches, burgers, or as a standalone snack. The unique combination of spices and the crispiness of the cucumbers ensure that these pickles will be a hit at any gathering.
-
-## Ingredients
-
-* 2 dozen cucumbers
-* 3 or 4 large onions
-* 1 quart vinegar
-* 1 pint water
-* 2-4 cups sugar (adjust to taste)
-* 1 tsp pepper
-* 1 tsp alum (for crispness)
-* 1 tsp dry mustard
-* 1 tsp celery seed
-* 1 tsp turmeric
-
-## Instructions
-
-* **Preparation:** Slice the cucumbers and onions thinly. Soak them in salt water overnight to ensure crispness. The next day, drain them well.
-
-* **Cook the Brine:** In a large pot, combine the vinegar, water, sugar, pepper, alum, dry mustard, celery seed, and turmeric. Bring the mixture to a boil, stirring until the sugar dissolves completely.
-
-* **Pickle the Vegetables:** Add the drained cucumbers and onions to the boiling brine. Heat everything through but do not boil, to maintain the vegetables' crispness.
-
-* **Canning:** While the mixture is still hot, pack the pickles into sterilized jars, leaving a bit of headspace. Seal the jars while hot to ensure a proper vacuum seal.
-
-* **Cool and Store:** Allow the jars to cool at room temperature. Check the seals before storing them in a cool, dark place.
+# Bread and Butter Pickles
 
 ## A Slice of History: The Story of Bread and Butter Pickles
 
@@ -62,88 +87,3 @@ Bread and Butter Pickles are not just for snacking; they offer a world of culina
 ## Sweet, Tangy, and Everything Nice: Exploring the Appeal of Bread and Butter Pickles
 
 Incorporating Bread and Butter Pickles into your cooking not only adds a delicious layer of taste but also connects you to a rich tradition of American home cooking. Whether you're enjoying them straight from the jar or as part of a larger dish, these pickles are a testament to the timeless appeal of pickling and its ongoing legacy in kitchens across the country.
-
-## Nutrition Facts
-
-* **Serving Size:** 1 cucumber
-* **Servings:** 24
-* **Calories:** 116
-
-**% Daily Value**
-
-* **Total Fat:** 2.9g (4% DV)
-* **Saturated Fat:** 0.4g (2% DV)
-* **Cholesterol:** 0mg (0% DV)
-* **Sodium:** 455mg (20% DV)
-* **Total Carbohydrate:** 22.9g (8% DV)
-* **Dietary Fiber:** 3.9g (14% DV)
-* **Total Sugars:** 11g
-* **Protein:** 3.4g
-* **Vitamin D:** 0mcg (0% DV)
-* **Calcium:** 386mg (30% DV)
-* **Iron:** 6mg (33% DV)
-* **Potassium:** 414mg (9% DV)
-
-Note: The "% Daily Value" (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
-
-Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076" target="_blank">verywell</a>.
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "name": "Bread and Butter Pickles",
-  "image": "bread-and-butter-pickles.jpg",
-  "author": {
-    "@type": "Person",
-    "name": "Steven D Noble"
-  },
-  "description": "A simple and delicious recipe for classic Bread and Butter Pickles, known for their sweet and tangy flavor. Perfect as a snack or to accompany your favorite dishes.",
-  "prepTime": "PT8H",
-  "cookTime": "PT15M",
-  "totalTime": "PT8H15M",
-  "recipeYield": "24 servings",
-  "recipeIngredient": [
-    "2 dozen cucumbers",
-    "3 or 4 large onions",
-    "1 quart vinegar",
-    "1 pint water",
-    "2-4 cups sugar",
-    "1 tsp pepper",
-    "1 tsp alum",
-    "1 tsp dry mustard",
-    "1 tsp celery seed",
-    "1 tsp turmeric"
-  ],
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "Soak sliced cucumbers and onions in salt water overnight; drain."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Boil together vinegar, water, sugar, pepper, alum, dry mustard, celery seed, and turmeric."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Drop cucumbers and onions in the brine and heat through."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Can and seal the jars while hot."
-    }
-  ],
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "116 calories",
-    "fatContent": "2.9g",
-    "saturatedFatContent": "0.4g",
-    "cholesterolContent": "0mg",
-    "sodiumContent": "455mg",
-    "carbohydrateContent": "22.9g",
-    "fiberContent": "3.9g",
-    "sugarContent": "11g",
-    "proteinContent": "3.4g"
-  }
-}
-</script>

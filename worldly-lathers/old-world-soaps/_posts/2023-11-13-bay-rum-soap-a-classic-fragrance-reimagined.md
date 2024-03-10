@@ -2,18 +2,19 @@
 layout: post
 title: "Bay Rum Soap: A Classic Fragrance Reimagined"
 description: >
-  "Bay Rum Soap: A Classic Fragrance Reimagined" explores the captivating journey of Bay Rum
-  from its origins in the West Indies to its place in the modern grooming repertoire. This
-  post delves into the historical backdrop of the Bay Rum scent, traditionally cherished in
-  men's grooming rituals, and its evolution into a beloved fragrance for artisanal soap
-  making. Highlighting the rich, spicy-sweet aroma characterized by notes of bay leaves,
-  clove, and cinnamon, the article celebrates the luxurious and invigorating experience of
-  using Bay Rum soap. It outlines the meticulous craftsmanship involved in creating these
-  handcrafted soaps through the cold process method, emphasizing the blend of natural
-  ingredients that cater to all skin types. This blog post pays tribute to the timeless
-  allure of Bay Rum soap, showcasing its resurgence in popularity as a symbol of quality,
-  tradition, and the art of soap making, appealing to a broad audience seeking a touch of
-  luxury and history in their skincare routine.
+  "Bay Rum Soap: A Classic Fragrance Reimagined" explores the captivating journey of Bay
+  Rum from its origins in the West Indies to its place in the modern grooming
+  repertoire. This post delves into the historical backdrop of the Bay Rum scent,
+  traditionally cherished in men's grooming rituals, and its evolution into a beloved
+  fragrance for artisanal soap making. Highlighting the rich, spicy-sweet aroma
+  characterized by notes of bay leaves, clove, and cinnamon, the article celebrates the
+  luxurious and invigorating experience of using Bay Rum soap. It outlines the
+  meticulous craftsmanship involved in creating these handcrafted soaps through the cold
+  process method, emphasizing the blend of natural ingredients that cater to all skin
+  types. This blog post pays tribute to the timeless allure of Bay Rum soap, showcasing
+  its resurgence in popularity as a symbol of quality, tradition, and the art of soap
+  making, appealing to a broad audience seeking a touch of luxury and history in their
+  skincare routine.
 image: /assets/img/worldly-lathers/bay-rum-soap-a-classic-fragrance-reimagined.jpg
 tags: ['Bay Rum Soap', 'Artisanal Soap Making', 'West Indian Bay Tree', 'Cold Process', 'Aromatic Soaps']
 author: worldlylathers

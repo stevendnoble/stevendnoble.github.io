@@ -2,15 +2,16 @@
 layout: post
 title: "Spotlight on CRUD: Managing Your Drag Queen Database with Elegance"
 description: >
-  Dive into the glamorous world of drag and discover how to manage your very own drag queen
-  database with finesse using Node.js, SQLite3, and Bootstrap. This comprehensive guide walks
-  you through the essential CRUD (Create, Read, Update, Delete) operations needed to keep your
-  digital domain as dynamic and dazzling as the queens it represents. Learn to add new
-  performers with stylish Bootstrap forms, showcase your fabulous roster, keep their details
-  up-to-date, and gracefully remove profiles when it's time for their final curtain call.
-  Whether you're a drag performer looking to manage bookings and gigs or a fan creating a
-  tribute site, this tutorial ensures your backend management is as polished as the queens
-  themselves. Step behind the scenes and let's get the show started!
+  Dive into the glamorous world of drag and discover how to manage your very own drag
+  queen database with finesse using Node.js, SQLite3, and Bootstrap. This comprehensive
+  guide walks you through the essential CRUD (Create, Read, Update, Delete) operations
+  needed to keep your digital domain as dynamic and dazzling as the queens it
+  represents. Learn to add new performers with stylish Bootstrap forms, showcase your
+  fabulous roster, keep their details up-to-date, and gracefully remove profiles when
+  it's time for their final curtain call. Whether you're a drag performer looking to
+  manage bookings and gigs or a fan creating a tribute site, this tutorial ensures your
+  backend management is as polished as the queens themselves. Step behind the scenes
+  and let's get the show started!
 image: /assets/img/webdevfun/spotlight-on-crud-managing-your-drag-queen-database-with-elegance.jpg
 tags: ['Node.js', 'Express', 'SQLite3', 'CRUD', 'Knex', 'Drag Queens']
 author: stevendnoble

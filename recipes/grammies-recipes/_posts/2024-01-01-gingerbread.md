@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: recipe
 title: Classic Gingerbread
 description: >
   This Classic Gingerbread recipe from my grandmother Elsie's kitchen brings to life the
   cherished flavors of the holiday season through a simple yet utterly delightful treat,
   perfectly spiced and moist, cut into inviting squares. Each step, from melting the
-  shortening to the final sprinkle of spices, is a journey through tradition, culminating in
-  a gingerbread that's rich in molasses and warmly accented with cinnamon, ginger, and
-  cloves. Paired with a cozy, rustic presentation, this recipe not only promises a delicious
-  dessert but also a heartwarming baking experience that celebrates the essence of home and
-  holiday cheer.
+  shortening to the final sprinkle of spices, is a journey through tradition,
+  culminating in a gingerbread that's rich in molasses and warmly accented with
+  cinnamon, ginger, and cloves. Paired with a cozy, rustic presentation, this recipe
+  not only promises a delicious dessert but also a heartwarming baking experience
+  that celebrates the essence of home and holiday cheer.
 image: /assets/img/recipes/classic-gingerbread.jpg
 tags: ['Grammie', 'Elsie', 'Classic Gingerbread', 'Dessert']
 author: stevendnoble-recipes
@@ -18,40 +18,66 @@ related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-applesauce-cake.md
 sitemap: true
 hide_description: true
+intro: >
+  There's something about gingerbread that instantly warms the soul and fills the home
+  with a sense of comfort and joy. This classic recipe brings all the traditional
+  flavors of gingerbread to the table, with a soft, moist texture that's simply
+  irresistible. Perfect for a cozy night in, a festive gathering, or just because you
+  deserve a treat, this gingerbread will transport you to a world of warm spices and
+  sweet satisfaction.
+ingredients:
+  - ½ cup shortening
+  - ½ cup sugar
+  - 1 egg
+  - 2½ cups flour
+  - ½ tsp salt
+  - 1½ tsp baking powder
+  - 1 tsp cinnamon
+  - 1 tsp ginger
+  - ½ tsp cloves
+  - 1 cup molasses
+  - 1 cup hot water
+instructions:
+  - step:
+    title: Preparation
+    description: Start by melting the shortening in a 3 or 4-quart saucepan. Once melted, remove from heat and allow it to cool.
+  - step:
+    title: Mix Wet Ingredients
+    description: Add sugar and egg to the cooled shortening, beating well to combine.
+  - step:
+    title: Sift Dry Ingredients
+    description: In a separate bowl, sift together flour, baking soda, salt, and spices to ensure even distribution.
+  - step:
+    title: Combine
+    description: Stir in the molasses and hot water to the sugar mixture, blending smoothly. Gradually fold in the dry ingredients until the mixture is well incorporated.
+  - step:
+    title: Bake
+    description: Pour the batter into a greased 9” square pan and bake at 350°F for 30-45 minutes, or until a toothpick inserted into the center comes out clean.
+  - step:
+    title: Cool
+    description: Allow the gingerbread to cool in the pan before serving to ensure it sets properly and retains its moist texture.
+nutrition:
+  serving_size: 1 slice
+  servings_per_recipe: 16
+  calories: 386
+  total_fat: 5.6
+  saturated_fat: 1.6
+  cholesterol: 23
+  sodium: 1267
+  total_carbohydrates: 85.4
+  dietary_fiber: 7.7
+  total_sugars: 7.3
+  protein: 8.6
+  vitamin_d: 2
+  calcium: 1606
+  iron: 8
+  potassium: 3788
+prep_time: PT15M
+cook_time: PT45M
+total_time: PT1H
 ---
 
-* this unordered seed list will be replaced by the toc
-{:toc}
-
-There's something about gingerbread that instantly warms the soul and fills the home with a sense of comfort and joy. This classic recipe brings all the traditional flavors of gingerbread to the table, with a soft, moist texture that's simply irresistible. Perfect for a cozy night in, a festive gathering, or just because you deserve a treat, this gingerbread will transport you to a world of warm spices and sweet satisfaction.
-
-## Ingredients
-
-* ½ cup shortening
-* ½ cup sugar
-* 1 egg
-* 2½ cups flour
-* ½ tsp salt
-* 1½ tsp baking powder
-* 1 tsp cinnamon
-* 1 tsp ginger
-* ½ tsp cloves
-* 1 cup molasses
-* 1 cup hot water
-
-## Let's Get Baking!
-
-1. **Preparation:** Start by melting the shortening in a 3 or 4-quart saucepan. Once melted, remove from heat and allow it to cool.
-
-2. **Mix Wet Ingredients:** Add sugar and egg to the cooled shortening, beating well to combine.
-
-3. **Sift Dry Ingredients:** In a separate bowl, sift together flour, baking soda, salt, and spices to ensure even distribution.
-
-4. **Combine:** Stir in the molasses and hot water to the sugar mixture, blending smoothly. Gradually fold in the dry ingredients until the mixture is well incorporated.
-
-5. **Bake:** Pour the batter into a greased 9” square pan and bake at 350°F for 30-45 minutes, or until a toothpick inserted into the center comes out clean.
-
-6. **Cool:** Allow the gingerbread to cool in the pan before serving to ensure it sets properly and retains its moist texture.
+# Classic Gingerbread
 
 ## Gingerbread: A Timeless Treat with a Spiced Twist
 
@@ -91,90 +117,3 @@ To ensure your gingerbread is as delightful to make as it is to eat, keep these 
 ## Gingerbread: A Tale of Comfort and Joy
 
 As you embark on baking this gingerbread, remember that each ingredient adds its own chapter to the story, from the warmth of the spices to the sweetness of the molasses. This isn’t just a recipe; it’s an experience – a celebration of flavors, aromas, and the timeless joy of baking.
-
-## Nutrition Facts
-
-* **Serving Size:** 1 slice
-* **Servings Per Recipe:** 16
-* **Calories:** 386
-
-**% Daily Value**
-
-* **Total Fat:** 5.6g (7% DV)
-* **Saturated Fat:** 1.6g (8% DV)
-* **Cholesterol:** 23mg (8% DV)
-* **Sodium:** 1267mg (55% DV)
-* **Total Carbohydrates:** 85.4g (31% DV)
-* **Dietary Fiber:** 7.7g (28% DV)
-* **Sugars:** 7.3g
-* **Protein:** 8.6g
-* **Vitamin D:** 2mcg (11% DV)
-* **Calcium:** 1606mg (124% DV)
-* **Iron:** 8mg (43% DV)
-* **Potassium:** 3788mg (81% DV)
-
-Note: The "% Daily Value" (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
-
-Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076" target="_blank">verywell</a>.
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Classic Gingerbread",
-  "author": {
-    "@type": "Person",
-    "name": "Steven D Noble"
-  },
-  "image": "classic-gingerbread.jpg",
-  "description": "This classic gingerbread recipe brings all the traditional flavors of gingerbread, with a soft, moist texture that's simply irresistible.",
-  "prepTime": "PT15M",
-  "cookTime": "PT45M",
-  "totalTime": "PT1H",
-  "recipeYield": "16 slices",
-  "recipeIngredient": [
-    "½ cup shortening",
-    "½ cup sugar",
-    "1 egg",
-    "2½ cups flour",
-    "½ tsp salt",
-    "1½ tsp baking powder",
-    "1 tsp cinnamon",
-    "1 tsp ginger",
-    "½ tsp cloves",
-    "1 cup molasses",
-    "1 cup hot water"
-  ],
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "Melt shortening in a saucepan. Remove from heat and let cool."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Add sugar and egg; beat well."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Sift together flour, baking soda, salt, and spices. Combine molasses and water, and add to sugar mixture. Gradually add dry ingredients to the molasses mixture."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Pour into a 9” square pan. Bake at 350 degrees for 30-45 minutes. Allow to cool in the pan before serving."
-    }
-  ],
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "servingSize": "1 slice",
-    "calories": "386 calories",
-    "fatContent": "5.6g",
-    "saturatedFatContent": "1.6g",
-    "cholesterolContent": "23mg",
-    "sodiumContent": "1267mg",
-    "carbohydrateContent": "85.4g",
-    "fiberContent": "7.7g",
-    "sugarContent": "7.3g",
-    "proteinContent": "8.6g"
-  }
-}
-</script>

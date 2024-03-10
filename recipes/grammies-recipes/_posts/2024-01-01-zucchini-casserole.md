@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Zucchini Casserole
 description: >
   My grandmother Elsie's Zucchini Casserole recipe is a delightful exploration of
@@ -17,32 +17,57 @@ related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-scalloped-corn-casserole.md
 sitemap: true
 hide_description: true
+intro: >
+  Embark on a culinary journey that takes the humble zucchini to new heights with this
+  Zucchini Casserole recipe. It's a dish that combines the freshness of zucchinis,
+  tomatoes, and onions with the rich, comforting taste of sharp cheddar cheese, all
+  baked to perfection. This casserole is not just a side dish; it's a celebration of
+  summer's bounty, making it perfect for any meal, be it a cozy family dinner or a
+  potluck gathering.
+ingredients:
+  - 2-3 zucchinis, thinly sliced
+  - 3 chopped tomatoes
+  - 2 tbsp chopped onions
+  - 1 cup sharp cheddar cheese, shredded
+  - 2 tbsp oil
+instructions:
+  - step:
+    title: Get the Oven Ready
+    description: Preheat your oven to 350 degrees Fahrenheit.
+  - step:
+    title: Prepare the Veggies
+    description: In a skillet, sauté the onions, zucchini, and tomatoes in oil over low heat until tender.
+  - step:
+    title: Mix in the Good Stuff
+    description: Transfer the sautéed vegetables into a casserole dish and evenly sprinkle the shredded cheddar cheese on top.
+  - step:
+    title: Bake the Casserole
+    description: Place in the preheated oven for 30 minutes, or until the cheese is bubbly and golden.
+  - step:
+    title: Serve
+    description: This Zucchini Casserole is a testament to how a few simple ingredients can create a dish bursting with flavor and texture. Whether served as a main for vegetarians or a side for meat lovers, it brings a cheesy, vegetable-packed punch to your dining table.
+nutrition:
+  serving_size: 1 cup
+  servings_per_recipe: 8
+  calories: 102
+  total_fat: 7.8
+  saturated_fat: 3.1
+  cholesterol: 13
+  sodium: 83
+  total_carbohydrates: 4.8
+  dietary_fiber: 1.3
+  total_sugars: 2.6
+  protein: 4
+  vitamin_d: 2
+  calcium: 103
+  iron: 0
+  potassium: 203
+prep_time: PT15M
+cook_time: PT40M
+total_time: PT55M
 ---
 
-* this unordered seed list will be replaced by the toc
-{:toc}
-
-Embark on a culinary journey that takes the humble zucchini to new heights with this Zucchini Casserole recipe. It's a dish that combines the freshness of zucchinis, tomatoes, and onions with the rich, comforting taste of sharp cheddar cheese, all baked to perfection. This casserole is not just a side dish; it's a celebration of summer's bounty, making it perfect for any meal, be it a cozy family dinner or a potluck gathering.
-
-## Ingredients
-
-* 2-3 zucchinis, thinly sliced
-* 3 chopped tomatoes
-* 2 tbsp chopped onions
-* 1 cup sharp cheddar cheese, shredded
-* 2 tbsp oil
-
-## Instructions
-
-1. **Get the Oven Ready:** Preheat your oven to 350 degrees Fahrenheit.
-
-2. **Prepare the Veggies:** In a skillet, sauté the onions, zucchini, and tomatoes in oil over low heat until tender.
-
-3. **Mix in the Good Stuff:** Transfer the sautéed vegetables into a casserole dish and evenly sprinkle the shredded cheddar cheese on top.
-
-4. **Bake the Casserole:** Place in the preheated oven for 30 minutes, or until the cheese is bubbly and golden.
-
-5. **Serve:** This Zucchini Casserole is a testament to how a few simple ingredients can create a dish bursting with flavor and texture. Whether served as a main for vegetarians or a side for meat lovers, it brings a cheesy, vegetable-packed punch to your dining table.
+# Zucchini Casserole
 
 ## Creative Variations
 
@@ -61,68 +86,3 @@ The beauty of this Zucchini Casserole is that it can be prepared ahead of time, 
 ## Zucchini Casserole: A Cheesy Veggie Delight
 
 By exploring these variations and suggestions, you can tailor the Zucchini Casserole to fit any occasion, preference, or dietary need. It's a versatile dish that invites experimentation, so feel free to get creative and make it your own. Happy cooking!
-
-## Nutrition Facts
-
-* **Serving Size:** 1 cup
-* **Servings Per Recipe:** 8
-* **Calories:** 102
-
-**% Daily Value**
-
-* **Total Fat:** 7.8g (10% DV)
-* **Saturated Fat:** 3.1g (16% DV)
-* **Cholesterol:** 13mg (4% DV)
-* **Sodium:** 83mg (4% DV)
-* **Total Carbohydrates:** 4.8g (2% DV)
-* **Dietary Fiber:** 1.3g (5% DV)
-* **Total Sugars:** 2.6g
-* **Protein:** 4g
-* **Vitamin D:** 2mcg (8% DV)
-* **Calcium:** 103mg (8% DV)
-* **Iron:** 0mg (2% DV)
-* **Potassium:** 203mg (4% DV)
-
-Note: The "% Daily Value" (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
-
-Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076" target="_blank">verywell</a>.
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "name": "Zucchini Casserole",
-  "image": "zucchini-casserole.jpg",
-  "author": {
-    "@type": "Person",
-    "name": "Steven D Noble"
-  },
-  "description": "A delicious casserole combining the freshness of zucchinis, tomatoes, and onions with the comforting taste of sharp cheddar cheese.",
-  "recipeYield": "8 servings",
-  "recipeIngredient": [
-    "2-3 zucchinis, thinly sliced",
-    "3 chopped tomatoes",
-    "2 tbsp chopped onions",
-    "1 cup sharp cheddar cheese, shredded",
-    "2 tbsp oil"
-  ],
-  "recipeInstructions": [
-    "Preheat oven to 350 degrees Fahrenheit.",
-    "Sauté onions, zucchini, and tomatoes in oil over low heat until tender.",
-    "Pour into casserole dish, sprinkle with cheese, and bake for 30 minutes."
-  ],
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "servingSize": "1 cup",
-    "calories": "102 kcal",
-    "fatContent": "7.8 g",
-    "saturatedFatContent": "3.1 g",
-    "cholesterolContent": "13 mg",
-    "sodiumContent": "83 mg",
-    "carbohydrateContent": "4.8 g",
-    "fiberContent": "1.3 g",
-    "sugarContent": "2.6 g",
-    "proteinContent": "4 g"
-  }
-}
-</script>

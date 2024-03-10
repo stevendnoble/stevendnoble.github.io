@@ -2,13 +2,16 @@
 layout: post
 title: "Project Showcase: Build Your Own Pokédex with JavaScript and the PokéAPI"
 description: >
-  Embark on an interactive journey through the Pokémon universe with our dynamic Pokédex project, a captivating
-  showcase that merges the realms of web development and Pokémon fandom. Utilizing the robust PokéAPI, this project
-  brings to life a user-friendly Pokédex, enabling enthusiasts to search, view, and capture their favorite Pokémon in a
-  personalized box. Featuring responsive design powered by Bootstrap, intricate data handling with JavaScript, and
-  efficient templating with Handlebars.js, the Pokédex stands as a testament to the creative and technical prowess of
-  modern web development. Whether you're a seasoned developer or a passionate Pokémon trainer, this project invites you
-  to explore the vast Pokémon database, offering an engaging platform to discover, collect, and cherish the diverse
+  Embark on an interactive journey through the Pokémon universe with our dynamic
+  Pokédex project, a captivating showcase that merges the realms of web development and
+  Pokémon fandom. Utilizing the robust PokéAPI, this project brings to life a
+  user-friendly Pokédex, enabling enthusiasts to search, view, and capture their
+  favorite Pokémon in a personalized box. Featuring responsive design powered by
+  Bootstrap, intricate data handling with JavaScript, and efficient templating with
+  Handlebars.js, the Pokédex stands as a testament to the creative and technical
+  prowess of modern web development. Whether you're a seasoned developer or a
+  passionate Pokémon trainer, this project invites you to explore the vast Pokémon
+  database, offering an engaging platform to discover, collect, and cherish the diverse
   creatures of the Pokémon world.
 image: /assets/img/webdevfun/project-showcase-build-your-own-pokedex-with-javascript-and-the-pokeapi.jpg
 tags: ['HTML Templating', 'API Endpoints', 'Pokémon API', 'HTTP Requests', 'Handlebars.js', 'API Calls']

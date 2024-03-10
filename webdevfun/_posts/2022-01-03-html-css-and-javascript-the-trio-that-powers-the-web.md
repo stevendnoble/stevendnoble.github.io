@@ -3,16 +3,16 @@ layout: post
 title: "HTML, CSS, and JavaScript: The Trio That Powers the Web"
 description: >
   "HTML, CSS, and JavaScript: The Trio That Powers the Web" takes readers on
-  a light-hearted and informative journey through the fundamental technologies that power
-  the internet. With a sprinkle of humor and relatable analogies, this blog post demystifies
-  the roles of HTML, CSS, and JavaScript in web development. Whether you're piecing together
-  the structure of a site with HTML, jazzing it up with CSS, or making it perform magic
-  tricks with JavaScript, this post is your go-to guide for grasping how these core
-  languages work in harmony to create dynamic, responsive, and visually captivating
-  websites. Perfect for beginners and seasoned developers looking for a refreshing take on
-  the basics, this post ensures learning about web development is as enjoyable as it is
-  educational, with practical insights and tips to kickstart your journey into building your
-  own web projects.
+  a light-hearted and informative journey through the fundamental technologies that
+  power the internet. With a sprinkle of humor and relatable analogies, this blog post
+  demystifies the roles of HTML, CSS, and JavaScript in web development. Whether you're
+  piecing together the structure of a site with HTML, jazzing it up with CSS, or making
+  it perform magic tricks with JavaScript, this post is your go-to guide for grasping
+  how these core languages work in harmony to create dynamic, responsive, and visually
+  captivating websites. Perfect for beginners and seasoned developers looking for a
+  refreshing take on the basics, this post ensures learning about web development is as
+  enjoyable as it is educational, with practical insights and tips to kickstart your
+  journey into building your own web projects.
 image: /assets/img/webdevfun/html-css-and-javascript-the-trio-that-powers-the-web.jpg
 tags: ['Web Development Basics', 'HTML Introduction', 'CSS Styling', 'JavaScript Functionality', 'Building Websites']
 author: stevendnoble

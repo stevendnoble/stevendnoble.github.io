@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Shrimp Casserole
 description: >
   Dive into the heartwarming embrace of our Shrimp Casserole, my grandmother Elsie's
@@ -16,35 +16,59 @@ related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-zucchini-casserole.md
 sitemap: true
 hide_description: true
+intro: >
+  Dive into the comforting embrace of this Shrimp Casserole, a dish that promises to
+  warm your heart and tantalize your taste buds. Combining the delicate flavors of
+  shrimp with the hearty texture of macaroni, this casserole is a perfect blend of
+  simplicity and indulgence. Whether you're looking to impress guests or just treat
+  yourself to a delicious meal, this recipe is sure to become a favorite in your
+  culinary repertoire.
+ingredients:
+  - 2 cups cooked shrimp, chicken, or tuna
+  - 2 cups cooked macaroni
+  - ½ cup onion, chopped
+  - ¼ cup parmesan cheese
+  - 1 can cream of chicken soup
+  - ½ cup milk
+  - 1 cup peas
+  - Salt and pepper, to taste
+  - 2 cups crushed saltines
+  - ½ stick oleo or butter, melted
+instructions:
+  - step:
+    title: Prepare the Ingredients
+    description: In a 3-quart dish, mix all ingredients except for the crackers and oleo or butter.
+  - step:
+    title: Make the Topping Mix
+    description: In a separate bowl, mix the crushed crackers with melted oleo or butter, and sprinkle this mixture over the top of the casserole.
+  - step:
+    title: Bake the Casserole
+    description: Bake at 350 degrees for 30 minutes, until the casserole is bubbly and the topping is golden brown.
+  - step:
+    title: Serve
+    description: Enjoy this Shrimp Casserole as a cozy meal that brings the comfort of the sea to your table. Its creamy texture, combined with the crunch of the saltine topping, makes every bite a delightful experience.
+nutrition:
+  serving_size: 1 cup
+  servings_per_recipe: 8
+  calories: 360
+  total_fat: 12.3
+  saturated_fat: 2.6
+  cholesterol: 12
+  sodium: 461
+  total_carbohydrates: 48.3
+  dietary_fiber: 5.6
+  total_sugars: 2.2
+  protein: 15.9
+  vitamin_d: 0
+  calcium: 121
+  iron: 6
+  potassium: 387
+prep_time: PT20M
+cook_time: PT30M
+total_time: PT50M
 ---
 
-* this unordered seed list will be replaced by the toc
-{:toc}
-
-Dive into the comforting embrace of this Shrimp Casserole, a dish that promises to warm your heart and tantalize your taste buds. Combining the delicate flavors of shrimp with the hearty texture of macaroni, this casserole is a perfect blend of simplicity and indulgence. Whether you're looking to impress guests or just treat yourself to a delicious meal, this recipe is sure to become a favorite in your culinary repertoire.
-
-## Ingredients
-
-* 2 cups cooked shrimp, chicken, or tuna
-* 2 cups cooked macaroni
-* ½ cup onion, chopped
-* ¼ cup parmesan cheese
-* 1 can cream of chicken soup
-* ½ cup milk
-* 1 cup peas
-* Salt and pepper, to taste
-* 2 cups crushed saltines
-* ½ stick oleo or butter, melted
-
-## Instructions
-
-1. **Prepare the Ingredients:** In a 3-quart dish, mix all ingredients except for the crackers and oleo or butter.
-
-2. **Make the Topping Mix:** In a separate bowl, mix the crushed crackers with melted oleo or butter, and sprinkle this mixture over the top of the casserole.
-
-3. **Bake the Casserole:** Bake at 350 degrees for 30 minutes, until the casserole is bubbly and the topping is golden brown.
-
-4. **Serve:** Enjoy this Shrimp Casserole as a cozy meal that brings the comfort of the sea to your table. Its creamy texture, combined with the crunch of the saltine topping, makes every bite a delightful experience.
+# Shrimp Casserole
 
 ## A Touch of Creativity
 
@@ -65,73 +89,3 @@ Serve this hearty casserole with a light, citrusy arugula salad to balance the r
 ## Shrimp Casserole: A Comforting Seafood Delight
 
 This Shrimp Casserole is more than just a recipe; it's a canvas for culinary creativity, a comfort food classic that invites experimentation and sharing. Whether you stick to the traditional path or venture out with new flavors and toppings, this dish is sure to satisfy and impress.
-
-## Nutrition Facts
-
-* **Serving Size:** 1 cup
-* **Servings Per Recipe:** 8
-* **Calories:** 360
-
-**% Daily Value**
-
-* **Total Fat:** 12.3g (16% DV)
-* **Saturated Fat:** 2.6g (13% DV)
-* **Cholesterol:** 12mg (4% DV)
-* **Sodium:** 461mg (20% DV)
-* **Total Carbohydrates:** 48.3g (18% DV)
-* **Dietary Fiber:** 5.6g (20% DV)
-* **Total Sugars:** 2.2g
-* **Protein:** 15.9g
-* **Vitamin D:** 0mcg (0% DV)
-* **Calcium:** 121mg (9% DV)
-* **Iron:** 6mg (35% DV)
-* **Potassium:** 387mg (8% DV)
-
-Note: The "% Daily Value" (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
-
-Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076" target="_blank">verywell</a>.
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "name": "Shrimp Casserole",
-  "image": "shrimp-casserole.jpg",
-  "author": {
-    "@type": "Person",
-    "name": "Steven D Noble"
-  },
-  "description": "A comforting seafood casserole combining shrimp, macaroni, and a creamy sauce, topped with a crunchy saltine crust.",
-  "recipeYield": "8 servings",
-  "recipeIngredient": [
-    "2 cups cooked shrimp, chicken, or tuna",
-    "2 cups cooked macaroni",
-    "½ cup onion, chopped",
-    "¼ cup parmesan cheese",
-    "1 can cream of chicken soup",
-    "½ cup milk",
-    "1 cup peas",
-    "Salt and pepper to taste",
-    "2 cups crushed saltines",
-    "½ stick oleo or butter, melted"
-  ],
-  "recipeInstructions": [
-    "Mix all ingredients except crackers and oleo in a 3 quart dish.",
-    "Mix crackers and oleo, and sprinkle on top.",
-    "Bake at 350 degrees for 30 minutes."
-  ],
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "servingSize": "1 cup",
-    "calories": "360 kcal",
-    "fatContent": "12.3 g",
-    "saturatedFatContent": "2.6 g",
-    "cholesterolContent": "12 mg",
-    "sodiumContent": "461 mg",
-    "carbohydrateContent": "48.3 g",
-    "fiberContent": "5.6 g",
-    "sugarContent": "2.2 g",
-    "proteinContent": "15.9 g"
-  }
-}
-</script>

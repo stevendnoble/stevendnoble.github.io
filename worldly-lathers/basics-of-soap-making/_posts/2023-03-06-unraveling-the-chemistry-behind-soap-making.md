@@ -4,15 +4,16 @@ title: "Unraveling the Chemistry Behind Soap Making: A Fusion of Science and Art
 description: >
   Dive into the fascinating world of soap making with our latest blog post, "Unraveling
   the Chemistry Behind Soap Making: A Fusion of Science and Art." This enlightening piece
-  takes you on a journey through the saponification process, the cornerstone of soap making,
-  where fats or oils meet an alkali to birth the cleansing bars we use daily. Explore the
-  critical roles of various fats and oils, understand the importance of the alkali selection,
-  and discover the art of superfatting to enhance soap's moisturizing properties. Additionally,
-  learn about glycerin, the valuable byproduct that makes handmade soaps a luxury for your
-  skin. Whether you're a seasoned soap maker or a curious newcomer, this post will deepen your
-  appreciation for the intricate balance of science and creativity that goes into each bar of
-  soap. Join us as we demystify the chemical reactions at the heart of soap making and
-  celebrate the craft's blend of technical precision and artistic expression.
+  takes you on a journey through the saponification process, the cornerstone of soap
+  making, where fats or oils meet an alkali to birth the cleansing bars we use daily.
+  Explore the critical roles of various fats and oils, understand the importance of the
+  alkali selection, and discover the art of superfatting to enhance soap's moisturizing
+  properties. Additionally, learn about glycerin, the valuable byproduct that makes
+  handmade soaps a luxury for your skin. Whether you're a seasoned soap maker or a
+  curious newcomer, this post will deepen your appreciation for the intricate balance of
+  science and creativity that goes into each bar of soap. Join us as we demystify the
+  chemical reactions at the heart of soap making and celebrate the craft's blend of
+  technical precision and artistic expression.
 image: /assets/img/worldly-lathers/unraveling-the-chemistry-behind-soap-making.jpg
 tags: ['Saponification', 'Handmade Soap', 'Chemical Reactions', 'Natural Ingredients']
 author: worldlylathers

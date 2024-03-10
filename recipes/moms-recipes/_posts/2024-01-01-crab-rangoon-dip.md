@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Crab Rangoon Dip
 description: >
   Indulge in my mother's creamy, decadent Crab Rangoon Dip, a luxurious appetizer that
@@ -17,31 +17,51 @@ related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-shrimpies.md
 sitemap: true
 hide_description: true
+intro: >
+  Dive into the creamy, savory goodness of Crab Rangoon Dip, a crowd-pleasing appetizer
+  that brings the flavors of your favorite Chinese-American takeout dish right to your
+  kitchen. This dip combines succulent crab meat with rich cream cheese, sour cream,
+  and a blend of spices, baked to perfection to create a warm, indulgent spread that's
+  perfect for parties, game days, or as a luxurious snack. Served with crackers, toast
+  points, or vegetable sticks, this dip is sure to be a hit with anyone who tries it.
+ingredients:
+  - 2 cups crab meat
+  - 16 oz cream cheese (2 packages)
+  - ½ cup sour cream
+  - 4 green onions, chopped
+  - 1½ tsp Worcestershire sauce
+  - 2 tbsp powdered sugar
+  - ½ tsp lemon juice
+  - ½ tsp garlic powder
+instructions:
+  - step:
+    title: Preparation
+    description: Preheat your oven to 350°F. Soften the cream cheese in the microwave for about 1 minute to make it easier to mix.
+  - step:
+    title: Mix
+    description: In a bowl, combine the softened cream cheese with the crab meat, green onions, and the rest of the ingredients until well blended.
+  - step:
+    title: Bake
+    description: Transfer the mixture to a baking dish and bake for 30 minutes, or until the dip is hot and bubbly.
+nutrition:
+  servings_per_recipe: 8
+  calories: 247
+  total_fat: 21.5
+  saturated_fat: 13.3
+  cholesterol: 78
+  sodium: 340
+  total_carbohydrates: 5.5
+  dietary_fiber: 0.4
+  protein: 7.9
+  calcium: 151
+  iron: 1
+  potassium: 115
+prep_time: PT10M
+cook_time: PT30M
+total_time: PT40M
 ---
 
-* this unordered seed list will be replaced by the toc
-{:toc}
-
-Dive into the creamy, savory goodness of Crab Rangoon Dip, a crowd-pleasing appetizer that brings the flavors of your favorite Chinese-American takeout dish right to your kitchen. This dip combines succulent crab meat with rich cream cheese, sour cream, and a blend of spices, baked to perfection to create a warm, indulgent spread that's perfect for parties, game days, or as a luxurious snack. Served with crackers, toast points, or vegetable sticks, this dip is sure to be a hit with anyone who tries it.
-
-## Ingredients
-
-* 2 cups crab meat
-* 16 oz cream cheese (2 packages)
-* ½ cup sour cream
-* 4 green onions, chopped
-* 1½ tsp Worcestershire sauce
-* 2 tbsp powdered sugar
-* ½ tsp lemon juice
-* ½ tsp garlic powder
-
-## Instructions
-
-1. **Preparation:** Preheat your oven to 350°F. Soften the cream cheese in the microwave for about 1 minute to make it easier to mix.
-
-2. **Mix:** In a bowl, combine the softened cream cheese with the crab meat, green onions, and the rest of the ingredients until well blended.
-
-3. **Bake:** Transfer the mixture to a baking dish and bake for 30 minutes, or until the dip is hot and bubbly.
+# Crab Rangoon Dip
 
 ## The Ultimate Party Starter: Crab Rangoon Dip
 
@@ -58,81 +78,3 @@ While this recipe is delicious as written, it's also wonderfully adaptable to pe
 ## A Dip That's Sure to Impress
 
 Crab Rangoon Dip is more than just a dish; it's a versatile and delightful way to start any meal or party. Its rich flavors and creamy texture make it a memorable appetizer that guests are sure to talk about long after the last bite is gone. Whether you're hosting a casual get-together or a formal event, this dip is guaranteed to impress and satisfy your guests, proving that great things indeed come in small, flavorful packages.
-
-## Nutrition Facts
-
-* **Servings:** 8
-* **Calories per Serving:** 247
-
-**% Daily Value**
-
-* **Total Fat:** 21.5g (28% DV)
-* **Saturated Fat:** 13.3g (66% DV)
-* **Cholesterol:** 78mg (26% DV)
-* **Sodium:** 340mg (15% DV)
-* **Total Carbohydrates:** 5.5g (2% DV)
-* **Dietary Fiber:** 0.4g (1% DV)
-* **Protein:** 7.9g
-* **Calcium:** 151mg (12% DV)
-* **Iron:** 1mg (7% DV)
-* **Potassium:** 115mg (2% DV)
-
-Note: The "% Daily Value" (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
-
-Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076" target="_blank">verywell</a>.
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "name": "Crab Rangoon Dip",
-  "image": "crab-rangoon-dip.jpg",
-  "author": {
-    "@type": "Person",
-    "name": "Steven D Noble"
-  },
-  "description": "A creamy, savory Crab Rangoon Dip that combines crab meat with cream cheese, sour cream, and spices, baked to warm perfection.",
-  "prepTime": "PT10M",
-  "cookTime": "PT30M",
-  "totalTime": "PT40M",
-  "recipeYield": "8 servings",
-  "recipeCategory": "Appetizer",
-  "recipeCuisine": "Chinese-American",
-  "recipeIngredient": [
-    "2 cups crab meat",
-    "16 oz cream cheese (2 packages)",
-    "½ cup sour cream",
-    "4 green onions, chopped",
-    "1½ tsp Worcestershire sauce",
-    "2 tbsp powdered sugar",
-    "½ tsp lemon juice",
-    "½ tsp garlic powder"
-  ],
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "Soften the cream cheese in the microwave for about 1 minute."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Combine softened cream cheese with crab meat, green onions, and remaining ingredients in a bowl."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Transfer to a baking dish and bake at 350°F for 30 minutes."
-    }
-  ],
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "247",
-    "fatContent": "21.5g",
-    "saturatedFatContent": "13.3g",
-    "cholesterolContent": "78mg",
-    "sodiumContent": "340mg",
-    "carbohydrateContent": "5.5g",
-    "fiberContent": "0.4g",
-    "sugarContent": "2.6g",
-    "proteinContent": "7.9g"
-  }
-}
-</script>

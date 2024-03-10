@@ -2,17 +2,17 @@
 layout: post
 title: "Navigating the Palm Oil Debate: A Closer Look at Its Role in Handmade Soaps"
 description: >
-  "Navigating the Palm Oil Debate: A Closer Look at Its Role in Handmade Soaps" addresses the
-  complex and often controversial subject of palm oil usage in soap making. This insightful
-  post explores the multifaceted aspects of palm oil — from its popularity as a versatile,
-  conditioning ingredient in soap recipes to the environmental and ethical concerns
-  surrounding its production. By examining the impact of palm oil cultivation on
-  deforestation, biodiversity loss, and the livelihoods of indigenous communities, the blog
-  seeks to shed light on the importance of sustainable sourcing practices. It also offers
-  practical advice for soap makers on finding responsible palm oil suppliers or exploring
-  alternative oils that can help reduce the environmental footprint of their creations. This
-  post is a must-read for anyone in the soap-making community looking to make informed,
-  ethical choices in their craft.
+  "Navigating the Palm Oil Debate: A Closer Look at Its Role in Handmade Soaps"
+  addresses the complex and often controversial subject of palm oil usage in soap
+  making. This insightful post explores the multifaceted aspects of palm oil — from its
+  popularity as a versatile, conditioning ingredient in soap recipes to the
+  environmental and ethical concerns surrounding its production. By examining the impact
+  of palm oil cultivation on deforestation, biodiversity loss, and the livelihoods of
+  indigenous communities, the blog seeks to shed light on the importance of sustainable
+  sourcing practices. It also offers practical advice for soap makers on finding
+  responsible palm oil suppliers or exploring alternative oils that can help reduce the
+  environmental footprint of their creations. This post is a must-read for anyone in the
+  soap-making community looking to make informed, ethical choices in their craft.
 image: /assets/img/worldly-lathers/navigating-the-palm-oil-debate-a-closer-look-at-its-role-in-handmade-soaps.jpg
 tags: ['Palm Oil', 'Palm Oil Debate', 'Sustainable Palm Oil', 'Eco-Friendly Soap Making', 'Environmental Impact']
 author: worldlylathers

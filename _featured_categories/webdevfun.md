@@ -18,8 +18,6 @@ description: >
 author: stevendnoble
 no_groups: true
 sitemap: true
-redirect_from:
-  - /webdevfun/
 ---
 
 # WebDevFun: Putting the FUN in Web Development Fundamentals

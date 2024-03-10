@@ -17,8 +17,6 @@ description: >
 author: worldlylathers
 no_groups: true
 sitemap: true
-redirect_from:
-  - /basics-of-soap-making/
 ---
 
 # Worldly Lathers: Basics of Soap Making

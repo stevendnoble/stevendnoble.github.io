@@ -17,8 +17,6 @@ description: >
 author: worldlylathers
 no_groups: true
 sitemap: true
-redirect_from:
-  - /worldly-lathers/
 ---
 
 # Worldly Lathers: Artisanal Soap Making

@@ -2,14 +2,17 @@
 layout: post
 title: "Harnessing State and Props in React with Functional Components: A Pokémon Adventure"
 description: >
-  In this insightful blog post, we dive into the art of creating a dynamic and responsive layout for a Pokémon-themed
-  React application, specifically focusing on organizing Pokémon details and their evolution chain side by side using
-  CSS Flexbox. Through a practical example, we explore the steps to fetch and display data from the PokéAPI,
-  highlighting the integration of Pokémon stats and evolutionary paths within a single, cohesive component. This guide
-  not only demonstrates how to leverage React functional components and state management to handle API data but also
-  showcases the power of Flexbox for crafting responsive designs. Perfect for developers looking to enhance their UI
-  layout skills in React projects, this post provides valuable insights into combining external API data with effective
-  layout strategies to create engaging, user-friendly applications.
+  In this insightful blog post, we dive into the art of creating a dynamic and
+  responsive layout for a Pokémon-themed React application, specifically focusing on
+  organizing Pokémon details and their evolution chain side by side using CSS Flexbox.
+  Through a practical example, we explore the steps to fetch and display data from the
+  PokéAPI, highlighting the integration of Pokémon stats and evolutionary paths within
+  a single, cohesive component. This guide not only demonstrates how to leverage React
+  functional components and state management to handle API data but also showcases the
+  power of Flexbox for crafting responsive designs. Perfect for developers looking to
+  enhance their UI layout skills in React projects, this post provides valuable
+  insights into combining external API data with effective layout strategies to create
+  engaging, user-friendly applications.
 image: /assets/img/webdevfun/harnessing-state-and-props-in-react-with-functional-components-a-pokemon-adventure.jpg
 tags: ['React', 'React state management', 'Component design patterns', 'Flexbox in React', 'PokeAPI']
 author: stevendnoble

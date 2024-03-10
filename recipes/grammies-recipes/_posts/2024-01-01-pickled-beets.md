@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: recipe
 title: Pickled Beets
 description: >
   Discover the joy of homemade Pickled Beets with my grandmother Elsie's easy-to-follow
-  recipe, a perfect blend of sweet, tangy, and earthy flavors. Learn about the ancient art
-  of pickling, the incredible health benefits of beets, and creative ways to incorporate
-  this vibrant preserve into your meals. Join us on a culinary adventure that celebrates the
-  simplicity and versatility of this delightful, ruby-red treat.
+  recipe, a perfect blend of sweet, tangy, and earthy flavors. Learn about the ancient
+  art of pickling, the incredible health benefits of beets, and creative ways to
+  incorporate this vibrant preserve into your meals. Join us on a culinary adventure
+  that celebrates the simplicity and versatility of this delightful, ruby-red treat.
 image: /assets/img/recipes/pickled-beets.jpg
 tags: ['Grammie', 'Elsie', 'Pickled Beets', 'Pickling']
 author: stevendnoble-recipes
@@ -15,33 +15,61 @@ related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-bread-and-butter-pickles.md
 sitemap: true
 hide_description: true
+intro: >
+  Dive into the vibrant world of pickling with this simple yet delicious Pickled Beets
+  recipe. Perfect for both beginners and seasoned canners, this recipe combines the
+  earthy sweetness of beets with the tangy kick of apple cider vinegar, creating a
+  preserve that's as versatile as it is tasty. Whether you're looking to add a pop of
+  color to your salads, sandwiches, or just seeking a flavorful snack, these pickled
+  beets are sure to impress. Plus, they're a delightful way to store the bounty of your
+  garden or take advantage of the seasonal produce at your local market. Follow this
+  easy guide to making your own pickled beets and savor the taste of homemade goodness.
+ingredients:
+  - Beets (about 4 dozen)
+  - 9 cups apple cider vinegar (with mother)
+  - 5 cups water
+  - 4¾ cups sugar
+instructions:
+  - step:
+    title: Prepare the Beets
+    description: Place the washed beets in a large container with water. Bring to a boil and cook until the skin slips off easily, at least 20 minutes. Then, pour cold water over the beets to cool.
+  - step:
+    title: Peel and Cut
+    description: Once cooled, peel the beets and cut them into your preferred size and shape. Pack them tightly into jars.
+  - step:
+    title: Make the Pickling Solution
+    description: In a saucepan, combine the apple cider vinegar, water, and sugar. Bring the mixture to a boil, ensuring the sugar is completely dissolved.
+  - step:
+    title: Jar the Beets
+    description: Pour the hot pickling solution over the packed beets in jars, leaving a small headspace. Seal the jars with lids.
+  - step:
+    title: Process
+    description: Process the jars in boiling water for 15-20 minutes to ensure they're sealed and preserved properly.
+  - step:
+    title: Cool and Store
+    description: Let the jars cool at room temperature. Check seals, then store in a cool, dark place.
+nutrition:
+  servings_per_recipe: 48
+  serving_size: 1 beet
+  calories: 89
+  total_fat: 0
+  saturated_fat: 0
+  cholesterol: 0
+  sodium: 3
+  total_carbohydrates: 22.8
+  dietary_fiber: 0
+  total_sugars: 22.7
+  protein: 0
+  vitamin_d: 0
+  calcium: 2
+  iron: 0
+  potassium: 20
+prep_time: PT30M
+cook_time: PT20M
+total_time: PT50M
 ---
 
-* this unordered seed list will be replaced by the toc
-{:toc}
-
-Dive into the vibrant world of pickling with this simple yet delicious Pickled Beets recipe. Perfect for both beginners and seasoned canners, this recipe combines the earthy sweetness of beets with the tangy kick of apple cider vinegar, creating a preserve that's as versatile as it is tasty. Whether you're looking to add a pop of color to your salads, sandwiches, or just seeking a flavorful snack, these pickled beets are sure to impress. Plus, they're a delightful way to store the bounty of your garden or take advantage of the seasonal produce at your local market. Follow this easy guide to making your own pickled beets and savor the taste of homemade goodness.
-
-## Ingredients
-
-* Beets (about 4 dozen)
-* 9 cups apple cider vinegar (with mother)
-* 5 cups water
-* 4¾ cups sugar
-
-## Instructions
-
-1. **Prepare the Beets:** Place the washed beets in a large container with water. Bring to a boil and cook until the skin slips off easily, at least 20 minutes. Then, pour cold water over the beets to cool.
-
-2. **Peel and Cut:** Once cooled, peel the beets and cut them into your preferred size and shape. Pack them tightly into jars.
-
-3. **Make the Pickling Solution:** In a saucepan, combine the apple cider vinegar, water, and sugar. Bring the mixture to a boil, ensuring the sugar is completely dissolved.
-
-4. **Jar the Beets:** Pour the hot pickling solution over the packed beets in jars, leaving a small headspace. Seal the jars with lids.
-
-5. **Process:** Process the jars in boiling water for 15-20 minutes to ensure they're sealed and preserved properly.
-
-6. **Cool and Store:** Let the jars cool at room temperature. Check seals, then store in a cool, dark place.
+# Pickled Beets
 
 **For Canned Beets Variation:**
 Reduce the recipe by ⅓ if using canned beets. Use 6 cans of beets, drained. Pour the hot pickling mixture over them and let them marinate in the refrigerator for a few days before consuming.
@@ -69,82 +97,3 @@ Beyond their role as a side dish or condiment, pickled foods have found their wa
 The resurgence of interest in traditional food preservation methods has brought pickling back into the limelight, especially among those looking to connect with their culinary roots or to adopt a more sustainable lifestyle. Home pickling is a rewarding endeavor that not only yields delicious results but also offers the satisfaction of creating something truly unique. Whether you're a seasoned pickler or a curious newcomer, the world of pickling offers endless possibilities to explore, experiment, and enjoy.
 
 In embracing the art and science of pickling, we connect with an age-old tradition that celebrates the bounty of the earth, the ingenuity of our ancestors, and the shared joy of cooking. Pickling is not just a method of preservation; it's a way to add flavor, nutrition, and a touch of magic to our meals and our lives.
-
-## Nutrition Facts
-
-* **Servings:** 48
-* **Serving Size:** 1 beet
-* **Calories:** 89
-
-**% Daily Value**
-
-* **Total Fat:** 0g (0% DV)
-* **Saturated Fat:** 0g (0% DV)
-* **Cholesterol:** 0mg (0% DV)
-* **Sodium:** 3mg (0% DV)
-* **Total Carbohydrate:** 22.8g (8% DV)
-* **Dietary Fiber:** 0g (0% DV)
-* **Total Sugars:** 22.7g
-* **Protein:** 0g
-* **Vitamin D:** 0mcg (0% DV)
-* **Calcium:** 2mg (0% DV)
-* **Iron:** 0mg (0% DV)
-* **Potassium:** 20mg (0% DV)
-
-Note: The "% Daily Value" (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
-
-Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076" target="_blank">verywell</a>.
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "name": "Pickled Beets",
-  "image": "pickled-beets.jpg",
-  "author": {
-    "@type": "Person",
-    "name": "Steven D Noble"
-  },
-  "description": "A simple and delicious pickled beets recipe combining the earthy sweetness of beets with the tangy kick of apple cider vinegar.",
-  "prepTime": "PT30M",
-  "cookTime": "PT20M",
-  "totalTime": "PT50M",
-  "recipeYield": "48 servings",
-  "recipeIngredient": [
-    "Beets (about 4 dozen)",
-    "9 cups apple cider vinegar (with mother)",
-    "5 cups water",
-    "4¾ cups sugar"
-  ],
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "Boil beets until the skin slips off, at least 20 minutes."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Peel and cut the beets, then pack them into jars."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Bring vinegar, water, and sugar to a boil and pour over beets."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Seal jars and process in boiling water for 15-20 minutes."
-    }
-  ],
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "89 calories",
-    "fatContent": "0g",
-    "saturatedFatContent": "0g",
-    "cholesterolContent": "0mg",
-    "sodiumContent": "3mg",
-    "carbohydrateContent": "22.8g",
-    "fiberContent": "0g",
-    "sugarContent": "22.7g",
-    "proteinContent": "0g"
-  }
-}
-</script>

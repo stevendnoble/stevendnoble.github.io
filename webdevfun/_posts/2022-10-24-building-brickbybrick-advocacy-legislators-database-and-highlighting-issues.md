@@ -2,12 +2,13 @@
 layout: post
 title: 'Building "BrickByBrick Advocacy": Legislators Database and Highlighting Issues'
 description: >
-  This blog post delves into creating an advocacy Rails application, focusing on managing and presenting
-  legislative issues with an emphasis on user engagement. It guides readers through setting up a dynamic
-  index page using Bootstrap for stylish and responsive filters, and it introduces practical steps for adding
-  and utilizing model scopes for efficient data filtering. Additionally, the post outlines how to craft an
-  edit page, enabling users to update legislation details, thus enhancing the app's functionality and user
-  experience in promoting informed civic participation.
+  This blog post delves into creating an advocacy Rails application, focusing on
+  managing and presenting legislative issues with an emphasis on user engagement. It
+  guides readers through setting up a dynamic index page using Bootstrap for stylish
+  and responsive filters, and it introduces practical steps for adding and utilizing
+  model scopes for efficient data filtering. Additionally, the post outlines how to
+  craft an edit page, enabling users to update legislation details, thus enhancing the
+  app's functionality and user experience in promoting informed civic participation.
 image: /assets/img/webdevfun/building-brickbybrick-advocacy-legislators-database-and-highlighting-issues.jpg
 tags: ['Ruby on Rails', 'BrickByBrick Advocacy', 'LGBTQ+ Advocacy', 'Postgres', 'Models', 'Views', 'Controllers']
 author: stevendnoble

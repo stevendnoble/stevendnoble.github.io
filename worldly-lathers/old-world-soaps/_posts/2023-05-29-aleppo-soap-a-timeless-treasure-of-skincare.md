@@ -2,15 +2,16 @@
 layout: post
 title: "Aleppo Soap: A Timeless Treasure of Skincare"
 description: >
-  Aleppo Soap: A Timeless Treasure of Skincare" journeys into the heart of one of the oldest
-  and most revered soap traditions in the world. Originating from the ancient city of Aleppo,
-  Syria, this legendary soap is renowned for its simple, natural composition of olive oil,
-  laurel berry oil, water, and lye. The blog post explores the rich history of Aleppo soap,
-  from its early beginnings to its revered status today as a paragon of purity and gentle
-  efficacy in skincare. Highlighting the meticulous, age-old process of crafting Aleppo soap
-  and its myriad benefits for the skin, including moisturizing, soothing, and healing
-  properties, this post pays homage to the enduring legacy of a soap that has transcended
-  time and culture to remain a cherished staple in the natural beauty realm.
+  Aleppo Soap: A Timeless Treasure of Skincare" journeys into the heart of one of the
+  oldest and most revered soap traditions in the world. Originating from the ancient
+  city of Aleppo, Syria, this legendary soap is renowned for its simple, natural
+  composition of olive oil, laurel berry oil, water, and lye. The blog post explores
+  the rich history of Aleppo soap, from its early beginnings to its revered status today
+  as a paragon of purity and gentle efficacy in skincare. Highlighting the meticulous,
+  age-old process of crafting Aleppo soap and its myriad benefits for the skin,
+  including moisturizing, soothing, and healing properties, this post pays homage to
+  the enduring legacy of a soap that has transcended time and culture to remain a
+  cherished staple in the natural beauty realm.
 image: /assets/img/worldly-lathers/aleppo-soap-a-timeless-treasure-of-skincare.jpg
 tags: ['Aleppo Soap', 'Olive Oil Soap', 'Laurel Berry Oil', 'Syrian Soap', 'Sensitive Skin']
 author: worldlylathers

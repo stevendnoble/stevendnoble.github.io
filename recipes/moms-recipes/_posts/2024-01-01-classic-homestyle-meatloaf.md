@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Classic Homestyle Meatloaf
 description: >
   Dive into the comfort of my mother's Classic Homestyle Meatloaf, the centerpiece of a
@@ -17,34 +17,57 @@ related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-cheesy-salmon-casserole.md
 sitemap: true
 hide_description: true
+intro: >
+  Dive into the comfort of a classic homestyle meatloaf, a staple dish that brings the
+  essence of hearty, family cooking to your dinner table. This recipe combines lean
+  ground beef, tomato juice, and oats for a tender, flavorful loaf that's both
+  satisfying and nutritious. Perfect for a cozy family dinner or a comforting meal prep
+  option, this meatloaf promises to deliver the warmth and satisfaction only a homemade
+  meal can offer.
+ingredients:
+  - 1½ lbs 90 percent lean ground beef
+  - 1 cup tomato juice or sauce
+  - ¾ cups Quaker Oats, quick or old-fashioned, uncooked
+  - 1 egg or 2 egg whites, lightly beaten
+  - ¼ cup chopped onion
+  - ½ tsp salt
+  - ¼ tsp black pepper
+instructions:
+  - step:
+    title: Preheat
+    description: Set your oven to 350 degrees.
+  - step:
+    title: Compbine
+    description: Mix all ingredients in a large bowl until just combined, taking care not to overmix to keep the meatloaf tender.
+  - step:
+    title: Prep
+    description: Shape the mixture into an 8 x 4-inch loaf and place it in a loaf pan.
+  - step:
+    title: Cook
+    description: Bake for 1 hour, or until the internal temperature reaches 160 degrees, indicating medium doneness, and the juices run clear.
+  - step:
+    title: Serve
+    description: Rest the meatloaf for 5 minutes before slicing, allowing any juices to redistribute and making it easier to slice.
+nutrition:
+  servings_per_recipe: 8
+  calories: 267
+  total_fat: 13.2
+  saturated_fat: 5
+  cholesterol: 129
+  sodium: 2540
+  total_carbohydrates: 7.3
+  dietary_fiber: 1.1
+  protein: 28.2
+  vitamin_d: 4
+  calcium: 28
+  iron: 3
+  potassium: 408
+prep_time: PT15M
+cook_time: PT1H
+total_time: PT1H15M
 ---
 
-* this unordered seed list will be replaced by the toc
-{:toc}
-
-Dive into the comfort of a classic homestyle meatloaf, a staple dish that brings the essence of hearty, family cooking to your dinner table. This recipe combines lean ground beef, tomato juice, and oats for a tender, flavorful loaf that's both satisfying and nutritious. Perfect for a cozy family dinner or a comforting meal prep option, this meatloaf promises to deliver the warmth and satisfaction only a homemade meal can offer.
-
-## Ingredients
-
-* 1½ lbs 90 percent lean ground beef
-* 1 cup tomato juice or sauce
-* ¾ cups Quaker Oats, quick or old-fashioned, uncooked
-* 1 egg or 2 egg whites, lightly beaten
-* ¼ cup chopped onion
-* ½ tsp salt
-* ¼ tsp black pepper
-
-## Instructions
-
-1. **Preheat:** Set your oven to 350 degrees.
-
-2. **Compbine:** Mix all ingredients in a large bowl until just combined, taking care not to overmix to keep the meatloaf tender.
-
-3. **Prep:** Shape the mixture into an 8 x 4-inch loaf and place it in a loaf pan.
-
-4. **Cook:** Bake for 1 hour, or until the internal temperature reaches 160 degrees, indicating medium doneness, and the juices run clear.
-
-5. **Serve:** Rest the meatloaf for 5 minutes before slicing, allowing any juices to redistribute and making it easier to slice.
+# Classic Homestyle Meatloaf
 
 ## The Timeless Appeal of Homestyle Meatloaf
 
@@ -68,81 +91,3 @@ Meatloaf is a hearty dish that pairs well with a variety of sides. Classic optio
 ## Embracing the Warmth of Homestyle Cooking
 
 The Classic Homestyle Meatloaf is more than just a meal; it's a comforting reminder of home, a versatile canvas for culinary creativity, and a dish that brings people together. Whether you stick to the traditional recipe or add your own twist, meatloaf offers a satisfying and nourishing experience that's hard to beat. So, preheat your oven and get ready to enjoy a slice of comfort that's been cherished for generations.
-
-## Nutrition Facts
-
-* **Servings:** 8
-* **Calories per Serving:** 267
-
-**% Daily Value**
-
-* **Total Fat:** 13.2g (17% DV)
-* **Saturated Fat:** 5g (25% DV)
-* **Cholesterol:** 129mg (43% DV)
-* **Sodium:** 2540mg (110% DV)
-* **Total Carbohydrates:** 7.3g (3% DV)
-* **Dietary Fiber:** 1.1g (4% DV)
-* **Protein:** 28.2g
-* **Vitamin D:** 4mcg (22% DV)
-* **Calcium:** 28mg (2% DV)
-* **Iron:** 3mg (19% DV)
-* **Potassium:** 408mg (9% DV)
-
-Note: The "% Daily Value" (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
-
-Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076" target="_blank">verywell</a>.
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "name": "Classic Homestyle Meatloaf",
-  "image": "classic-homestyle-meatloaf.jpg",
-  "author": {
-    "@type": "Person",
-    "name": "Steven D Noble"
-  },
-  "description": "A staple dish that brings hearty, family cooking to your dinner table, combining lean ground beef, tomato juice, and oats.",
-  "prepTime": "PT15M",
-  "cookTime": "PT1H",
-  "totalTime": "PT1H15M",
-  "recipeYield": "8 servings",
-  "recipeCategory": "Main Course",
-  "recipeCuisine": "American",
-  "recipeIngredient": [
-    "1½ lbs 90 percent lean ground beef",
-    "1 cup tomato juice or sauce",
-    "¾ cups Quaker Oats, uncooked",
-    "1 egg or 2 egg whites, lightly beaten",
-    "¼ cup chopped onion",
-    "½ tsp salt",
-    "¼ tsp black pepper"
-  ],
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "Preheat oven to 350 degrees. Mix all ingredients and press into an 8 x 4 inch loaf pan."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Bake for 1 hour or until the internal temperature reaches 160 degrees and juices run clear."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Let stand for 5 minutes before slicing."
-    }
-  ],
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "267 calories",
-    "fatContent": "13.2 grams",
-    "saturatedFatContent": "5 grams",
-    "cholesterolContent": "129 milligrams",
-    "sodiumContent": "2540 milligrams",
-    "carbohydrateContent": "7.3 grams",
-    "fiberContent": "1.1 grams",
-    "sugarContent": "0.8 grams",
-    "proteinContent": "28.2 grams"
-  }
-}
-</script>

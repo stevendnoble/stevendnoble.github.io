@@ -2,14 +2,16 @@
 layout: post
 title: "Catching Data with Poké Balls: Dynamic Content with HTML Templating and the PokéAPI"
 description: >
-  Dive into the exciting world of web development with our comprehensive guide on creating a dynamic
-  Pokédex using HTML templating, Bootstrap for responsive styling, Handlebars for data manipulation,
-  and JavaScript for seamless API requests to the PokéAPI. This blog post is a treasure trove for
-  developers and Pokémon enthusiasts alike, offering step-by-step instructions on how to bring your
-  favorite Pokémon to life on the web. Learn how to efficiently fetch and display data, customize
-  your application with CSS, and make your web pages interactive and user-friendly. Whether you're a
-  seasoned developer or just starting out, this guide will empower you to create a vibrant,
-  data-driven web application that showcases the magic of Pokémon through the art of coding.
+  Dive into the exciting world of web development with our comprehensive guide on
+  creating a dynamic Pokédex using HTML templating, Bootstrap for responsive styling,
+  Handlebars for data manipulation, and JavaScript for seamless API requests to the
+  PokéAPI. This blog post is a treasure trove for developers and Pokémon enthusiasts
+  alike, offering step-by-step instructions on how to bring your favorite Pokémon to
+  life on the web. Learn how to efficiently fetch and display data, customize your
+  application with CSS, and make your web pages interactive and user-friendly. Whether
+  you're a seasoned developer or just starting out, this guide will empower you to
+  create a vibrant, data-driven web application that showcases the magic of Pokémon
+  through the art of coding.
 image: /assets/img/webdevfun/catching-data-with-poke-balls-dynamic-content-with-html-templating-and-the-pokeapi.jpg
 tags: ['HTML Templating', 'API Endpoints', 'Pokémon API', 'HTTP Requests', 'Handlebars.js', 'API Calls']
 author: stevendnoble

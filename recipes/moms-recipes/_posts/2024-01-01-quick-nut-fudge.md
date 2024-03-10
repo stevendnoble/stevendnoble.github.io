@@ -1,13 +1,14 @@
 ---
-layout: post
+layout: recipe
 title: Quick Nut Fudge
 description: >
-  My mother's Quick Nut Fudge offers a rich, chocolaty indulgence that perfectly balances the
-  crunchiness of nuts with the smoothness of fudge in every bite. This easy-to-make dessert
-  combines confectioners' sugar, cocoa, and nuts in a symphony of flavors that's both comforting
-  and decadent. Ideal for any occasion, from family gatherings to elegant soirees, this fudge is a
-  versatile treat that promises to delight and satisfy sweet cravings with its melt-in-your-mouth
-  texture and sophisticated taste.
+  My mother's Quick Nut Fudge offers a rich, chocolaty indulgence that perfectly
+  balances the crunchiness of nuts with the smoothness of fudge in every bite. This
+  easy-to-make dessert combines confectioners' sugar, cocoa, and nuts in a symphony of
+  flavors that's both comforting and decadent. Ideal for any occasion, from family
+  gatherings to elegant soirees, this fudge is a versatile treat that promises to
+  delight and satisfy sweet cravings with its melt-in-your-mouth texture and
+  sophisticated taste.
 image: /assets/img/recipes/quick-nut-fudge.jpg
 tags: ['Mom', 'Linda', 'Quick Nut Fudge', 'Dessert']
 author: stevendnoble-recipes
@@ -16,131 +17,80 @@ related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-five-minute-fudge.md
 sitemap: true
 hide_description: true
+intro: >
+  Dive into the simplicity and richness of Classic Cocoa Fudge, a recipe that brings
+  together the smooth sweetness of confectioners' sugar with the deep flavors of cocoa,
+  all complemented by the crunch of pecans or walnuts. This no-fuss fudge recipe is
+  perfect for those moments when you crave something sweet but want to keep things
+  uncomplicated. Whether you're a seasoned baker or new to the kitchen, this fudge is a
+  foolproof way to delight your taste buds and impress your friends and family.
+ingredients:
+  - 1 lb confectioners' sugar
+  - ½ cup cocoa
+  - ¼ tsp salt
+  - 6 tbsp butter or margarine
+  - 4 tbsp milk
+  - 1 tbsp vanilla extract
+  - 1 cup chopped pecans or walnuts
+instructions:
+  - step:
+    title: Prepare the Double Boiler
+    description: Combine all ingredients except for the nuts in a double boiler. Place it over simmering water and stir until the mixture becomes smooth and well combined.
+  - step:
+    title: Add Nuts
+    description: Once the fudge mixture is smooth, stir in the chopped nuts until they are evenly distributed throughout.
+  - step:
+    title: Set the Fudge
+    description: Quickly spread the fudge mixture into a buttered 9”x5” loaf pan, smoothing the top with a spatula.
+  - step:
+    title: Cool and Cut
+    description: Allow the fudge to cool completely in the pan. Once set, turn out onto a cutting board and cut into squares.
+nutrition:
+  servings_per_recipe: 24
+  calories: 81
+  total_fat: 6
+  saturated_fat: 2.3
+  cholesterol: 9
+  sodium: 432
+  total_carbohydrates: 6.5
+  dietary_fiber: 0.9
+  total_sugars: 4.9
+  protein: 2
+  vitamin_d: 2
+  calcium: 26
+  iron: 0
+  potassium: 85
+prep_time: PT15M
+cook_time: PT5M
+total_time: PT20M
 ---
 
-* this unordered seed list will be replaced by the toc
-{:toc}
+# Quick Nut Fudge
 
-GPT
-Five Minute Fudge: A Swift Sweet Treat
-Dive into the simplicity of making your own fudge with this quick and easy Five Minute Fudge recipe. This delightfully rich and creamy fudge is perfect for satisfying sweet cravings or impressing guests with homemade treats. Combining classic ingredients like white sugar, evaporated milk, and milk chocolate chips with the gooey goodness of marshmallows, this fudge is a guaranteed crowd-pleaser. The addition of nuts adds a crunch that contrasts wonderfully with the smooth texture of the fudge, making each bite a perfect blend of flavors and textures.
+## Elevating Your Fudge Experience: Tips and Variations
 
-Ingredients:
-1⅔ cups white sugar
-⅔ cup evaporated milk
-1 tbsp unsalted butter
-½ tsp salt
-1 (6 ounce) package milk chocolate chips
-16 large marshmallows
-1 tsp pure vanilla extract
-1 cup chopped nuts
-Instructions:
-Combine sugar, evaporated milk, butter, and salt in a saucepan over medium heat.
-Cook for 5 minutes, stirring constantly, to dissolve the sugar and blend the ingredients well.
-Add in the chocolate chips, continuing to stir until fully melted and integrated into the mixture.
-Remove from heat; stir in marshmallows, vanilla extract, and chopped nuts until the marshmallows are completely melted and the mixture is smooth.
-Pour the fudge mixture into an 8-inch pan. Allow it to cool at room temperature before cutting it into squares for serving.
+Classic Cocoa Fudge is more than just a dessert; it's a canvas for your culinary creativity. Whether you're making this fudge for a special occasion or as a treat for yourself, here are some tips and variations to enhance your fudge-making experience:
 
-Perfecting Five Minute Fudge: A Sweet Delight in No Time
-Creating the perfect Five Minute Fudge is an art that combines simplicity with a touch of sweetness, making it an ideal recipe for those last-minute dessert cravings or unexpected guests. This no-fuss recipe ensures that you can enjoy a decadent treat without spending hours in the kitchen, making it a favorite among both novice cooks and seasoned chefs alike. Here are some tips and variations to elevate your fudge-making experience:
+### Perfecting the Texture
 
-Customize Your Nuts: While the recipe calls for chopped nuts, feel free to experiment with different types such as walnuts, pecans, or almonds to find your preferred texture and taste. Toasting the nuts before adding them to the mixture can also enhance their flavor.
+* **Consistency is Key:** Cooking time affects the fudge's texture. For a softer fudge, cook for a shorter time. For a firmer fudge, extend the cooking slightly.
+* **Smooth Stirring:** Ensure the sugar and cocoa powder are well-sifted to avoid lumps. Stir continuously for a smooth, velvety texture.
 
-Flavor Variations: Add a new dimension to your fudge by incorporating flavor extracts such as almond, peppermint, or orange. A small amount goes a long way in adding a unique twist to the classic recipe.
+### Flavor Twists
 
-Chocolate Choices: While milk chocolate chips are a classic choice, don't hesitate to experiment with dark chocolate or white chocolate chips for a different taste profile. You can also mix chocolate types for a more complex flavor.
+* **Spice it Up:** Add a pinch of cinnamon or cayenne pepper to the cocoa mixture for a fudge with a spicy kick.
+* **Experiment with Extracts:** Beyond vanilla, experiment with almond, peppermint, or orange extracts to add a unique flavor profile to your fudge.
+* **Boozy Fudge:** For an adult twist, add a tablespoon of your favorite liqueur, such as rum or bourbon, to the mixture just before spreading it into the pan.
 
-Marshmallow Magic: For an even smoother texture, consider using marshmallow cream instead of large marshmallows. This can make the mixing process easier and ensure a more consistent texture throughout the fudge.
+### Mix-ins and Toppings
 
-Serving Suggestions: Cut your fudge into creative shapes using cookie cutters for a festive touch, or layer it with other sweets like brownies or cookie dough for a decadent dessert bar.
+* **Nutty Variations:** While pecans and walnuts are classic, try roasted almonds, hazelnuts, or even a mix of nuts for varied textures and flavors.
+* **Sweet Surprises:** Stir in mini marshmallows, chocolate chips, or dried fruit for added sweetness and a fun texture contrast.
+* **Decadent Toppings:** Before the fudge sets, sprinkle the top with sea salt, crushed candy canes, or a drizzle of caramel for an extra layer of flavor.
 
-By following these tips and adding your own creative touches, you can make the Five Minute Fudge recipe uniquely yours. Whether you stick to the classic recipe or venture into new flavor territories, this fudge is sure to satisfy your sweet tooth with minimal effort and maximum enjoyment.
+### Serving and Storage
 
-Nutritional Profile:
-Servings: 24
-Calories per Serving: 103
-Total Fat: 5.4g (7% DV)
-Saturated Fat: 2.4g (12% DV)
-Cholesterol: 4mg (1% DV)
-Sodium: 91mg (4% DV)
-Total Carbohydrates: 14.4g (5% DV)
-Protein: 1.5g
-Whether you're a novice in the kitchen or a seasoned pro, this Five Minute Fudge recipe promises to deliver delicious results without the fuss. It's the perfect way to whip up a sweet treat when time is of the essence.
-## Nutrition Facts
+* **Cutting with Ease:** For clean cuts, dip your knife in hot water before slicing through the fudge.
+* **Storing Your Fudge:** Keep the fudge in an airtight container between layers of wax paper in a cool, dry place. It can also be refrigerated to extend its shelf life.
 
-* **Servings:** 24
-* **Calories per Serving:** 147
-
-**% Daily Value**
-
-* **Total Fat:** 6.8g (9% DV)
-* **Saturated Fat:** 2.5g (13% DV)
-* **Cholesterol:** 9mg (3% DV)
-* **Sodium:** 432mg (19% DV)
-* **Total Carbohydrates:** 21.5g (8% DV)
-* **Dietary Fiber:** 1g (3% DV)
-* **Protein:** 1.8g
-* **Vitamin D:** 2mcg (10% DV)
-* **Calcium:** 27mg (2% DV)
-* **Iron:** 0mg (2% DV)
-* **Potassium:** 87mg (2% DV)
-
-Note: The "% Daily Value" (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
-
-Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076" target="_blank">verywell</a>.
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "name": "Five Minute Fudge",
-  "image": "five-minute-fudge.jpg",
-  "author": {
-    "@type": "Person",
-    "name": "Steven D Noble"
-  },
-  "description": "A quick and easy homemade fudge recipe that combines white sugar, evaporated milk, chocolate chips, marshmallows, and nuts.",
-  "prepTime": "PT5M",
-  "cookTime": "PT5M",
-  "totalTime": "PT10M",
-  "recipeYield": "24 servings",
-  "recipeCategory": "Dessert",
-  "recipeCuisine": "American",
-  "recipeIngredient": [
-    "1⅔ cups white sugar",
-    "⅔ cup evaporated milk",
-    "1 tbsp unsalted butter",
-    "½ tsp salt",
-    "1 (6 ounce) package milk chocolate chips",
-    "16 large marshmallows",
-    "1 tsp pure vanilla extract",
-    "1 cup chopped nuts"
-  ],
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "Combine sugar, milk, butter, and salt in a saucepan and cook."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Add chocolate chips and melt into the mixture."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Stir in marshmallows, vanilla, and nuts, then cool and cut."
-    }
-  ],
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "103",
-    "fatContent": "5.4g",
-    "saturatedFatContent": "2.4g",
-    "cholesterolContent": "4mg",
-    "sodiumContent": "91mg",
-    "carbohydrateContent": "14.4g",
-    "fiberContent": "0.7g",
-    "sugarContent": "12.8g",
-    "proteinContent": "1.5g"
-  }
-}
-</script>
+Creating Classic Cocoa Fudge is just the beginning. By incorporating these tips and variations, you can make each batch uniquely yours, exploring new flavors and textures that elevate this classic treat to new heights. Whether you're sharing with friends or savoring it solo, every bite of fudge promises a moment of pure indulgence.

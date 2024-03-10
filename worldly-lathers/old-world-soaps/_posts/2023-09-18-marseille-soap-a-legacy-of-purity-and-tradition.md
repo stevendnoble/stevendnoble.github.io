@@ -4,16 +4,16 @@ title: "Marseille Soap: A Legacy of Purity and Tradition"
 description: >
   "Marseille Soap: A Legacy of Purity and Tradition" delves into the storied past and
   enduring charm of Savon de Marseille, a soap that epitomizes the essence of French
-  artisanal heritage and natural skincare. This blog post explores the origins of Marseille
-  soap, tracing its development from medieval times to its status as a globally revered
-  product, celebrated for its simple, natural formulation and versatile uses. Highlighting
-  the traditional production methods that have remained unchanged for centuries, the post
-  emphasizes the soap's benefits for all skin types, its environmental sustainability, and
-  its role in promoting eco-conscious living. Through a narrative that weaves together
-  history, craftsmanship, and purity, the post invites readers to rediscover the timeless
-  appeal of Marseille soap, not just as a cleansing product, but as a symbol of cultural
-  legacy and a testament to the enduring value of simplicity and quality in today's
-  fast-paced world.
+  artisanal heritage and natural skincare. This blog post explores the origins of
+  Marseille soap, tracing its development from medieval times to its status as a
+  globally revered product, celebrated for its simple, natural formulation and versatile
+  uses. Highlighting the traditional production methods that have remained unchanged for
+  centuries, the post emphasizes the soap's benefits for all skin types, its
+  environmental sustainability, and its role in promoting eco-conscious living. Through
+  a narrative that weaves together history, craftsmanship, and purity, the post invites
+  readers to rediscover the timeless appeal of Marseille soap, not just as a cleansing
+  product, but as a symbol of cultural legacy and a testament to the enduring value of
+  simplicity and quality in today's fast-paced world.
 image: /assets/img/worldly-lathers/marseille-soap-a-legacy-of-purity-and-tradition.jpg
 tags: ['Marseille Soap', 'Savon de Marseille', 'French Heritage', 'Olive Oil Soap', 'Natural Skincare', 'Environmentally Friendly']
 author: worldlylathers

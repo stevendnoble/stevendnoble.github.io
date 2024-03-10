@@ -6,8 +6,6 @@ author: stevendnoble-recipes
 no_groups: true
 sitemap: true
 hide_description: true
-redirect_from:
-  - /recipes/
 ---
 
 # Recipes

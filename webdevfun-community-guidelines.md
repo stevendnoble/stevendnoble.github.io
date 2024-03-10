@@ -5,6 +5,7 @@ description: >
 hide_description: true
 permalink: community-guidelines.html
 sitemap: true
+hide_description: true
 ---
 
 * this unordered seed list will be replaced by the toc

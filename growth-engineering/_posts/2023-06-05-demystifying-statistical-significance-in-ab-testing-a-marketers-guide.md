@@ -2,13 +2,14 @@
 layout: post
 title: "Demystifying Statistical Significance in A/B Testing: A Marketer's Guide"
 description: >
-  This blog post demystifies the concept of statistical significance in A/B testing, providing digital
-  marketers with an essential guide to accurately measuring and interpreting the results of their
-  experiments. It delves into the input variables necessary for calculation, such as sample size,
-  conversions, and conversion rate, and outlines the step-by-step process for determining the p-value to
-  assess the likelihood of results occurring by chance. By equipping marketers with the knowledge to
-  calculate and understand statistical significance, the post empowers them to make data-driven decisions
-  that substantiate real improvements over mere statistical flukes.
+  This blog post demystifies the concept of statistical significance in A/B testing,
+  providing digital marketers with an essential guide to accurately measuring and
+  interpreting the results of their experiments. It delves into the input variables
+  necessary for calculation, such as sample size, conversions, and conversion rate, and
+  outlines the step-by-step process for determining the p-value to assess the likelihood
+  of results occurring by chance. By equipping marketers with the knowledge to calculate
+  and understand statistical significance, the post empowers them to make data-driven
+  decisions that substantiate real improvements over mere statistical flukes.
 image: /assets/img/growth-engineering/demystifying-statistical-significance-in-ab-testing-a-marketers-guide.jpg
 tags: ['Growth Engineer', 'A/B Testing', 'Statistical Significance', 'Data Analysis', 'Experimentation Strategy', 'Testing Hypotheses', 'P-value', 'Sample Size Calculation']
 author: stevendnoble

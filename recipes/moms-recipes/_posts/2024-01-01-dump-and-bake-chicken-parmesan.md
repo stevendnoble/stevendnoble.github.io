@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Dump and Bake Chicken Parmesan
 description: >
   Experience the simplicity and heartiness of my mother's Dump and Bake Chicken
@@ -16,33 +16,57 @@ related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-crockpot-cowboy-soup.md
 sitemap: true
 hide_description: true
+intro: >
+  Dive into the world of effortless cooking with this Dump and Bake Chicken Parmesan
+  recipe, a hassle-free way to enjoy a classic Italian dish with minimal prep and
+  maximum flavor. This one-dish wonder combines tender chicken, penne pasta, and a rich
+  tomato sauce under a bubbly, golden crust of mozzarella and parmesan cheeses, all
+  baked to perfection. It's the perfect solution for busy weeknights, offering a
+  comforting, hearty meal that the whole family will love without spending hours in the
+  kitchen.
+ingredients:
+  - 1 (12-ounce) package penne pasta
+  - 1 (24-ounce) jar pasta sauce
+  - 2 cups water, plus more as needed
+  - 1 pound chicken, boneless, skinless, and cut into small pieces
+  - 2 cups mozzarella cheese, shredded and divided
+  - 1/2 cup parmesan cheese, shredded
+  - 1 cup bread crumbs
+  - Salt and pepper, to taste
+instructions:
+  - step:
+    title: Prep
+    description: Preheat the oven to 425°F and spray a 9x13-inch baking dish with cooking spray.
+  - step:
+    title: Combine
+    description: Dump the penne, pasta sauce, water, chicken, and 1/2 cup mozzarella cheese into the prepared baking dish. Season with salt and pepper, then stir to ensure the ingredients are well mixed and covered in liquid. Add more water if necessary to cover the pasta and chicken.
+  - step:
+    title: Bake
+    description: Cover the dish with aluminum foil and bake for 20 minutes. Then, uncover and continue baking until the chicken reaches an internal temperature of 165°F, about 10 minutes more.
+  - step:
+    title: Top and Finish
+    description: Sprinkle the breadcrumbs, remaining mozzarella, and parmesan cheese over the bake. Return to the oven until the cheese melts and the breadcrumbs turn golden brown, about 10 minutes. For a crispier top, broil for an additional 5 minutes or until the desired color is achieved.
+nutrition:
+  servings_per_recipe: 4
+  calories: 748
+  total_fat: 24.3
+  saturated_fat: 9.7
+  cholesterol: 81
+  sodium: 12474
+  total_carbohydrates: 95.6
+  dietary_fiber: 15.2
+  total_sugars: 47.4
+  protein: 39.2
+  vitamin_d: 0
+  calcium: 539
+  iron: 6
+  potassium: 188
+prep_time: PT10M
+cook_time: PT45M
+total_time: PT55M
 ---
 
-* this unordered seed list will be replaced by the toc
-{:toc}
-
-Dive into the world of effortless cooking with this Dump and Bake Chicken Parmesan recipe, a hassle-free way to enjoy a classic Italian dish with minimal prep and maximum flavor. This one-dish wonder combines tender chicken, penne pasta, and a rich tomato sauce under a bubbly, golden crust of mozzarella and parmesan cheeses, all baked to perfection. It's the perfect solution for busy weeknights, offering a comforting, hearty meal that the whole family will love without spending hours in the kitchen.
-
-## Ingredients
-
-* 1 (12-ounce) package penne pasta
-* 1 (24-ounce) jar pasta sauce
-* 2 cups water, plus more as needed
-* 1 pound chicken, boneless, skinless, and cut into small pieces
-* 2 cups mozzarella cheese, shredded and divided
-* 1/2 cup parmesan cheese, shredded
-* 1 cup bread crumbs
-* Salt and pepper, to taste
-
-## Instructions
-
-1. **Prep:** Preheat the oven to 425°F and spray a 9x13-inch baking dish with cooking spray.
-
-2. **Combine:** Dump the penne, pasta sauce, water, chicken, and 1/2 cup mozzarella cheese into the prepared baking dish. Season with salt and pepper, then stir to ensure the ingredients are well mixed and covered in liquid. Add more water if necessary to cover the pasta and chicken.
-
-3. **Bake:** Cover the dish with aluminum foil and bake for 20 minutes. Then, uncover and continue baking until the chicken reaches an internal temperature of 165°F, about 10 minutes more.
-
-4. **Top and Finish:** Sprinkle the breadcrumbs, remaining mozzarella, and parmesan cheese over the bake. Return to the oven until the cheese melts and the breadcrumbs turn golden brown, about 10 minutes. For a crispier top, broil for an additional 5 minutes or until the desired color is achieved.
+# Dump and Bake Chicken Parmesan
 
 ## The Charm of Dump and Bake Recipes
 
@@ -59,84 +83,3 @@ One of the joys of cooking is making a recipe your own, and this Chicken Parmesa
 ## Quick and Easy
 
 This Dump and Bake Chicken Parmesan recipe is more than just a meal; it's a testament to the beauty of simplicity in the kitchen. It proves that with just a few quality ingredients and a straightforward method, you can create a dish that's both comforting and satisfying. Whether you're a seasoned chef or a kitchen novice, this recipe invites you to enjoy the process of making a delicious meal that's sure to become a staple in your culinary repertoire.
-
-## Nutrition Facts
-
-* **Servings:** 4
-* **Calories:** 748
-
-**% Daily Value**
-
-* **Total Fat:** 24.3g (31% DV)
-* **Saturated Fat:** 9.7g (48% DV)
-* **Cholesterol:** 81mg (27% DV)
-* **Sodium:** 12474mg (542% DV)
-* **Total Carbohydrate:** 95.6g (35% DV)
-* **Dietary Fiber:** 15.2g (54% DV)
-* **Total Sugars:** 47.4g
-* **Protein:** 39.2g
-* **Vitamin D:** 0mcg (0% DV)
-* **Calcium:** 539mg (41% DV)
-* **Iron:** 6mg (33% DV)
-* **Potassium:** 188mg (4% DV)
-
-Note: The "% Daily Value" (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
-
-Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076" target="_blank">verywell</a>.
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "name": "Dump and Bake Chicken Parmesan",
-  "image": "dump-and-bake-chicken-parmesan.jpg",
-  "author": {
-    "@type": "Person",
-    "name": "Steven D Noble"
-  },
-  "description": "This easy Dump and Bake Chicken Parmesan is a no-fuss, delicious meal combining tender chicken, penne pasta, and a golden cheese topping.",
-  "prepTime": "PT10M",
-  "cookTime": "PT45M",
-  "totalTime": "PT55M",
-  "recipeYield": "4 servings",
-  "recipeCategory": "Dinner",
-  "recipeCuisine": "Italian",
-  "recipeIngredient": [
-    "1 (12-ounce) package penne pasta",
-    "1 (24-ounce) jar pasta sauce",
-    "2 cups water, plus more as needed",
-    "1 pound chicken, boneless, skinless, and cut into small pieces",
-    "2 cups mozzarella cheese, shredded and divided",
-    "1/2 cup parmesan cheese, shredded",
-    "1 cup bread crumbs",
-    "salt, to taste",
-    "pepper, to taste"
-  ],
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "Preheat oven to 425°F and spray a 9x13-inch baking dish with cooking spray."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Combine penne, pasta sauce, water, chicken, and 1/2 cup mozzarella cheese in the baking dish. Season with salt and pepper, and add more water if needed to cover the pasta and chicken."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Cover with aluminum foil and bake for 20 minutes. Uncover and bake until chicken is cooked through, about 10 minutes. Then top with breadcrumbs, remaining mozzarella, and parmesan cheese, and bake until golden brown, about 10 minutes. Broil for 5 minutes for extra crispiness."
-    }
-  ],
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "748",
-    "fatContent": "24.3g",
-    "saturatedFatContent": "9.7g",
-    "cholesterolContent": "81mg",
-    "sodiumContent": "12474mg",
-    "carbohydrateContent": "95.6g",
-    "fiberContent": "15.2g",
-    "sugarContent": "47.4g",
-    "proteinContent": "39.2g"
-  }
-}
-</script>

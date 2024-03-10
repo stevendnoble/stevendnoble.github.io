@@ -3,16 +3,17 @@ layout: post
 title: "A Beginner’s Guide to Responsive Web Design: Making Your Site Play Nice with Every Device"
 description: >
   Dive into the playful and essential world of Responsive Web Design (RWD) with "A
-  Beginner’s Guide to Responsive Web Design: Making Your Site Play Nice with Every Device.""
-  This blog post transforms the technical terrain of web development into an adventure,
-  comparing RWD to magical clothing that fits any screen size perfectly. It breaks down the
-  core components of RWD—flexible layouts, media queries, and fluid images—into digestible,
-  fun analogies that resonate with beginners and seasoned developers alike. By adopting a
-  mobile-first approach and using responsive frameworks, this guide promises to arm you with
-  the tools and tricks to make websites that look great and work seamlessly across all
-  devices, ensuring a top-notch user experience. Whether you're a budding web developer or
-  just curious about how websites adapt to your screen, this post is your ticket to
-  understanding the magic behind responsive web design.
+  Beginner’s Guide to Responsive Web Design: Making Your Site Play Nice with Every
+  Device." This blog post transforms the technical terrain of web development into an
+  adventure, comparing RWD to magical clothing that fits any screen size perfectly. It
+  breaks down the core components of RWD—flexible layouts, media queries, and fluid
+  images—into digestible, fun analogies that resonate with beginners and seasoned
+  developers alike. By adopting a mobile-first approach and using responsive
+  frameworks, this guide promises to arm you with the tools and tricks to make websites
+  that look great and work seamlessly across all devices, ensuring a top-notch user
+  experience. Whether you're a budding web developer or just curious about how websites
+  adapt to your screen, this post is your ticket to understanding the magic behind
+  responsive web design.
 image: /assets/img/webdevfun/a-beginners-guide-to-responsive-web-design.jpg
 tags: ['Responsive Web Design', 'Mobile-First', 'Flexible Grids', 'Media Queries', 'Screen Size Optimization']
 author: stevendnoble

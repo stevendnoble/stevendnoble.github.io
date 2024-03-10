@@ -7,11 +7,11 @@ description: >
   touch of magic and mirth. This enchanting blog post transforms the complexities of Git
   into a fantastical journey, guiding web development wizards through the arcane arts of
   commit spells, branching portals, and collaborative conjuring. Whether you're a novice
-  necromancer of the net or a grand sorcerer of source code, this primer promises to equip
-  you with the mystical tools needed to master the magical realm of version control,
-  ensuring your digital creations withstand the test of time and collaboration. So grab your
-  wand and prepare to cast your projects into the future with the spellbinding sorcery of
-  Git!
+  necromancer of the net or a grand sorcerer of source code, this primer promises to
+  equip you with the mystical tools needed to master the magical realm of version
+  control, ensuring your digital creations withstand the test of time and
+  collaboration. So grab your wand and prepare to cast your projects into the future
+  with the spellbinding sorcery of Git!
 image: /assets/img/webdevfun/version-control-with-git-the-whimsical-world-of-web-development-wizardry.jpg
 tags: ['Git Version Control', 'commit', 'branch', 'remote', 'init']
 author: stevendnoble

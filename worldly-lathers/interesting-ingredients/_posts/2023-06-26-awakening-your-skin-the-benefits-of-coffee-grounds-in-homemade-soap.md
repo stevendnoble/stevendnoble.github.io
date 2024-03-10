@@ -3,16 +3,16 @@ layout: post
 title: "Awakening Your Skin: The Benefits of Coffee Grounds in Handmade Soap"
 description: >
   "Awakening Your Skin: The Benefits of Coffee Grounds in Handmade Soap" explores the
-  invigorating addition of coffee grounds to the art of soapmaking, unveiling how this common
-  kitchen leftover can transform into a powerhouse ingredient for skincare. This post delves
-  into the multifaceted benefits coffee grounds offer, from natural exfoliation that sloughs
-  away dead skin cells to enhancing circulation and imparting a rich, aromatic experience to
-  your morning routine. We discuss how incorporating coffee grounds into soap not only
-  contributes to a sustainable crafting practice by repurposing waste but also provides
-  caffeine's antioxidant properties to help tighten skin and reduce inflammation. Ideal for
-  soap makers looking to infuse their creations with an energizing boost and coffee lovers
-  alike, this post will inspire you to embrace the beauty benefits lying within your
-  coffee cup.
+  invigorating addition of coffee grounds to the art of soapmaking, unveiling how this
+  common kitchen leftover can transform into a powerhouse ingredient for skincare. This
+  post delves into the multifaceted benefits coffee grounds offer, from natural
+  exfoliation that sloughs away dead skin cells to enhancing circulation and imparting a
+  rich, aromatic experience to your morning routine. We discuss how incorporating coffee
+  grounds into soap not only contributes to a sustainable crafting practice by
+  repurposing waste but also provides caffeine's antioxidant properties to help tighten
+  skin and reduce inflammation. Ideal for soap makers looking to infuse their creations
+  with an energizing boost and coffee lovers alike, this post will inspire you to
+  embrace the beauty benefits lying within your coffee cup.
 image: /assets/img/worldly-lathers/awakening-your-skin-the-benefits-of-coffee-grounds-in-homemade-soap.jpg
 tags: ['Coffee Grounds', 'Handmade Soap', 'Exfoliating Soap', 'Skin Awakening Benefits', 'Rejuvenating Soap Bars']
 author: worldlylathers

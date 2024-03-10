@@ -2,14 +2,17 @@
 layout: post
 title: "Setting Up Your First React App: A Pokémon Adventure"
 description: >
-  Dive into the captivating world of React and Pokémon with our latest blog post, where we guide you through creating
-  your very own Pokédex application. This step-by-step tutorial covers everything from setting up your React
-  environment to fetching and displaying Pokémon data using the PokéAPI. Learn how to implement search functionality,
-  capture Pokémon with a styled "Capture" button, and display your collected Pokémon in a beautifully styled Pokedex
-  component. Perfect for both beginners and seasoned developers, this post combines the fun of Pokémon with the power
-  of React, providing practical examples and tips to enhance your web development skills. Whether you're looking to
-  expand your React knowledge or simply embark on a nostalgic Pokémon adventure, this blog post is your gateway to an
-  exciting project that blends coding with the magic of capturing Pokémon.
+  Dive into the captivating world of React and Pokémon with our latest blog post, where
+  we guide you through creating your very own Pokédex application. This step-by-step
+  tutorial covers everything from setting up your React environment to fetching and
+  displaying Pokémon data using the PokéAPI. Learn how to implement search
+  functionality, capture Pokémon with a styled "Capture" button, and display your
+  collected Pokémon in a beautifully styled Pokedex component. Perfect for both
+  beginners and seasoned developers, this post combines the fun of Pokémon with the
+  power of React, providing practical examples and tips to enhance your web development
+  skills. Whether you're looking to expand your React knowledge or simply embark on a
+  nostalgic Pokémon adventure, this blog post is your gateway to an exciting project
+  that blends coding with the magic of capturing Pokémon.
 image: /assets/img/webdevfun/setting-up-your-first-react-app-a-pokemon-adventure.jpg
 tags: ['React', 'create-react-app', 'Node.js', 'Components', 'Modules', 'PokeAPI']
 author: stevendnoble

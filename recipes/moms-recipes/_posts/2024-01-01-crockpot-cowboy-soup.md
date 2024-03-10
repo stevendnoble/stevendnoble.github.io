@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Crockpot Cowboy Soup
 description: >
   Savor the comforting embrace of my mother's Crockpot Cowboy Soup, a robust and
@@ -16,35 +16,58 @@ related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-country-apple-fritter-bread.md
 sitemap: true
 hide_description: true
+intro: >
+  Dive into the rustic flavors of the Wild West with this Crockpot Cowboy Soup, a
+  robust and filling meal that's as simple to prepare as it is satisfying to eat. This
+  slow-cooked delight combines ground meat with a hearty mix of potatoes, sweet corn,
+  mixed vegetables, and a rich tomato base, creating a comforting bowl that's perfect
+  for any day of the week. Whether you're feeding a hungry family or looking for a warm
+  dish to share with friends, this cowboy soup promises a deliciously hearty experience
+  with every spoonful.
+ingredients:
+  - 2 pounds of ground meat
+  - 4 gold potatoes
+  - 2 cans of mixed vegetables, undrained
+  - 1 can sweet corn, not drained
+  - 1 can of condensed tomato soup
+  - 1 can of diced tomatoes
+  - 1 can cut green beans without draining
+  - Pinch of salt
+  - Dash Pepper
+  - 2 tbsp of sugar
+instructions:
+  - step:
+    title: Prep
+    description: Peel and cube the potatoes. Brown the ground meat in a skillet and drain any excess fat.
+  - step:
+    title: Combine
+    description: Place the cooked meat and cubed potatoes in a large slow cooker.
+  - step:
+    title: Mix
+    description: Add all the canned vegetables, tomato soup, and diced tomatoes to the slow cooker. Season with salt, pepper, and sugar. If substituting with fresh or frozen vegetables, consider adding some meat broth for extra flavor.
+  - step:
+    title: Cook
+    description: Stir well to combine all the ingredients. Cover and set your slow cooker on low, simmering the soup for 2-3 hours until the potatoes are tender and the flavors have melded together beautifully.
+nutrition:
+  servings_per_recipe: 8
+  calories: 301
+  total_fat: 9
+  saturated_fat: 4
+  cholesterol: 100
+  sodium: 5119
+  total_carbohydrates: 19.1
+  dietary_fiber: 3.2
+  protein: 35.1
+  vitamin_d: 0
+  calcium: 26
+  iron: 5
+  potassium: 866
+prep_time: PT20M
+cook_time: PT3H
+total_time: PT3H20M
 ---
 
-* this unordered seed list will be replaced by the toc
-{:toc}
-
-Dive into the rustic flavors of the Wild West with this Crockpot Cowboy Soup, a robust and filling meal that's as simple to prepare as it is satisfying to eat. This slow-cooked delight combines ground meat with a hearty mix of potatoes, sweet corn, mixed vegetables, and a rich tomato base, creating a comforting bowl that's perfect for any day of the week. Whether you're feeding a hungry family or looking for a warm dish to share with friends, this cowboy soup promises a deliciously hearty experience with every spoonful.
-
-## Ingredients
-
-* 2 pounds of ground meat
-* 4 gold potatoes
-* 2 cans of mixed vegetables, undrained
-* 1 can sweet corn, not drained
-* 1 can of condensed tomato soup
-* 1 can of diced tomatoes
-* 1 can cut green beans without draining
-* Pinch of salt
-* Dash Pepper
-* 2 tbsp of sugar
-
-## Instructions
-
-1. **Prep:** Peel and cube the potatoes. Brown the ground meat in a skillet and drain any excess fat.
-
-2. **Combine:** Place the cooked meat and cubed potatoes in a large slow cooker.
-
-3. **Mix:** Add all the canned vegetables, tomato soup, and diced tomatoes to the slow cooker. Season with salt, pepper, and sugar. If substituting with fresh or frozen vegetables, consider adding some meat broth for extra flavor.
-
-4. **Cook:** Stir well to combine all the ingredients. Cover and set your slow cooker on low, simmering the soup for 2-3 hours until the potatoes are tender and the flavors have melded together beautifully.
+# Crockpot Cowboy Soup
 
 ## Exploring the Roots of Cowboy Soup
 
@@ -61,84 +84,3 @@ Crockpot Cowboy Soup is a meal in itself, but it can also be paired with a varie
 ## Quick and Simple
 
 The Crockpot Cowboy Soup is more than just a meal; it's a nod to the culinary traditions of the American West, updated for today's home cook. It celebrates the simplicity, versatility, and comfort of cowboy cuisine, offering a delicious way to feed a crowd or enjoy leftovers throughout the week. Whether you're drawn to its historical roots or its ease of preparation, this cowboy soup is sure to become a cherished recipe in your collection, bringing warmth and flavor to your table with every bowl.
-
-## Nutrition Facts
-
-* **Servings:** 8
-* **Calories per Serving:** 301
-
-**% Daily Value**
-
-* **Total Fat:** 9g (12% DV)
-* **Saturated Fat:** 4g (20% DV)
-* **Cholesterol:** 100mg (33% DV)
-* **Sodium:** 5119mg (223% DV)
-* **Total Carbohydrates:** 19.1g (7% DV)
-* **Dietary Fiber:** 3.2g (12% DV)
-* **Protein:** 35.1g
-* **Vitamin D:** 0mcg (0% DV)
-* **Calcium:** 26mg (2% DV)
-* **Iron:** 5mg (26% DV)
-* **Potassium:** 866mg (18% DV)
-
-Note: The "% Daily Value" (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
-
-Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076" target="_blank">verywell</a>.
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "name": "Crockpot Cowboy Soup",
-  "image": "crockpot-cowboy-soup.jpg",
-  "author": {
-    "@type": "Person",
-    "name": "Steven D Noble"
-  },
-  "description": "A robust and filling meal combining ground meat, potatoes, sweet corn, mixed vegetables, and a rich tomato base, perfect for a hearty experience.",
-  "prepTime": "PT20M",
-  "cookTime": "PT3H",
-  "totalTime": "PT3H20M",
-  "recipeYield": "8 servings",
-  "recipeCategory": "Main Course",
-  "recipeCuisine": "American",
-  "recipeIngredient": [
-    "2 pounds of ground meat",
-    "4 gold potatoes",
-    "2 cans of mixed vegetables, undrained",
-    "1 can sweet corn, not drained",
-    "1 can of condensed tomato soup",
-    "1 can of diced tomatoes",
-    "1 can cut green beans without draining",
-    "Pinch of salt",
-    "Dash Pepper",
-    "2 tbsp of sugar"
-  ],
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "Peel and cube potatoes; brown and drain ground meat."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Place meat and potatoes in a slow cooker; add canned vegetables, tomato soup, and diced tomatoes. Season with salt, pepper, and sugar."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Cook on low for 2-3 hours until flavors meld and potatoes are tender."
-    }
-  ],
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "301",
-    "fatContent": "9g",
-    "saturatedFatContent": "4g",
-    "cholesterolContent": "100mg",
-    "sodiumContent": "5119mg",
-    "carbohydrateContent": "19.1g",
-    "fiberContent": "3.2g",
-    "sugarContent": "6g",
-    "proteinContent": "35.1g"
-  }
-}
-</script>

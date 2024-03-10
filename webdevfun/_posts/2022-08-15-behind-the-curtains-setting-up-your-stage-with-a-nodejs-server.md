@@ -2,14 +2,16 @@
 layout: post
 title: "Behind the Curtains: Setting Up Your Stage with a Node.js Server"
 description: >
-  Step into the spotlight with Node.js, Express, and SQLite3 as your backstage tech crew, ensuring your digital
-  drag performance is as flawless as your on-stage presence. This guide takes you through the steps of
-  integrating SQLite3, a lightweight and efficient SQL database, with a Node.js server, creating a solid
-  foundation for your web projects. From installing SQLite3 and setting up your first database to crafting
-  dynamic routes with Express for data retrieval, you'll learn how to manage show schedules, performances, and
-  fan interactions with ease. Perfect for drag artists and performers looking to establish an online presence
-  without the overhead of more complex database systems, this tutorial is your ticket to a standing ovation in
-  the digital realm.
+  Step into the spotlight with Node.js, Express, and SQLite3 as your backstage tech
+  crew, ensuring your digital drag performance is as flawless as your on-stage
+  presence. This guide takes you through the steps of integrating SQLite3, a
+  lightweight and efficient SQL database, with a Node.js server, creating a solid
+  foundation for your web projects. From installing SQLite3 and setting up your first
+  database to crafting dynamic routes with Express for data retrieval, you'll learn how
+  to manage show schedules, performances, and fan interactions with ease. Perfect for
+  drag artists and performers looking to establish an online presence without the
+  overhead of more complex database systems, this tutorial is your ticket to a standing
+  ovation in the digital realm.
 image: /assets/img/webdevfun/behind-the-curtains-setting-up-your-stage-with-a-nodejs-server.jpg
 tags: ['Node.js', 'Express', 'SQLite3', 'Tutorial', 'Database Management', 'Drag Queens']
 author: stevendnoble

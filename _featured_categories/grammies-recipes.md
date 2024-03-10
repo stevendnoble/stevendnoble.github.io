@@ -21,8 +21,6 @@ description: >
 author: stevendnoble-recipes
 no_groups: true
 sitemap: true
-redirect_from:
-  - /grammies-recipes/
 ---
 
 # Grammie's Recipes: From the Kitchen of Elsie Damren

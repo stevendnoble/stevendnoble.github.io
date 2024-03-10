@@ -1,13 +1,14 @@
 ---
-layout: post
+layout: recipe
 title: Creamy Marshmallow Fudge
 description: >
-  My mother's Creamy Marshmallow Fudge melds the lush richness of semi-sweet chocolate with the
-  fluffy sweetness of marshmallows to create a velvety, melt-in-your-mouth confection that's
-  impossible to resist. This simple yet elegant dessert offers a perfect balance of creamy texture
-  and deep chocolate flavor, enhanced with a hint of vanilla and the optional crunch of pecans.
-  Ideal for special occasions or as a delightful everyday treat, this fudge promises to satisfy
-  any sweet tooth with its indulgent and comforting taste.
+  My mother's Creamy Marshmallow Fudge melds the lush richness of semi-sweet chocolate
+  with the fluffy sweetness of marshmallows to create a velvety, melt-in-your-mouth
+  confection that's impossible to resist. This simple yet elegant dessert offers a
+  perfect balance of creamy texture and deep chocolate flavor, enhanced with a hint of
+  vanilla and the optional crunch of pecans. Ideal for special occasions or as a
+  delightful everyday treat, this fudge promises to satisfy any sweet tooth with its
+  indulgent and comforting taste.
 image: /assets/img/recipes/creamy-marshmallow-fudge.jpg
 tags: ['Mom', 'Linda', 'Creamy Marshmallow Fudge', 'Dessert']
 author: stevendnoble-recipes
@@ -16,34 +17,54 @@ related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-quick-nut-fudge.md
 sitemap: true
 hide_description: true
+intro: >
+  Indulge in the velvety smoothness of Creamy Marshmallow Fudge, a classic confection
+  that combines the rich taste of semi-sweet chocolate with the airy sweetness of
+  marshmallows. This recipe is a foolproof way to create a luxurious treat that melts
+  in your mouth, perfect for sharing during the holidays, special occasions, or as a
+  delightful finish to any meal. With a few simple steps, you can whip up this decadent
+  fudge, ensuring a creamy texture and a perfectly sweet taste that's bound to satisfy
+  any sweet tooth.
+ingredients:
+  - 2 cups sugar
+  - ⅔ cup evaporated milk
+  - 16 large marshmallows
+  - ¼ tsp salt
+  - ¼ cup butter
+  - 1 (6oz) package semi-sweet chocolate pieces
+  - 1 tsp vanilla extract
+instructions:
+  - step:
+    title: Combine
+    description: In a saucepan, combine sugar, evaporated milk, marshmallows, and salt.
+  - step:
+    title: Cook
+    description: Stir over medium heat, stirring constantly, until the marshmallows and sugar have completely melted. Once bubbles cover the entire surface, continue boiling for an additional 5 minutes, still stirring.
+  - step:
+    title: Combine
+    description: Remove the saucepan from heat. Beat in the butter, chocolate pieces, and vanilla extract until the chocolate has fully melted and the mixture is smooth.
+  - step:
+    title: Mold
+    description: Pour the fudge into a buttered 9-inch square pan and spread evenly.
+  - step:
+    title: Serve
+    description: Chill in the refrigerator until the fudge is hard. Keep refrigerated until ready to serve.
+nutrition:
+  servings_per_recipe: 24
+  calories: 121
+  total_fat: 3.8
+  saturated_fat: 2.4
+  cholesterol: 6
+  sodium: 421
+  total_carbohydrates: 22.1
+  total_sugars: 21.1
+  protein: 0.7
+prep_time: PT10M
+cook_time: PT15M
+total_time: PT25M
 ---
 
-* this unordered seed list will be replaced by the toc
-{:toc}
-
-Indulge in the velvety smoothness of Creamy Marshmallow Fudge, a classic confection that combines the rich taste of semi-sweet chocolate with the airy sweetness of marshmallows. This recipe is a foolproof way to create a luxurious treat that melts in your mouth, perfect for sharing during the holidays, special occasions, or as a delightful finish to any meal. With a few simple steps, you can whip up this decadent fudge, ensuring a creamy texture and a perfectly sweet taste that's bound to satisfy any sweet tooth.
-
-## Ingredients
-
-* 2 cups sugar
-* ⅔ cup evaporated milk
-* 16 large marshmallows
-* ¼ tsp salt
-* ¼ cup butter
-* 1 (6oz) package semi-sweet chocolate pieces
-* 1 tsp vanilla extract
-
-## Instructions
-
-1. **Combine:** In a saucepan, combine sugar, evaporated milk, marshmallows, and salt.
-
-2. **Cook:** Stir over medium heat, stirring constantly, until the marshmallows and sugar have completely melted. Once bubbles cover the entire surface, continue boiling for an additional 5 minutes, still stirring.
-
-3. **Combine:** Remove the saucepan from heat. Beat in the butter, chocolate pieces, and vanilla extract until the chocolate has fully melted and the mixture is smooth.
-
-4. **Mold:** Pour the fudge into a buttered 9-inch square pan and spread evenly.
-
-5. **Serve:** Chill in the refrigerator until the fudge is hard. Keep refrigerated until ready to serve.
+# Creamy Marshmallow Fudge
 
 ## Delving Deeper into Creamy Marshmallow Fudge
 
@@ -66,71 +87,3 @@ Homemade fudge, especially as delectable as the Creamy Marshmallow Fudge, makes 
 ## Creamy Marshmallow Fudge: A Sweet Indulgence
 
 Indulging in Creamy Marshmallow Fudge is a celebration of the simple pleasures in life. Its ease of preparation, coupled with the endless possibilities for customization, ensures that this fudge recipe will be a cherished addition to your culinary repertoire, eagerly anticipated by friends and family alike.
-
-## Nutrition Facts
-
-* **Servings:** 24
-* **Calories:** 121
-
-**% Daily Value**
-
-* **Total Fat:** 3.8g (5% DV)
-* **Saturated Fat:** 2.4g (12% DV)
-* **Cholesterol:** 6mg (2% DV)
-* **Sodium:** 421mg (18% DV)
-* **Total Carbohydrates:** 22.1g (8% DV)
-* **Total Sugars:** 21.1g
-* **Protein:** 0.7g
-
-Note: The "% Daily Value" (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
-
-Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076" target="_blank">verywell</a>.
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "name": "Creamy Marshmallow Fudge",
-  "image": "creamy-marshmallow-fudge.jpg",
-  "author": {
-    "@type": "Person",
-    "name": "Steven D Noble"
-  },
-  "description": "A luxurious treat combining semi-sweet chocolate and marshmallows for a creamy, melt-in-your-mouth fudge.",
-  "recipeYield": "24 servings",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "121 calories",
-    "fatContent": "3.8g",
-    "saturatedFatContent": "2.4g",
-    "cholesterolContent": "6mg",
-    "sodiumContent": "421mg",
-    "carbohydrateContent": "22.1g",
-    "proteinContent": "0.7g",
-    "sugarContent": "21.1g"
-  },
-  "recipeIngredient": [
-    "2 cups sugar",
-    "⅔ cup evaporated milk",
-    "16 large marshmallows",
-    "¼ tsp salt",
-    "¼ cup butter",
-    "1 (6oz) package semi-sweet chocolate pieces",
-    "1 tsp vanilla extract"
-  ],
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "Combine sugar, milk, marshmallows, and salt; cook until melted."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Add butter, chocolate, and vanilla; mix until smooth."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Pour into pan, chill until hard, and serve."
-    }
-  ]
-}
-</script>

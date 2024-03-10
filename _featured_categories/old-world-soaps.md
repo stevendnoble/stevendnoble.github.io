@@ -17,8 +17,6 @@ description: >
 author: worldlylathers
 no_groups: true
 sitemap: true
-redirect_from:
-  - /old-world-soaps/
 ---
 
 # Worldly Lathers: Old World Soaps

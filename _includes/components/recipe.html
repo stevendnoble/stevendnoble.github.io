@@ -48,6 +48,16 @@
         <li>{{ ingredient }}</li>
       {%- endfor -%}
     </ul>
+    {% if post.equipment %}
+      <p id="equipment">
+        Equipment:
+      </p>
+      <ul>
+        {%- for item in post.equipment -%}
+          <li>{{ item }}</li>
+        {%- endfor -%}
+      </ul>
+    {% endif %}
   {% endif %}
 
   {% if post.instructions %}

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe
 title: Baby Back Ribs
 description: >
-  Savor the smoky, succulent flavors of our my mother's delight: Baby Back Ribs, a
+  Savor the smoky, succulent flavors of my mother's delight: Baby Back Ribs, a
   recipe designed to deliver tender, fall-off-the-bone meat with a rich, homemade BBQ
   glaze. This guide takes you through an easy, step-by-step process, ensuring a perfect
   backyard barbecue experience. Whether you're a seasoned grill enthusiast or trying
@@ -16,42 +16,61 @@ related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-salmon-loaf.md
 sitemap: true
 hide_description: true
+intro: >
+  There's something incredibly satisfying about the smoky, juicy goodness of baby back
+  ribs that have been cooked to perfection. Whether it's for a casual backyard barbecue
+  or a special family dinner, this recipe promises to deliver tender, fall-off-the-bone
+  ribs with a delectable blend of spices and that irresistible BBQ glaze. So, let's
+  fire up the grill and get started on a culinary journey that's sure to impress!
+ingredients:
+  - 3 lbs baby back ribs
+  - 1 tbsp packed brown sugar
+  - 1 tbsp paprika
+  - 2 tsp garlic powder
+  - 1½ tsp pepper
+  - ½ cup water (divided)
+  - 1½ cups BBQ sauce
+instructions:
+  - step:
+    title: Prep the Grill
+    description: Start by preheating your grill to a medium heat, setting the stage for the magic to happen.
+  - step:
+    title: Rub the Ribs
+    description: Lay each half of the ribs on a sheet of foil. Mix the brown sugar, paprika, garlic powder, and pepper together, then rub this flavorful mixture all over the ribs. This rub is your ticket to a crust that's packed with flavor.
+  - step:
+    title: Wrap 'Em Up
+    description: Carefully bring the foil up around the ribs, creating a snug packet. Before sealing, pour ¼ cup of water into each packet. This little steam bath will ensure your ribs are moist and tender.
+  - step:
+    title: Grill Time
+    description: Place the foil packets on the grill and cover. Let them cook in their steamy cocoon for 45 to 60 minutes. The anticipation will be worth it, I promise!
+  - step:
+    title: The Finishing Touch
+    description: Remove the ribs from their foil packets and lay them directly on the grill. Brush generously with your favorite BBQ sauce, turning and basting every 5 minutes for that perfect sticky, caramelized finish.
+  - step:
+    title: Serve and Enjoy
+    description: After a total of 10-15 minutes on the grill, your ribs are ready to steal the show. Serve them up and watch as they disappear faster than you can say pass the BBQ sauce!
+nutrition:
+  serving_size: 1/2 lb
+  servings_per_recipe: 6
+  calories: 711
+  total_fat: 45.6
+  saturated_fat: 15.9
+  cholesterol: 204
+  sodium: 1664
+  total_carbohydrates: 24.3
+  dietary_fiber: 0.8
+  total_sugars: 18.2
+  protein: 52.5
+  vitamin_d: 0
+  calcium: 10
+  iron: 5
+  potassium: 99
+prep_time: PT15M
+cook_time: PT1H15M
+total_time: PT1H30M
 ---
 
-* this unordered seed list will be replaced by the toc
-{:toc}
-
-There's something incredibly satisfying about the smoky, juicy goodness of baby back ribs that have been cooked to perfection. Whether it's for a casual backyard barbecue or a special family dinner, this recipe promises to deliver tender, fall-off-the-bone ribs with a delectable blend of spices and that irresistible BBQ glaze. So, let's fire up the grill and get started on a culinary journey that's sure to impress!
-
-## Ingredients
-
-**Ribs & Rub:**
-
-* 3 lbs baby back ribs
-* 1 tbsp packed brown sugar
-* 1 tbsp paprika
-* 2 tsp garlic powder
-* 1½ tsp pepper
-
-**For Grilling:**
-
-* 2 sheets (18x24 inch) heavy duty aluminum foil
-* ½ cup water (divided)
-* 1½ cups BBQ sauce
-
-## Instructions
-
-1. **Prep the Grill:** Start by preheating your grill to a medium heat, setting the stage for the magic to happen.
-
-2. **Rub the Ribs:** Lay each half of the ribs on a sheet of foil. Mix the brown sugar, paprika, garlic powder, and pepper together, then rub this flavorful mixture all over the ribs. This rub is your ticket to a crust that's packed with flavor.
-
-3. **Wrap 'Em Up:** Carefully bring the foil up around the ribs, creating a snug packet. Before sealing, pour ¼ cup of water into each packet. This little steam bath will ensure your ribs are moist and tender.
-
-4. **Grill Time:** Place the foil packets on the grill and cover. Let them cook in their steamy cocoon for 45 to 60 minutes. The anticipation will be worth it, I promise!
-
-5. **The Finishing Touch:** Remove the ribs from their foil packets and lay them directly on the grill. Brush generously with your favorite BBQ sauce, turning and basting every 5 minutes for that perfect sticky, caramelized finish.
-
-6. **Serve and Enjoy:** After a total of 10-15 minutes on the grill, your ribs are ready to steal the show. Serve them up and watch as they disappear faster than you can say "pass the BBQ sauce!"
+# Baby Back Ribs
 
 ## Grilling Tips for Perfect Ribs Every Time
 
@@ -75,93 +94,3 @@ There's something incredibly satisfying about the smoky, juicy goodness of baby 
 ## Grill Master's Delight: Baby Back Ribs Recipe
 
 By following these tips and suggestions, you're not just serving up baby back ribs; you're creating an unforgettable dining experience that celebrates the joy of grilling. So, fire up that grill, and let's make some BBQ memories!
-
-## Nutrition Facts
-
-* **Serving Size:** 1/2 lb
-* **Servings Per Recipe:** 6
-* **Calories:** 711
-
-**% Daily Value**
-
-* **Total Fat:** 45.6g (58% DV)
-* **Saturated Fat:** 15.9g (80% DV)
-* **Cholesterol:** 204mg (68% DV)
-* **Sodium:** 1664mg (72% DV)
-* **Total Carbohydrates:** 24.3g (9% DV)
-* **Dietary Fiber:** 0.8g (3% DV)
-* **Total Sugars:** 18.2g
-* **Protein:** 52.5g
-* **Vitamin D:** 0mcg (0% DV)
-* **Calcium:** 10mg (1% DV)
-* **Iron:** 5mg (26% DV)
-* **Potassium:** 99mg (2% DV)
-
-Note: The "% Daily Value" (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
-
-Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076" target="_blank">verywell</a>.
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "name": "Baby Back Ribs",
-  "image": "baby-back-ribs.jpg",
-  "author": {
-    "@type": "Person",
-    "name": "Steven D Noble"
-  },
-  "description": "This recipe for baby back ribs on the grill promises tender, fall-off-the-bone ribs with a delectable blend of spices and that irresistible BBQ glaze.",
-  "prepTime": "PT15M",
-  "cookTime": "PT1H15M",
-  "totalTime": "PT1H30M",
-  "recipeYield": "6 servings",
-  "recipeIngredient": [
-    "3 lbs baby back ribs",
-    "1 tbsp packed brown sugar",
-    "1 tbsp paprika",
-    "2 tsp garlic powder",
-    "1½ tsp pepper",
-    "½ cup water",
-    "1½ cups BBQ sauce"
-  ],
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "Preheat grill to medium."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Center half of the ribs in a single layer on each sheet of foil."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Combine sugar and seasonings; rub over the ribs."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Bring up the foil on both sides. Double fold top and one end to seal packet. Pour in ¼ cup water. Double fold remaining edge, leaving room for heat circulation inside."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Repeat to make 2 packets. Grill 45 to 60 minutes in covered grill."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Remove foil; place ribs on grill. Brush with BBQ sauce and grill for another 10-15 minutes, brushing with sauce and turning every 5 minutes."
-    }
-  ],
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "711",
-    "fatContent": "45.6g",
-    "saturatedFatContent": "15.9g",
-    "cholesterolContent": "204mg",
-    "sodiumContent": "1664 millg",
-    "carbohydrateContent": "24.3g",
-    "fiberContent": "0.8g",
-    "sugarContent": "18.2g",
-    "proteinContent": "52.5g"
-  }
-}
-</script>

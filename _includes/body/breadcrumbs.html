@@ -6,8 +6,7 @@
       <li>
         {% unless forloop.last %}
           <span>{{ site.data.strings.breadcrumbs_separator | default:'/' }}</span>
-          {% assign crumb_limit = forloop.index | plus: 1 %}
-          {% capture href %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}{% endcapture %}
+          {% capture href %}{{ crumb | append: '/' }}{% endcapture %}
           <a href="{{ href | relative_url }}">{{ crumb | url_decode }}</a>
         {% else %}
           <span>{{ site.data.strings.breadcrumbs_separator | default:'/' }}</span>

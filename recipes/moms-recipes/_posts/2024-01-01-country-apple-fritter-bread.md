@@ -35,6 +35,25 @@ ingredients:
   - 1½ tsp baking powder
   - ½ + ⅓ cup light brown sugar
   - 1 cup butter, room temperature
+divided_ingredients:
+  - division:
+    title: For the bread
+    ingredients:
+      - ½ cup milk
+      - 2½ cups sugar
+      - 1½ cups all-purpose flour
+      - 2 eggs
+      - 1 tsp ground cinnamon
+      - 2 apples, peeled and chopped
+      - 1 tsp vanilla
+      - 1½ tsp baking powder
+      - ½ cup light brown sugar
+      - ½ cup butter, room temperature
+  - division:
+    title: For the creme glaze
+    ingredients:
+      - ½ cup butter
+      - ⅓ cup light brown sugar
 instructions:
   - step:
     title: Prepare

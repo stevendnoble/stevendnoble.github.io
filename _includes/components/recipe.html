@@ -43,15 +43,24 @@
     <h2 id="ingredients">
       Ingredients
     </h2>
-    <ul>
-      {%- for ingredient in post.ingredients -%}
-        <li>{{ ingredient }}</li>
+    {% if post.divided_ingredients %}
+      {%- for division in post.divided_ingredients -%}
+        <p><strong>{{ division.title }}:</strong></p>
+        <ul>
+          {%- for ingredient in division.ingredients -%}
+            <li>{{ ingredient }}</li>
+          {%- endfor -%}
+        </ul>
       {%- endfor -%}
-    </ul>
+    {% else %}
+      <ul>
+        {%- for ingredient in post.ingredients -%}
+          <li>{{ ingredient }}</li>
+        {%- endfor -%}
+      </ul>
+    {% endif %}
     {% if post.equipment %}
-      <p id="equipment">
-        Equipment:
-      </p>
+      <p id="equipment"><strong>Equipment:</strong></p>
       <ul>
         {%- for item in post.equipment -%}
           <li>{{ item }}</li>

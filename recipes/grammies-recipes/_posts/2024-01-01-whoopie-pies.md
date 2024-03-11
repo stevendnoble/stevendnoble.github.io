@@ -35,6 +35,27 @@ ingredients:
   - 1 cup milk
   - 2 egg yolks
   - 2 cups confectioners' sugar
+divided_ingredients:
+  - division:
+    title: For the shells
+    ingredients:
+      - ½ cup shortening
+      - 1 cup sugar
+      - 2 egg yolks
+      - 6 tbsp cocoa powder
+      - 2 cups flour
+      - ½ tsp salt
+      - 1 tsp baking powder
+      - 1 tsp baking soda
+      - 1 tsp vanilla
+      - 1 cup milk
+  - division:
+    title: For the filling
+    ingredients:
+      - ½ cup shortening
+      - 2 cups confectioners sugar
+      - 2 egg whites
+      - 1 tsp vanilla
 instructions:
   - step:
     title: Starting with the Shells

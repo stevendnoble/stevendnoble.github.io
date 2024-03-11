@@ -3,6 +3,12 @@
 layout: page
 ---
 
+{% if page.image %}
+  <div class="img-wrapper lead aspect-ratio sixteen-nine flip-project-img">
+    {% include_cached components/hy-img.html img=page.image alt=page.title width=864 height=486 %}
+  </div>
+{% endif %}
+
 {% assign posts = site.categories[page.slug] | default:site.tags[page.slug] | default:site.posts %}
 
 {{ content }}

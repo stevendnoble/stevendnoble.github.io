@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: grid
 title: Recipes
 slug: recipes
 author: stevendnoble-recipes
@@ -8,48 +8,81 @@ sitemap: true
 hide_description: true
 ---
 
-# Recipes
+# Recipe Collections
 
-## [Grammie Elsie's Recipes](/grammies-recipes)
+<div class="columns columns-break">
+  <div class="column column-1-2">
+    <article class="project-card">
+      <a href="/grammies-recipes/" class="no-hover no-print-link flip-project" tabindex="-1">
+        <div class="project-card-img aspect-ratio sixteen-nine flip-project-img">
+          <img src="/assets/img/recipes/grammies-recipes.jpg" alt="Grammie's Recipes" width="864" height="486" loading="lazy" style="opacity: 0;">
+        </div>
+      </a>
+      <h3 class="project-card-title flip-project-title">
+        <a href="/grammies-recipes/" class="flip-title">Grammie's Recipes</a>
+      </h3>
+      <p class="project-card-text fine" property="disambiguatingDescription">
+        Explore Grammie Elsie's culinary legacy, blending English classics and New England favorites, each recipe a story of heritage, tradition, and love.
+      </p>
+      <a class="fill-card no-hover" href="/grammies-recipes/" tabindex="-1">
+        <span class="sr-only">Continue reading Grammie's Recipes</span>
+      </a>
+    </article>
+  </div>
+  <div class="column column-1-2">
+    <article class="project-card">
+      <a href="/moms-recipes/" class="no-hover no-print-link flip-project" tabindex="-1">
+        <div class="project-card-img aspect-ratio sixteen-nine flip-project-img">
+          <img src="/assets/img/recipes/moms-recipes.jpg" alt="Mom's Recipes" width="864" height="486" loading="lazy" style="opacity: 0;">
+        </div>
+      </a>
+      <h3 class="project-card-title flip-project-title">
+        <a href="/moms-recipes/" class="flip-title">Mom's Recipes</a>
+      </h3>
+      <p class="project-card-text fine" property="disambiguatingDescription">
+        Dive into the comforting tapestry of flavors from Mom Linda’s kitchen, where comfort foods, desserts, and seafood delicacies reflect a life rich in diversity and adventure.
+      </p>
+      <a class="fill-card no-hover" href="/moms-recipes/" tabindex="-1">
+        <span class="sr-only">Continue reading Mom's Recipes</span>
+      </a>
+    </article>
+  </div>
+  <div class="column column-1-2">
+    <article class="project-card">
+      <a href="/gluten-free-recipes/" class="no-hover no-print-link flip-project" tabindex="-1">
+        <div class="project-card-img aspect-ratio sixteen-nine flip-project-img">
+          <img src="/assets/img/recipes/gluten-free-recipes.jpg" alt="Gluten-Free Recipes" width="864" height="486" loading="lazy" style="opacity: 0;">
+        </div>
+      </a>
+      <h3 class="project-card-title flip-project-title">
+        <a href="/gluten-free-recipes/" class="flip-title">Gluten-Free Recipes</a>
+      </h3>
+      <p class="project-card-text fine" property="disambiguatingDescription">
+        Unveil the joy of gluten-free cooking with recipes that promise taste, variety, and nutrition, making every meal a delightful, gluten-free experience.
+      </p>
+      <a class="fill-card no-hover" href="/gluten-free-recipes/" tabindex="-1">
+        <span class="sr-only">Continue reading Gluten-Free Recipes</span>
+      </a>
+    </article>
+  </div>
+  <div class="column column-1-2">
+    <article class="project-card">
+      <a href="/favorites/" class="no-hover no-print-link flip-project" tabindex="-1">
+        <div class="project-card-img aspect-ratio sixteen-nine flip-project-img">
+          <img src="/assets/img/recipes/favorites.jpg" alt="Favorite Recipes" width="864" height="486" loading="lazy" style="opacity: 0;">
+        </div>
+      </a>
+      <h3 class="project-card-title flip-project-title">
+        <a href="/favorites/" class="flip-title">Favorite Recipes</a>
+      </h3>
+      <p class="project-card-text fine" property="disambiguatingDescription">
+        Traverse the globe with "My Favorite Recipes," celebrating the diverse and rich flavors of Thai, Persian, Korean, and French cuisine, inviting you to a world of culinary exploration.
+      </p>
+      <a class="fill-card no-hover" href="/favorites/" tabindex="-1">
+        <span class="sr-only">Continue reading Favorite Recipes</span>
+      </a>
+    </article>
+  </div>
+</div>
 
-Dive into the heartwarming culinary world of Grammie Elsie's recipe collection, where
-each dish tells a story of heritage, tradition, and love. Born and raised in England,
-Elsie's recipes are a treasure trove of British classics, from the sweet, indulgent
-desserts that grace afternoon tea tables to the tangy, crisp pickles that accompany a
-hearty Sunday roast. But Elsie's culinary journey didn't end in England. Her
-adventures led her to the rugged shores of Maine, where she embraced the local cuisine
-with open arms, adding succotash and whoopie pies to her repertoire, alongside other
-New England favorites. Elsie's kitchen is a bridge between two worlds, the rolling
-hills of England and the rocky coastlines of Maine. Each recipe, whether it's a
-mincemeat pie, a jar of homemade pickles, or a batch of fluffy whoopie pies, carries
-the essence of Elsie's journey and her love for the places she's called home. These
-dishes are more than just food; they're a legacy of a life well-lived, a collection of
-flavors that spans continents and generations, inviting us to partake in the comfort
-and joy of family traditions. Let's celebrate Grammie Elsie's incredible culinary
-heritage by bringing her recipes to life, one delicious bite at a time.
-
-## [Mom's Recipes](/moms-recipes)
-
-Immerse yourself in the warmth and nostalgia of my mom Linda's kitchen, where her eclectic recipe collection mirrors her life as an army kid, blending hearty comfort
-foods, delectable desserts, and seafood delicacies with influences from the many places
-she's lived. From savory ribs and creamy baked mac and cheese to sweet fudges and cakes,
-alongside coastal favorites like shrimpies and lobster stew, each dish weaves together
-the diverse threads of her experiences into a comforting tapestry of flavors. These
-recipes are more than just food; they're a celebration of family, adventure, and the joy
-of sharing stories and laughter around the table, inviting us to relish in the rich,
-comforting legacy of Mom's culinary journey.
-
-## [Gluten Free Recipes](/gluten-free-recipes)
-
-Discover a world of flavor with our collection of gluten-free recipes! Whether you're
-managing celiac disease, have a gluten sensitivity, or simply wish to explore a
-gluten-free lifestyle, our recipes ensure you don't miss out on taste or variety. From
-hearty breakfasts and sumptuous mains to delectable desserts and snacks, each dish is
-crafted to provide maximum flavor without a trace of gluten. Dive into a culinary
-adventure with ingredients that nourish and satisfy, including fresh vegetables, lean
-proteins, and gluten-free grains. Embrace a healthier way of eating that's as delicious
-as it is nutritious. Perfect for home cooks of all levels, our gluten-free recipes
-promise to make every meal a delightful experience.
-
-<!-- ## [Asian Favorites](/asian-favorites) -->
-
+## Recipes from All the Collections

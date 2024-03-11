@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: grid
 title: Mom's Recipes
 slug: moms-recipes
 description: >

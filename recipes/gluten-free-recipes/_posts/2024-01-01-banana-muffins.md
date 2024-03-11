@@ -12,9 +12,9 @@ description: >
 image: /assets/img/recipes/gluten-free-banana-muffins.jpg
 tags: ['Gluten Free', 'Banana Muffins', 'Breakfast']
 author: stevendnoble-recipes
-# related_posts:
-#   - recipes/gluten-free-recipes/_posts/2024-01-01-.md
-#   - recipes/gluten-free-recipes/_posts/2024-01-01-.md
+related_posts:
+  - recipes/gluten-free-recipes/_posts/2024-01-01-blueberry-muffins.md
+  - recipes/gluten-free-recipes/_posts/2024-01-01-banana-bread.md
 sitemap: true
 hide_description: true
 intro: >
@@ -35,8 +35,8 @@ ingredients:
   - 1 teaspoon baking powder
   - 1 teaspoon baking soda
   - ¼ teaspoon salt
-  - Optional: ½ cup chocolate chips (or any preferred add-in)
-  - Optional: 1 cup fresh blueberries
+  - (optional) ½ cup chocolate chips (or any preferred add-in)
+  - (optional) 1 cup fresh blueberries
 instructions:
   - step:
     title: Start with Prep

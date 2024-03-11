@@ -35,11 +35,11 @@
   <h3 class="project-card-title flip-project-title">
     <a href="{{ post.url | relative_url }}" class="flip-title">{{ post.title }}</a>
   </h3>
-  {% if post.description or post.tagline or post.caption %}
+  <!-- {% if post.description or post.tagline or post.caption %}
     <p class="project-card-text fine" property="disambiguatingDescription">
       {{ post.tagline | default:post.caption | default:post.description | markdownify | replace:'<p>','' | replace:'</p>','' }}
     </p>
-  {% endif %}
+  {% endif %} -->
   {% assign text = site.data.strings.continue_reading | default:"Continue reading <!--post_title-->" %}
   <a class="fill-card no-hover" href="{{ post.url | relative_url }}" tabindex="-1"><span class="sr-only">{{ text | replace:"<!--post_title-->", post.title }}</span></a>
 </article>

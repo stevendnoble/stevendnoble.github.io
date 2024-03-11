@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: grid
 title: Gluten-Free Recipes
 slug: gluten-free-recipes
 description: >

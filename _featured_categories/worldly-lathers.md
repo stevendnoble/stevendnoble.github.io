@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: grid
 title: 'Worldly Lathers: Artisanal Soap Making'
 slug: worldly-lathers
 description: >

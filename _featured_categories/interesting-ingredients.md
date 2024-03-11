@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: grid
 title: 'Worldly Lathers: Interesting Ingredients'
 slug: interesting-ingredients
 description: >

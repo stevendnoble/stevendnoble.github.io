@@ -12,9 +12,9 @@ description: >
 image: /assets/img/recipes/gluten-free-banana-bread.jpg
 tags: ['Gluten Free', 'Banana Bread', 'Dessert']
 author: stevendnoble-recipes
-# related_posts:
-#   - recipes/gluten-free-recipes/_posts/2024-01-01-.md
-#   - recipes/gluten-free-recipes/_posts/2024-01-01-.md
+related_posts:
+  - recipes/gluten-free-recipes/_posts/2024-01-01-banana-muffins.md
+  - recipes/gluten-free-recipes/_posts/2024-01-01-apple-crisp.md
 sitemap: true
 hide_description: true
 intro: >

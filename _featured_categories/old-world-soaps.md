@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: grid
 title: 'Worldly Lathers: Old World Soaps'
 slug: old-world-soaps
 description: >

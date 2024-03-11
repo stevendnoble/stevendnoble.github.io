@@ -12,9 +12,9 @@ description: >
 image: /assets/img/recipes/gluten-free-blueberry-muffins.jpg
 tags: ['Gluten Free', 'Blueberry Muffins', 'Breakfast']
 author: stevendnoble-recipes
-# related_posts:
-#   - recipes/gluten-free-recipes/_posts/2024-01-01-.md
-#   - recipes/gluten-free-recipes/_posts/2024-01-01-.md
+related_posts:
+  - recipes/gluten-free-recipes/_posts/2024-01-01-brownies.md
+  - recipes/gluten-free-recipes/_posts/2024-01-01-banana-muffins.md
 sitemap: true
 hide_description: true
 intro: >
@@ -35,7 +35,7 @@ ingredients:
   - 1 cup milk (dairy or non-dairy)
   - 1 teaspoon vanilla extract
   - 1½ cups fresh or frozen blueberries
-  - Optional: Zest of 1 lemon for added brightness
+  - (optional) Zest of 1 lemon for added brightness
 instructions:
   - step:
     title: Prepare for Baking

@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: grid
 title: 'Worldly Lathers: Basics of Soap Making'
 slug: basics-of-soap-making
 description: >

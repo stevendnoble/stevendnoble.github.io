@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: grid
 title: Grammie Elsie's Recipes
 slug: grammies-recipes
 description: >

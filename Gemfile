@@ -15,9 +15,11 @@ gem "webrick"
 
 group :jekyll_plugins do
   gem "github-pages"
-  gem "jekyll-include-cache"
   gem "jekyll-compose"
+  gem "jekyll-include-cache"
 end
 
-gem 'wdm' if Gem.win_platform?
-gem "tzinfo-data" if Gem.win_platform?
+if Gem.win_platform?
+  gem "tzinfo-data"
+  gem "wdm"
+end

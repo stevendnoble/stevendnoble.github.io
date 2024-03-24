@@ -50,7 +50,7 @@ instructions:
     description: Heat the applesauce to boiling and then, alternating between the dry mixture and the applesauce, gradually add them to the sugar mixture. This step is crucial for creating the moist, dense texture that makes this cake so irresistible.
   - step:
     title: Bake to Perfection
-    description: Pour the batter into a greased and floured loaf pan (9" x 5" x 3"). Then, bake in a preheated oven at 350°F for about 1 hour and 15 minutes, or until a toothpick inserted into the center comes out clean.
+    description: Pour the batter into a greased and floured loaf pan (9x5x3). Then, bake in a preheated oven at 350°F for about 1 hour and 15 minutes, or until a toothpick inserted into the center comes out clean.
   - step:
     title: Cool and Serve
     description: Allow the cake to cool in the pan for a few minutes before transferring it to a wire rack to cool completely. This cake tastes even better the next day, as the flavors have time to meld together.

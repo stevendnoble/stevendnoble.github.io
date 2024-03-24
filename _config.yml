@@ -34,8 +34,6 @@ legal:
     url:               /LICENSE/
   - title:             NOTICE
     url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
 copyright:             © 2024. All rights reserved.
 permalink:             /:categories/:title/
 

@@ -344,7 +344,7 @@ Creating new records is the first step in CRUD. Let's create a form to add a new
 </div>
 ~~~
 
-![Seasons New Page](/assets/img/webdevfun/drag/season-new.png){:lead loading="lazy"}
+![Seasons New Page](/assets/img/webdevfun/drag/season-new.jpg){:lead loading="lazy"}
 
 The navbar will be implemented in the next blog, but this is how it will look.
 {:.note}
@@ -479,7 +479,7 @@ To insert the record in the database, we use the `knex` [insert method](https://
 </div>
 ~~~
 
-![Drag Queen New Page](/assets/img/webdevfun/drag/drag-queen-new.png){:lead loading="lazy"}
+![Drag Queen New Page](/assets/img/webdevfun/drag/drag-queen-new.jpg){:lead loading="lazy"}
 
 ~~~js
 // file: "in server.js"
@@ -584,7 +584,7 @@ And here's how you might structure the seasons and queens views using Bootstrap:
 </div>
 ~~~
 
-![Seasons Index Page](/assets/img/webdevfun/drag/seasons-index.png){:lead loading="lazy"}
+![Seasons Index Page](/assets/img/webdevfun/drag/seasons-index.jpg){:lead loading="lazy"}
 
 Here we have added a link at the bottom of the page to add a new season. This links to the page we created before.
 
@@ -634,7 +634,7 @@ Here we have added a link at the bottom of the page to add a new season. This li
 </div>
 ~~~
 
-![Drag Queens Index Page](/assets/img/webdevfun/drag/drag-queens-index.png){:lead loading="lazy"}
+![Drag Queens Index Page](/assets/img/webdevfun/drag/drag-queens-index.jpg){:lead loading="lazy"}
 </div>
 </details>
 
@@ -748,7 +748,7 @@ We need to create a form with a POST request to the `/seasons/:id` endpoint to u
 </div>
 ~~~
 
-![Season Edit Page](/assets/img/webdevfun/drag/season-edit.png){:lead loading="lazy"}
+![Season Edit Page](/assets/img/webdevfun/drag/season-edit.jpg){:lead loading="lazy"}
 
 <details>
 <summary>Click here to see the code for updating all of the drag queens</summary>
@@ -886,7 +886,7 @@ app.post('/drag-queens/:id/delete', async (req, res) => {
 </div>
 ~~~
 
-![Drag Queen Edit Page](/assets/img/webdevfun/drag/drag-queen-edit.png){:lead loading="lazy"}
+![Drag Queen Edit Page](/assets/img/webdevfun/drag/drag-queen-edit.jpg){:lead loading="lazy"}
 </div>
 </details>
 

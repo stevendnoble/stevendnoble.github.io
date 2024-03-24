@@ -1,27 +1,23 @@
 ---
 layout: post
-title: 'Designing Data-Driven Experiments for Maximum Impact'
+title: Designing Data-Driven Experiments
 description: >
-  This blog post offers a comprehensive guide to designing, implementing, and analyzing
-  data-driven experiments, focusing on establishing clear objectives, setting up proper
-  control groups, and ensuring statistical significance. It highlights the importance of
-  interpreting experimental results for actionable insights, aiming to equip businesses
-  with the knowledge to make informed decisions that optimize operations and strategies
-  for maximum impact. Through a detailed exploration of experiment design,
-  randomization, and continuous optimization, readers are guided on a path to fostering
-  a culture of curiosity and data-driven decision-making within their organizations.
-image: /assets/img/growth-engineering/designing-data-driven-experiments-for-maximum-impact.jpg
+  This post offers a guide to designing, implementing, and analyzing data-driven
+  experiments, focusing on clear objectives, control groups, and stat sig.
+image: /assets/img/growth-engineering/designing-data-driven-experiments.jpg
 tags: ['Growth Engineer', 'A/B Testing', 'Data-Driven Experiments', 'Control Groups', 'Statistical Significance', 'Randomization Techniques', 'Analyzing Experimental Data', 'Actionable Insights']
 author: stevendnoble
 related_posts:
-  - growth-engineering/_posts/2023-07-03-unlocking-the-full-potential-of-ab-testing-a-deep-dive-into-down-funnel-metrics.md
-  - growth-engineering/_posts/2023-06-19-navigating-proprietary-ab-testing-frameworks-innovations-and-implications-for-marketers.md
+  - growth-engineering/_posts/2023-07-03-ab-testing-down-funnel-metrics.md
+  - growth-engineering/_posts/2023-06-19-proprietary-ab-testing-frameworks.md
 sitemap: true
 hide_description: true
 ---
 
 * this unordered seed list will be replaced by the toc
 {:toc}
+
+## Designing Data-Driven Experiments for Maximum Impact
 
 In today’s fast-paced digital marketplace, leveraging data-driven experiments is crucial for businesses aiming to optimize their operations, marketing strategies, and product development for maximum impact. The ability to design, implement, and analyze experiments effectively can mean the difference between success and stagnation. This blog post serves as a comprehensive guide on setting up data-driven experiments that yield actionable insights, focusing on establishing control groups, ensuring statistical significance, and interpreting results effectively.
 

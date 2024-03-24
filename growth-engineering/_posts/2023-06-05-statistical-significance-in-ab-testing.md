@@ -1,27 +1,23 @@
 ---
 layout: post
-title: "Demystifying Statistical Significance in A/B Testing: A Marketer's Guide"
+title: Statistical Significance in A/B Testing
 description: >
-  This blog post demystifies the concept of statistical significance in A/B testing,
-  providing digital marketers with an essential guide to accurately measuring and
-  interpreting the results of their experiments. It delves into the input variables
-  necessary for calculation, such as sample size, conversions, and conversion rate, and
-  outlines the step-by-step process for determining the p-value to assess the likelihood
-  of results occurring by chance. By equipping marketers with the knowledge to calculate
-  and understand statistical significance, the post empowers them to make data-driven
-  decisions that substantiate real improvements over mere statistical flukes.
-image: /assets/img/growth-engineering/demystifying-statistical-significance-in-ab-testing-a-marketers-guide.jpg
+  This post explains statistical significance in A/B testing, to measure and
+  interpret results of experiments, including sample size, conversions, and p-value.
+image: /assets/img/growth-engineering/statistical-significance-in-ab-testing.jpg
 tags: ['Growth Engineer', 'A/B Testing', 'Statistical Significance', 'Data Analysis', 'Experimentation Strategy', 'Testing Hypotheses', 'P-value', 'Sample Size Calculation']
 author: stevendnoble
 related_posts:
-  - growth-engineering/_posts/2023-06-19-navigating-proprietary-ab-testing-frameworks-innovations-and-implications-for-marketers.md
-  - growth-engineering/_posts/2023-05-27-mastering-multivariate-testing-a-comprehensive-guide-for-digital-marketers.md
+  - growth-engineering/_posts/2023-06-19-proprietary-ab-testing-frameworks.md
+  - growth-engineering/_posts/2023-05-27-multivariate-testing.md
 sitemap: true
 hide_description: true
 ---
 
 * this unordered seed list will be replaced by the toc
 {:toc}
+
+## Statistical Significance in A/B Testing: A Marketer's Guide
 
 In the intricate dance of A/B testing, where two variations of a web page compete for supremacy, understanding statistical significance is the key to distinguishing between genuine improvements and mere flukes. This critical concept helps marketers make informed decisions based on data, rather than intuition or chance. This blog post delves into the essence of statistical significance in A/B testing, offering a clear guide for digital marketers to leverage this powerful tool in their optimization efforts.
 

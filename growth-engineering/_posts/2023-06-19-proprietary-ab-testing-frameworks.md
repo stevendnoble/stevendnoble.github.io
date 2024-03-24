@@ -1,28 +1,23 @@
 ---
 layout: post
-title: 'Navigating Proprietary A/B Testing Frameworks: Innovations and Implications for Marketers'
+title: Proprietary A/B Testing Frameworks
 description: >
-  This blog post delves into the emerging trend of proprietary A/B testing frameworks,
-  exploring how custom-built solutions are shaping the future of digital marketing
-  optimization for companies like Netflix, Facebook, and Amazon. It highlights the
-  innovations, advantages, and challenges of adopting in-house testing software,
-  offering insights into how these tools can provide customization, scalability, and
-  enhanced data security tailored to a company's unique needs. Through an exploration of
-  both the benefits and complexities involved, the post underscores the strategic
-  considerations for marketers and IT teams collaborating to harness the power of
-  proprietary frameworks to achieve competitive advantage and drive business success.
-image: /assets/img/growth-engineering/navigating-proprietary-ab-testing-frameworks-innovations-and-implications-for-marketers.jpg
+  This post delves into the emerging trend of proprietary A/B testing frameworks,
+  exploring how custom-built solutions are shaping the future of digital marketing.
+image: /assets/img/growth-engineering/proprietary-ab-testing-frameworks.jpg
 tags: ['Growth Engineer', 'A/B Testing', 'Proprietary A/B Testing Frameworks', 'Custom Testing Solutions', 'In-House Testing Software', 'Experimentation Platforms']
 author: stevendnoble
 related_posts:
-  - growth-engineering/_posts/2023-07-03-unlocking-the-full-potential-of-ab-testing-a-deep-dive-into-down-funnel-metrics.md
-  - growth-engineering/_posts/2023-06-05-demystifying-statistical-significance-in-ab-testing-a-marketers-guide.md
+  - growth-engineering/_posts/2023-07-03-ab-testing-down-funnel-metrics.md
+  - growth-engineering/_posts/2023-06-05-statistical-significance-in-ab-testing.md
 sitemap: true
 hide_description: true
 ---
 
 * this unordered seed list will be replaced by the toc
 {:toc}
+
+## Navigating Proprietary A/B Testing Frameworks: Innovations and Implications for Marketers
 
 In the fast-paced world of digital marketing, A/B testing frameworks have become indispensable tools for optimizing website performance and user experience. While open-source solutions and third-party services like Optimizely, VWO, and Google Optimize have dominated the scene, there's a growing interest in proprietary A/B testing frameworks developed by companies for in-house use. This blog post explores the world of proprietary A/B testing frameworks, highlighting their innovations, benefits, challenges, and what they mean for marketers aiming to sharpen their competitive edge.
 

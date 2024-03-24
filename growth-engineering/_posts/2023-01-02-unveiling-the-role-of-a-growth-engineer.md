@@ -1,27 +1,23 @@
 ---
 layout: post
-title: 'Unveiling the Role of a Growth Engineer: The Architects of Digital Expansion'
+title: Unveiling the Role of a Growth Engineer
 description: >
   This blog post introduces the emergent and pivotal role of the growth engineer, a
-  vital catalyst in navigating businesses through the digital age towards remarkable
-  growth. It explores their unique position at the crossroads of engineering and
-  marketing, employing a mix of technical prowess, data analytics, and creative
-  marketing strategies to fuel user acquisition, retention, and engagement. Highlighting
-  the skills, responsibilities, and significant impact of growth engineers, the post
-  illustrates how they're transforming startups and established companies alike by
-  instigating a culture of data-driven   experimentation and innovation.
-image: /assets/img/growth-engineering/unveiling-the-role-of-a-growth-engineer-the-architects-of-digital-expansion.jpg
+  vital catalyst in navigating businesses through the digital age.
+image: /assets/img/growth-engineering/unveiling-the-role-of-a-growth-engineer.jpg
 tags: ['Growth Engineer', 'User Acquisition', 'A/B Testing', 'Data Analysis', 'Marketing', 'Retention']
 author: stevendnoble
 related_posts:
-  - growth-engineering/_posts/2023-01-16-unlocking-the-secrets-of-seo-boost-your-websites-visibility.md
-  - growth-engineering/_posts/2023-01-30-elevate-your-online-presence-for-seo-proven-seo-content-and-keywords.md
+  - growth-engineering/_posts/2023-01-16-unlocking-the-secrets-of-seo.md
+  - growth-engineering/_posts/2023-01-30-seo-content-and-keywords.md
 sitemap: true
 hide_description: true
 ---
 
 * this unordered seed list will be replaced by the toc
 {:toc}
+
+## The Architects of Digital Expansion
 
 In the ever-evolving landscape of the tech industry, a new protagonist has emerged on the scene, playing a pivotal role in steering companies toward unprecedented growth. Enter the **growth engineer** – a hybrid figure straddling the realms of engineering and marketing, dedicated to unlocking the full potential of a business's digital presence. This blog post delves into the multifaceted role of a growth engineer, shedding light on their key responsibilities, the skills they bring to the table, and the impact they have on a company's trajectory.
 

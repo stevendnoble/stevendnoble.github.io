@@ -1,9 +1,8 @@
 ---
 layout: plain
+title: NOTICE
 sitemap: false
 ---
-
-# NOTICE
 
 * this list will be replaced by the toc
 {:toc .large-only}

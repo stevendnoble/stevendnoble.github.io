@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Unified Community Guidelines for WebDevFun & Worldly Lathers
 description: >
   Community Guidelines for the WebDevFun and Worldly Lathers blogs
 hide_description: true
@@ -10,8 +11,6 @@ hide_description: true
 
 * this unordered seed list will be replaced by the toc
 {:toc}
-
-# Unified Community Guidelines for WebDevFun & Worldly Lathers
 
 Welcome to our unique digital crossroads, where the vibrant worlds of web development (WebDevFun) and artisan soap making (Worldly Lathers) converge. As members of this diverse and passionate community, you have the rare opportunity to explore and contribute to discussions ranging from the technical intricacies of coding to the creative artistry of soap crafting. To ensure that both domains remain harmonious and enriching spaces, we've established a set of unified community guidelines. These principles are designed to foster respectful interaction, encourage learning, and celebrate the diversity of our shared interests.
 

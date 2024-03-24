@@ -2,11 +2,8 @@
 layout: recipe
 title: Bread and Butter Pickles
 description: >
-  Discover the delightful balance of sweet and tangy with my grandmother Elsie's classic
-  Bread and Butter Pickles recipe, a staple in the American pickling tradition. These
-  pickles not only add a burst of flavor to any meal but also offer a crunchy texture
-  that is irresistible. Perfect for picnics, barbecues, or as a flavorful snack, these
-  homemade pickles are sure to become a cherished addition to your culinary repertoire.
+  Discover the balance of sweet and tangy with my grandmother Elsie's classic
+  Bread and Butter Pickles recipe, a staple in the American pickling tradition.
 image: /assets/img/recipes/bread-and-butter-pickles.jpg
 tags: ['Grammie', 'Elsie', 'Bread and Butter Pickles', 'Pickling']
 author: stevendnoble-recipes

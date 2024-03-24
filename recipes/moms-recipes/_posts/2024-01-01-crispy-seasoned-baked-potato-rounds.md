@@ -3,11 +3,7 @@ layout: recipe
 title: Crispy Seasoned Baked Potato Rounds
 description: >
   Discover the delightful crunch and savory spice of my mother's Crispy Seasoned Baked
-  Potato Rounds, a simple yet irresistible side dish that transforms everyday potatoes
-  into a gourmet treat. Each round is perfectly coated with a blend of garlic, cumin,
-  and paprika, roasted to achieve that golden-brown perfection. This recipe promises to
-  bring a touch of elegance and a burst of flavor to your table, making it the perfect
-  companion to any meal.
+  Potato Rounds, a simple yet irresistible side dish.
 image: /assets/img/recipes/crispy-seasoned-baked-potato-rounds.jpg
 tags: ['Mom', 'Linda', 'Crispy Seasoned Baked Potato Rounds', 'Comfort Food']
 author: stevendnoble-recipes

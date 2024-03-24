@@ -2,12 +2,8 @@
 layout: recipe
 title: Chicken Satay with Peanut Lime Sauce
 description: >
-  Chicken Satay, marinated in a harmonious blend of spices and grilled to perfection,
-  offers a succulent taste journey with every bite, complemented by a rich, tangy
-  peanut sauce that elevates this dish to a whole new level. This recipe encapsulates
-  the essence of Southeast Asian cuisine, bringing the complexity of flavors and the
-  joy of communal dining to your table. Perfect for any occasion, these skewers are
-  not just a meal but a celebration of culinary artistry and tradition.
+  Chicken Satay, marinated in spices and grilled to perfection, offers a succulent taste
+  journey with every bite, complemented by a rich, tangy peanut sauce.
 image: /assets/img/recipes/chicken-satay.jpg
 tags: ['Chicken Satay', 'Peanut Lime Sauce', 'Thai', 'Dinner']
 author: stevendnoble-recipes

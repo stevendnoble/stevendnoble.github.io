@@ -2,13 +2,8 @@
 layout: recipe
 title: Classic Homestyle Meatloaf
 description: >
-  Dive into the comfort of my mother's Classic Homestyle Meatloaf, the centerpiece of a
-  heartwarming family meal that promises nostalgia and satisfaction in every slice.
-  Served alongside creamy mashed potatoes and fresh green beans, this meatloaf boasts a
-  golden-brown crust and a juicy, tender interior, highlighting the simplicity and
-  richness of home cooking. Set against the backdrop of a rustic kitchen, this meal
-  encapsulates the essence of family dinners, where every dish is prepared with love and
-  care, inviting you to relish in the timeless joy of gathering around the table.
+  Dive into the comfort of my mother's Classic Homestyle Meatloaf, a heartwarming family
+  meal that promises nostalgia and satisfaction in every slice.
 image: /assets/img/recipes/classic-homestyle-meatloaf.jpg
 tags: ['Mom', 'Linda', 'Classic Homestyle Meatloaf', 'Comfort Food']
 author: stevendnoble-recipes

@@ -3,11 +3,7 @@ layout: recipe
 title: Harvard Beets
 description: >
   Discover the perfect blend of sweetness and tanginess with my grandmother Elsie's
-  Harvard Beets recipe, a timeless side dish that brightens up any meal with its
-  vibrant color and flavor. This easy-to-follow recipe transforms simple ingredients
-  into a glossy, richly sauced beetroot delight that's sure to impress. Join us in
-  celebrating the beauty of beets through this classic dish, a testament to the simple
-  pleasures of home cooking.
+  Harvard Beets recipe, a timeless side dish that brightens up any meal.
 image: /assets/img/recipes/harvard-beets.jpg
 tags: ['Grammie', 'Elsie', 'Harvard Beets', 'Savory Dishes']
 author: stevendnoble-recipes

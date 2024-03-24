@@ -3,11 +3,7 @@ layout: recipe
 title: Millionaire Fudge
 description: >
   Millionaire Fudge is a decadent delight that marries the rich, velvety texture of
-  chocolate with the airy sweetness of marshmallow creme, creating an irresistible
-  treat. My mother's recipe adds optional chopped pecans for a delightful crunch,
-  offering a perfect contrast to the smoothness of the fudge. This luxurious confection
-  is not just a dessert; it's an experience, promising to elevate any occasion with its
-  indulgent flavor and elegant presentation.
+  chocolate with the airy sweetness of marshmallow creme.
 image: /assets/img/recipes/millionaire-fudge.jpg
 tags: ['Mom', 'Linda', 'Millionaire Fudge', 'Dessert']
 author: stevendnoble-recipes

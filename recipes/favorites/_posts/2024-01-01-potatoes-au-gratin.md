@@ -3,11 +3,7 @@ layout: recipe
 title: Potatoes au Gratin
 description: >
   Potatoes au Gratin combines layers of thinly sliced potatoes with a creamy sauce and
-  a golden, cheesy crust, creating a dish that's both comforting and elegant. This
-  gratin recipe is perfect for those who appreciate the classic flavors of soft potatoes
-  enveloped in a rich, garlic-infused cream, all topped with a generous layer of melted
-  cheese. It's an ideal side dish for any meal, offering a delightful blend of
-  simplicity and sophistication.
+  a golden, cheesy crust, creating a dish that's both comforting and elegant.
 image: /assets/img/recipes/potatoes-au-gratin.jpg
 tags: ['Potatoes au Gratin', 'Side Dish', 'Comfort Food']
 author: stevendnoble-recipes

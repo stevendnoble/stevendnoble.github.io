@@ -3,11 +3,7 @@ layout: recipe
 title: Quick Nut Fudge
 description: >
   My mother's Quick Nut Fudge offers a rich, chocolaty indulgence that perfectly
-  balances the crunchiness of nuts with the smoothness of fudge in every bite. This
-  easy-to-make dessert combines confectioners' sugar, cocoa, and nuts in a symphony of
-  flavors that's both comforting and decadent. Ideal for any occasion, from family
-  gatherings to elegant soirees, this fudge is a versatile treat that promises to
-  delight and satisfy sweet cravings with its melt-in-your-mouth texture and
+  balances the crunchiness of nuts with the smoothness of fudge in every bite.
   sophisticated taste.
 image: /assets/img/recipes/quick-nut-fudge.jpg
 tags: ['Mom', 'Linda', 'Quick Nut Fudge', 'Dessert']

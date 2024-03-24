@@ -3,11 +3,7 @@ layout: recipe
 title: Baked Mac and Cheese
 description: >
   Dive into the ultimate comfort food experience with my mother's classic Baked Mac and
-  Cheese recipe, a creamy, cheesy delight topped with a golden, crunchy breadcrumb
-  crust. This dish is perfect for anyone looking to indulge in the warmth and nostalgia
-  of a home-cooked meal. Follow our simple steps to create this mouthwatering
-  masterpiece that promises to be a hit at any table, bringing smiles and satisfaction
-  to all who taste it.
+  Cheese recipe, a creamy, cheesy delight.
 image: /assets/img/recipes/baked-mac-and-cheese.jpg
 tags: ['Mom', 'Linda', 'Baby Back Ribs', 'Comfort Food']
 author: stevendnoble-recipes

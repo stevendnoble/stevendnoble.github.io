@@ -3,12 +3,7 @@ layout: recipe
 title: Bacalao Guisado
 description: >
   Dive into the heartwarming flavors of Bacalao Guisado, a traditional salted cod
-  stew that's a staple in Caribbean and Latin American cuisine. This savory dish
-  combines tender flakes of salted cod with hearty potatoes and a colorful mix of
-  bell peppers, all simmered in a rich tomato-based sauce seasoned with Loisa's
-  organic spices. Perfect for a nourishing meal, Bacalao Guisado brings warmth and
-  comfort to any table, promising a delightful taste experience that celebrates the
-  simplicity and richness of its ingredients.
+  stew that's a staple in Caribbean and Latin American cuisine.
 image: /assets/img/recipes/bacalao-guisado.jpg
 tags: ['Bacalao Guisado', 'Salted Cod Stew', 'Puerto Rican Cuisine', 'Sofrito', 'Dinner']
 author: stevendnoble-recipes

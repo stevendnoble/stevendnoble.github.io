@@ -3,12 +3,7 @@ layout: recipe
 title: Five Minute Fudge
 description: >
   My mother's Five Minute Fudge is a quick and delightful confection that promises a
-  rich, creamy texture paired with the crunch of your favorite nuts, all wrapped in the
-  sweet embrace of chocolate and marshmallow. This effortless recipe offers a perfect
-  balance of simplicity and indulgence, making it an ideal treat for any occasion, from
-  casual gatherings to special celebrations. With its customizable ingredients and
-  no-fuss preparation, it's a foolproof way to bring a touch of sweetness into your
-  day, satisfying chocolate cravings with just a few minutes of cooking.
+  rich, creamy texture paired with the crunch of your favorite nuts.
 image: /assets/img/recipes/five-minute-fudge.jpg
 tags: ['Mom', 'Linda', 'Five Minute Fudge', 'Dessert']
 author: stevendnoble-recipes

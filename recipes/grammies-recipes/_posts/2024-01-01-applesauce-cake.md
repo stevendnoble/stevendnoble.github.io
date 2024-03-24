@@ -3,11 +3,7 @@ layout: recipe
 title: Applesauce Cake
 description: >
   Dive into the warmth of homemade baking with my grandmother's Applesauce Cake recipe,
-  a moist and dense delight baked in a classic 9x5 loaf shape. Infused with the
-  comforting flavors of cinnamon, walnuts, and raisins, each slice reveals a rich
-  texture and taste that embodies the essence of cozy home cooking. Surrounded by
-  wholesome ingredients and bathed in warm lighting, this cake invites you to enjoy a
-  slice of comfort, perfect for any season.
+  a moist and dense delight baked in a classic 9x5 loaf shape.
 image: /assets/img/recipes/applesauce-cake.jpg
 tags: ['Grammie', 'Elsie', 'Applesauce Cake', 'Dessert']
 author: stevendnoble-recipes

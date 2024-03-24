@@ -3,11 +3,7 @@ layout: recipe
 title: Baby Back Ribs
 description: >
   Savor the smoky, succulent flavors of my mother's delight: Baby Back Ribs, a
-  recipe designed to deliver tender, fall-off-the-bone meat with a rich, homemade BBQ
-  glaze. This guide takes you through an easy, step-by-step process, ensuring a perfect
-  backyard barbecue experience. Whether you're a seasoned grill enthusiast or trying
-  your hand at ribs for the first time, this dish promises to impress with its
-  mouthwatering aroma and irresistible taste.
+  recipe designed to deliver tender, fall-off-the-bone meat.
 image: /assets/img/recipes/baby-back-ribs.jpg
 tags: ['Mom', 'Linda', 'Baby Back Ribs', 'Comfort Food']
 author: stevendnoble-recipes

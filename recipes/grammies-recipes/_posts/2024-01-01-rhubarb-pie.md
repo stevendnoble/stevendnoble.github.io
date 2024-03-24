@@ -3,13 +3,7 @@ layout: recipe
 title: Rhubarb Pie
 description: >
   This Rhubarb Pie that my grandmother Elsie used to make offers a delightful
-  exploration of tangy flavors and sweet notes, encased in a flaky, golden crust that
-  promises to be the centerpiece of any spring table. The vibrant pink and red hues of
-  the rhubarb filling not only add a burst of color but also deliver a refreshing
-  tartness that balances beautifully with the sweetness of the sugar. Perfect for those
-  who cherish the seasonal bounty of rhubarb, this pie brings a homemade, comforting
-  essence to your dessert repertoire, making each slice a testament to the joy of
-  baking with fresh ingredients.
+  exploration of tangy flavors and sweet notes.
 image: /assets/img/recipes/rhubarb-pie.jpg
 tags: ['Grammie', 'Elsie', 'Rhubarb Pie', 'Strawberry Rhubarb Pie', 'Dessert']
 author: stevendnoble-recipes

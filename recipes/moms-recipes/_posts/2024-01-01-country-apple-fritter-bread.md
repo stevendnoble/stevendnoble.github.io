@@ -3,11 +3,7 @@ layout: recipe
 title: Country Apple Fritter Bread
 description: >
   Indulge in the warm, comforting embrace of my mother's Country Apple Fritter Bread,
-  where every slice is a perfect blend of sweet apples and aromatic cinnamon nestled
-  within a soft, tender loaf. Drizzled with a delicate glaze, this bread is a
-  celebration of autumnal flavors, transforming a simple snack into a memorable
-  experience. Enjoy it as a cozy breakfast treat or a delightful afternoon indulgence,
-  bringing a touch of homemade joy to your day.
+  where every slice is a perfect blend of sweet apples and aromatic cinnamon.
 image: /assets/img/recipes/country-apple-fritter-bread.jpg
 tags: ['Mom', 'Linda', 'Country Apple Fritter Bread', 'Comfort Food']
 author: stevendnoble-recipes

@@ -3,11 +3,7 @@ layout: recipe
 title: Lobster Stew
 description: >
   My mother's Lobster Stew marries the opulence of fresh lobster with the velvety
-  embrace of cream and butter, creating a dish that's both decadently rich and
-  soothingly warm. Each spoonful offers a taste of the sea, enhanced by the subtle
-  notes of seasoning and the luxurious texture of tender lobster meat. Ideal for
-  special occasions or as a sumptuous treat, this stew is a celebration of seafood at
-  its finest, promising an unforgettable culinary experience with every bite.
+  embrace of cream and butter, creating a decadent and warm dish.
 image: /assets/img/recipes/lobster-stew.jpg
 tags: ['Mom', 'Linda', 'Lobster Stew', 'Seafood Dishes']
 author: stevendnoble-recipes

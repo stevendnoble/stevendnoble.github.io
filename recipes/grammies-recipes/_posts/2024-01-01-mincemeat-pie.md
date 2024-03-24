@@ -3,11 +3,7 @@ layout: recipe
 title: Mincemeat Pie
 description: >
   Dive into the festive spirit with my grandmother Elsie's Classic Mincemeat Pie
-  recipe, a delightful blend of spiced, sweetened fruits encased in a golden, flaky
-  crust. This recipe celebrates the rich history and versatility of a beloved holiday
-  dessert, offering a balance of flavors that dance on your palate. Perfect for holiday
-  gatherings, our mincemeat pie is not just a treat; it's a storied tradition that
-  brings warmth and joy to your table.
+  recipe, a delightful blend of spiced, sweetened fruits.
 image: /assets/img/recipes/mincemeat-pie.jpg
 tags: ['Grammie', 'Elsie', 'Mincemeat Pie', 'Dessert']
 author: stevendnoble-recipes

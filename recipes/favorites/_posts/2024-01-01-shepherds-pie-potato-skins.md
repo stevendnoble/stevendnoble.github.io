@@ -3,11 +3,7 @@ layout: recipe
 title: Shepherd's Pie Potato Skins
 description: >
   Shepherd's Pie Potato Skins blend the comforting flavors of a classic shepherd's pie
-  with the crispy, satisfying texture of potato skins. This innovative dish transforms
-  the traditional shepherd's pie ingredients—savory ground meat, vegetables, and creamy
-  mashed potatoes—into a bite-sized delight, perfect for appetizers, snacks, or a unique
-  side dish. It's a creative twist on two beloved classics, offering a mouthwatering
-  combination that's sure to impress at any gathering.
+  with the crispy, satisfying texture of potato skins.
 image: /assets/img/recipes/shepherds-pie-potato-skins.jpg
 tags: ["Shepherd's Pie Potato Skins", 'British/Irish Food', 'Appetizer']
 author: stevendnoble-recipes

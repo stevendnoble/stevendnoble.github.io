@@ -2,13 +2,8 @@
 layout: recipe
 title: Whoopie Pies
 description: >
-  My grandmother Elsie's classic whoopie pie recipe is a delightful journey into the
-  world of baking, combining simple ingredients like shortening, sugar, cocoa powder,
-  and flour to create soft, chocolatey shells. The filling, a creamy blend of
-  shortening, confectioners' sugar, egg whites, and vanilla, nestles between the
-  shells, offering a sweet surprise. Each step, from mixing to baking, unfolds into a
-  fun and rewarding experience, culminating in the creation of these irresistible,
-  bite-sized treats that are perfect for sharing.
+  My grandmother Elsie's whoopie pie recipe is a delightful journey into the
+  world of baking, combining simple ingredients to create soft, chocolatey shells.
 image: /assets/img/recipes/whoopie-pies.jpg
 tags: ['Grammie', 'Elsie', 'Whoopie Pie', 'Dessert']
 author: stevendnoble-recipes

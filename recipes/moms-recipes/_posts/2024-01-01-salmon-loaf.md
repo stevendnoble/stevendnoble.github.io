@@ -3,12 +3,7 @@ layout: recipe
 title: Salmon Loaf
 description: >
   Indulge in the delightful flavors of my mother's Salmon Loaf, a dish that elevates
-  canned salmon to new heights with its golden-brown crust and moist, flaky interior.
-  Garnished with fresh parsley and lemon wedges, this loaf is a testament to the
-  simplicity and elegance of home cooking, making it a perfect choice for both family
-  dinners and special occasions. Served alongside creamy mashed potatoes and a vibrant
-  green salad, this salmon loaf promises a nutritious and satisfying meal that's sure to
-  impress.
+  canned salmon to new heights with its golden-brown crust.
 image: /assets/img/recipes/salmon-loaf.jpg
 tags: ['Mom', 'Linda', 'Salmon Loaf', 'Comfort Food']
 author: stevendnoble-recipes

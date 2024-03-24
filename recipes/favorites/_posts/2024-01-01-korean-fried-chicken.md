@@ -3,11 +3,7 @@ layout: recipe
 title: Korean Fried Chicken
 description: >
   Dive into the crispy and utterly delicious world of Korean Fried Chicken, coated in
-  a flavorful, spicy, and sweet sauce that'll make your taste buds sing. This recipe
-  transforms boneless chicken into a crunchy delight, perfectly paired with a homemade
-  Korean sauce that balances the rich flavors of honey, soy sauce, and gochujang.
-  Garnished with green onions, toasted sesame seeds, and red chilis, this dish is not
-  just a treat for the palate but a feast for the eyes.
+  a flavorful, spicy, and sweet sauce that'll make your taste buds sing.
 image: /assets/img/recipes/korean-fried-chicken.jpg
 tags: ['Korean Fried Chicken', 'Chicken', 'Korean Cuisine', 'Dinner']
 author: stevendnoble-recipes

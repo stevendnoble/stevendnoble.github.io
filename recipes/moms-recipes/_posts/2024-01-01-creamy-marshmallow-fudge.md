@@ -3,12 +3,7 @@ layout: recipe
 title: Creamy Marshmallow Fudge
 description: >
   My mother's Creamy Marshmallow Fudge melds the lush richness of semi-sweet chocolate
-  with the fluffy sweetness of marshmallows to create a velvety, melt-in-your-mouth
-  confection that's impossible to resist. This simple yet elegant dessert offers a
-  perfect balance of creamy texture and deep chocolate flavor, enhanced with a hint of
-  vanilla and the optional crunch of pecans. Ideal for special occasions or as a
-  delightful everyday treat, this fudge promises to satisfy any sweet tooth with its
-  indulgent and comforting taste.
+  with the fluffy sweetness of marshmallows.
 image: /assets/img/recipes/creamy-marshmallow-fudge.jpg
 tags: ['Mom', 'Linda', 'Creamy Marshmallow Fudge', 'Dessert']
 author: stevendnoble-recipes

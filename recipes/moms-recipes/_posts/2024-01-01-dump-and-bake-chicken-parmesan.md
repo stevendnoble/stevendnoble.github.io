@@ -3,11 +3,7 @@ layout: recipe
 title: Dump and Bake Chicken Parmesan
 description: >
   Experience the simplicity and heartiness of my mother's Dump and Bake Chicken
-  Parmesan, a one-dish wonder that combines tender chicken, penne pasta, and a rich
-  tomato sauce under a golden layer of melted cheeses. This easy-to-prepare meal is
-  perfect for busy weeknights, offering all the flavors of a traditional Italian dinner
-  without the fuss. Fresh from the oven, it invites families to gather around the table
-  for a comforting, homemade feast that's sure to please everyone.
+  Parmesan, a one-dish wonder with tender chicken.
 image: /assets/img/recipes/dump-and-bake-chicken-parmesan.jpg
 tags: ['Mom', 'Linda', 'Dump and Bake Chicken Parmesan', 'Comfort Food']
 author: stevendnoble-recipes

@@ -3,13 +3,7 @@ layout: recipe
 title: Ensalada de Bacalao
 description: >
   Ensalada de Bacalao is a vibrant and flavorful salad that marries the rich taste of
-  salted cod with the fresh crispness of onions, tomatoes, and avocados, all brought
-  together with a simple yet elegant olive oil and white wine vinegar dressing. This
-  traditional dish, often enjoyed during Lent and Easter in many Latin countries, is a
-  testament to the art of transforming simple ingredients into a refreshing and
-  satisfying meal. Perfect as a light lunch or a side, Ensalada de Bacalao is a
-  celebration of flavors and textures, inviting you to explore the delicious
-  complexity of salted cod in a salad.
+  salted cod with the fresh crispness of onions, tomatoes, and avocados.
 image: /assets/img/recipes/ensalada-de-bacalao.jpg
 tags: ['Ensalada de Bacalao', 'Salted Cod Salad', 'Puerto Rican Cuisine', 'Dinner']
 author: stevendnoble-recipes

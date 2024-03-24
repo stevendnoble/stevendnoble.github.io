@@ -3,12 +3,7 @@ layout: recipe
 title: Gluten-Free Banana Bread
 description: >
   Dive into the world of gluten-free baking with this moist and flavorful banana bread
-  recipe, perfect for anyone looking to enjoy a classic treat without the gluten. Made
-  with ripe bananas and Bob's Red Mill Gluten-Free Flour, this easy-to-follow recipe
-  promises a delicious loaf that's just as comforting and satisfying as its traditional
-  counterpart. Whether you're enjoying it for breakfast, as a snack, or as a sweet
-  dessert, this gluten-free banana bread is sure to become a staple in your baking
-  repertoire.
+  recipe, perfect for anyone looking to enjoy a classic treat without gluten.
 image: /assets/img/recipes/gluten-free-banana-bread.jpg
 tags: ['Gluten Free', 'Banana Bread', 'Dessert']
 author: stevendnoble-recipes

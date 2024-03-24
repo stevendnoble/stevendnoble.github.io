@@ -3,11 +3,7 @@ layout: recipe
 title: Shrimp Casserole
 description: >
   Dive into the heartwarming embrace of our Shrimp Casserole, my grandmother Elsie's
-  culinary masterpiece that combines succulent shrimp with a creamy base and a golden,
-  crunchy topping of crushed saltines. This dish is a celebration of comfort food,
-  perfect for gatherings or a cozy night in, capturing the essence of home-cooked
-  goodness. With each bite, you'll savor the rich flavors and textures that make this
-  casserole a beloved favorite, promising to delight your taste buds and warm your soul.
+  culinary masterpiece with succulent shrimp and a creamy base.
 image: /assets/img/recipes/shrimp-casserole.jpg
 tags: ['Grammie', 'Elsie', 'Shrimp Casserole', 'Savory Dishes']
 author: stevendnoble-recipes

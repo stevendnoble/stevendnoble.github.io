@@ -3,12 +3,7 @@ layout: recipe
 title: Gluten-Free Apple Crisp
 description: >
   This Gluten-Free Apple Crisp recipe is a celebration of autumn's bounty, offering
-  a warm, spiced filling encased in a crunchy, golden topping that's entirely
-  gluten-free. Perfectly balancing the tartness of apples with the sweetness of brown
-  sugar and the richness of butter, it's a dessert that promises comfort in every bite.
-  Easy to prepare and irresistibly delicious, this apple crisp is an inclusive treat
-  that ensures everyone can enjoy the flavors of the season, regardless of dietary
-  restrictions.
+  a warm, spiced filling encased in a crunchy, golden topping.
 image: /assets/img/recipes/gluten-free-apple-crisp.jpg
 tags: ['Gluten Free', 'Apple Crisp', 'Dessert']
 author: stevendnoble-recipes

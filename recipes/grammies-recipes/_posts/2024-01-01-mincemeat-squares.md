@@ -2,13 +2,8 @@
 layout: recipe
 title: Mincemeat Squares
 description: >
-  This Mincemeat Square recipe is a family favoriate from my grandmother Elsie's
-  kitchen. They transform the beloved holiday flavors of mincemeat into a convenient,
-  mouth-watering treat perfect for any occasion. With a buttery, oat-enriched crust
-  encasing a spiced, fruity filling, these squares are a testament to the joy of baking
-  and the versatility of classic ingredients. Ideal for sharing, these delightful
-  squares bring a touch of warmth and nostalgia to any gathering, making them a festive
-  favorite.
+  This Mincemeat Square recipe from my grandmother Elsie's kitchen transforms the
+  holiday flavors of mincemeat into a convenient, mouth-watering treat.
 image: /assets/img/recipes/mincemeat-squares.jpg
 tags: ['Grammie', 'Elsie', 'Mincemeat Squares', 'Dessert']
 author: stevendnoble-recipes

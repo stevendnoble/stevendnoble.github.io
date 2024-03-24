@@ -3,13 +3,7 @@ layout: recipe
 title: Classic Gingerbread
 description: >
   This Classic Gingerbread recipe from my grandmother Elsie's kitchen brings to life the
-  cherished flavors of the holiday season through a simple yet utterly delightful treat,
-  perfectly spiced and moist, cut into inviting squares. Each step, from melting the
-  shortening to the final sprinkle of spices, is a journey through tradition,
-  culminating in a gingerbread that's rich in molasses and warmly accented with
-  cinnamon, ginger, and cloves. Paired with a cozy, rustic presentation, this recipe
-  not only promises a delicious dessert but also a heartwarming baking experience
-  that celebrates the essence of home and holiday cheer.
+  cherished flavors of the holiday season.
 image: /assets/img/recipes/classic-gingerbread.jpg
 tags: ['Grammie', 'Elsie', 'Classic Gingerbread', 'Dessert']
 author: stevendnoble-recipes

@@ -3,11 +3,7 @@ layout: recipe
 title: Red Wine Braised Short Ribs
 description: >
   Immerse yourself in the rich, succulent flavors of Red Wine Braised Short Ribs, a
-  dish that embodies the essence of comfort food. This recipe combines tender,
-  fall-apart beef short ribs with a deep, flavorful red wine sauce, accented by the
-  sweetness of onions and carrots. Perfect for a cozy dinner on a chilly evening, these
-  short ribs are a testament to the power of slow cooking, transforming simple
-  ingredients into a luxurious meal.
+  dish that embodies the essence of comfort food.
 image: /assets/img/recipes/red-wine-braised-short-ribs.jpg
 tags: ['Red Wine Braised Short Ribs', 'Comfort Food', 'Beef', 'Dinner']
 author: stevendnoble-recipes

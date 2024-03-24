@@ -3,10 +3,7 @@ layout: recipe
 title: Pickled Beets
 description: >
   Discover the joy of homemade Pickled Beets with my grandmother Elsie's easy-to-follow
-  recipe, a perfect blend of sweet, tangy, and earthy flavors. Learn about the ancient
-  art of pickling, the incredible health benefits of beets, and creative ways to
-  incorporate this vibrant preserve into your meals. Join us on a culinary adventure
-  that celebrates the simplicity and versatility of this delightful, ruby-red treat.
+  recipe, a perfect blend of sweet, tangy, and earthy flavors.
 image: /assets/img/recipes/pickled-beets.jpg
 tags: ['Grammie', 'Elsie', 'Pickled Beets', 'Pickling']
 author: stevendnoble-recipes

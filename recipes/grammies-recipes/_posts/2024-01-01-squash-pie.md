@@ -3,11 +3,7 @@ layout: recipe
 title: Squash Pie
 description: >
   My grandmother Elsie's Squash Pie recipe encapsulates the essence of autumn with its
-  rich blend of spices and smooth squash filling, nestled within a flaky pastry shell.
-  Each slice offers a warm, comforting taste of the season, featuring a symphony of
-  cinnamon, nutmeg, and ginger that dances on the palate. Designed to fill your kitchen
-  with the cozy aromas of fall baking, this pie is a perfect celebration of the
-  harvest, promising to become a cherished addition to your autumnal traditions.
+  rich blend of spices and smooth squash filling.
 image: /assets/img/recipes/squash-pie.jpg
 tags: ['Grammie', 'Elsie', 'Squash Pie', 'Dessert']
 author: stevendnoble-recipes

@@ -3,12 +3,7 @@ layout: recipe
 title: Crab Rangoon Dip
 description: >
   Indulge in my mother's creamy, decadent Crab Rangoon Dip, a luxurious appetizer that
-  transforms any gathering into a gourmet experience. Served in an elegant bowl and
-  garnished with green onions and a touch of paprika, this dip is a harmonious blend of
-  rich cream cheese and succulent crab meat, perfect for pairing with crispy wonton
-  chips, toasted baguette slices, or fresh vegetables. Its sophisticated presentation
-  and irresistible flavor profile make it a standout dish, promising to delight your
-  guests and elevate your appetizer spread.
+  transforms any gathering into a gourmet experience.
 image: /assets/img/recipes/crab-rangoon-dip.jpg
 tags: ['Mom', 'Linda', 'Crab Rangoon Dip', 'Seafood Dishes']
 author: stevendnoble-recipes

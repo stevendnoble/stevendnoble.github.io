@@ -3,12 +3,7 @@ layout: recipe
 title: Shrimpies
 description: >
   My mother's Shrimpies combine the delicate sweetness of baby shrimp with the creamy
-  richness of cheese, creating a mouthwatering snack that's both sophisticated and
-  irresistibly savory. Spread atop crispy English muffin quarters and broiled to
-  perfection, they offer a delightful crunch followed by a melt-in-your-mouth
-  experience. Perfect for any gathering or a solo indulgence, Shrimpies are a testament
-  to the joy of simple ingredients coming together in perfect harmony to deliver big
-  flavor.
+  richness of cheese, creating a mouthwatering snack.
 image: /assets/img/recipes/shrimpies.jpg
 tags: ['Mom', 'Linda', 'Shrimpies', 'Seafood Dishes']
 author: stevendnoble-recipes

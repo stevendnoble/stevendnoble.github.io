@@ -3,12 +3,7 @@ layout: recipe
 title: Cheesy Salmon Casserole
 description: >
   Dive into the comforting embrace of my mother's Cheesy Salmon Casserole, a harmonious
-  blend of flaked salmon, creamy mushroom soup, and vibrant vegetables, all crowned with
-  a golden layer of melted cheese. This heartwarming dish marries the simplicity of
-  preparation with the richness of flavor, making it an ideal choice for a nourishing
-  family dinner or a cozy gathering. Fresh from the oven, it serves not just a meal but
-  a delightful experience, inviting you to savor each creamy, cheesy bite infused with
-  the subtle elegance of dill and the robustness of salmon.
+  blend of flaked salmon, creamy mushroom soup, and vibrant vegetables.
 image: /assets/img/recipes/cheesy-salmon-casserole.jpg
 tags: ['Mom', 'Linda', 'Cheesy Salmon Casserole', 'Comfort Food']
 author: stevendnoble-recipes

@@ -3,12 +3,7 @@ layout: recipe
 title: Tomato Mincemeat
 description: >
   Tomato Mincemeat redefines the boundaries of traditional preserves with its inventive
-  blend of tangy green tomatoes, sweet apples, and rich raisins, all brought together
-  with a savory hint of salt pork. This recipe from my grandmother Elsie's kitchen
-  transforms the autumn harvest into a versatile concoction that enhances pies,
-  pastries, and savory dishes alike. Each quart jar captures the essence of seasonal
-  transitions, offering a gourmet twist on classic flavors that can be enjoyed
-  throughout the year.
+  blend of tangy green tomatoes, sweet apples, and rich raisins.
 image: /assets/img/recipes/tomato-mincemeat.jpg
 tags: ['Grammie', 'Elsie', 'Tomato Mincemeat', 'Dessert']
 author: stevendnoble-recipes

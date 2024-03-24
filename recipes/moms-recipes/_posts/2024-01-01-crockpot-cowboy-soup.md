@@ -3,11 +3,7 @@ layout: recipe
 title: Crockpot Cowboy Soup
 description: >
   Savor the comforting embrace of my mother's Crockpot Cowboy Soup, a robust and
-  flavorful dish that brings the heartiness of the frontier to your dinner table. Packed
-  with ground meat, cubed potatoes, mixed vegetables, and a savory tomato broth, this
-  soup is a nourishing meal that promises warmth and satisfaction with every spoonful.
-  Ideal for chilly evenings or whenever you crave a taste of rustic comfort, this cowboy
-  soup is a testament to the simple, fulfilling pleasures of home-cooked meals.
+  flavorful dish that brings the heartiness of the frontier to your dinner table.
 image: /assets/img/recipes/crockpot-cowboy-soup.jpg
 tags: ['Mom', 'Linda', 'Crockpot Cowboy Soup', 'Comfort Food']
 author: stevendnoble-recipes

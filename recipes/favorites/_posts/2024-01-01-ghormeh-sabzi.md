@@ -3,12 +3,7 @@ layout: recipe
 title: Ghormeh Sabzi
 description: >
   Ghormeh Sabzi, Iran's beloved national dish, blends the rich flavors of fresh herbs
-  with the tangy kick of dried limes. This light version with chicken thighs maintains
-  the essence of the traditional stew, offering a comforting, aromatic experience
-  that's both hearty and nuanced. The stew's unique combination of parsley, cilantro,
-  and scallions, simmered with tender chicken, creates a dish that's as vibrant in
-  taste as it is in color, making it a must-try for anyone seeking to explore Persian
-  cuisine.
+  with the tangy kick of dried limes.
 image: /assets/img/recipes/ghormeh-sabzi.jpg
 tags: ['Ghormeh Sabzi', 'Chicken', 'Persian Cuisine', 'National Dish', 'Dinner']
 author: stevendnoble-recipes

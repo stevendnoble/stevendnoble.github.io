@@ -3,12 +3,7 @@ layout: recipe
 title: Thai Fresh Rolls
 description: >
   Thai Fresh Rolls are a symphony of fresh vegetables, herbs, and your choice of
-  protein, all wrapped in delicate rice paper for a light, healthy, and flavorful bite.
-  Each roll is a perfect blend of crunchy textures and vibrant flavors, complemented by
-  a rich, tangy peanut sauce that adds depth and complexity to the dish. Ideal for a
-  refreshing appetizer, snack, or light meal, these rolls are a testament to the beauty
-  and freshness of Thai cuisine, offering a delicious way to enjoy a variety of fresh
-  ingredients in every bite.
+  protein, all wrapped in delicate rice paper.
 image: /assets/img/recipes/thai-fresh-rolls.jpg
 tags: ['Thai Fresh Rolls', 'Thai', 'Dinner']
 author: stevendnoble-recipes

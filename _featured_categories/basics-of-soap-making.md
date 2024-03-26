@@ -21,4 +21,4 @@ sitemap: true
 
 # Worldly Lathers: Basics of Soap Making
 
-Please refer to our [Community Guidelines](/community-guidelines)
+Please refer to our [Community Guidelines](/community-guidelines/)

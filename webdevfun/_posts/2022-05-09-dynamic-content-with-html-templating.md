@@ -177,7 +177,7 @@ This setup assumes you're fetching the first 12 Pokémon from the PokéAPI for d
 
 ![Handlebars Templating Pokédex Website Screenshot](/assets/img/webdevfun/pokemon/dynamic-pokedex.png){:lead loading="lazy"}
 
-[See it live!](/webdevfun/pokemon/handlebars)
+[See it live!](/webdevfun/pokemon/handlebars/)
 {:.figcaption}
 
 Remember, for production use, it's important to handle API rate limits and potential errors more robustly, ensuring a smooth user experience.

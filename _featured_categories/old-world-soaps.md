@@ -21,4 +21,4 @@ sitemap: true
 
 # Worldly Lathers: Old World Soaps
 
-Please refer to our [Community Guidelines](/community-guidelines)
+Please refer to our [Community Guidelines](/community-guidelines/)

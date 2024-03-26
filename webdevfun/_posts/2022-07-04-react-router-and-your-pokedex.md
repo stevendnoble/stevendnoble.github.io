@@ -249,7 +249,7 @@ export function PokemonDetailsWithProvider({ pokemon }) {
 
 ![Pokedex React Router Search Page](/assets/img/webdevfun/pokemon/pokedex-react-router-search.png){:lead loading="lazy"}
 
-[Search Page: See it live!](/webdevfun/pokemon/pokedex-react-router)
+[Search Page: See it live!](/webdevfun/pokemon/pokedex-react-router/)
 {:.figcaption}
 
 ~~~jsx
@@ -295,7 +295,7 @@ export function PokedexWithProvider() {
 
 ![Pokedex React Router Pokedex Page](/assets/img/webdevfun/pokemon/pokedex-react-router-pokedex.png){:lead loading="lazy"}
 
-[Pokédex Page: See it live!](/webdevfun/pokemon/pokedex-react-router)
+[Pokédex Page: See it live!](/webdevfun/pokemon/pokedex-react-router/)
 {:.figcaption}
 
 ## Conclusion

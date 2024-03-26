@@ -4,7 +4,6 @@ title: Unified Community Guidelines for WebDevFun & Worldly Lathers
 description: >
   Community Guidelines for the WebDevFun and Worldly Lathers blogs
 hide_description: true
-permalink: community-guidelines.html
 sitemap: true
 hide_description: true
 ---

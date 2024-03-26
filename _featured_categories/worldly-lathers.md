@@ -21,9 +21,9 @@ sitemap: true
 
 # Worldly Lathers: Artisanal Soap Making
 
-Please refer to our [Community Guidelines](/community-guidelines)
+Please refer to our [Community Guidelines](/community-guidelines/)
 
-## [Basics of Soap Making](/basics-of-soap-making)
+## [Basics of Soap Making](/basics-of-soap-making/)
 
 Our insightful series on soapmaking basics offers a comprehensive introduction to the
 craft, designed to guide beginners through the foundational aspects of creating their
@@ -36,7 +36,7 @@ different soapmaking methods offer. This series is an essential resource for any
 looking to embark on their soapmaking journey, equipping them with the knowledge and
 confidence to experiment with creating their own handcrafted soaps.
 
-## [Old World Soaps](/old-world-soaps)
+## [Old World Soaps](/old-world-soaps/)
 
 Our series on Old World Soaps transports readers back in time to explore the rich history,
 traditional craftsmanship, and enduring allure of some of the world's most ancient cleansing
@@ -49,7 +49,7 @@ collection is a tribute to the artisanal heritage and timeless quality of Old Wo
 celebrating their role in shaping the history of hygiene and their continued relevance in
 today's pursuit of natural and sustainable beauty solutions.
 
-## [Interesting Ingredients](/interesting-ingredients)
+## [Interesting Ingredients](/interesting-ingredients/)
 
 Our captivating series on interesting ingredients in soapmaking illuminates the diverse and
 sometimes unexpected components that can transform a simple bar of soap into a luxurious

@@ -21,4 +21,4 @@ sitemap: true
 
 # Worldly Lathers: Interesting Ingredients
 
-Please refer to our [Community Guidelines](/community-guidelines)
+Please refer to our [Community Guidelines](/community-guidelines/)

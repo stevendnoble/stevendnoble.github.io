@@ -33,6 +33,6 @@ depths of Coq au Vin, the unique savor of Escargots, and the elegant simplicity 
 Chicken Cordon Bleu. This section is a homage to the universal language of food,
 bringing the world to your table one dish at a time.
 
-Please refer to our [Community Guidelines](/community-guidelines)
+Please refer to our [Community Guidelines](/community-guidelines/)
 
 ## Recipes

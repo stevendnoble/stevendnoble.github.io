@@ -431,7 +431,7 @@ With these changes, your React app now includes a functional Pokedex component w
 
 ![Project Showcase Website Screenshot](/assets/img/webdevfun/pokemon/pokedex-react.png){:lead loading="lazy"}
 
-[See it live!](/webdevfun/pokemon/pokedex-react)
+[See it live!](/webdevfun/pokemon/pokedex-react/)
 {:.figcaption}
 
 ## Embarking on Your Pokémon Development Adventure

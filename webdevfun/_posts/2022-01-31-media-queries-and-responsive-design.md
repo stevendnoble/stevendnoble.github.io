@@ -213,7 +213,7 @@ Here is how our page looks. Click on the link and adjust the screen sizes to see
 
 ![Media Query Pizza Website](/assets/img/webdevfun/pizza/media-query.png){:lead loading="lazy"}
 
-[See it live!](/webdevfun/pizza/media-queries)
+[See it live!](/webdevfun/pizza/media-queries/)
 {:.figcaption}
 
 ## Flipping the Pizza: Handling Different Orientations

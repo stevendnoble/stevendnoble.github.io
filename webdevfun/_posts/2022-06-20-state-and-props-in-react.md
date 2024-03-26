@@ -455,7 +455,7 @@ With some rearranging of the HTML and some additions to the CSS, the results loo
 
 ![Project Showcase Website Screenshot](/assets/img/webdevfun/pokemon/pokedex-react-enhanced.png){:lead loading="lazy"}
 
-[See it live!](/webdevfun/pokemon/pokedex-react-enhanced)
+[See it live!](/webdevfun/pokemon/pokedex-react-enhanced/)
 {:.figcaption}
 
 ## Conclusion

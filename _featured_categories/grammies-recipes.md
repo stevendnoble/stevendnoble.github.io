@@ -43,6 +43,6 @@ flavors that spans continents and generations, inviting us to partake in the com
 and joy of family traditions. Let's celebrate Grammie Elsie's incredible culinary
 heritage by bringing her recipes to life, one delicious bite at a time.
 
-Please refer to our [Community Guidelines](/community-guidelines)
+Please refer to our [Community Guidelines](/community-guidelines/)
 
 ## Recipes

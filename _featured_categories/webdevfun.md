@@ -22,4 +22,4 @@ sitemap: true
 
 # WebDevFun: Putting the FUN in Web Development Fundamentals
 
-Please refer to our [Community Guidelines](/community-guidelines)
+Please refer to our [Community Guidelines](/community-guidelines/)

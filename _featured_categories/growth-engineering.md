@@ -22,4 +22,4 @@ sitemap: true
 
 # The Growth Engineer's Blueprint: Strategies for Digital Dominance
 
-Please refer to our [Community Guidelines](/community-guidelines)
+Please refer to our [Community Guidelines](/community-guidelines/)

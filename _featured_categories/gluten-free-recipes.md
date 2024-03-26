@@ -31,6 +31,6 @@ proteins, and gluten-free grains. Embrace a healthier way of eating that's as
 delicious as it is nutritious. Perfect for home cooks of all levels, our gluten-free
 recipes promise to make every meal a delightful experience.
 
-Please refer to our [Community Guidelines](/community-guidelines)
+Please refer to our [Community Guidelines](/community-guidelines/)
 
 ## Recipes

@@ -276,7 +276,7 @@ function releasePokemon(pokemonName) {
 
 ![Project Showcase Website Screenshot](/assets/img/webdevfun/pokemon/interactive-pokedex.png){:lead loading="lazy"}
 
-[See it live!](/webdevfun/pokemon/pokedex)
+[See it live!](/webdevfun/pokemon/pokedex/)
 {:.figcaption}
 
 ## Conclusion

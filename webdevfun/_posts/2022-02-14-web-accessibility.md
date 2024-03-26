@@ -105,7 +105,7 @@ To enhance the pizza-themed HTML page with web accessibility features, we'll imp
 
 ![Accessible Pizza Website](/assets/img/webdevfun/pizza/accessibility.png){:lead loading="lazy"}
 
-[See it live!](/webdevfun/pizza/accessibility)
+[See it live!](/webdevfun/pizza/accessibility/)
 {:.figcaption}
 
 ## Key Accessibility Enhancements:

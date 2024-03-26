@@ -185,7 +185,7 @@ Save all three files in the same directory, and you should be able to open it in
 
 ![Pizza Website](/assets/img/webdevfun/pizza/pizza.png){:lead loading="lazy"}
 
-[See it live!](/webdevfun/pizza/basics)
+[See it live!](/webdevfun/pizza/basics/)
 {:.figcaption}
 
 <details>

@@ -70,8 +70,8 @@ Integrated Development Environments (IDEs) are essential tools for developers, o
 Behold Git, the ancient tome of knowledge that remembers all—even that "temporary" fix from two years ago. Paired with mystical realms like GitHub or GitLab, it's like having a time-turner for your code, ensuring that not even a rogue rm -rf can erase your valiant efforts.
 
 To learn more about version control with Git, check out these posts:
-* [Version Control with Git](/webdevfun/version-control-with-git)
-* [Git Advanced Commands](/webdevfun/git-advanced-commands)
+* [Version Control with Git](/webdevfun/version-control-with-git/)
+* [Git Advanced Commands](/webdevfun/git-advanced-commands/)
 
 ## Web Browsers and DevTools: The Crystal Balls
 
@@ -82,11 +82,11 @@ Peering into **Google Chrome** and **Mozilla Firefox**'s Developer Tools is akin
 Enter the guilds of **React**, **Vue.js**, and **Angular**, where building dynamic realms (websites) is as easy as casting a levitation charm. These frameworks are your loyal familiars, ready to do your bidding and construct digital experiences that enchant mortals and immortals alike.
 
 To learn more about React, check out this series of posts:
-* [React App: A Pokémon Adventure](/webdevfun/react-app-a-pokemon-adventure)
-* [State and Props in React](/webdevfun/state-and-props-in-react)
-* [React Router and Your Pokédex](/webdevfun/react-router-and-your-pokedex)
-* [Lifecycle Methods and Hooks in React](/webdevfun/lifecycle-methods-and-hooks-in-react)
-* [React Pokédex with Zustand](/webdevfun/react-pokedex-with-zustand)
+* [React App: A Pokémon Adventure](/webdevfun/react-app-a-pokemon-adventure/)
+* [State and Props in React](/webdevfun/state-and-props-in-react/)
+* [React Router and Your Pokédex](/webdevfun/react-router-and-your-pokedex/)
+* [Lifecycle Methods and Hooks in React](/webdevfun/lifecycle-methods-and-hooks-in-react/)
+* [React Pokédex with Zustand](/webdevfun/react-pokedex-with-zustand/)
 
 ## CSS Preprocessors: The Potion Masters
 
@@ -106,8 +106,8 @@ Navigating the realm of APIs is like holding a parley with dragons. Tools like P
 
 To learn more about REST APIs, check out this series of posts:
 * [REST APIs](/webdevfun/rest-apis)
-* [Dynamic Content with HTML Templating](/webdevfun/dynamic-content-with-html-templating)
-* [Project Showcase: Build a Pokédex](/webdevfun/project-showcase-build-a-pokedex)
+* [Dynamic Content with HTML Templating](/webdevfun/dynamic-content-with-html-templating/)
+* [Project Showcase: Build a Pokédex](/webdevfun/project-showcase-build-a-pokedex/)
 
 ## Database Management: The Keepers of Lore
 

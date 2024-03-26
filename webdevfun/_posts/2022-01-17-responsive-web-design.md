@@ -201,7 +201,7 @@ See how different our pizza-themed website looks on mobile and desktop devices w
 
 ![Bootstrap Pizza Website](/assets/img/webdevfun/pizza/bootstrap.png){:lead loading="lazy"}
 
-[See it live!](/webdevfun/pizza/bootstrap)
+[See it live!](/webdevfun/pizza/bootstrap/)
 {:.figcaption}
 
 <details>

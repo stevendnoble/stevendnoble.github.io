@@ -31,6 +31,6 @@ recipes are more than just food; they're a celebration of family, adventure, and
 joy of sharing stories and laughter around the table, inviting us to relish in the
 rich, comforting legacy of Mom's culinary journey.
 
-Please refer to our [Community Guidelines](/community-guidelines)
+Please refer to our [Community Guidelines](/community-guidelines/)
 
 ## Recipes

@@ -54,7 +54,7 @@ knows what we can create together?
 
 <!--posts-->
 
-## [WebDevFun: Web Development Fundamentals](/webdevfun)
+## [WebDevFun: Web Development Fundamentals](/webdevfun/)
 
 WebDevFun is your go-to digital playground dedicated to demystifying the
 world of web development with a sprinkle of joy and a whole lot of
@@ -69,7 +69,7 @@ first steps into coding or looking to expand your knowledge on growth
 engineering, WebDevFun is your cheerful companion through the exhilarating
 world of web development.
 
-## [Worldly Lathers](/worldly-lathers)
+## [Worldly Lathers](/worldly-lathers/)
 
 Worldly Lathers is a journey into the world of soap making that spans
 continents and centuries. This unique blog offers readers a window into the rich

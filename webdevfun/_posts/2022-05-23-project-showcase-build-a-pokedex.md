@@ -30,7 +30,7 @@ Your journey starts with setting up the foundation for your Pokédex. Create a n
 ### HTML Structure
 Start by defining the basic structure of your Pokédex in your HTML file. You'll need a search input for users to type the name or number of the Pokémon they're looking for, a button to trigger the search, and a container to display the Pokémon data.
 
-Handlebars.js is a powerful templating engine that lets you build semantic templates effectively. First, include Handlebars.js in your project by adding the script tag in the <head>. You can read more about Handlebars in my previous blog post, [Catching Data with Poké Balls: Dynamic Content with HTML Templating and the PokéAPI](2022-05-09-catching-data-with-poke-balls-dynamic-content-with-html-templating-and-the-pokeapi.md).
+Handlebars.js is a powerful templating engine that lets you build semantic templates effectively. First, include Handlebars.js in your project by adding the script tag in the <head>. You can read more about Handlebars in my previous blog post, [Dynamic Content with HTML Templating](2022-05-09-dynamic-content-with-html-templating.md).
 {:.note title="Handlebars.js"}
 
 ~~~html

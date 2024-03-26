@@ -70,8 +70,8 @@ Integrated Development Environments (IDEs) are essential tools for developers, o
 Behold Git, the ancient tome of knowledge that remembers all—even that "temporary" fix from two years ago. Paired with mystical realms like GitHub or GitLab, it's like having a time-turner for your code, ensuring that not even a rogue rm -rf can erase your valiant efforts.
 
 To learn more about version control with Git, check out these posts:
-* [Version Control with Git: The Whimsical World of Web Development Wizardry](/webdevfun/version-control-with-git-the-whimsical-world-of-web-development-wizardry)
-* [Navigating the Deeper Waters of Git: Advanced Commands Unveiled](/webdevfun/navigating-the-deeper-waters-of-git-advanced-commands-unveiled)
+* [Version Control with Git](/webdevfun/version-control-with-git)
+* [Git Advanced Commands](/webdevfun/git-advanced-commands)
 
 ## Web Browsers and DevTools: The Crystal Balls
 
@@ -82,11 +82,11 @@ Peering into **Google Chrome** and **Mozilla Firefox**'s Developer Tools is akin
 Enter the guilds of **React**, **Vue.js**, and **Angular**, where building dynamic realms (websites) is as easy as casting a levitation charm. These frameworks are your loyal familiars, ready to do your bidding and construct digital experiences that enchant mortals and immortals alike.
 
 To learn more about React, check out this series of posts:
-* [Setting Up Your First React App: A Pokémon Adventure](/webdevfun/setting-up-your-first-react-app-a-pokemon-adventure)
-* [Harnessing State and Props in React with Functional Components: A Pokémon Adventure](/webdevfun/harnessing-state-and-props-in-react-with-functional-components-a-pokemon-adventure)
-* [Navigating the Pokéverse: React Router and Your Pokédex App](/webdevfun/navigating-the-pokeverse-react-router-and-your-pokedex-app)
-* [Pokémon Training for Developers: Mastering Lifecycle Methods and Hooks in React](/webdevfun/pokemon-training-for-developers-mastering-lifecycle-methods-and-hooks-in-react)
-* [Crafting a React Pokédex with Zustand: A Simpler State Management Saga](/webdevfun/crafting-a-react-pokedex-with-zustand-a-simpler-state-management-saga)
+* [React App: A Pokémon Adventure](/webdevfun/react-app-a-pokemon-adventure)
+* [State and Props in React](/webdevfun/state-and-props-in-react)
+* [React Router and Your Pokédex](/webdevfun/react-router-and-your-pokedex)
+* [Lifecycle Methods and Hooks in React](/webdevfun/lifecycle-methods-and-hooks-in-react)
+* [React Pokédex with Zustand](/webdevfun/react-pokedex-with-zustand)
 
 ## CSS Preprocessors: The Potion Masters
 
@@ -105,9 +105,9 @@ npm and Yarn are the keepers of the vast grimoire of libraries, guarding the tom
 Navigating the realm of APIs is like holding a parley with dragons. Tools like Postman and Swagger are your diplomatic envoys, ensuring your requests and responses are in perfect harmony, and your web services integrate as smoothly as a bard's tale.
 
 To learn more about REST APIs, check out this series of posts:
-* [REST APIs: Unleashing the Power of Poké Balls in the Digital Realm](/webdevfun/rest-apis-unleashing-the-power-of-poke-balls-in-the-digital-realm)
-* [Catching Data with Poké Balls: Dynamic Content with HTML Templating and the PokéAPI](/webdevfun/catching-data-with-poke-balls-dynamic-content-with-html-templating-and-the-pokeapi)
-* [Project Showcase: Build Your Own Pokédex with JavaScript and the PokéAPI](/webdevfun/project-showcase-build-your-own-pokedex-with-javascript-and-the-pokeapi)
+* [REST APIs](/webdevfun/rest-apis)
+* [Dynamic Content with HTML Templating](/webdevfun/dynamic-content-with-html-templating)
+* [Project Showcase: Build a Pokédex](/webdevfun/project-showcase-build-a-pokedex)
 
 ## Database Management: The Keepers of Lore
 

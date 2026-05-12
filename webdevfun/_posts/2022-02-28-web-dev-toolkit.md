@@ -105,7 +105,7 @@ npm and Yarn are the keepers of the vast grimoire of libraries, guarding the tom
 Navigating the realm of APIs is like holding a parley with dragons. Tools like Postman and Swagger are your diplomatic envoys, ensuring your requests and responses are in perfect harmony, and your web services integrate as smoothly as a bard's tale.
 
 To learn more about REST APIs, check out this series of posts:
-* [REST APIs](/webdevfun/rest-apis)
+* [REST APIs](/webdevfun/rest-apis/)
 * [Dynamic Content with HTML Templating](/webdevfun/dynamic-content-with-html-templating/)
 * [Project Showcase: Build a Pokédex](/webdevfun/project-showcase-build-a-pokedex/)
 

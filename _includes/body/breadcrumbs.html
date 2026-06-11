@@ -1,6 +1,16 @@
 <nav id="breadcrumbs" class="screen-only"><ul>
   {% assign crumbs = include.url | remove:'/index.html' | split: '/' %}
-  {% if crumbs.size > 1 %}
+  {% if page.layout == 'recipe' %}
+    <li><a href="{{ '/' | relative_url }}">{{ site.data.strings.breadcrumbs_home | default:'home' }}</a></li>
+    <li>
+      <span>{{ site.data.strings.breadcrumbs_separator | default:'/' }}</span>
+      <a href="{{ '/recipes/' | relative_url }}">recipes</a>
+    </li>
+    <li>
+      <span>{{ site.data.strings.breadcrumbs_separator | default:'/' }}</span>
+      <span>{{ page.title }}</span>
+    </li>
+  {% elsif crumbs.size > 1 %}
     <li><a href="{{ '/' | relative_url }}">{{ site.data.strings.breadcrumbs_home | default:'home' }}</a></li>
     {% for crumb in crumbs offset: 1 %}
       <li>

@@ -5,7 +5,7 @@ description: >
   Dive into the world of gluten-free baking with this moist and flavorful banana bread
   recipe, perfect for anyone looking to enjoy a classic treat without gluten.
 image: /assets/img/recipes/gluten-free-banana-bread.jpg
-tags: ["Gluten-Free", "Desserts", "Comfort Food"]
+tags: ["Gluten-Free", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/gluten-free-recipes/_posts/2024-01-01-banana-muffins.md

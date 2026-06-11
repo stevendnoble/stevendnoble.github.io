@@ -4,7 +4,7 @@ title: Pork Carnitas
 description: >
   Slow-cooked pork carnitas with citrus, garlic, warm spices, and crisped edges for tacos, bowls, and nachos.
 image: /assets/img/recipes/pork-carnitas.jpg
-tags: ["Latin", "Comfort Food"]
+tags: ["Latin"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-pulled-pork.md

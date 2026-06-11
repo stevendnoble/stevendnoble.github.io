@@ -5,7 +5,7 @@ description: >
   A creamy Indian-style butter chicken with tender marinated chicken, tomato,
   warming spices, butter, and cream.
 image: /assets/img/recipes/butter-chicken.jpg
-tags: ["Asian", "Comfort Food"]
+tags: ["Asian"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-lamb-saag.md

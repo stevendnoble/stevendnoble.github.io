@@ -5,7 +5,7 @@ description: >
   Indulge in the warm, comforting embrace of my mother's Country Apple Fritter Bread,
   where every slice is a perfect blend of sweet apples and aromatic cinnamon.
 image: /assets/img/recipes/country-apple-fritter-bread.jpg
-tags: ["Family Recipes", "Desserts", "Comfort Food"]
+tags: ["Family Recipes", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-cheesy-salmon-casserole.md

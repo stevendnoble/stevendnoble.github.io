@@ -5,7 +5,7 @@ description: >
   Crispy bite-sized chicken tossed in a glossy orange sauce with ginger, garlic,
   soy sauce, rice vinegar, and orange zest.
 image: /assets/img/recipes/orange-chicken.jpg
-tags: ["Asian", "Comfort Food"]
+tags: ["Asian"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-chicken-karaage.md

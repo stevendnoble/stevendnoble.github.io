@@ -5,7 +5,7 @@ description: >
   Indulge in my mother's creamy, decadent Crab Rangoon Dip, a luxurious appetizer that
   transforms any gathering into a gourmet experience.
 image: /assets/img/recipes/crab-rangoon-dip.jpg
-tags: ["Family Recipes", "Comfort Food"]
+tags: ["Family Recipes"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-lobster-stew.md

@@ -5,7 +5,7 @@ description: >
   Roasted red beets layered with peppery arugula, creamy goat cheese, toasted
   walnuts, and a sweet-tangy balsamic reduction.
 image: /assets/img/recipes/beet-goat-cheese-salad.jpg
-tags: ["European"]
+tags: ["Quick and Easy"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-harvard-beets.md

@@ -4,6 +4,7 @@ title: Recipes
 slug: recipes
 author: stevendnoble-recipes
 no_groups: true
+compact_posts: true
 sitemap: true
 hide_description: true
 ---

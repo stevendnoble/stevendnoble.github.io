@@ -1,6 +1,7 @@
 <nav id="breadcrumbs" class="screen-only"><ul>
   {% assign crumbs = include.url | remove:'/index.html' | split: '/' %}
-  {% if page.layout == 'recipe' %}
+  {% assign recipe_tag_page = site.featured_tags | where:"url", page.url | first %}
+  {% if page.layout == 'recipe' or recipe_tag_page %}
     <li><a href="{{ '/' | relative_url }}">{{ site.data.strings.breadcrumbs_home | default:'home' }}</a></li>
     <li>
       <span>{{ site.data.strings.breadcrumbs_separator | default:'/' }}</span>

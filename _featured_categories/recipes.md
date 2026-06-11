@@ -5,6 +5,7 @@ slug: recipes
 author: stevendnoble-recipes
 no_groups: true
 compact_posts: true
+sort_posts_by: title
 sitemap: true
 hide_description: true
 ---

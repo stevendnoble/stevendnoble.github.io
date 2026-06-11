@@ -5,7 +5,7 @@ description: >
   Slow-cooked pulled pork with a smoky spice rub, tangy sauce, and tender
   shreddable texture.
 image: /assets/img/recipes/pulled-pork.jpg
-tags: ['Favorites', 'Pulled Pork', 'Barbecue', 'Pork', 'Dinner']
+tags: ["Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-baby-back-ribs.md

@@ -5,7 +5,7 @@ description: >
   Millionaire Fudge is a decadent delight that marries the rich, velvety texture of
   chocolate with the airy sweetness of marshmallow creme.
 image: /assets/img/recipes/millionaire-fudge.jpg
-tags: ['Mom', 'Linda', 'Millionaire Fudge', 'Dessert']
+tags: ["Family Recipes", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-five-minute-fudge.md

@@ -5,7 +5,7 @@ description: >
   Discover the delightful crunch and savory spice of my mother's Crispy Seasoned Baked
   Potato Rounds, a simple yet irresistible side dish.
 image: /assets/img/recipes/crispy-seasoned-baked-potato-rounds.jpg
-tags: ['Mom', 'Linda', 'Crispy Seasoned Baked Potato Rounds', 'Comfort Food']
+tags: ["Family Recipes", "Comfort Food", "Quick and Easy"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-classic-homestyle-meatloaf.md

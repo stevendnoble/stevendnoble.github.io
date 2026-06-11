@@ -5,7 +5,7 @@ description: >
   This Rhubarb Pie that my grandmother Elsie used to make offers a delightful
   exploration of tangy flavors and sweet notes.
 image: /assets/img/recipes/rhubarb-pie.jpg
-tags: ['Grammie', 'Elsie', 'Rhubarb Pie', 'Strawberry Rhubarb Pie', 'Dessert']
+tags: ["Family Recipes", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-peach-pie.md

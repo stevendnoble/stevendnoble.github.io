@@ -5,7 +5,7 @@ description: >
   My grandmother Elsie's whoopie pie recipe is a delightful journey into the
   world of baking, combining simple ingredients to create soft, chocolatey shells.
 image: /assets/img/recipes/whoopie-pies.jpg
-tags: ['Grammie', 'Elsie', 'Whoopie Pie', 'Dessert']
+tags: ["Family Recipes", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-squash-pie.md

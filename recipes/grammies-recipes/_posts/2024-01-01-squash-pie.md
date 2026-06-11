@@ -5,7 +5,7 @@ description: >
   My grandmother Elsie's Squash Pie recipe encapsulates the essence of autumn with its
   rich blend of spices and smooth squash filling.
 image: /assets/img/recipes/squash-pie.jpg
-tags: ['Grammie', 'Elsie', 'Squash Pie', 'Dessert']
+tags: ["Family Recipes", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-pear-pie.md

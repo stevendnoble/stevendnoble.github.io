@@ -5,7 +5,7 @@ description: >
   A creamy clam chowder with bacon, onion, potatoes, clam juice, thyme, celery
   salt, bay leaves, and plenty of tender clams.
 image: /assets/img/recipes/clam-chowder.jpg
-tags: ['Favorites', 'Clam Chowder', 'Seafood', 'Soup', 'Comfort Food']
+tags: ["Soups and Stews", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-jfk-chowder.md

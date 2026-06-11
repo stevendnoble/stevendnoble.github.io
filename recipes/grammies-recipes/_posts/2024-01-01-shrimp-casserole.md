@@ -5,7 +5,7 @@ description: >
   Dive into the heartwarming embrace of our Shrimp Casserole, my grandmother Elsie's
   culinary masterpiece with succulent shrimp and a creamy base.
 image: /assets/img/recipes/shrimp-casserole.jpg
-tags: ['Grammie', 'Elsie', 'Shrimp Casserole', 'Savory Dishes']
+tags: ["Family Recipes", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-scalloped-corn-casserole.md

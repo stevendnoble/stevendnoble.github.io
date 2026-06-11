@@ -5,7 +5,7 @@ description: >
   Dive into the comfort of my mother's Classic Homestyle Meatloaf, a heartwarming family
   meal that promises nostalgia and satisfaction in every slice.
 image: /assets/img/recipes/classic-homestyle-meatloaf.jpg
-tags: ['Mom', 'Linda', 'Classic Homestyle Meatloaf', 'Comfort Food']
+tags: ["Family Recipes", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-baked-mac-and-cheese.md

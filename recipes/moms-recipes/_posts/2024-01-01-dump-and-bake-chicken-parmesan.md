@@ -5,7 +5,7 @@ description: >
   Experience the simplicity and heartiness of my mother's Dump and Bake Chicken
   Parmesan, a one-dish wonder with tender chicken.
 image: /assets/img/recipes/dump-and-bake-chicken-parmesan.jpg
-tags: ['Mom', 'Linda', 'Dump and Bake Chicken Parmesan', 'Comfort Food']
+tags: ["Family Recipes", "European", "Comfort Food", "Quick and Easy"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-crispy-seasoned-baked-potato-rounds.md

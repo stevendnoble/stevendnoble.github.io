@@ -5,7 +5,7 @@ description: >
   Savor the smoky, succulent flavors of my mother's delight: Baby Back Ribs, a
   recipe designed to deliver tender, fall-off-the-bone meat.
 image: /assets/img/recipes/baby-back-ribs.jpg
-tags: ['Mom', 'Linda', 'Baby Back Ribs', 'Comfort Food']
+tags: ["Family Recipes", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-dump-and-bake-chicken-parmesan.md

@@ -5,7 +5,7 @@ description: >
   Discover the balance of sweet and tangy with my grandmother Elsie's classic
   Bread and Butter Pickles recipe, a staple in the American pickling tradition.
 image: /assets/img/recipes/bread-and-butter-pickles.jpg
-tags: ['Grammie', 'Elsie', 'Bread and Butter Pickles', 'Pickling']
+tags: ["Family Recipes"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-harvard-beets.md

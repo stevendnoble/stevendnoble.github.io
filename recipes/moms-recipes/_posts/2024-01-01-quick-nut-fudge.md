@@ -6,7 +6,7 @@ description: >
   balances the crunchiness of nuts with the smoothness of fudge in every bite.
   sophisticated taste.
 image: /assets/img/recipes/quick-nut-fudge.jpg
-tags: ['Mom', 'Linda', 'Quick Nut Fudge', 'Dessert']
+tags: ["Family Recipes", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-millionaires-fudge.md

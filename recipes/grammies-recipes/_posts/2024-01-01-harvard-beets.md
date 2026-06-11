@@ -5,7 +5,7 @@ description: >
   Discover the perfect blend of sweetness and tanginess with my grandmother Elsie's
   Harvard Beets recipe, a timeless side dish that brightens up any meal.
 image: /assets/img/recipes/harvard-beets.jpg
-tags: ['Grammie', 'Elsie', 'Harvard Beets', 'Savory Dishes']
+tags: ["Family Recipes", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-pickled-beets.md

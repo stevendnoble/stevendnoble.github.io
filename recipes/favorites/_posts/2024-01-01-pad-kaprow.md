@@ -5,7 +5,7 @@ description: >
   Pad Kaprow, or Thai Holy Basil Stir-Fry, is a fiery and aromatic dish that captures
   the heart of Thai cuisine with ground pork, Thai chilies, and Holy Basil.
 image: /assets/img/recipes/pad-krapow.jpg
-tags: ['Pad Krapow', 'Pad Krapao', 'Thai Holy Basil Stir-Fry', 'Thai', 'Dinner']
+tags: ["Asian", "Quick and Easy"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-thai-fresh-rolls.md

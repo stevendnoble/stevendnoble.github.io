@@ -5,7 +5,7 @@ description: >
   Dive into the warmth of homemade baking with my grandmother's Applesauce Cake recipe,
   a moist and dense delight baked in a classic 9x5 loaf shape.
 image: /assets/img/recipes/applesauce-cake.jpg
-tags: ['Grammie', 'Elsie', 'Applesauce Cake', 'Dessert']
+tags: ["Family Recipes", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-whoopie-pies.md

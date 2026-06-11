@@ -5,7 +5,7 @@ description: >
   A Thai coconut chicken soup with lemongrass, galangal, makrut lime leaves,
   mushrooms, lime, fish sauce, and cilantro.
 image: /assets/img/recipes/tom-kha-soup.jpg
-tags: ['Favorites', 'Tom Kha Soup', 'Thai Cuisine', 'Chicken', 'Soup']
+tags: ["Asian", "Soups and Stews"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-thai-fried-rice.md

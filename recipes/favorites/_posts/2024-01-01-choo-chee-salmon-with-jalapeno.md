@@ -5,7 +5,7 @@ description: >
   Pan-seared salmon finished in a thick Thai red coconut curry sauce with
   jalapeno, makrut lime, fish sauce, and Thai basil.
 image: /assets/img/recipes/choo-chee-salmon-with-jalapeno.jpg
-tags: ['Favorites', 'Choo Chee Salmon', 'Thai Cuisine', 'Salmon', 'Dinner']
+tags: ["Asian"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-thai-fried-rice.md

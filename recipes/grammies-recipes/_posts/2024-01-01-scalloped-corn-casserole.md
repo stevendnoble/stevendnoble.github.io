@@ -5,7 +5,7 @@ description: >
   Dive into the comforting embrace of my grandmother Elsie's Scalloped Corn Casserole, a
   dish that combines creamed corn with a creamy, custard-like base.
 image: /assets/img/recipes/scalloped-corn-casserole.jpg
-tags: ['Grammie', 'Elsie', 'Scalloped Corn Casserole', 'Savory Dishes']
+tags: ["Family Recipes", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-shrimp-casserole.md

@@ -5,7 +5,7 @@ description: >
   Tomato Mincemeat redefines the boundaries of traditional preserves with its inventive
   blend of tangy green tomatoes, sweet apples, and rich raisins.
 image: /assets/img/recipes/tomato-mincemeat.jpg
-tags: ['Grammie', 'Elsie', 'Tomato Mincemeat', 'Dessert']
+tags: ["Family Recipes", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-mincemeat-pie.md

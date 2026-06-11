@@ -5,7 +5,7 @@ description: >
   Dive into the delightful world of Gluten-Free Banana Muffins, a recipe where ripe
   bananas meet the irresistible charm of chocolate chips.
 image: /assets/img/recipes/gluten-free-banana-muffins.jpg
-tags: ['Gluten Free', 'Banana Muffins', 'Breakfast']
+tags: ["Gluten-Free", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/gluten-free-recipes/_posts/2024-01-01-blueberry-muffins.md

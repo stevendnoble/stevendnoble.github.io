@@ -5,7 +5,7 @@ description: >
   Dive into the comforting embrace of my mother's Cheesy Salmon Casserole, a harmonious
   blend of flaked salmon, creamy mushroom soup, and vibrant vegetables.
 image: /assets/img/recipes/cheesy-salmon-casserole.jpg
-tags: ['Mom', 'Linda', 'Cheesy Salmon Casserole', 'Comfort Food']
+tags: ["Family Recipes", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-baby-back-ribs.md

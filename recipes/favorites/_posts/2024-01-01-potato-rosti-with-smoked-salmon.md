@@ -5,7 +5,7 @@ description: >
   Crisp little potato rosti topped with sour cream, smoked salmon, fresh dill, and
   cracked black pepper for an easy brunch or appetizer.
 image: /assets/img/recipes/potato-rosti-with-smoked-salmon.jpg
-tags: ['Favorites', 'Potato Rosti', 'Smoked Salmon', 'Appetizer', 'Brunch']
+tags: ["European", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-beet-goat-cheese-salad.md

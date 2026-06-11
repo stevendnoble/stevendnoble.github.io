@@ -5,7 +5,7 @@ description: >
   Vietnamese Bò Lúc Lắc made with filet mignon cubes, quickly seared over high
   heat and served over lettuce, tomatoes, cucumber, and lime-pepper dipping sauce.
 image: /assets/img/recipes/vietnamese-shaking-beef.jpg
-tags: ['Favorites', 'Vietnamese Shaking Beef', 'Bò Lúc Lắc', 'Beef', 'Dinner']
+tags: ["Asian"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-vietnamese-chicken-curry-rice-balls.md

@@ -5,7 +5,7 @@ description: >
   Fesenjoon, a quintessential dish of Persian cuisine, beautifully combines the rich
   texture of ground walnuts with the tartness of pomegranate concentrate.
 image: /assets/img/recipes/fesenjoon.jpg
-tags: ['Fesenjoon', 'Persian Cuisine', 'Stew', 'Dinner']
+tags: ["Mediterranean and Middle Eastern", "Soups and Stews"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-mast-o-khiar.md

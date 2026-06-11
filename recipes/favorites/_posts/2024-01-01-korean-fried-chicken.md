@@ -5,7 +5,7 @@ description: >
   Dive into the crispy and utterly delicious world of Korean Fried Chicken, coated in
   a flavorful, spicy, and sweet sauce that'll make your taste buds sing.
 image: /assets/img/recipes/korean-fried-chicken.jpg
-tags: ['Korean Fried Chicken', 'Chicken', 'Korean Cuisine', 'Dinner']
+tags: ["Asian", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-bulgogi.md

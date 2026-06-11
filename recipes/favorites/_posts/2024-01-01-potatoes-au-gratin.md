@@ -5,7 +5,7 @@ description: >
   Potatoes au Gratin combines layers of thinly sliced potatoes with a creamy sauce and
   a golden, cheesy crust, creating a dish that's both comforting and elegant.
 image: /assets/img/recipes/potatoes-au-gratin.jpg
-tags: ['Potatoes au Gratin', 'Side Dish', 'Comfort Food']
+tags: ["European", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-coq-au-vin.md

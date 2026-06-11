@@ -5,7 +5,7 @@ description: >
   Escargots à la Bourguignonne, a French delicacy, invites you into gourmet dining with
   its exquisite blend of tender snails and rich garlic-herb butter.
 image: /assets/img/recipes/escargots-a-la-bourguignonne.jpg
-tags: ['Escargots', 'French Cuisine', 'Appetizer']
+tags: ["European"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-potatoes-au-gratin.md

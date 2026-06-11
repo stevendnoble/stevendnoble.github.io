@@ -5,7 +5,7 @@ description: >
   Embark on a culinary adventure with my grandmother Elsie's Sweet Cucumber Pickles
   recipe, transforming simple cucumbers into a symphony of sweetness and tang.
 image: /assets/img/recipes/sweet-cucumber-pickles.jpg
-tags: ['Grammie', 'Elsie', 'Sweet Cucumber Pickles', 'Pickling']
+tags: ["Family Recipes"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-bread-and-butter-pickles.md

@@ -5,7 +5,7 @@ description: >
   My mother's Shrimpies combine the delicate sweetness of baby shrimp with the creamy
   richness of cheese, creating a mouthwatering snack.
 image: /assets/img/recipes/shrimpies.jpg
-tags: ['Mom', 'Linda', 'Shrimpies', 'Seafood Dishes']
+tags: ["Family Recipes", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-lobster-stew.md

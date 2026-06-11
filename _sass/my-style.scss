@@ -11,3 +11,46 @@ details {
 h1, h2, h3, h4, .h1, .h2, .h3, .h4 {
   max-width: 100%;
 }
+
+main:not(.layout-resume) {
+  .compact-post-grid {
+    padding-top: .75rem;
+    margin-top: .75rem;
+
+    > .compact-post-column {
+      width: 50%;
+      margin-bottom: 1rem;
+    }
+
+    .project-card {
+      padding-bottom: .75rem;
+    }
+
+    .project-card-title {
+      font-size: .9rem;
+      line-height: 1.25;
+      margin-top: .55rem;
+      margin-bottom: 0;
+      padding-right: .6rem;
+      padding-left: .6rem;
+    }
+  }
+
+  @media screen and (min-width: $break-point-1) {
+    .compact-post-grid {
+      > .compact-post-column {
+        width: 33.333333%;
+      }
+    }
+  }
+
+  @media screen and (min-width: $break-point-dynamic) {
+    .columns-break.compact-post-grid {
+      width: (($content-width-5 / 2 + .5rem) * 2) + 1rem;
+
+      > .compact-post-column {
+        width: 33.333333%;
+      }
+    }
+  }
+}

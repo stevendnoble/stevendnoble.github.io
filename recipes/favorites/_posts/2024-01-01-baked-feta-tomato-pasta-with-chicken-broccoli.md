@@ -5,7 +5,7 @@ description: >
   A creamy baked feta and cherry tomato pasta with chicken, broccoli, garlic, and
   fresh basil for an easy one-pan dinner.
 image: /assets/img/recipes/baked-feta-tomato-pasta-with-chicken-broccoli.jpg
-tags: ['Favorites', 'Baked Feta Pasta', 'Chicken', 'Pasta', 'Dinner']
+tags: ["Mediterranean and Middle Eastern", "European", "Comfort Food", "Quick and Easy"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-potatoes-au-gratin.md

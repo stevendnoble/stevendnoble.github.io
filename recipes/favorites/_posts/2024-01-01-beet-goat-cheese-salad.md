@@ -50,8 +50,17 @@ nutrition:
   servings_per_recipe: 4
   calories: 225
   total_fat: 12
+  saturated_fat: 3.5
+  cholesterol: 10
+  sodium: 280
   total_carbohydrates: 23
+  dietary_fiber: 5
+  total_sugars: 17
   protein: 6
+  vitamin_a: 100
+  vitamin_c: 12
+  calcium: 90
+  iron: 2.2
 prep_time: PT10M
 cook_time: PT55M
 total_time: PT1H35M
@@ -59,29 +68,43 @@ total_time: PT1H35M
 
 # Beet & Goat Cheese Salad
 
-## Sweet Beets, Tangy Cheese, and Crunch
+## Potluck Salad for More Than One Season
 
 This salad works because every piece brings a different kind of contrast. The
 roasted beets are earthy and sweet, the arugula is peppery, the goat cheese is
 creamy and tangy, and the toasted walnuts add crunch. The balsamic reduction ties
 everything together with a glossy sweet-sour finish.
 
+It is a great potluck salad because it feels dressed up without being fussy. In
+the summer, it reads bright and fresh, especially with peppery greens and a
+sweet-tangy drizzle. In the fall, the same salad feels richer and more seasonal:
+beets are right at home with cooler-weather vegetables, toasted nuts, and creamy
+cheese.
+
 Roasting the beets in a foil packet with balsamic vinegar gives them a head
 start on flavor while keeping them tender. Once they are cool enough to handle,
 the skins slip off more easily and the beets can be sliced thin for a prettier,
 more delicate salad.
 
-## Serving Ideas
+## Tips
 
-Serve Beet & Goat Cheese Salad as a starter before pasta, roast chicken, pork
-tenderloin, or grilled steak. It also works well as a light lunch with crusty
-bread or as part of a brunch spread with quiche, deviled eggs, or smoked salmon.
+- Roast the beets up to 1 day ahead and refrigerate them whole or sliced in a
+  covered container.
+- Make the balsamic reduction ahead too. If it thickens too much in the
+  refrigerator, let it sit at room temperature for a few minutes or warm it very
+  gently until it loosens enough to drizzle.
+- Assemble the salad shortly before serving so the arugula stays fresh.
+- For a potluck, bring the beets, greens, cheese, nuts, and balsamic reduction
+  separately, then assemble on a platter when you arrive.
+- Serve it as a starter before pasta, roast chicken, pork tenderloin, or grilled
+  steak. It also works well as a light lunch with crusty bread or as part of a
+  brunch spread with quiche, deviled eggs, or smoked salmon.
+
+## Variations
 
 For a heartier salad, add sliced grilled chicken, lentils, farro, or quinoa. The
 beets and goat cheese are bold enough to carry extra grains or protein without
 the salad feeling weighed down.
-
-## Variations
 
 Swap the walnuts for toasted pecans, pistachios, or hazelnuts. If goat cheese is
 too tangy for your taste, feta or blue cheese can work, though each will change
@@ -91,13 +114,3 @@ fresh sweet note that pairs beautifully with the beets.
 For the greens, arugula gives the best peppery contrast, but baby spinach or
 mixed greens are good softer options. You can also add fresh herbs such as mint,
 parsley, or dill for a brighter finish.
-
-## Make-Ahead Tips
-
-The beets can be roasted up to 1 day ahead and refrigerated. Keep them whole or
-sliced in a covered container, then assemble the salad shortly before serving so
-the arugula stays fresh.
-
-The balsamic reduction can also be made ahead. If it thickens too much in the
-refrigerator, let it sit at room temperature for a few minutes or warm it very
-gently until it loosens enough to drizzle.

@@ -44,21 +44,50 @@ instructions:
 prep_time: PT15M
 cook_time: PT24M
 total_time: PT39M
+nutrition:
+  serving_size: 1 side serving
+  servings_per_recipe: 4
+  calories: 260
+  total_fat: 9
+  saturated_fat: 2.5
+  cholesterol: 8
+  sodium: 700
+  total_carbohydrates: 41
+  dietary_fiber: 5
+  total_sugars: 3
+  protein: 6
+  vitamin_a: 40
+  vitamin_c: 45
+  calcium: 80
+  iron: 2
 ---
 # Air Fryer Greek Potatoes
 
-## Crisp Potato Tips
+## Greek Table Style
 
-Dry potatoes brown better. If the wedges are wet when they go into the air fryer, they steam before they crisp. Work in batches if needed so the wedges have room for hot air to move around them.
+These potatoes remind me of a Greek friend who used to make lemony potatoes
+alongside whatever else was happening for dinner. There might be grilled meat,
+a big salad, warm pita, tzatziki, and a few little dishes scattered around the
+table, but the potatoes were always the thing people kept reaching for. They
+were simple, bright, salty, and generous in that very Greek way where a side
+dish can quietly become the reason everyone goes back for seconds.
 
-## Serving Ideas
+They are especially good with gyros, lamb lule, grilled chicken, roasted salmon,
+Greek salad, or a simple bowl of tzatziki and warm pita. I also like them as the
+starchy side for a mezze-style dinner with olives, feta, cucumbers, tomatoes,
+hummus, and anything grilled. A final squeeze of lemon right before serving makes
+them taste fresh again, even after the air fryer has done all the crisping.
 
-Serve with gyros, lamb lule, grilled chicken, roasted salmon, Greek salad, or a simple bowl of tzatziki and warm pita.
+## Tips and Variations
 
-## Variations
-
-Add a pinch of cayenne for heat, swap parsley for dill, or finish with grated lemon zest for extra brightness. For a dairy-free version, skip the feta and add more herbs.
-
-## Make-Ahead and Storage
-
-These are best fresh, but leftovers reheat well in the air fryer at 375°F for 4-6 minutes. Add a fresh squeeze of lemon after reheating.
+- For crispier potatoes, dry the wedges well after soaking or rinsing them. If
+  they are wet when they go into the basket, they steam first and brown later,
+  which means you lose the contrast between fluffy centers and crisp edges.
+- Give the potatoes space in the air fryer. A crowded basket traps moisture, so
+  it is better to cook two good batches than one packed batch that never really
+  gets golden.
+- Add a pinch of cayenne for heat, swap parsley for dill, or finish with grated
+  lemon zest for extra brightness.
+- For a dairy-free version, skip the feta and add more herbs.
+- These are best fresh, but leftovers reheat well in the air fryer at 375°F for
+  4-6 minutes. Add a fresh squeeze of lemon after reheating.

@@ -41,20 +41,20 @@ instructions:
     description: Cover and refrigerate the Mast-o Khiar for at least one hour to allow the flavors to meld. Serve chilled as a dip with flatbread, crackers, or vegetable sticks.
 nutrition:
   serving_size: 1/4 cup
-  servings_per_recipe: 8-10
-  calories: 45
-  total_fat: 1g
-  saturated_fat: 0.5g
-  cholesterol: 5mg
-  sodium: 45mg
-  total_carbohydrates: 3g
-  dietary_fiber: 0.2g
-  total_sugars: 2g
-  protein: 6g
-  vitamin_d: 0mcg
-  calcium: 60mg
-  iron: 0mg
-  potassium: 80mg
+  servings_per_recipe: 8
+  calories: 60
+  total_fat: 2
+  saturated_fat: 1
+  cholesterol: 8
+  sodium: 75
+  total_carbohydrates: 4
+  dietary_fiber: 0.5
+  total_sugars: 3
+  protein: 7
+  vitamin_a: 35
+  vitamin_c: 3
+  calcium: 90
+  iron: 0.3
 prep_time: PT15M
 cook_time: PT0M
 total_time: PT3H15M
@@ -62,18 +62,16 @@ total_time: PT3H15M
 
 # Mast-o Khiar
 
-## Persian Yogurt and Cucumber Dip
+## Cool Persian Yogurt and Cucumber
 
-Embrace the refreshing flavors of Mast-o Khiar, a dip that combines the richness of yogurt with the freshness of herbs and cucumber, creating a delightful contrast that's both nutritious and flavorful. Perfect for a light summer dish or as a complement to spicy meals, this traditional Persian recipe is a testament to the beauty of simple, fresh ingredients coming together in harmony.
+Mast-o Khiar is simple in the best way: thick yogurt, cucumber, dill, mint,
+salt, and pepper. It is cooling next to rich stews, grilled meats, and spicy
+dishes, but it is also good as a snack with flatbread or vegetables.
 
-## Serving Suggestions and Variations
+## Tips and Variations
 
-Mast-o Khiar can be enjoyed in various ways, making it a versatile addition to your culinary repertoire. It serves beautifully as a refreshing dip alongside warm pita bread, crisp lavash crackers, or a colorful array of raw vegetables for dipping. For a delightful twist, consider adding a sprinkle of rose petals or a dash of za'atar on top before serving, introducing a new layer of aroma and flavor.
-
-## Cooking Tips and Health Benefits
-
-Straining the yogurt not only enhances the texture of Mast-o Khiar but also concentrates the protein content, making this dip a nutritious choice. For those looking to add more probiotics to their diet, Mast-o Khiar is an excellent option. To ensure the dip remains as healthy as it is delicious, opt for low-fat Greek yogurt and fresh, organic cucumbers.
-
-## A Taste of Tradition
-
-The simplicity of Mast-o Khiar belies its deep roots in Persian cuisine, a testament to the region's appreciation for dishes that highlight the natural flavors of their ingredients. Legend has it that this dish was a favorite among Persian royalty for its cooling properties, especially during the warm summer months. As this dish has passed from generation to generation, each family adds its touch, making Mast-o Khiar not just a recipe, but a cherished heritage shared at meals, symbolizing the importance of freshness and simplicity in Persian culinary traditions.
+- Strain the yogurt if you want a thicker dip.
+- Salt and squeeze the cucumber if it seems watery.
+- Add rose petals, walnuts, raisins, or za'atar for a more dressed-up bowl.
+- Serve with Ghormeh Sabzi, Fesenjoon, kebabs, pita, lavash, or raw
+  vegetables.

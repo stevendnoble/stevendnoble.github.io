@@ -44,16 +44,20 @@ instructions:
     description: Let the gratin rest for a few minutes before serving. Enjoy the creamy, cheesy goodness!
 nutrition:
   serving_size: 1 serving
-  servings_per_recipe: 6
-  calories: 400
-  total_fat: 27g
-  saturated_fat: 17g
-  cholesterol: 100mg
-  sodium: 300mg
-  total_carbohydrates: 30g
-  dietary_fiber: 2g
-  total_sugars: 2g
-  protein: 15g
+  servings_per_recipe: 8
+  calories: 390
+  total_fat: 25
+  saturated_fat: 15
+  cholesterol: 80
+  sodium: 620
+  total_carbohydrates: 31
+  dietary_fiber: 3
+  total_sugars: 4
+  protein: 12
+  vitamin_a: 260
+  vitamin_c: 18
+  calcium: 300
+  iron: 1.5
 prep_time: PT15M
 cook_time: PT1H35M
 total_time: PT1H50M
@@ -61,32 +65,15 @@ total_time: PT1H50M
 
 # Potatoes au Gratin
 
-## Savor the Layers
+## Creamy Potato Layers
 
-Elevate your side dish repertoire with Potatoes au Gratin, a luxurious blend of creamy potatoes and cheese that's guaranteed to comfort and satisfy. This classic dish is a testament to the beauty of simple ingredients coming together in perfect harmony. Whether paired with a roast, served during the holidays, or enjoyed on its own, Potatoes au Gratin is a timeless favorite that transcends trends.
+Potatoes au gratin is comfort food built from thin slices, cream, cheese,
+and time. The top should be browned and bubbling, while the inside turns
+tender and rich without falling apart.
 
-## Beyond Tradition: Variations to Explore
+## Tips and Variations
 
-While the classic Potatoes au Gratin is undeniably delicious, there's room for creativity and adaptation to suit your taste or the occasion:
-
-### Add-Ins for Extra Flavor
-
-* **Meaty Mix-Ins:** Incorporate layers of cooked bacon, ham, or pancetta between the potatoes for a savory twist.
-* **Vegetable Variations:** For a more colorful and nutritious dish, add layers of spinach, kale, or thinly sliced root vegetables like turnips and sweet potatoes.
-* **Herbal Highlights:** Fresh herbs such as thyme, rosemary, or sage can add a fragrant dimension to the creamy layers.
-
-### Dairy Delights
-
-Experimenting with different types of cheese can significantly alter the flavor profile of your gratin:
-
-* **Blue Cheese:** For a bold, tangy kick, sprinkle some crumbled blue cheese along with the traditional Gruyère.
-* **Smoked Gouda:** Add a smoky depth by using smoked Gouda, enhancing the comforting warmth of the dish.
-* **Mozzarella:** For a stretchier, milder cheese layer, incorporate slices or shreds of mozzarella.
-
-### The Sauce Swap
-
-While the classic recipe leans on the simplicity of cream and milk, you can experiment with béchamel sauce for a thicker, richer texture. Incorporating a bit of Dijon mustard or white wine into the sauce can also introduce new layers of flavor.
-
-## Celebrating Comfort
-
-Potatoes au Gratin is more than just a dish; it's a celebration of comfort and warmth. Serving this gratin at your table brings a sense of togetherness, making every meal a special occasion. It's a reminder of the power of food to bring people together, creating moments of joy and satisfaction that linger long after the last bite.
+- Slice the potatoes evenly so they cook at the same pace.
+- Let the dish rest before serving so the cream settles into the layers.
+- Add thyme, rosemary, garlic, gruyere, cheddar, or parmesan.
+- Serve with roast chicken, steak, ham, green beans, or a bright salad.

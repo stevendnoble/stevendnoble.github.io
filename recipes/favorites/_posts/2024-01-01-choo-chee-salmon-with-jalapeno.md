@@ -52,37 +52,53 @@ instructions:
 prep_time: PT15M
 cook_time: PT20M
 total_time: PT35M
+nutrition:
+  serving_size: 1 salmon fillet with sauce, without rice
+  servings_per_recipe: 4
+  calories: 520
+  total_fat: 36
+  saturated_fat: 18
+  cholesterol: 95
+  sodium: 720
+  total_carbohydrates: 8
+  dietary_fiber: 1
+  total_sugars: 4
+  protein: 40
+  vitamin_a: 180
+  vitamin_c: 18
+  calcium: 70
+  iron: 2
 ---
 
 # Choo Chee Salmon with Jalapeno
 
-## Thick Thai Curry for Salmon
+## Restaurant Curry at Home
 
-Choo Chee curry is especially good with fish because the sauce is concentrated
-and coats the protein instead of drowning it. Searing the salmon first gives it
-color and keeps the fillets intact while the curry sauce comes together.
+I had Choo Chee Salmon for the first time at a Thai restaurant in downtown San
+Francisco and immediately wondered if I could make something similar at home. I
+was glad I tried. The sauce is thick, coconut-rich, and fragrant, and it clings
+to the salmon instead of turning into a soupy curry.
 
-The jalapeno adds a fresh, grassy heat. Use half if you want the curry mild, or
-leave the seeds in for more bite.
-
-## Serving Ideas
+Searing the salmon first gives it color and helps the fillets stay intact while
+the curry sauce comes together. The jalapeno adds a fresh, grassy heat. Use half
+if you want the curry mild, or leave the seeds in for more bite.
 
 Serve with jasmine rice, cucumber salad, Thai fresh rolls, or simply steamed
 greens. The sauce is rich, so something crisp and fresh on the side works well.
-
 Extra lime at the table is useful because a little acidity wakes up the coconut
 and curry paste.
 
+## Tips
+
+- The sauce can be made ahead, but cook the salmon just before serving.
+- Reheat the sauce gently, then add the fish and simmer until just cooked
+  through.
+- For a thicker, more restaurant-style sauce, simmer it a few minutes longer
+  before returning the salmon to the pan.
+
 ## Variations
 
-Use cod, halibut, shrimp, or scallops instead of salmon. Adjust the cooking time
-so seafood stays tender.
-
-For a saucier version, add a splash more coconut milk. For a thicker, more
-restaurant-style sauce, simmer it a few minutes longer before returning the
-salmon to the pan.
-
-## Make-Ahead Tips
-
-The sauce can be made ahead, but cook the salmon just before serving. Reheat the
-Sauce gently, then add the fish and simmer until just cooked through.
+- Use cod, halibut, shrimp, or scallops instead of salmon. Adjust the cooking
+  time so seafood stays tender.
+- For a saucier version, add a splash more coconut milk.
+- Add more jalapeno or a spoonful of chili crisp if you want extra heat.

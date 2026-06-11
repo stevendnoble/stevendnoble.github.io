@@ -35,8 +35,7 @@ ingredients:
   - 3 tablespoons flour
   - 2 cups chicken stock
   - ½ cup heavy cream, plus 1 tablespoon for brushing the crust
-  - 2 store-bought pie crusts, thawed if frozen
-  - 1 package puff pastry, thawed if frozen
+  - 2 pie crusts, either homemade or store bought
 instructions:
   - step:
     title: Heat the Oven
@@ -58,10 +57,10 @@ instructions:
     description: Cook, stirring often, until the mixture begins to thicken and the chicken is cooked through, about 5-8 minutes. Taste and adjust the seasoning if needed.
   - step:
     title: Fill the Pie Dish
-    description: Transfer the filling to a 9-inch deep-dish pie pan. Refrigerate, stirring occasionally, until slightly cooled, about 10 minutes.
+    description: Fit one pie crust into a 9-inch deep-dish pie pan. Transfer the filling to the crust, then refrigerate, stirring the filling occasionally, until slightly cooled, about 10 minutes.
   - step:
     title: Add the Crust
-    description: Lay puff pastry or pie crust over the filling and crimp the edges with a fork. Use a sharp knife to make a few slits in the crust. Lightly brush the top with the reserved cream, avoiding the edges so they do not brown too quickly.
+    description: Lay the second pie crust over the filling and crimp the edges with a fork. Use a sharp knife to make a few slits in the crust. Lightly brush the top with the reserved cream, avoiding the edges so they do not brown too quickly.
   - step:
     title: Bake
     description: Bake until the crust is light golden brown and the filling is bubbling, 30-40 minutes. Start checking around 25 minutes; at 425°F, it may take closer to 25-30 minutes.
@@ -71,6 +70,22 @@ instructions:
 prep_time: PT25M
 cook_time: PT50M
 total_time: PT1H15M
+nutrition:
+  serving_size: 1 slice
+  servings_per_recipe: 6
+  calories: 650
+  total_fat: 38
+  saturated_fat: 14
+  cholesterol: 165
+  sodium: 780
+  total_carbohydrates: 39
+  dietary_fiber: 4
+  total_sugars: 4
+  protein: 39
+  vitamin_a: 430
+  vitamin_c: 18
+  calcium: 80
+  iron: 4
 ---
 
 # Curry Chicken Pot Pie
@@ -86,16 +101,16 @@ Chicken thighs are a good choice because they stay tender in the creamy sauce.
 The frozen peas and carrots keep things familiar, and the riced cauliflower blends
 into the filling while adding a little extra vegetable body.
 
-## Crust Options
+## Tips
 
-Puff pastry makes a dramatic, flaky top crust and is the easiest option for a
-deep-dish pot pie. Pie crust gives a more traditional chicken pot pie feel and
-can be used as a top crust, or as both bottom and top crusts if you want a fuller
-double-crust pie.
-
-If using a bottom crust, place one pie crust in the dish before adding the cooled
-filling, then top with the second crust or puff pastry. For a simpler version,
-skip the bottom crust and use only puff pastry on top.
+- Pie crust gives this a traditional chicken pot pie feel. Use both crusts for
+  the fuller double-crust version, or skip the bottom crust and use one crust on
+  top for a simpler version.
+- Cool the filling before adding the crust so the pastry stays cold and bakes up
+  flaky.
+- The filling can be made ahead and refrigerated before assembling the pie.
+- Leftovers reheat best in the oven or toaster oven, which helps revive the
+  crust. The microwave works for speed, but it will soften the pastry.
 
 ## Serving Ideas
 
@@ -113,14 +128,10 @@ Use leftover cooked chicken or turkey if you have it. Add it after the sauce has
 thickened so it does not overcook. You can also add diced potatoes, sweet
 potatoes, or butternut squash for an even heartier filling.
 
+You can also make this filling as individual hand pies using the same method as
+[Meat Pies](/recipes/favorites/meat-pies/). That is my favorite way to make them
+when I want something easier to portion, freeze, or reheat.
+
 For more heat, add red pepper flakes, cayenne, or a minced chili with the garlic
 and ginger. For a milder version, use the smaller amount of curry powder and skip
 any extra heat.
-
-## Make-Ahead Tips
-
-The filling can be made ahead and refrigerated before assembling the pie. Let it
-cool before adding the crust so the pastry stays cold and bakes up flaky.
-
-Leftovers reheat best in the oven or toaster oven, which helps revive the crust.
-The microwave works for speed, but it will soften the pastry.

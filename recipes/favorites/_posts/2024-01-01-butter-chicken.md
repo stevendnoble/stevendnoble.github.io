@@ -64,21 +64,35 @@ instructions:
 prep_time: PT20M
 cook_time: PT35M
 total_time: PT1H25M
+nutrition:
+  serving_size: 1 serving, without rice or naan
+  servings_per_recipe: 6
+  calories: 520
+  total_fat: 34
+  saturated_fat: 16
+  cholesterol: 190
+  sodium: 780
+  total_carbohydrates: 12
+  dietary_fiber: 2
+  total_sugars: 6
+  protein: 41
+  vitamin_a: 260
+  vitamin_c: 18
+  calcium: 120
+  iron: 3
 ---
 
 # Butter Chicken
 
 ## Creamy Tomato Comfort
 
-Butter Chicken is rich without needing to be heavy. The tomato base gives the
-sauce brightness, the cream softens the spices, and the butter adds a rounded
-finish. Chicken thighs are forgiving and stay juicy, especially after a yogurt
-marinade.
+Butter Chicken is easy, delicious, and very much a dish to make when you are
+ready to splurge a little on calories. The tomato base gives the sauce
+brightness, the cream softens the spices, and the butter adds that rounded,
+restaurant-style finish. It is rich for a reason, and that is part of the fun.
 
 If you have time, marinate the chicken overnight. If not, even 30 minutes helps
 the spices cling to the chicken and gives the yogurt time to tenderize the meat.
-
-## Serving Ideas
 
 Serve with basmati rice, naan, cucumber salad, or roasted cauliflower. A spoonful
 of plain yogurt on the side is nice if you use the cayenne.
@@ -86,17 +100,20 @@ of plain yogurt on the side is nice if you use the cayenne.
 For a fuller Indian-inspired spread, pair it with Lamb Saag, dal, pickled onions,
 or a simple tomato and cucumber salad.
 
+## Tips
+
+- Chicken thighs are forgiving and stay juicy, especially after a yogurt
+  marinade.
+- For a smoother sauce, blend the tomato-onion mixture before returning the
+  chicken to the pan.
+- Butter Chicken reheats beautifully. Make it a day ahead, cool it, and
+  refrigerate overnight so the spices settle into the sauce.
+- Reheat gently and add a splash of water or cream if the sauce thickens too
+  much.
+
 ## Variations
 
-For a smoother sauce, blend the tomato-onion mixture before returning the chicken
-to the pan. For a lighter version, use half-and-half instead of cream, though the
-sauce will be less luxurious.
-
-Paneer or roasted cauliflower can replace the chicken for a vegetarian version.
-Add them after the sauce has simmered so they hold their shape.
-
-## Make-Ahead Tips
-
-Butter Chicken reheats beautifully. Make it a day ahead, cool it, and refrigerate
-overnight so the spices settle into the sauce. Reheat gently and add a splash of
-water or cream if the sauce thickens too much.
+- For a lighter version, use half-and-half instead of cream, though the sauce
+  will be less luxurious.
+- Paneer or roasted cauliflower can replace the chicken for a vegetarian version.
+  Add them after the sauce has simmered so they hold their shape.

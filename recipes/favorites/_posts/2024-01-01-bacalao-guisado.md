@@ -56,14 +56,18 @@ nutrition:
   serving_size: 1 serving
   servings_per_recipe: 6
   calories: 350
-  total_fat: 10g
-  saturated_fat: 2g
-  cholesterol: 80mg
-  sodium: 1200mg
-  total_carbohydrates: 20g
-  dietary_fiber: 3g
-  total_sugars: 5g
-  protein: 40g
+  total_fat: 10
+  saturated_fat: 2
+  cholesterol: 80
+  sodium: 1200
+  total_carbohydrates: 20
+  dietary_fiber: 3
+  total_sugars: 5
+  protein: 40
+  vitamin_a: 120
+  vitamin_c: 45
+  calcium: 80
+  iron: 2.5
 prep_time: PT20M
 cook_time: PT45M
 total_time: PT1H5M

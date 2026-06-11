@@ -122,6 +122,22 @@ instructions:
   - step:
     title: Serve
     description: Ladle curry into a bowl. Place a crispy rice ball on top, garnish with cilantro, and serve with lime wedges if using.
+nutrition:
+  serving_size: 3 rice balls
+  servings_per_recipe: 6
+  calories: 480
+  total_fat: 19
+  saturated_fat: 6
+  cholesterol: 70
+  sodium: 760
+  total_carbohydrates: 56
+  dietary_fiber: 4
+  total_sugars: 5
+  protein: 22
+  vitamin_a: 260
+  vitamin_c: 18
+  calcium: 70
+  iron: 3
 prep_time: PT45M
 cook_time: PT1H15M
 total_time: PT3H
@@ -129,67 +145,24 @@ total_time: PT3H
 
 # Vietnamese Chicken Curry Rice Balls
 
-## Cà Ri Gà, Reimagined
+## Ca Ri Ga, Reimagined
 
-These rice balls are inspired by the flavors of Vietnamese chicken curry, but the
-format leans playful: creamy risotto wrapped around a savory chicken-potato
-filling, coated in panko, fried until crisp, then served over coconut curry. The
-crunchy rice ball against the warm curry is the whole point.
+These rice balls take the flavors of Vietnamese chicken curry and turn them
+into something crisp, snackable, and easy to share. The filling should taste
+savory and aromatic before it is shaped, because the rice softens the flavor
+once everything is together.
 
-The Vietnamese character comes from the balance of fish sauce and sugar,
-lemongrass in the curry, and a filling built with chicken and potato or taro
-instead of cheese. Carrots and potatoes keep the curry close to a classic cà ri
-gà presentation, while cilantro and lime brighten the bowl at the end.
+## Air Fryer or Oven
 
-## Serving Ideas
+For the air fryer, spray the rice balls well with oil and cook at 375°F until
+crisp and hot, turning as needed. For the oven, bake on a parchment-lined
+sheet at high heat and flip once so both sides brown. The air fryer gives the
+best crispness with the least oil.
 
-Serve one large rice ball per bowl with plenty of curry around it, then let each
-person break into the rice ball at the table. The crisp coating softens where it
-meets the curry, but the top stays crunchy for contrast.
+## Tips and Variations
 
-This is already a full meal, but a crisp cucumber salad, pickled vegetables, or a
-simple herb plate would be excellent alongside it. If you want a smaller
-appetizer version, shape the rice balls closer to golf-ball size and serve the
-curry as a dipping sauce.
-
-## Air Fryer Method
-
-For a lighter option, preheat the air fryer to 375°F. After breading, lightly
-spray or brush each rice ball with oil. Do not skip the oil; it is what helps the
-panko turn golden instead of dry.
-
-Place the balls in the basket with space between them and air fry for 10-14
-minutes, turning halfway through. If the balls are baseball-sized, cook closer to
-14-16 minutes. If they are browning too slowly, increase the heat to 400°F for
-the last 2-3 minutes. Work in batches so the crust crisps instead of steaming.
-
-## Oven-Baked Method
-
-Preheat the oven to 400°F. Place the breaded rice balls on a parchment-lined tray
-or wire rack and brush or spray generously with oil. Bake for 20-25 minutes,
-turning halfway through.
-
-For extra crispiness, broil for 2-3 minutes at the end, watching closely so the
-panko does not burn. The oven method is the easiest and least hands-on, though it
-will be a little less evenly crisp than deep frying.
-
-## Rotisserie Chicken Upgrade
-
-A homemade or store-bought rotisserie chicken works beautifully here. Remove all
-the meat from the chicken, then use the shredded dark meat for the rice ball
-filling and the white meat in the curry.
-
-Save the bones and carcass for broth. Simmer the bones with 1 halved onion, 1-2
-teaspoons turmeric, 6-8 cups water, and optionally 1-2 smashed lemongrass stalks,
-2-3 slices ginger, and 1 teaspoon fish sauce. Simmer for about 1 hour, then
-strain and use the broth for the risotto or curry.
-
-## Make-Ahead Tips
-
-The risotto is easiest to shape when it is fully chilled, so making it the night
-before is ideal. The filling can also be made a day ahead and refrigerated. Keep
-the rice and filling separate until you are ready to shape.
-
-For the cleanest workflow, make and chill the risotto first, prepare the filling,
-shape and bread the rice balls, then fry them close to serving time. The curry
-can be made ahead and reheated gently while the rice balls fry.
+- Rotisserie chicken is an easy shortcut.
+- Keep the rice mixture compact when shaping so the balls hold together.
+- Serve with herbs, pickled vegetables, cucumber, lime, or chili sauce.
+- Make smaller balls for appetizers or larger ones for a meal.
+- Chill before cooking if they feel loose.

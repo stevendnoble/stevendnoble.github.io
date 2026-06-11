@@ -89,6 +89,22 @@ instructions:
   - step:
     title: Garnish and Serve
     description: Ladle into bowls and garnish with cilantro, Thai basil, scallions, chili oil or chili crisp, and extra lime wedges.
+nutrition:
+  serving_size: 1 bowl
+  servings_per_recipe: 4
+  calories: 420
+  total_fat: 30
+  saturated_fat: 22
+  cholesterol: 75
+  sodium: 1050
+  total_carbohydrates: 14
+  dietary_fiber: 3
+  total_sugars: 6
+  protein: 28
+  vitamin_a: 120
+  vitamin_c: 28
+  calcium: 80
+  iron: 3
 prep_time: PT20M
 cook_time: PT30M
 total_time: PT50M
@@ -98,40 +114,16 @@ total_time: PT50M
 
 ## Creamy Coconut Soup for Delicate Fish
 
-Rockfish works beautifully in Tom Kha because it is mild, flaky, and delicate.
-The key is to build a deeply aromatic broth first, then add the fish only at the
-end so it poaches gently instead of breaking apart.
+Rockfish works beautifully in Tom Kha because it cooks quickly and stays
+delicate in the coconut broth. The soup should be creamy, bright from lime,
+savory from fish sauce, and aromatic from lemongrass, galangal, and lime
+leaves.
 
-For a more polished, restaurant-style version, strain the broth before adding the
-coconut milk. For a more rustic bowl, leave the lemongrass, galangal, and lime
-leaves in the pot and eat around them.
+## Tips and Variations
 
-## Makrut Lime Leaf Substitute
-
-If you do not have makrut lime leaves, use lime zest, a few strips of lime peel,
-and extra cilantro stems or Thai basil. Add the peel while the broth simmers,
-then remove it before serving.
-
-A bay leaf with lime zest can also add a little herbal depth, though it will not
-have the same floral citrus note.
-
-## Restaurant-Style Upgrades
-
-Saute a small spoonful of red curry paste with the aromatics for extra depth and
-color. For texture, top the finished soup with crispy shallots, fried garlic, or
-toasted coconut.
-
-Roasted kabocha squash or sweet potato also works well here, adding gentle
-sweetness against the lime and coconut.
-
-## Serving Ideas
-
-Serve Rockfish Tom Kha with jasmine rice, sticky rice, cucumber salad, Thai fresh
-rolls, or roasted vegetables. A crisp riesling or cold lager pairs nicely with
-the coconut, lime, and chile.
-
-## Fish Variations
-
-This recipe also works with halibut, cod, sablefish, snapper, shrimp, or scallops.
-Avoid boiling the soup after the seafood goes in; gentle heat keeps everything
-tender.
+- Add the fish near the end so it does not overcook.
+- If you cannot find makrut lime leaves, use lime zest and a little extra
+  lime juice.
+- Mushrooms, cherry tomatoes, and cilantro all work well here.
+- Serve with jasmine rice or alongside Thai fresh rolls.
+- Use salmon, cod, shrimp, or chicken instead of rockfish.

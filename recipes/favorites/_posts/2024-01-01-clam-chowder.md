@@ -61,11 +61,34 @@ instructions:
 prep_time: PT15M
 cook_time: PT50M
 total_time: PT1H5M
+nutrition:
+  serving_size: 1 bowl
+  servings_per_recipe: 6
+  calories: 430
+  total_fat: 22
+  saturated_fat: 11
+  cholesterol: 85
+  sodium: 1150
+  total_carbohydrates: 34
+  dietary_fiber: 3
+  total_sugars: 7
+  protein: 24
+  vitamin_a: 180
+  vitamin_c: 25
+  calcium: 220
+  iron: 8
 ---
 
 # Clam Chowder
 
-## Creamy New England Comfort
+## The Chowder I Grew Up Wanting
+
+Growing up in Boston, clam chowder was one of my favorite childhood comfort
+foods. I still love the classic New England version: creamy, potato-heavy,
+briny, smoky from bacon, and served with oyster crackers. I also find that it is
+often better made at home than at restaurants anywhere outside New England,
+where chowder can get too thick, too bland, or too far from the thing I grew up
+wanting.
 
 This chowder starts with bacon and onion, which gives the whole pot a smoky,
 savory base. The potatoes cook directly in clam juice and reserved clam liquid,
@@ -73,18 +96,19 @@ so they absorb seafood flavor before the milk and roux turn everything creamy.
 
 The clams go in near the end with the milk and seasonings. That keeps them from
 becoming tough while still giving the chowder enough time to taste cohesive.
-Thyme, celery salt, bay leaves, garlic, and black pepper keep the flavor classic
-and comforting.
-
-## Serving Ideas
-
-Serve clam chowder with oyster crackers, crusty bread, or warm biscuits. A little
-fresh parsley on top brightens the bowl, and extra cracked black pepper is always
+Serve with oyster crackers, crusty bread, or warm biscuits. A little fresh
+parsley on top brightens the bowl, and extra cracked black pepper is always
 welcome.
 
-For a full meal, pair it with a simple green salad, roasted vegetables, or a
-half sandwich. It also works beautifully as a starter before baked fish, lobster
-rolls, or other New England-style seafood dishes.
+## Tips
+
+- Reheat chowder gently. Milk-based soups can separate or scorch over high heat,
+  so warm leftovers over low heat and stir often.
+- If the chowder thickens in the refrigerator, loosen it with a splash of milk,
+  clam juice, or water while reheating.
+- Add fresh parsley after reheating rather than before storing.
+- For a full meal, pair it with a simple green salad, roasted vegetables, or a
+  half sandwich.
 
 ## Gluten-Free Variation
 
@@ -105,13 +129,3 @@ cooks gently and stays tender.
 Cod can simmer for several minutes, while shrimp and scallops usually need only a
 few minutes until just cooked through. Taste and adjust the salt after adding
 extra seafood, since the brininess can vary.
-
-## Make-Ahead and Storage
-
-Chowder is often even better after a short rest, but reheat it gently. Milk-based
-soups can separate or scorch over high heat, so warm leftovers over low heat and
-stir often.
-
-If the chowder thickens in the refrigerator, loosen it with a splash of milk,
-clam juice, or water while reheating. Add fresh parsley after reheating rather
-than before storing.

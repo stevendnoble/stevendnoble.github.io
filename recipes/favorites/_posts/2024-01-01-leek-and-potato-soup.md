@@ -43,24 +43,42 @@ instructions:
   - step:
     title: Finish
     description: Taste and adjust seasoning. Add lemon juice if the soup needs brightness, then serve with chives and a drizzle of olive oil or cream.
+nutrition:
+  serving_size: 1 bowl
+  servings_per_recipe: 6
+  calories: 290
+  total_fat: 13
+  saturated_fat: 7
+  cholesterol: 35
+  sodium: 780
+  total_carbohydrates: 39
+  dietary_fiber: 5
+  total_sugars: 7
+  protein: 6
+  vitamin_a: 210
+  vitamin_c: 35
+  calcium: 90
+  iron: 3
 prep_time: PT15M
 cook_time: PT35M
 total_time: PT50M
 ---
+
 # Leek and Potato Soup
 
-## Cleaning Leeks
+## Simple, Silky Soup
 
-Leeks hide grit between their layers, so rinsing after slicing is worth it. Let the dirt settle to the bottom of the bowl, then lift the leeks out instead of pouring everything through a strainer.
+Leek and potato soup is quiet comfort food. Slowly cooking the leeks in
+butter gives the soup a sweet oniony backbone, and Yukon gold potatoes make
+it creamy even before the optional splash of cream.
 
-## Serving Ideas
+## Tips and Variations
 
-Serve with toasted sourdough, a ham and cheese sandwich, roasted chicken, or a crisp salad. For a simple lunch, top the bowl with extra chives, black pepper, and a swirl of cream.
-
-## Variations
-
-Keep it rustic by blending only half the soup, or make it extra smooth by passing it through a fine mesh strainer. Add bacon or pancetta for a smoky version, or use vegetable stock and skip the cream for a lighter vegetarian soup.
-
-## Make-Ahead and Storage
-
-Refrigerate for up to 4 days. Reheat gently over low heat, adding a splash of stock or milk if it thickens in the fridge.
+- Rinse sliced leeks in a bowl of cold water, then lift them out so the grit
+  stays behind.
+- Blend fully for a silky soup or leave a little texture if you prefer it
+  rustic.
+- Add lemon juice at the end if the soup tastes flat.
+- Serve with toasted sourdough, a ham and cheese sandwich, roasted chicken,
+  or a crisp salad.
+- For a lighter version, skip the cream and drizzle olive oil on top.

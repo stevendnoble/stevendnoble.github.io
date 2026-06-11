@@ -54,11 +54,27 @@ instructions:
 prep_time: PT15M
 cook_time: PT35M
 total_time: PT50M
+nutrition:
+  serving_size: 1 serving
+  servings_per_recipe: 6
+  calories: 745
+  total_fat: 29
+  saturated_fat: 8
+  cholesterol: 105
+  sodium: 650
+  total_carbohydrates: 68
+  dietary_fiber: 6
+  total_sugars: 7
+  protein: 51
+  vitamin_a: 180
+  vitamin_c: 95
+  calcium: 280
+  iron: 4
 ---
 
 # Baked Feta & Tomato Pasta with Chicken & Broccoli
 
-## A One-Pan Pasta Dinner
+## One-Pan Dinner
 
 Baked feta pasta works because the oven does most of the sauce-making for you.
 The cherry tomatoes soften and burst, the feta warms into a creamy center, and
@@ -70,44 +86,38 @@ The garlic and basil go in after baking so they stay bright. The heat from the
 dish takes the raw edge off the garlic while keeping its flavor fresh, and the
 basil gives the creamy tomato-feta sauce a clean finish.
 
-## Serving Ideas
-
 This pasta is hearty enough on its own, but it pairs well with a crisp green
 salad, garlic bread, or roasted vegetables. If you want to keep dinner simple,
 serve it straight from the baking dish with extra basil and black pepper at the
-table.
+table. A bright white wine, sparkling water with lemon, or iced tea all work
+nicely against the salty feta and roasted tomatoes.
 
-For drinks, a bright white wine, sparkling water with lemon, or iced tea all work
-nicely against the salty feta and roasted tomatoes. Leftovers also make a good
-lunch because the pasta holds the sauce well.
+## Tips
+
+- Feta packed in brine or water tends to melt into the sauce more smoothly than
+  pre-crumbled feta, which can be drier.
+- Fresh garlic and basil give the best flavor, but jarred minced garlic and dried
+  basil are useful shortcuts.
+- Use ½ teaspoon jarred minced garlic for each fresh garlic clove. Use 1 teaspoon
+  dried basil for each tablespoon of fresh chopped basil. Since dried basil is
+  more concentrated and less delicate, add it before baking rather than at the
+  end.
+- This dish is best right after the pasta is tossed with the sauce, but you can
+  prep the broccoli and chicken ahead of time. Keep them refrigerated until you
+  are ready to assemble the baking dish.
+- Reheat leftovers gently with a splash of water, broth, or milk to loosen the
+  sauce. The pasta will absorb some of the liquid as it sits, so a little extra
+  moisture helps bring it back.
 
 ## Variations
 
-Cavatappi is a great choice because the curls catch the sauce, but penne,
-rotini, bow ties, or rigatoni would all work. You can also swap the chicken
-breasts for boneless chicken thighs if you prefer a juicier, richer result.
-
-For more vegetables, add sliced zucchini, bell pepper, or a handful of spinach at
-the end. For a little heat, sprinkle in red pepper flakes before baking or add a
-spoonful of chili crisp when serving. If you want the sauce creamier, stir in a
-splash of pasta water or a spoonful of Greek yogurt after baking.
-
-## Ingredient Notes
-
-Feta packed in brine or water tends to melt into the sauce more smoothly than
-pre-crumbled feta, which can be drier. Fresh garlic and basil give the best
-flavor, but jarred minced garlic and dried basil are useful shortcuts.
-
-Use ½ teaspoon jarred minced garlic for each fresh garlic clove. Use 1 teaspoon
-dried basil for each tablespoon of fresh chopped basil. Since dried basil is more
-concentrated and less delicate, add it before baking rather than at the end.
-
-## Make-Ahead and Leftovers
-
-This dish is best right after the pasta is tossed with the sauce, but you can
-prep the broccoli and chicken ahead of time. Keep them refrigerated until you are
-ready to assemble the baking dish.
-
-Reheat leftovers gently with a splash of water, broth, or milk to loosen the
-sauce. The pasta will absorb some of the liquid as it sits, so a little extra
-moisture helps bring it back.
+- Cavatappi is a great choice because the curls catch the sauce, but penne,
+  rotini, bow ties, or rigatoni would all work.
+- Swap the chicken breasts for boneless chicken thighs if you prefer a juicier,
+  richer result.
+- For more vegetables, add sliced zucchini, bell pepper, or a handful of spinach
+  at the end.
+- For a little heat, sprinkle in red pepper flakes before baking or add a
+  spoonful of chili crisp when serving.
+- If you want the sauce creamier, stir in a splash of pasta water or a spoonful
+  of Greek yogurt after baking.

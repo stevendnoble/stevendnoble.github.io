@@ -102,6 +102,22 @@ instructions:
   - step:
     title: Finish with Shrimp and Basil
     description: Add the cooked shrimp and basil and stir-fry for another 1-2 minutes over high heat. Garnish with lime wedges and extra basil.
+nutrition:
+  serving_size: 1 serving
+  servings_per_recipe: 4
+  calories: 520
+  total_fat: 20
+  saturated_fat: 4
+  cholesterol: 210
+  sodium: 1150
+  total_carbohydrates: 61
+  dietary_fiber: 4
+  total_sugars: 6
+  protein: 23
+  vitamin_a: 180
+  vitamin_c: 25
+  calcium: 90
+  iron: 3
 prep_time: PT15M
 cook_time: PT15M
 total_time: PT30M
@@ -111,52 +127,14 @@ total_time: PT30M
 
 ## Fast, Fragrant, and Built for High Heat
 
-Thai Fried Rice is a quick-cooking dish, so the flavor comes from preparation as
-much as from the ingredients themselves. The garlic-chili paste hits the hot oil
-first, then the onion, shallot, egg, rice, sauce, shrimp, and basil follow in
-quick succession. Once you start cooking, there is not much time to pause.
+Thai fried rice should move quickly. Cold rice, high heat, and a hot pan help
+the grains stay separate instead of turning soft. Fish sauce, soy sauce,
+garlic, egg, lime, and herbs make it savory and bright.
 
-The shrimp gets a short marinade with soy sauce, white pepper, cornstarch, and a
-little baking soda. That helps season the shrimp and gives it a pleasant, snappy
-texture after a quick stir-fry.
+## Tips and Variations
 
-## The Rice Matters
-
-Do not use freshly steamed rice for this recipe. Fresh rice carries too much
-moisture and can turn fried rice soggy or mushy. Day-old rice that has dried in
-the refrigerator gives you separate grains that can toast in the pan and absorb
-the sauce without collapsing.
-
-If the cold rice is clumped together, crumble it before cooking or break it up as
-soon as it hits the pan. Each grain should have a chance to touch the hot surface
-and get coated in the aromatics and sauce.
-
-## Serving Ideas
-
-Serve Thai Fried Rice hot with lime wedges, extra basil, and sliced chilies on
-the side. It pairs well with cucumber salad, Thai fresh rolls, chicken satay, or a
-simple bowl of clear soup. A fried egg on top also makes it feel extra complete.
-
-For a casual dinner, this can stand alone as the main dish. For a larger spread,
-serve smaller portions alongside curry, stir-fried greens, or grilled chicken.
-
-## Variations
-
-Shrimp is excellent here, but the same method works with chicken, pork, beef,
-tofu, or leftover roasted meat. Cook the protein first, remove it from the pan,
-then add it back at the end so it stays tender.
-
-Thai basil gives the dish its best fragrance, but regular basil can work if that
-is what you have. For a spicier version, add more Thai chilies to the paste. For
-a milder version, use one chili or remove the seeds before pounding.
-
-## Prep Tips
-
-Success is in the prep. Mix the sauce, pound the garlic-chili paste, slice the
-onion and shallot, beat the eggs, and portion the rice before turning on the
-heat. Fried rice moves fast, and having everything within reach keeps the
-ingredients from overcooking or burning.
-
-A wok is ideal, but a large skillet can work too. The important thing is high
-heat, enough oil, and room to toss the rice. If your pan is small, cook in
-batches so the rice fries instead of steaming.
+- Use day-old rice if possible.
+- Cook ingredients in stages so the pan stays hot.
+- Add chicken, shrimp, pork, tofu, pineapple, or extra vegetables.
+- Serve with cucumber, lime wedges, cilantro, and chili fish sauce.
+- Prep everything before the rice goes in because the final cooking is fast.

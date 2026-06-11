@@ -68,17 +68,21 @@ instructions:
     title: Serve
     description: Let cool slightly before serving. Enjoy these innovative Shepherd's Pie Potato Skins as a delightful snack or appetizer that packs all the flavors of the classic dish in a single bite.
 nutrition:
-  serving_size: 1 potato skin
-  servings_per_recipe: 12
-  calories: 280
-  total_fat: 14g
-  saturated_fat: 6g
-  cholesterol: 45mg
-  sodium: 220mg
-  total_carbohydrates: 26g
-  dietary_fiber: 3g
-  total_sugars: 2g
-  protein: 15g
+  serving_size: 2 potato skins
+  servings_per_recipe: 6
+  calories: 520
+  total_fat: 27
+  saturated_fat: 13
+  cholesterol: 95
+  sodium: 880
+  total_carbohydrates: 45
+  dietary_fiber: 6
+  total_sugars: 6
+  protein: 25
+  vitamin_a: 360
+  vitamin_c: 28
+  calcium: 230
+  iron: 4
 prep_time: PT20M
 cook_time: PT1H10M
 total_time: PT1H30M
@@ -86,14 +90,16 @@ total_time: PT1H30M
 
 # Shepherd's Pie Potato Skins
 
-## A Delicious Twist on a Classic
+## Shepherd's Pie, Snackable
 
-Embrace the warmth and comfort of Shepherd's Pie in a new and exciting way with these Shepherd's Pie Potato Skins. Perfect for any occasion, they merge the familiarity of shepherd's pie with the crowd-pleasing appeal of potato skins. Whether you're hosting a game day gathering, a family dinner, or simply craving a satisfying snack, these potato skins are guaranteed to leave everyone asking for more.
+These potato skins keep the cozy parts of shepherd's pie: savory meat and
+vegetables, mashed potato, and a browned top, but turn them into something
+easier to pick up and share.
 
-## Serving Suggestions and Personal Touches
+## Tips and Variations
 
-For a delightful serving suggestion, pair these potato skins with a side of sour cream or a light, crisp salad to balance their richness. Feel free to customize the filling by adding your favorite vegetables or swapping the meat for a vegetarian alternative like lentils or mushrooms for a plant-based version.
-
-## A Bite of History
-
-Shepherd's Pie, with its origins in the United Kingdom, is a dish born from the need to repurpose leftovers in a flavorful way. This rendition pays homage to that tradition of thriftiness and creativity, reimagining the dish in a form that's both novel and deeply rooted in culinary history. Enjoy the journey of taste and tradition with every bite of these Shepherd's Pie Potato Skins.
+- Scoop enough potato out to make room for filling, but leave the skins sturdy.
+- Broil at the end for a browned, crisp top.
+- Add corn, peas, carrots, mushrooms, or green beans to the filling.
+- Serve with salad, roasted vegetables, or a little gravy on the side.
+- Assemble ahead and bake when ready.

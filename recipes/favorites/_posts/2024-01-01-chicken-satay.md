@@ -72,19 +72,21 @@ instructions:
     title: Serve and Enjoy
     description: Serve the grilled chicken skewers hot, accompanied by the prepared peanut sauce for dipping.
 nutrition:
+  serving_size: 2 skewers
   servings_per_recipe: 6
-  calories: 222
-  total_fat: 13.9
-  saturated_fat: 3.5
-  cholesterol: 30
-  sodium: 2508
-  total_carbohydrates: 10
-  dietary_fiber: 1.3
-  total_sugars: 5.6
-  protein: 15.8
-  vitamin_d: 0
-  calcium: 32
-  iron: 3
+  calories: 385
+  total_fat: 24
+  saturated_fat: 6
+  cholesterol: 145
+  sodium: 850
+  total_carbohydrates: 8
+  dietary_fiber: 1
+  total_sugars: 5
+  protein: 33
+  vitamin_a: 30
+  vitamin_c: 4
+  calcium: 35
+  iron: 2
   potassium: 291
 prep_time: PT2H20M
 cook_time: PT15M
@@ -93,28 +95,44 @@ total_time: PT2H35M
 
 # Chicken Satay with Peanut Lime Sauce
 
-## Elevating Your Chicken Satay Experience
+## A Favorite Thai Appetizer
 
-Chicken Satay, a beloved dish originating from Southeast Asia, is celebrated for its rich flavors and succulent texture. This rendition of the classic dish brings a delightful fusion of aromatic spices and the tangy zest of the peanut sauce, making each bite a memorable one. Whether you're a seasoned chef or a culinary novice, here are some tips and creative ideas to elevate your Chicken Satay and turn it into a gourmet feast.
+Chicken satay is one of my favorite Thai appetizers: juicy skewers, warm curry
+spices, a little char, and that peanut-lime sauce that makes it hard to stop at
+one. It works as a starter, a party platter, or a full meal if you add rice,
+cucumber salad, or green papaya salad on the side.
 
-## Perfecting the Marinade
+The marinade does a lot of the work. Coconut milk, curry powder, turmeric,
+garlic, ginger, brown sugar, soy sauce, and fish sauce give the chicken a savory,
+slightly sweet flavor before it ever hits the grill. The peanut sauce brings it
+home with richness, lime, and a little chile heat.
 
-The secret to mouthwatering Chicken Satay lies in its marinade. The combination of coconut milk, curry powder, turmeric, and other spices not only tenderizes the chicken but also imparts a depth of flavor that's crucial to the dish's signature taste. For an extra layer of complexity, consider adding a splash of lime juice or a bit of lemongrass to the marinade, enhancing its aromatic qualities.
+## Tips
 
-## Mastering the Grill
+- Marinate the chicken for at least 2 hours if you can. Overnight gives the
+  skewers deeper flavor.
+- If using wooden skewers, soak them first so they do not scorch too quickly.
+- For grilling, preheat well and turn the skewers often so the chicken cooks
+  evenly without drying out.
+- Serve with cucumber salad, pickled vegetables, jasmine rice, crushed peanuts,
+  and extra lime wedges.
 
-Achieving the perfect char on your Chicken Satay requires patience and attention to detail. Ensure your grill is properly preheated before adding the skewers to avoid sticking and to achieve those coveted grill marks. Keep a close eye on the skewers, turning them frequently to cook evenly without drying out the chicken. The goal is juicy, slightly charred skewers that are cooked through but still tender.
+## Air Fryer Method
 
-## Diverse Serving Suggestions
+The air fryer makes satay much easier for a weeknight and keeps it a lot less
+oily than pan-frying. The skewers will not have quite the same smoky char as the
+grill, but the chicken still browns nicely and stays juicy.
 
-While Chicken Satay is delicious on its own, accompanying it with the right sides and condiments can transform it into a feast. Apart from the traditional peanut sauce, consider serving it with a cucumber salad or a tangy pickled vegetable relish to cut through the richness of the meat. For a heartier meal, pair it with jasmine rice or a vibrant green papaya salad. Don't forget to garnish with a sprinkle of crushed peanuts and a wedge of lime for that final touch.
+Preheat the air fryer to 400°F. Arrange the skewers in a single layer, working
+in batches if needed, and cook for 10-12 minutes, flipping halfway through, until
+the chicken reaches 165°F. Brush lightly with oil before cooking if you want more
+browning, but you do not need much.
 
-## Making It a Meal to Remember
+## Variations
 
-Chicken Satay isn't just food; it's an experience. To truly celebrate this dish, consider setting up a satay bar for your guests, featuring various satays (including tofu or shrimp options for variety), multiple sauces, and a range of sides. This not only makes for an interactive dining experience but also allows guests to customize their plates according to their preferences.
-
-## Cooking with Love
-
-The essence of Chicken Satay is its ability to bring people together, offering a taste of Southeast Asian culture and hospitality. Whether it's for a casual family dinner, a special occasion, or a gathering of friends, cooking Chicken Satay is an act of love, meant to be shared and savored. So, the next time you fire up the grill, remember that each skewer is not just food but a story of tradition, flavor, and the joy of sharing a meal.
-
-Embrace the art of making Chicken Satay, and let it be a gateway to exploring the rich and diverse culinary traditions of Southeast Asia. With each bite, may you experience the warmth, complexity, and delight that this dish has to offer.
+- Add a splash of lime juice or a little lemongrass to the marinade for extra
+  brightness.
+- Use chicken breast for a leaner version, but watch it closely so it does not
+  dry out.
+- Make a satay platter with tofu, shrimp, or vegetables alongside the chicken.
+- Add more chili garlic sauce to the peanut sauce if you want extra heat.

@@ -50,24 +50,40 @@ instructions:
   - step:
     title: Serve
     description: Serve in warm corn tortillas with onion, cilantro, lime, salsa verde, and radishes.
+nutrition:
+  serving_size: 1 serving
+  servings_per_recipe: 8
+  calories: 520
+  total_fat: 32
+  saturated_fat: 11
+  cholesterol: 135
+  sodium: 760
+  total_carbohydrates: 18
+  dietary_fiber: 2
+  total_sugars: 3
+  protein: 38
+  vitamin_a: 45
+  vitamin_c: 18
+  calcium: 70
+  iron: 3
 prep_time: PT20M
 cook_time: PT3H30M
 total_time: PT3H50M
 ---
+
 # Pork Carnitas
 
-## Crisping Is the Finish
+## Tender Pork, Crisp Edges
 
-The pork is cooked after braising, but carnitas become carnitas when the edges are crisped. Use just enough cooking liquid to keep the meat juicy, then let high heat brown the outside.
+The pork is cooked after braising, but carnitas become carnitas when the
+edges are crisped. Use enough cooking liquid to keep the meat juicy, then
+finish under the broiler or in a skillet so the outside browns.
 
-## Serving Ideas
+## Tips and Variations
 
-Serve as tacos with salsa verde, onion, cilantro, and lime. Carnitas are also great in burrito bowls, quesadillas, nachos, breakfast hash, or over rice with beans and avocado.
-
-## Variations
-
-Add a cinnamon stick to the braise for a warmer flavor, or add a chopped jalapeno if you want more heat. For a slightly sweeter version, add 1 tbsp brown sugar with the citrus.
-
-## Make-Ahead and Storage
-
-The pork can be braised a day ahead and crisped right before serving. Refrigerate for up to 4 days or freeze for up to 3 months. Reheat in a skillet so the edges come back to life.
+- Serve as tacos with salsa verde, onion, cilantro, lime, and radishes.
+- Carnitas are also great in bowls, quesadillas, nachos, breakfast hash, or
+  over rice with beans and avocado.
+- Add a cinnamon stick to the braise for warmth or jalapeno for heat.
+- Braise a day ahead and crisp right before serving.
+- Refrigerate for up to 4 days or freeze for up to 3 months.

@@ -66,14 +66,18 @@ nutrition:
   serving_size: 4 escargots
   servings_per_recipe: 6
   calories: 150
-  total_fat: 16g
-  saturated_fat: 10g
-  cholesterol: 40mg
-  sodium: 200mg
-  total_carbohydrates: 1g
-  dietary_fiber: 0g
-  total_sugars: 0g
-  protein: 2g
+  total_fat: 16
+  saturated_fat: 10
+  cholesterol: 40
+  sodium: 200
+  total_carbohydrates: 1
+  dietary_fiber: 0
+  total_sugars: 0
+  protein: 5
+  vitamin_a: 160
+  vitamin_c: 4
+  calcium: 35
+  iron: 1.5
 prep_time: PT15M
 cook_time: PT12M
 total_time: PT27M
@@ -81,30 +85,21 @@ total_time: PT27M
 
 # Escargots à la Bourguignonne
 
-## A Gourmet Adventure
+## Garlic Butter Appetizer
 
-Indulge in the rich and savory world of Escargots à la Bourguignonne, a dish that captures the essence of French gourmet cuisine with every bite. This recipe simplifies the classic, making it accessible for you to recreate this luxurious appetizer at home. Whether it's the beginning of a lavish meal or the star of a themed dinner party, escargots provide a unique taste experience that's bound to impress and delight your guests.
+Escargots à la Bourguignonne feels fancy, but the pleasure is very simple:
+tender snails baked in bubbling garlic-herb butter, with bread nearby to catch
+every bit of it. The butter is the star, so fresh parsley, fresh garlic, and a
+little shallot make a big difference.
 
-## Culinary Tips for Perfect Escargots
+Serve escargots as the beginning of a French-style dinner with a crisp white wine
+such as Chablis or Sancerre. The acidity and minerality cut through the richness
+of the butter. If you do not have escargot shells, small ramekins or a ceramic
+escargot dish work just as well.
 
-* **Quality Ingredients:** For the best results, use high-quality canned escargots and fresh herbs. The freshness of the parsley and garlic plays a crucial role in the flavor of the butter.
-* **Serving Suggestions:** While traditional escargot dishes are served in shells, don't let the lack of them stop you. Small ramekins or ceramic escargot dishes work just as well for serving this exquisite appetizer.
-* **Wine Pairing:** Enhance your dining experience by pairing escargots with a crisp, dry white wine such as Chablis or Sancerre. The wine's acidity and minerality complement the richness of the dish beautifully.
+## Tips
 
-## Choosing the Right Wine
-
-The soul of Coq au Vin lies in its wine-infused sauce. While Burgundy is traditional, feel free to experiment with other red wines you enjoy. A good rule of thumb is to cook with a wine you'd be happy to drink, ensuring the sauce enhances the overall flavors of the dish.
-
-## Patience is Key
-
-Coq au Vin is a testament to the beauty of slow cooking. Allowing the chicken to simmer gently in the wine sauce not only tenderizes the meat but also allows the flavors to meld together beautifully. Patience during this process ensures a richer, more developed taste.
-
-## Serving Suggestions
-
-To make your Coq au Vin a memorable meal, serve it with sides that complement its rich flavors. Light, buttery mashed potatoes, crusty French bread, or a simple green salad dressed with vinaigrette all make excellent choices. These sides not only balance the dish but also ensure that not a drop of the delicious sauce goes to waste.
-
-## A Dish to Remember
-
-Coq au Vin is more than just a meal; it's a culinary experience that transports you to the heart of French cuisine. Whether shared with loved ones over a leisurely dinner or savored as a special weekend project, this dish is sure to impress and satisfy. By taking the time to prepare Coq au Vin, you're not just cooking; you're creating a moment to remember.
-
-Embrace the art of French cooking with Coq au Vin, and let each bite be a celebration of flavor, tradition, and the joy of sharing good food.
+- Use good-quality canned escargots and rinse them gently before using.
+- Make sure the butter is soft enough to mix evenly with the herbs and garlic.
+- Bake just until the butter is bubbling and the escargots are hot.
+- Serve immediately with baguette so none of the garlic butter goes to waste.

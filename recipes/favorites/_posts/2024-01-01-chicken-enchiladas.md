@@ -49,21 +49,47 @@ instructions:
 prep_time: PT25M
 cook_time: PT30M
 total_time: PT55M
+nutrition:
+  serving_size: 2 enchiladas
+  servings_per_recipe: 5
+  calories: 560
+  total_fat: 26
+  saturated_fat: 12
+  cholesterol: 115
+  sodium: 1250
+  total_carbohydrates: 43
+  dietary_fiber: 6
+  total_sugars: 7
+  protein: 38
+  vitamin_a: 220
+  vitamin_c: 18
+  calcium: 390
+  iron: 3
 ---
 # Chicken Enchiladas
 
-## Tortilla Tip
+## Easy Crowd Dinner
 
-Warm tortillas are much easier to roll. If they still crack, dip each tortilla briefly in warm enchilada sauce before filling.
+Chicken enchiladas are an easy dish for a crowd, especially when you start with a
+store-bought rotisserie chicken. That shortcut turns the filling into quick meal
+prep instead of a project, and the final bake still gives you the good stuff:
+saucy tortillas, melted cheese, and bright toppings at the end.
 
-## Serving Ideas
+Serve with Mexican rice, beans, elote, avocado salad, or gluten-free cheesy
+Mexican cornbread. A crunchy slaw with lime is especially good next to the melted
+cheese and sauce.
 
-Serve with Mexican rice, beans, elote, avocado salad, or gluten-free cheesy Mexican cornbread. A crunchy slaw with lime is especially good next to the melted cheese and sauce.
+## Tips
+
+- Warm tortillas are much easier to roll. If they still crack, dip each tortilla
+  briefly in warm enchilada sauce before filling.
+- Assemble up to a day ahead, cover, and refrigerate. Add 5-10 minutes to the
+  bake time if baking straight from the fridge.
+- Leftovers keep for up to 4 days and reheat well covered in the oven.
 
 ## Variations
 
-Use green enchilada sauce for a brighter version, add black beans or corn to the filling, or swap in shredded turkey. For extra richness, mix a spoonful of sour cream into the chicken filling.
-
-## Make-Ahead and Storage
-
-Assemble up to a day ahead, cover, and refrigerate. Add 5-10 minutes to the bake time if baking straight from the fridge. Leftovers keep for up to 4 days and reheat well covered in the oven.
+- Use green enchilada sauce for a brighter version.
+- Add black beans or corn to the filling.
+- Swap in shredded turkey.
+- For extra richness, mix a spoonful of sour cream into the chicken filling.

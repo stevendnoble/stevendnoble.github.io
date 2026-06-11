@@ -48,6 +48,22 @@ instructions:
   - step:
     title: Serve
     description: Serve warm with tomato sauce, mustard, or chutney.
+nutrition:
+  serving_size: 1 roll
+  servings_per_recipe: 12
+  calories: 310
+  total_fat: 22
+  saturated_fat: 8
+  cholesterol: 55
+  sodium: 540
+  total_carbohydrates: 18
+  dietary_fiber: 1
+  total_sugars: 2
+  protein: 11
+  vitamin_a: 45
+  vitamin_c: 3
+  calcium: 35
+  iron: 2
 prep_time: PT25M
 cook_time: PT30M
 total_time: PT55M
@@ -55,28 +71,21 @@ total_time: PT55M
 
 # Sausage Rolls
 
-## Flaky, Savory Party Food
+## Another Australian Favorite
 
-Good sausage rolls need a filling that is flavorful but not wet. Grating the
-onion keeps the filling juicy, while breadcrumbs help bind everything so the
-pastry stays crisp.
+I make sausage rolls for the same reason I make meat pies: my partner is
+from Australia and loves them. We go back every year and always get them
+while we are there, so making them at home brings a little of that trip back
+with us.
 
-Fennel gives the pork a classic sausage-shop flavor. Crush the seeds lightly so
-their aroma spreads through the filling.
+They are flaky, savory, easy to share, and exactly the kind of thing that
+disappears quickly if you put out a tray.
 
-## Serving Ideas
+## Tips and Variations
 
-Serve as appetizers, lunchbox snacks, game-day food, or part of a brunch spread.
-Tomato sauce is classic, but mustard, chutney, or a spicy mayo all work well.
-
-## Variations
-
-Use half pork and half chicken or turkey for a lighter filling. Add chopped
-parsley, thyme, grated apple, or a pinch of chili flakes to change the flavor.
-
-For smaller party rolls, cut each log into bite-sized pieces before baking.
-
-## Make-Ahead Tips
-
-Assemble the rolls and refrigerate them for a few hours before baking, or freeze
-them unbaked. Bake from frozen at 400°F, adding a few extra minutes as needed.
+- Keep the puff pastry cold so it bakes flaky.
+- Cut smaller rolls for parties or larger ones for lunch.
+- Serve with tomato sauce, mustard, chutney, pickles, or a simple salad.
+- Add grated apple, fennel seed, herbs, or a little chili to the sausage
+  filling.
+- Freeze unbaked rolls and bake from frozen, adding a few extra minutes.

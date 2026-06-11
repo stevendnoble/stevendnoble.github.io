@@ -58,16 +58,20 @@ instructions:
     description: Serve the Ensalada de Bacalao with a side of rice or boiled yucca root, drizzled with olive oil for an extra layer of flavor.
 nutrition:
   serving_size: 1 serving
-  servings_per_recipe: 6-8
-  calories: 220
-  total_fat: 12g
-  saturated_fat: 2g
-  cholesterol: 120mg
-  sodium: 500mg
-  total_carbohydrates: 8g
-  dietary_fiber: 2g
-  total_sugars: 3g
-  protein: 20g
+  servings_per_recipe: 6
+  calories: 310
+  total_fat: 19
+  saturated_fat: 3
+  cholesterol: 125
+  sodium: 900
+  total_carbohydrates: 11
+  dietary_fiber: 3
+  total_sugars: 3
+  protein: 25
+  vitamin_a: 120
+  vitamin_c: 18
+  calcium: 90
+  iron: 2
 prep_time: PT15M
 cook_time: PT2M
 total_time: PT3H35M
@@ -75,30 +79,29 @@ total_time: PT3H35M
 
 # Ensalada de Bacalao
 
-## Embrace the Freshness
+## A Salad I Learned from a Friend
 
-Ensalada de Bacalao is a dish that captivates with its simple elegance and robust flavors. It is a perfect example of how traditional recipes can offer a fresh and healthy option for any meal. The key to this salad is in the preparation of the salted cod, a process that highlights the importance of patience and care in achieving the perfect balance of flavors.
+Back when I used to teach in Massachusetts, I worked with a lot of people from
+Puerto Rico, and a friend taught me how to make this. It was delicious, bright,
+salty, rich from the avocado and eggs, and refreshing in a way that made me want
+it all the time. The salted cod gives the salad its backbone, while the tomato,
+onion, olive oil, vinegar, and avocado keep it lively.
 
-## Elevate Your Ensalada de Bacalao
+The key is getting the bacalao to the salt level you like. Soak and simmer it,
+tasting as you go, until it is still savory but not overwhelmingly salty. Once
+that balance is right, the rest of the salad comes together simply.
 
-Discover the versatility and depth of Ensalada de Bacalao with these tips and variations that can transform your dish into a culinary masterpiece, blending tradition with a touch of modern flair.
+## Tips
 
-## Creative Variations to Try
+- Desalinate the cod patiently. Depending on the brand and thickness, it may need
+  several rinses or simmering rounds.
+- Let the salad sit briefly before serving so the olive oil, vinegar, cod, and
+  onion can mingle.
+- Serve with rice, boiled yuca, tostones, or avocado on the side.
 
-* **Incorporate Other Seafood:** While salted cod is the star of this salad, feel free to experiment by adding other seafood like shrimp, scallops, or even flaked smoked salmon for an extra layer of flavor.
-* **Add a Citrus Twist:** For an added zing, consider squeezing a bit of fresh lemon or lime juice over the salad before serving. The citrus notes will enhance the overall freshness and balance the rich flavors of the olive oil.
-* **Spice It Up:** If you enjoy a little heat, a sprinkle of red pepper flakes or a dash of hot sauce can add a pleasant warmth to the salad, complementing the savory cod and the creamy avocado.
+## Variations
 
-## The Joy of Sharing
-
-Ensalada de Bacalao is more than just a dish; it's a cultural experience meant to be shared. Serve it at your next gathering or family dinner as a testament to the rich culinary heritage it represents. Its bright flavors and hearty ingredients make it a crowd-pleaser that invites conversation and togetherness.
-
-## A Healthy Choice
-
-Not only is Ensalada de Bacalao delicious, but it's also packed with nutrients. Cod is a lean protein source, rich in vitamins and minerals, while avocado provides healthy fats. This salad is a great way to enjoy a balanced, flavorful meal that supports a healthy lifestyle.
-
-## Savor the Tradition
-
-Each bite of Ensalada de Bacalao is a journey through history, celebrating the time-honored tradition of salted cod in cuisine. This salad is a way to honor and preserve these culinary traditions while enjoying a dish that feels both timeless and contemporary.
-
-Embrace the simplicity and elegance of Ensalada de Bacalao, and let it bring a taste of Latin culinary tradition to your table. Whether as a main course or a side dish, this salted cod salad is sure to become a beloved favorite for its delightful flavors and nutritious profile.
+- Add lemon or lime juice for extra brightness.
+- Add a little hot sauce or red pepper flakes if you want heat.
+- Add shrimp, scallops, or flaked smoked salmon for a more seafood-heavy salad.
+- Skip the olives if you want the salad less briny.

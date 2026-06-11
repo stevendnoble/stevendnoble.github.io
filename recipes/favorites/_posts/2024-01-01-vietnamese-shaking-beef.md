@@ -83,6 +83,22 @@ instructions:
   - step:
     title: Serve
     description: Plate the shaking beef over lettuce, tomato wedges, and cucumber slices. Serve immediately with the lime-pepper dipping sauce.
+nutrition:
+  serving_size: 1 serving
+  servings_per_recipe: 4
+  calories: 560
+  total_fat: 32
+  saturated_fat: 10
+  cholesterol: 120
+  sodium: 1250
+  total_carbohydrates: 26
+  dietary_fiber: 3
+  total_sugars: 9
+  protein: 40
+  vitamin_a: 180
+  vitamin_c: 30
+  calcium: 80
+  iron: 5
 prep_time: PT15M
 cook_time: PT10M
 total_time: PT55M
@@ -92,51 +108,14 @@ total_time: PT55M
 
 ## Fast, Hot, and Tender
 
-Shaking beef gets its name from the quick shaking or tossing motion used to sear
-the beef in a very hot pan. The goal is deeply browned edges and a tender center,
-not a long simmer. With filet mignon, that timing matters even more because the
-meat cooks quickly and loses its magic if it goes too far.
+Shaking beef depends on high heat and quick cooking. The beef should sear
+hard on the outside while staying tender inside, then land on cool greens
+with tomato, onion, herbs, and a bright dipping sauce.
 
-The marinade is simple but balanced: fish sauce for depth, soy sauce for salt,
-oyster sauce for savoriness, sugar for caramelization, and black pepper for bite.
-The lime-pepper dipping sauce is essential because it cuts through the richness
-of the beef and makes each bite brighter.
+## Tips and Variations
 
-## Serving Ideas
-
-The traditional salad base keeps the dish fresh: lettuce, tomato wedges, and
-cucumber slices underneath the hot beef. Serve it immediately so the contrast
-between warm beef and cool vegetables stays intact.
-
-For a fuller meal, add jasmine rice, garlic rice, or a fried egg on top. A simple
-cucumber salad, pickled carrots and daikon, or fresh herbs would also work well
-on the side.
-
-## Variations
-
-Filet mignon makes this version especially tender, but ribeye, sirloin, or New
-York strip can also work if cut into even 1-inch cubes. If using a less tender
-cut, avoid overcooking and slice or cube carefully against the grain.
-
-For a more restaurant-style finish, toss in a small splash of Maggi seasoning at
-the end. Bell pepper is optional; it adds sweetness and color, while leaving it
-out keeps the focus squarely on the beef and onions.
-
-## High-Heat Tips
-
-Do not overcrowd the pan. If the beef is packed too tightly, it will steam before
-it browns. Cook in batches if needed, especially if your skillet is smaller.
-
-Let the beef sit undisturbed for the first minute so it can sear properly. After
-that, shake, toss, or flip quickly to brown the other sides. The whole beef
-cooking step should be brief, especially with filet.
-
-## Make-Ahead Notes
-
-The vegetables and dipping sauce can be prepared ahead, and the beef can marinate
-for about 30 minutes before cooking. Avoid marinating filet for too long; the
-texture is best when the seasoning has time to coat and lightly flavor the meat
-without sitting for hours.
-
-This dish is best eaten immediately after cooking. Leftovers can be reheated
-gently, but the beef will be more cooked the second time around.
+- Use a tender cut and cut the beef into even cubes.
+- Cook in batches so the pan stays hot.
+- Serve with watercress, lettuce, tomatoes, red onion, rice, or fries.
+- Add cucumber, herbs, pickled vegetables, or a fried egg.
+- Marinate briefly; too long can make the texture too salty or soft.

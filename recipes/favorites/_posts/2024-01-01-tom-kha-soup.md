@@ -46,6 +46,22 @@ instructions:
   - step:
     title: Serve
     description: Garnish with cilantro and scallions. The lemongrass, galangal, and lime leaves are for flavoring and are usually not eaten.
+nutrition:
+  serving_size: 1 bowl
+  servings_per_recipe: 4
+  calories: 430
+  total_fat: 32
+  saturated_fat: 24
+  cholesterol: 85
+  sodium: 1050
+  total_carbohydrates: 15
+  dietary_fiber: 3
+  total_sugars: 6
+  protein: 25
+  vitamin_a: 140
+  vitamin_c: 30
+  calcium: 70
+  iron: 3
 prep_time: PT15M
 cook_time: PT25M
 total_time: PT40M
@@ -55,25 +71,15 @@ total_time: PT40M
 
 ## Creamy, Bright, and Aromatic
 
-Tom Kha is not just coconut chicken soup; the aromatics do the real work.
-Lemongrass, galangal, and lime leaves perfume the broth before the coconut milk
-goes in.
+Tom Kha works because it is rich and bright at the same time. Coconut milk
+gives the soup body, while lime, fish sauce, lemongrass, galangal, and lime
+leaves keep it sharp and fragrant.
 
-Add lime juice off the heat so it stays bright. Boiling the soup hard after the
-coconut milk is added can dull the flavor and roughen the texture.
+## Tips and Variations
 
-## Serving Ideas
-
-Serve as a starter or with jasmine rice for a light meal. It pairs well with Thai
-fried rice, fresh rolls, satay, or a crisp cucumber salad.
-
-## Variations
-
-Use shrimp instead of chicken, adding it near the end so it does not overcook.
-For a vegetarian version, use vegetable stock, tofu, extra mushrooms, and soy
-sauce instead of fish sauce.
-
-## Make-Ahead Tips
-
-The infused broth can be made ahead. Add coconut milk, chicken, mushrooms, and
-lime closer to serving for the freshest flavor.
+- Simmer the aromatics long enough to perfume the broth, then strain if you
+  want a smoother soup.
+- Add chicken, shrimp, mushrooms, tofu, tomatoes, or extra vegetables.
+- Finish with lime juice off the heat so it stays fresh.
+- Serve with jasmine rice or Thai fresh rolls.
+- Reheat gently so the coconut milk does not separate.

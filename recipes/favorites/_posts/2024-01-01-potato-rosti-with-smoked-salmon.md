@@ -44,7 +44,21 @@ instructions:
     title: Top and Serve
     description: Top each rosti with a dollop of sour cream, sliced smoked salmon, chopped fresh dill, and cracked black pepper.
 nutrition:
+  serving_size: 1 rosti
   servings_per_recipe: 20
+  calories: 85
+  total_fat: 5
+  saturated_fat: 2
+  cholesterol: 25
+  sodium: 180
+  total_carbohydrates: 6
+  dietary_fiber: 1
+  total_sugars: 1
+  protein: 4
+  vitamin_a: 35
+  vitamin_c: 5
+  calcium: 25
+  iron: 0.5
 prep_time: PT20M
 cook_time: PT20M
 total_time: PT40M
@@ -54,38 +68,15 @@ total_time: PT40M
 
 ## Crisp Brunch Bites
 
-These little potato rosti are simple but feel special once they are topped with
-sour cream, smoked salmon, and dill. The base is crisp and golden, the sour cream
-adds cool richness, and the smoked salmon brings enough salt and silkiness to
-make each bite feel complete.
+These little potato rosti feel special once they are topped with sour cream,
+smoked salmon, and dill. The base should be crisp and golden, with enough
+structure to hold the toppings without turning heavy.
 
-The most important step is squeezing moisture from the grated potato. Drier
-potatoes brown better, hold together more easily, and give you a rosti that is
-crisp rather than soft.
+## Tips and Variations
 
-## Serving Ideas
-
-Serve these as a brunch appetizer, a holiday starter, or part of a grazing board.
-They pair well with cucumber slices, pickled onions, capers, lemon wedges, soft
-scrambled eggs, or a simple green salad.
-
-For a more substantial brunch plate, serve a few rosti per person with extra
-smoked salmon, sliced avocado, and a poached egg. A glass of sparkling wine or
-strong coffee would not be out of place here.
-
-## Variations
-
-Swap sour cream for creme fraiche, Greek yogurt, or whipped cream cheese. Add
-lemon zest, capers, or finely chopped chives to the topping for a sharper flavor.
-
-If you want a vegetarian version, skip the smoked salmon and top the rosti with
-herbed sour cream, roasted mushrooms, caramelized onions, or goat cheese.
-
-## Make-Ahead Tips
-
-The rosti are best shortly after cooking, but you can cook them a little ahead
-and re-crisp them in a hot oven or air fryer before topping. Wait to add the sour
-cream and smoked salmon until just before serving so the potato stays crisp.
-
-If making a larger batch, keep cooked rosti on a wire rack in a low oven while
-you finish the rest. This keeps the bottoms from steaming and softening.
+- Squeeze as much moisture as possible from the grated potato.
+- Keep the rosti small so they crisp before the centers get gummy.
+- Serve as brunch bites, holiday appetizers, or a first course with salad.
+- Swap sour cream for creme fraiche or Greek yogurt.
+- Cook the rosti a little ahead, re-crisp in the oven, then top just before
+  serving.

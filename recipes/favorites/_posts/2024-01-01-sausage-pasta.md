@@ -49,6 +49,22 @@ instructions:
   - step:
     title: Serve
     description: Season with salt and pepper and serve with basil and extra parmesan.
+nutrition:
+  serving_size: 1 serving
+  servings_per_recipe: 6
+  calories: 620
+  total_fat: 30
+  saturated_fat: 12
+  cholesterol: 80
+  sodium: 980
+  total_carbohydrates: 60
+  dietary_fiber: 5
+  total_sugars: 8
+  protein: 25
+  vitamin_a: 220
+  vitamin_c: 24
+  calcium: 240
+  iron: 4
 prep_time: PT10M
 cook_time: PT25M
 total_time: PT35M
@@ -58,20 +74,14 @@ total_time: PT35M
 
 ## Weeknight Pasta with Depth
 
-The sausage does most of the flavor work here. Browning it well builds the base
-for the sauce, and the cream softens the tomato without turning the dish heavy.
+Sausage pasta is useful because the sausage brings seasoning, fat, and
+savory depth quickly. A little tomato, pasta water, and cheese can turn it
+into a sauce that feels like it cooked longer than it did.
 
-Use a pasta shape with ridges or tubes so the sauce and sausage cling to it.
+## Tips and Variations
 
-## Serving Ideas
-
-Serve with garlic bread, a green salad, roasted vegetables, or sauteed broccolini.
-It is hearty enough as a main dish but simple enough for a weeknight.
-
-## Variations
-
-Use spicy sausage for more heat or chicken sausage for a lighter version. Kale,
-arugula, or chopped broccoli can replace the spinach.
-
-For a brighter finish, add lemon zest or a splash of pasta water with a squeeze
-of lemon right before serving.
+- Brown the sausage well before building the sauce.
+- Save pasta water so the sauce can cling to the noodles.
+- Add spinach, kale, mushrooms, peas, roasted peppers, or broccoli rabe.
+- Use spicy sausage if you want heat.
+- Serve with a green salad and extra parmesan.

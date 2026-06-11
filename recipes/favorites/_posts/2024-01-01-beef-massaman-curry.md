@@ -32,7 +32,7 @@ ingredients:
   - 1 tablespoon tamarind concentrate
   - 1 tablespoon brown sugar or palm sugar
   - Fresh cilantro, for garnish
-  - Jasmine rice or roti, for serving
+  - Jasmine rice, for serving
 instructions:
   - step:
     title: Brown the Beef
@@ -48,41 +48,63 @@ instructions:
     description: Stir in the potatoes, peanuts, fish sauce, tamarind, and sugar. Continue simmering for 35-45 minutes, until the beef and potatoes are tender.
   - step:
     title: Adjust and Serve
-    description: Taste and adjust with more fish sauce, tamarind, or sugar. Garnish with cilantro and extra peanuts and serve with jasmine rice or roti.
+    description: Taste and adjust with more fish sauce, tamarind, or sugar. Garnish with cilantro and extra peanuts and serve with jasmine rice.
 prep_time: PT20M
 cook_time: PT2H20M
 total_time: PT2H40M
+nutrition:
+  serving_size: 1 serving, without rice
+  servings_per_recipe: 6
+  calories: 790
+  total_fat: 45
+  saturated_fat: 18
+  cholesterol: 120
+  sodium: 1100
+  total_carbohydrates: 25
+  dietary_fiber: 4
+  total_sugars: 5
+  protein: 48
+  vitamin_a: 70
+  vitamin_c: 22
+  calcium: 90
+  iron: 7
 ---
 
 # Beef Massaman Curry
 
-## Slow, Rich, and Comforting
+## Regular Rotation Curry
 
-Massaman curry is warm and mellow compared with sharper Thai curries. Coconut
-milk, potatoes, peanuts, and spices give it a rounded flavor that works
-beautifully with beef chuck.
+This is the kind of curry that earns a place in the regular dinner rotation. It
+is mellow enough for a crowd, rich enough to feel special, and forgiving enough
+that it can simmer away while the rest of the meal comes together. The best part
+is the wait: coconut milk, beef, potatoes, peanuts, cinnamon, star anise, and
+curry paste slowly fill the house with that warm, sweet-savory smell before the
+pot is even ready.
 
-The beef needs time. Keep the simmer gentle so the meat becomes tender without
-the coconut sauce scorching or reducing too aggressively.
+I usually serve it simply with jasmine rice, which is all it really needs. The
+sauce is rich and rounded, so rice gives it somewhere to go without competing
+with it. If you want something fresh on the side, cucumber salad, quick pickled
+vegetables, or a crisp herb-heavy salad all work well. Extra peanuts and cilantro
+at the table add crunch and brightness.
 
-## Serving Ideas
+## Tips
 
-Serve with jasmine rice, roti, cucumber salad, or pickled vegetables. The sauce is
-rich enough that something fresh on the side helps.
-
-Extra peanuts and cilantro at the table add crunch and brightness.
+- Keep the simmer gentle. The beef needs time to become tender, but the coconut
+  sauce should not scorch or reduce too aggressively.
+- Cut the potatoes into large chunks so they soften without disappearing into the
+  curry.
+- Taste at the end and adjust the balance. Fish sauce adds savoriness, tamarind
+  adds tang, and sugar rounds out the warm spices.
+- Massaman curry is excellent the next day. Cool and refrigerate overnight, then
+  reheat gently and add a splash of stock or coconut milk if the sauce has
+  thickened too much.
 
 ## Variations
 
-For a slow cooker version, brown the beef and fry the curry paste first, then
-transfer everything except the potatoes to a slow cooker. Cook on low for 7-8
-hours, adding the potatoes for the last 2 hours if possible.
-
-Chicken thighs can replace beef for a faster version, but reduce the simmering
-time significantly.
-
-## Make-Ahead Tips
-
-Massaman curry is excellent the next day. Cool and refrigerate overnight, then
-reheat gently and add a splash of stock or coconut milk if the sauce has
-thickened too much.
+- For a slow cooker version, brown the beef and fry the curry paste first, then
+  transfer everything except the potatoes to a slow cooker. Cook on low for 7-8
+  hours, adding the potatoes for the last 2 hours if possible.
+- Chicken thighs can replace beef for a faster version, but reduce the simmering
+  time significantly.
+- Add more peanuts for extra texture, or finish with fried shallots if you want a
+  little crunch on top.

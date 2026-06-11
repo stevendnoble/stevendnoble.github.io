@@ -47,6 +47,22 @@ instructions:
   - step:
     title: Score and Bake
     description: Score the top into squares with a sharp knife. Bake for 35-45 minutes, until golden and crisp. Cool slightly before serving.
+nutrition:
+  serving_size: 1 piece
+  servings_per_recipe: 12
+  calories: 270
+  total_fat: 18
+  saturated_fat: 8
+  cholesterol: 55
+  sodium: 520
+  total_carbohydrates: 20
+  dietary_fiber: 2
+  total_sugars: 2
+  protein: 9
+  vitamin_a: 310
+  vitamin_c: 14
+  calcium: 210
+  iron: 3
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
@@ -56,23 +72,14 @@ total_time: PT1H15M
 
 ## Crisp Phyllo, Bright Spinach Filling
 
-The secret to spanakopita is dry spinach. Squeeze out more moisture than seems
-reasonable; a wet filling makes the bottom layers soft.
+Spanakopita is all about the contrast between flaky phyllo and a salty,
+herby spinach-feta filling. The filling should be flavorful but not wet, or
+the pastry will lose its crispness.
 
-Feta brings salt and tang, ricotta softens the texture, and dill gives the pie
-its unmistakable freshness.
+## Tips and Variations
 
-## Serving Ideas
-
-Serve as an appetizer, brunch dish, or vegetarian main with Greek salad, lemon
-potatoes, olives, or tzatziki.
-
-## Variations
-
-Use fresh spinach if you prefer, but cook it down and squeeze it dry before
-mixing. Add mint, leeks, or a pinch of nutmeg for a slightly different flavor.
-
-## Make-Ahead Tips
-
-Assemble the pie a few hours ahead and refrigerate until baking. For the crispiest
-texture, bake close to serving time and reheat leftovers in the oven.
+- Squeeze the spinach very well before mixing the filling.
+- Keep phyllo covered with a towel so it does not dry out while you work.
+- Serve with Greek salad, lemony potatoes, grilled chicken, or soup.
+- Add dill, mint, parsley, scallions, or a little lemon zest.
+- Assemble ahead and bake just before serving.

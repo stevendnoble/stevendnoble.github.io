@@ -81,16 +81,20 @@ instructions:
     description: Garnish with additional fried onions and serve over steamed Persian rice for an authentic dining experience.
 nutrition:
   serving_size: 1 serving
-  servings_per_recipe: 5-6
-  calories: 350
-  total_fat: 22g
-  saturated_fat: 6g
-  cholesterol: 140mg
-  sodium: 300mg
-  total_carbohydrates: 13g
-  dietary_fiber: 4g
-  total_sugars: 5g
-  protein: 25g
+  servings_per_recipe: 6
+  calories: 430
+  total_fat: 25
+  saturated_fat: 6
+  cholesterol: 145
+  sodium: 520
+  total_carbohydrates: 18
+  dietary_fiber: 6
+  total_sugars: 4
+  protein: 34
+  vitamin_a: 420
+  vitamin_c: 45
+  calcium: 140
+  iron: 5
 prep_time: PT20M
 cook_time: PT1H
 total_time: PT1H20M
@@ -98,12 +102,22 @@ total_time: PT1H20M
 
 # Ghormeh Sabzi
 
-## A National Treasure
+## Deep Green Persian Stew
 
-Ghormeh Sabzi is not just a stew; it's a journey through centuries of Persian culinary tradition, embodying the very soul of Iran's rich gastronomic heritage. Renowned as the national dish, its preparation and enjoyment are deeply woven into the fabric of Iranian culture, symbolizing the unity and warmth of family gatherings. This chicken thigh version of Ghormeh Sabzi maintains the integrity and spirit of the original, inviting you to partake in a shared human experience that transcends borders and time.
+Ghormeh Sabzi is one of those stews where the flavor comes from patience:
+herbs cooked until dark and fragrant, tender chicken, beans, turmeric, onions,
+and dried lime. The limoo amani gives it that sour, savory edge that makes the
+whole dish feel alive.
 
-## Serving Suggestions and Historical Insight
+Serve it over Persian rice with Mast-o Khiar on the side. The cool yogurt and
+cucumber are especially good next to the herb-heavy stew.
 
-Traditionally served over a fluffy bed of Persian rice, Ghormeh Sabzi is a dish that invites experimentation. Pair it with a side of Mast-o-Khiar for a refreshing contrast, or enjoy it with a piece of warm, freshly baked flatbread. Its history dates back over a thousand years, evolving with each generation to reflect the tastes and traditions of the Persian people, yet always retaining its essence as a symbol of Persian hospitality and culinary excellence.
+## Tips and Variations
 
-Whether enjoyed in a grand feast or a simple family dinner, Ghormeh Sabzi is a celebration
+- Cook the herbs long enough that they darken and smell concentrated, but do
+  not let them burn.
+- Pierce the whole dried limes so they season the stew without staying closed
+  up in the pot.
+- Chicken thighs keep this version tender, but lamb or beef also work if you
+  want a deeper stew.
+- The stew tastes even better after a day in the refrigerator.

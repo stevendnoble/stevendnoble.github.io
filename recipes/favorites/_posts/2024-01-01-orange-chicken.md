@@ -49,6 +49,22 @@ instructions:
   - step:
     title: Toss and Serve
     description: Toss the fried chicken with the sauce just before serving. Garnish with scallions and sesame seeds.
+nutrition:
+  serving_size: 1 serving
+  servings_per_recipe: 4
+  calories: 620
+  total_fat: 27
+  saturated_fat: 5
+  cholesterol: 165
+  sodium: 980
+  total_carbohydrates: 58
+  dietary_fiber: 2
+  total_sugars: 24
+  protein: 38
+  vitamin_a: 90
+  vitamin_c: 35
+  calcium: 70
+  iron: 3
 prep_time: PT20M
 cook_time: PT25M
 total_time: PT45M
@@ -58,24 +74,14 @@ total_time: PT45M
 
 ## Crisp Chicken, Bright Sauce
 
-The sauce should taste like orange first, not just sugar. Zest adds concentrated
-citrus aroma, while vinegar and soy sauce balance the sweetness.
+Orange chicken works when the chicken stays crisp and the sauce tastes like
+real citrus, not just sugar. Orange juice and zest give it brightness, while
+soy sauce, garlic, ginger, and vinegar keep the glaze savory enough for
+dinner.
 
-For the best texture, toss the chicken with sauce right before serving. If it
-sits too long, the crisp coating softens.
+## Tips and Variations
 
-## Serving Ideas
-
-Serve with steamed rice, broccoli, snap peas, or stir-fried vegetables. A side of
-cucumber salad keeps the meal fresh.
-
-## Variations
-
-For a lighter version, air fry or bake the coated chicken and toss with sauce
-afterward. For more heat, add extra red pepper flakes or a spoonful of chili
-crisp.
-
-## Make-Ahead Tips
-
-The sauce can be made ahead and reheated. Fry the chicken close to serving time,
-or re-crisp leftovers in an oven or air fryer before saucing.
+- Sauce the chicken right before serving so the coating stays crisp.
+- Add red pepper flakes, sambal, or dried chiles for heat.
+- Serve with rice, broccoli, snap peas, green beans, or cucumber salad.
+- Reheat leftovers in an oven or air fryer before adding extra sauce.

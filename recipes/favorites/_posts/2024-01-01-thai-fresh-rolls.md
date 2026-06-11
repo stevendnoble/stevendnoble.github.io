@@ -75,21 +75,21 @@ instructions:
     title: Serve
     description: Cut the rolls in half, if desired, and serve immediately with the dipping sauce.
 nutrition:
-  serving_size: 1 fresh roll
-  servings_per_recipe: 12
-  calories: 120
-  total_fat: 1.9
-  saturated_fat: 0.4
-  cholesterol: 18
-  sodium: 145
-  total_carbohydrates: 20
-  dietary_fiber: 2.1
-  total_sugars: 2
-  protein: 4.8
-  vitamin_d: 0
-  calcium: 57
+  serving_size: 2 rolls
+  servings_per_recipe: 4
+  calories: 260
+  total_fat: 8
+  saturated_fat: 1
+  cholesterol: 0
+  sodium: 620
+  total_carbohydrates: 39
+  dietary_fiber: 5
+  total_sugars: 8
+  protein: 10
+  vitamin_a: 260
+  vitamin_c: 28
+  calcium: 90
   iron: 2
-  potassium: 154
 prep_time: PT30M
 cook_time: PT15M
 total_time: PT45M
@@ -97,21 +97,17 @@ total_time: PT45M
 
 # Thai Fresh Rolls
 
-## Tips for Perfect Thai Fresh Rolls
+## Fresh, Cool, and Flexible
 
-* **Work with One Rice Paper at a Time:** Rice papers can become overly sticky if soaked for too long or if they sit out for a while after being moistened.
-* **Balance Your Fillings:** A mix of textures and flavors is key. Aim for a balance between the freshness of herbs, the crunch of vegetables, and the softness of noodles and protein.
-* **Tight Rolling:** The tighter you roll, the less likely the rolls are to fall apart when served. However, be gentle to avoid tearing the rice paper.
+Thai fresh rolls are light but satisfying because every bite has soft rice
+paper, herbs, crisp vegetables, noodles, and dipping sauce. They are also
+flexible: once the components are ready, everyone can build the version they
+like.
 
-## Mastering the Art of Thai Fresh Rolls
+## Tips and Variations
 
-* **Experiment with Fillings:** While traditional Thai Fresh Rolls include shrimp, tofu, or chicken, don't hesitate to explore other proteins such as thinly sliced beef, crab meat, or even smoked salmon for a unique twist. Incorporating different vegetables like avocado, radish, or mango can add a new layer of flavor and texture, making each bite a delightful surprise.
-* **Sauce Variations:** The dipping sauce is just as important as the roll itself, acting as the perfect complement to the fresh ingredients. Beyond the classic peanut sauce, consider trying a sweet and spicy tamarind sauce, a light and tangy fish sauce-based vinaigrette, or even a creamy avocado lime sauce for a different taste profile.
-* **Presentation is Key:** Thai Fresh Rolls are not only a treat for the palate but also for the eyes. Play with the arrangement of fillings to create visually appealing rolls where vibrant colors of vegetables and herbs peek through the translucent rice paper. Serving them on a platter garnished with extra herbs, lime wedges, and edible flowers can turn this simple dish into an elegant appetizer or meal centerpiece.
-* **Interactive Dining Experience:** One of the joys of Thai Fresh Rolls is their versatility and ease of customization. Consider setting up a "make-your-own" fresh roll station at your next gathering, where guests can choose from a variety of fillings and sauces to create their perfect roll. It's a fun way to engage everyone in the meal preparation and cater to different dietary preferences and tastes.
-* **Mindful Eating:** Thai Fresh Rolls encourage a mindful approach to dining. The process of selecting each ingredient and savoring the different textures and flavors promotes a more thoughtful and enjoyable eating experience. This dish is a reminder of the beauty of simplicity and the importance of appreciating each ingredient's contribution to the overall dish.
-* **Culinary Adventure Awaits:** Embarking on the journey of making Thai Fresh Rolls is an invitation to experiment, learn, and enjoy the rich tapestry of flavors that Thai cuisine offers. Whether you're a seasoned chef or a curious cook, these rolls provide a canvas for creativity, allowing you to bring a piece of Thailand into your kitchen. So, roll up your sleeves, gather your favorite ingredients, and let the adventure begin!
-
-## A Refreshing Bite of Southeast Asia
-
-Thai Fresh Rolls are a testament to the beauty of simplicity in cooking. By wrapping a medley of fresh ingredients in a translucent rice paper, you create a dish that's as aesthetically pleasing as it is delicious. Whether you stick to traditional fillings or get creative with your combinations, these rolls are sure to bring a taste of Thailand to your culinary adventures.
+- Dip rice paper just until pliable; it keeps softening as you roll.
+- Do not overfill or the rolls will tear.
+- Add shrimp, tofu, chicken, avocado, mango, or extra herbs.
+- Serve with peanut sauce, sweet chili sauce, or nuoc cham.
+- Keep assembled rolls covered with a damp towel and eat them the same day.

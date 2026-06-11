@@ -74,16 +74,20 @@ instructions:
     description: Remove bay leaf and thyme sprigs, skim grease from the sauce, adjust seasoning, and serve over your choice of side.
 nutrition:
   serving_size: 1 serving
-  servings_per_recipe: 6-8
-  calories: 600
-  total_fat: 35g
-  saturated_fat: 15g
-  cholesterol: 150mg
-  sodium: 600mg
-  total_carbohydrates: 15g
-  dietary_fiber: 2g
-  total_sugars: 5g
-  protein: 45g
+  servings_per_recipe: 6
+  calories: 760
+  total_fat: 52
+  saturated_fat: 22
+  cholesterol: 165
+  sodium: 820
+  total_carbohydrates: 17
+  dietary_fiber: 3
+  total_sugars: 7
+  protein: 43
+  vitamin_a: 260
+  vitamin_c: 12
+  calcium: 80
+  iron: 6
 prep_time: PT30M
 cook_time: PT3H
 total_time: PT3H30M
@@ -91,14 +95,18 @@ total_time: PT3H30M
 
 # Red Wine Braised Short Ribs
 
-## Savor the Richness: Red Wine Braised Short Ribs
+## Rich, Slow-Braised Short Ribs
 
-Red Wine Braised Short Ribs is a dish that promises warmth, depth, and satisfaction with every bite. Perfect for slow weekend cooking or a special dinner, this dish's allure lies not just in its mouthwatering flavors but also in its ability to turn an ordinary meal into a celebration. The magic of this recipe is in the slow braising, which ensures that the beef is not only flavorful but also exquisitely tender.
+Short ribs are made for a long braise. Red wine, stock, aromatics, and time
+turn a tough cut into something tender and deeply savory. The sauce should be
+reduced enough to coat the meat, but still loose enough to spoon over mashed
+potatoes or polenta.
 
-## Elevate Your Culinary Experience
+## Tips and Variations
 
-* **Wine Selection:** The choice of wine can greatly influence the dish's final taste. A full-bodied red wine, such as a Pinot Noir or Merlot, enriches the sauce with complex flavors.
-* **Make Ahead:** This dish only gets better with time. Prepare it a day ahead for an even more profound flavor, allowing the ribs to soak in the sauce overnight.
-* **Serving Suggestions:** While traditionally served with mashed potatoes or polenta, feel free to get creative with sides like roasted root vegetables or a simple green salad to balance the richness of the meat.
-
-Indulge in the luxurious taste of Red Wine Braised Short Ribs and let it be a testament to the joys of cooking and the pleasures of a well-made meal.
+- Brown the ribs well before braising; that is where much of the flavor
+  starts.
+- Use a dry red wine you would be happy to drink.
+- Chill overnight and remove solidified fat for a cleaner sauce.
+- Serve with mashed potatoes, polenta, buttered noodles, roasted carrots, or
+  bitter greens.

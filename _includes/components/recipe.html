@@ -162,6 +162,18 @@
           <strong>Vitamin D</strong>: {{ value }}mcg ({{ value | divided_by: 0.2 | round }}% DV)
         </li>
       {% endif %}
+      {% if nf.vitamin_a %}
+        {% assign value = nf.vitamin_a %}
+        <li>
+          <strong>Vitamin A</strong>: {{ value }}mcg ({{ value | divided_by: 9.0 | round }}% DV)
+        </li>
+      {% endif %}
+      {% if nf.vitamin_c %}
+        {% assign value = nf.vitamin_c %}
+        <li>
+          <strong>Vitamin C</strong>: {{ value }}mg ({{ value | divided_by: 0.9 | round }}% DV)
+        </li>
+      {% endif %}
       {% if nf.calcium %}
         {% assign value = nf.calcium %}
         <li>
@@ -185,7 +197,7 @@
       Note: The “% Daily Value” (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.
     </p>
     <p>
-      Recipe analyzed by <a href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076" target="_blank">verywell</a>.
+      Nutrition information is an estimate and will vary based on ingredients and preparation.
     </p>
     <script type="application/ld+json">
     {
@@ -236,6 +248,18 @@
         "fiberContent": "{{ nf.dietary_fiber }}g",
         "sugarContent": "{{ nf.total_sugars }}g",
         "proteinContent": "{{ nf.protein }}g"
+        {% if nf.vitamin_a %},
+          "vitaminAContent": "{{ nf.vitamin_a }}mcg"
+        {% endif %}
+        {% if nf.vitamin_c %},
+          "vitaminCContent": "{{ nf.vitamin_c }}mg"
+        {% endif %}
+        {% if nf.calcium %},
+          "calciumContent": "{{ nf.calcium }}mg"
+        {% endif %}
+        {% if nf.iron %},
+          "ironContent": "{{ nf.iron }}mg"
+        {% endif %}
       }
     }
     </script>

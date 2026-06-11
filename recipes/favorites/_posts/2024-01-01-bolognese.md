@@ -53,21 +53,50 @@ instructions:
 prep_time: PT20M
 cook_time: PT3H
 total_time: PT3H20M
+nutrition:
+  serving_size: 1 serving with pasta
+  servings_per_recipe: 6
+  calories: 690
+  total_fat: 28
+  saturated_fat: 10
+  cholesterol: 80
+  sodium: 760
+  total_carbohydrates: 76
+  dietary_fiber: 5
+  total_sugars: 9
+  protein: 34
+  vitamin_a: 180
+  vitamin_c: 18
+  calcium: 160
+  iron: 5
 ---
 # Bolognese
 
-## Low and Slow
+## The Pasta Sauce That Changed My Mind
 
-The sauce should barely bubble. A gentle simmer gives the meat time to soften and the dairy time to round out the acidity of the tomatoes.
+I did not really like pasta as a kid until I tried Bolognese for the first time.
+It was different from the quick red sauces I knew: meatier, slower, richer, and
+more like a real meal than a bowl of noodles with sauce on top. This recipe keeps
+that feeling, with beef and pork, a patient soffritto, tomato, wine, milk, and
+enough simmering time for everything to soften into a deep, comforting sauce.
 
-## Serving Ideas
+The sauce should barely bubble. A gentle simmer gives the meat time to soften
+and the dairy time to round out the acidity of the tomatoes. Wide noodles like
+tagliatelle and pappardelle are ideal because they catch the sauce well. Rigatoni
+also works, especially if you want something sturdy for leftovers.
 
-Wide noodles like tagliatelle and pappardelle are ideal because they catch the sauce well. Rigatoni also works, especially if you want something sturdy for leftovers.
+## Tips
+
+- Take your time with the soffritto. Soft onion, carrot, and celery give the
+  sauce sweetness and depth before the meat even goes in.
+- Keep the simmer low and slow. If the sauce gets too thick before the meat is
+  tender, add a splash of water, stock, or milk.
+- Bolognese is excellent made ahead. Refrigerate for up to 4 days or freeze for
+  up to 3 months. Reheat gently and loosen as needed.
 
 ## Variations
 
-Use all beef if that is what you have, or add pancetta with the soffritto for extra richness. For a lighter version, use turkey and a little extra olive oil, but keep the slow simmer.
-
-## Make-Ahead and Storage
-
-Bolognese is excellent made ahead. Refrigerate for up to 4 days or freeze for up to 3 months. Reheat gently and loosen with a splash of water, stock, or milk.
+- Use all beef if that is what you have.
+- Add pancetta with the soffritto for extra richness.
+- For a lighter version, use turkey and a little extra olive oil, but keep the
+  slow simmer.

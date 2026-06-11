@@ -51,15 +51,19 @@ instructions:
 nutrition:
   serving_size: 1 serving
   servings_per_recipe: 6
-  calories: 450
-  total_fat: 18g
-  saturated_fat: 4g
-  cholesterol: 85mg
-  sodium: 350mg
-  total_carbohydrates: 35g
-  dietary_fiber: 1g
-  total_sugars: 20g
-  protein: 35g
+  calories: 520
+  total_fat: 27
+  saturated_fat: 7
+  cholesterol: 120
+  sodium: 820
+  total_carbohydrates: 39
+  dietary_fiber: 1
+  total_sugars: 21
+  protein: 32
+  vitamin_a: 80
+  vitamin_c: 6
+  calcium: 45
+  iron: 2
 prep_time: PT15M
 cook_time: PT15M
 total_time: PT30M
@@ -67,22 +71,17 @@ total_time: PT30M
 
 # Korean Fried Chicken
 
-## A Spicy-Sweet Delight
+## Crisp Chicken, Sticky Sauce
 
-Elevate your chicken game with this mouthwatering Korean Fried Chicken recipe, where each bite offers the perfect balance of crunch, tenderness, and flavor. This dish is a testament to the simplicity of Korean cooking techniques, focusing on quality ingredients and bold flavors. Whether you're new to Korean cuisine or a longtime fan, this recipe is sure to become a fast favorite in your culinary repertoire, bringing a touch of Korea's rich food culture to your dining table.
+Korean fried chicken is about the contrast between a very crisp coating and
+a glossy sweet-spicy sauce. The chicken should stay crunchy even after it is
+tossed, so fry in batches and let the pieces drain before they meet the glaze.
 
-## A Twist on Tradition
+## Tips and Variations
 
-Korean Fried Chicken, or KFC as it's affectionately known, stands out in the global panorama of fried chicken thanks to its unique preparation and unforgettable glaze. The secret lies in the double frying technique, which ensures an exceptionally crispy exterior while keeping the meat inside succulent and tender. This dish is a modern classic that showcases the innovative spirit of Korean cuisine, blending traditional flavors with contemporary cooking methods to create something truly special.
-
-## Serving and Pairing Ideas
-
-Korean Fried Chicken is incredibly versatile, making it perfect for various dining occasions. Serve it as the star of a casual dinner, accompanied by steamed rice and kimchi, or feature it as a show-stopping appetizer at your next party. For an authentic Korean street food experience, pair it with an ice-cold beer or a refreshing soju cocktail. The dish also pairs beautifully with pickled radishes, which offer a crisp, tangy contrast to the chicken's spicy-sweet flavors.
-
-## Personalizing Your Chicken
-
-While this recipe features a classic Korean sauce, the beauty of Korean Fried Chicken lies in its adaptability. Feel free to experiment with the sauce ingredients to suit your taste preferences. Add more gochujang for a spicier kick, increase the honey for extra sweetness, or introduce a splash of lime juice for a bit of zesty brightness. Each variation brings a new dimension to the dish, allowing you to customize it to your liking and explore the vast world of Korean flavors.
-
-## A Culinary Adventure
-
-Making Korean Fried Chicken at home is not just about enjoying a delicious meal; it's about embarking on a culinary adventure. From mastering the double frying technique to mixing the perfect sauce, each step brings you closer to the heart of Korean cooking. This dish is a celebration of flavor, texture, and the joy of sharing good food with loved ones. So gather your ingredients, fire up the stove, and get ready to delight your senses with this iconic Korean dish.
+- Keep the oil hot enough that the cornstarch coating fries crisp instead of
+  absorbing oil.
+- Add more gochujang for heat, more honey for sweetness, or a splash of lime
+  for brightness.
+- Serve with rice, kimchi, pickled radish, cucumber salad, or cold beer.
+- Sauce the chicken right before serving for the best texture.

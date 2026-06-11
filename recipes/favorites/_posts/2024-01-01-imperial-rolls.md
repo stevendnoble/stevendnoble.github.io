@@ -91,6 +91,22 @@ instructions:
   - step:
     title: Serve
     description: Serve hot with lettuce, fresh herbs, cucumber, pickled carrots and daikon, nuoc cham, and lime wedges if using.
+nutrition:
+  serving_size: 3 rolls
+  servings_per_recipe: 8
+  calories: 430
+  total_fat: 24
+  saturated_fat: 5
+  cholesterol: 110
+  sodium: 760
+  total_carbohydrates: 34
+  dietary_fiber: 3
+  total_sugars: 4
+  protein: 20
+  vitamin_a: 190
+  vitamin_c: 12
+  calcium: 70
+  iron: 3
 prep_time: PT35M
 cook_time: PT25M
 total_time: PT1H
@@ -100,57 +116,24 @@ total_time: PT1H
 
 ## Crispy Vietnamese-Style Rolls
 
-Imperial Rolls are all about contrast: a crisp wrapper, savory filling, cool
-lettuce, fresh herbs, and a bright dipping sauce. The filling should be finely
-chopped and well mixed so every bite has pork, shrimp, noodles, vegetables, and
-mushrooms without large pieces breaking through the wrapper.
-
-Rolling tightly matters, but do not overfill. A roll that is too full can split
-in the oil, while a loosely rolled one can trap air pockets and fry unevenly.
-Think snug, compact, and sealed well at the edge.
+Imperial Rolls are all about contrast: a crisp wrapper, savory pork and
+shrimp filling, cool lettuce, fresh herbs, pickled vegetables, and nuoc cham.
+Roll them snugly but do not overfill them; too much filling can split the
+wrapper in the oil.
 
 ## Air Fryer Method
 
-For a healthier alternative, preheat the air fryer to 375°F. Arrange the rolls in
-a single layer with space between them, seam-side down. Brush or spray generously
-with neutral oil; the oil is what helps the wrappers blister and turn golden.
+Preheat the air fryer to 375°F. Arrange the rolls seam-side down with space
+between them, then brush or spray generously with neutral oil. Air fry for
+10-14 minutes, turning halfway through and spraying again if any dry patches
+remain. Raise to 400°F for the last few minutes if they need more color.
 
-Air fry for 10-14 minutes, turning halfway through and spraying again if any dry
-patches remain. The rolls should be crisp, browned, and cooked through in the
-center. If they need more color, raise the heat to 400°F for the last 2-3
-minutes. Work in batches so the rolls crisp instead of steaming.
+## Tips and Variations
 
-Air-fried imperial rolls will be lighter and a little less bubbly than deep-fried
-rolls, but they are still excellent with enough oil on the surface and enough
-space in the basket.
-
-## Serving Ideas
-
-Serve the rolls the traditional way with lettuce leaves and herbs, letting people
-wrap each roll before dipping it in nuoc cham. The lettuce cools the hot roll,
-the herbs add freshness, and the sauce brings salt, sweetness, acid, and heat.
-
-For a fuller meal, serve imperial rolls with vermicelli noodles, shredded
-lettuce, cucumber, pickled carrots and daikon, and extra nuoc cham as a noodle
-bowl. They also make a great appetizer alongside Vietnamese Shaking Beef or a
-simple cucumber salad.
-
-## Variations
-
-Use all pork if you want a simpler filling, or add crab for a more celebratory
-version. Taro gives the filling a classic earthy sweetness, while sweet potato is
-an easy substitute that still helps bind the mixture.
-
-If you like more vegetables, add finely chopped cabbage or bean sprouts, but keep
-the mixture dry. Excess moisture can soften the wrappers and make the rolls more
-likely to burst.
-
-## Make-Ahead Tips
-
-You can roll the imperial rolls a few hours ahead and keep them covered in the
-refrigerator. Place parchment between layers so they do not stick together.
-
-For longer storage, freeze the uncooked rolls in a single layer until firm, then
-transfer them to a freezer bag. Fry from frozen at a slightly lower temperature
-at first, then increase the heat near the end so the centers cook through before
-the wrappers get too dark.
+- Serve with lettuce leaves and herbs so each roll can be wrapped before
+  dipping.
+- Use all pork for a simpler filling, or add crab for a more celebratory
+  version.
+- Keep extra vegetables finely chopped and dry so the wrappers do not soften.
+- Roll a few hours ahead and refrigerate, or freeze uncooked rolls in a single
+  layer and fry from frozen.

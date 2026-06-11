@@ -49,6 +49,22 @@ instructions:
   - step:
     title: Serve
     description: Serve on buns with coleslaw and pickles, or use in tacos, rice bowls, nachos, or baked potatoes.
+nutrition:
+  serving_size: 1 serving
+  servings_per_recipe: 10
+  calories: 430
+  total_fat: 24
+  saturated_fat: 8
+  cholesterol: 125
+  sodium: 860
+  total_carbohydrates: 13
+  dietary_fiber: 1
+  total_sugars: 10
+  protein: 38
+  vitamin_a: 80
+  vitamin_c: 6
+  calcium: 60
+  iron: 3
 prep_time: PT15M
 cook_time: PT8H
 total_time: PT8H15M
@@ -56,26 +72,20 @@ total_time: PT8H15M
 
 # Pulled Pork
 
-## Slow-Cooked and Shreddable
+## The Crock Pot Dinner That Takes Care of Itself
 
-Pulled pork is forgiving, but it needs enough time for the connective tissue to
-soften. Pork shoulder is ideal because it has enough fat and collagen to stay
-juicy through a long cook.
+I have been making pulled pork for years because it is one of the easiest
+ways to make dinner feel like it handled itself. Set it up in the morning in
+the crock pot, leave it during the day, and by dinner time the house smells
+delicious.
 
-Use the cooking liquid to adjust the final texture. Barbecue sauce adds flavor,
-but the liquid keeps the pork from feeling sticky or dry.
+The pork should be tender enough to shred easily, with enough cooking juices
+to stay moist after it is pulled.
 
-## Serving Ideas
+## Tips and Variations
 
-Serve on soft rolls with coleslaw and pickles, or spoon over mac and cheese,
-baked potatoes, rice bowls, or cornbread.
-
-Leftovers are excellent in quesadillas, tacos, breakfast hash, or sliders.
-
-## Variations
-
-For a Carolina-style direction, use more vinegar and less sweet barbecue sauce.
-For a smokier version, add a little chipotle powder or a splash of liquid smoke.
-
-If you prefer crisp edges, spread shredded pork on a sheet pan and broil briefly
-before serving.
+- Serve on buns with coleslaw, pickles, barbecue sauce, and chips.
+- Use it for tacos, nachos, rice bowls, baked potatoes, or breakfast hash.
+- Add more vinegar for tang, more brown sugar for sweetness, or chipotle for
+  smoke and heat.
+- Refrigerate leftovers for up to 4 days or freeze in small portions.

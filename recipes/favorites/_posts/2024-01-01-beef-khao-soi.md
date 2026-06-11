@@ -57,38 +57,59 @@ instructions:
 prep_time: PT25M
 cook_time: PT2H
 total_time: PT2H25M
+nutrition:
+  serving_size: 1 bowl
+  servings_per_recipe: 6
+  calories: 770
+  total_fat: 38
+  saturated_fat: 17
+  cholesterol: 105
+  sodium: 1150
+  total_carbohydrates: 55
+  dietary_fiber: 3
+  total_sugars: 5
+  protein: 45
+  vitamin_a: 120
+  vitamin_c: 12
+  calcium: 80
+  iron: 6
 ---
 
 # Beef Khao Soi
 
-## Curry Noodle Soup with Crunch
+## Curry Noodle Soup with Adjustable Heat
 
-Khao Soi is satisfying because it gives you two noodle textures in one bowl:
-soft noodles in the curry broth and crispy noodles on top. The beef version needs
-a little simmering time, but the result is a rich broth and tender pieces of
-beef.
+Khao Soi is one of those dishes that works well when people at the table do not
+all want the same level of heat. My partner loves spicy Asian dishes, and this
+one is easy to make friendly for both of us because the base can stay rich,
+creamy, and balanced, while extra chili oil goes on at the end. One bowl can be
+bright and gentle; another can be deep red with heat.
 
-The curry base should be savory, lightly sweet, and creamy without feeling flat.
-Lime and pickled mustard greens are important because they cut through the
-coconut richness.
+That flexibility is part of what makes it such a satisfying dinner. You get soft
+egg noodles in the coconut curry broth, crispy noodles on top, tender beef, and
+then all the garnishes that wake it up. Lime, pickled mustard greens, red onion,
+cilantro, and chili oil are not just decoration here; they keep the bowl from
+feeling too heavy and let each person tune their own serving.
 
-## Serving Ideas
+## Tips
 
-Set out the garnishes separately so each bowl can be adjusted. Lime, red onion,
-cilantro, chili oil, and pickled mustard greens all bring something different.
-
-This is filling on its own, but cucumber salad or Thai fresh rolls would make it
-feel like a fuller meal.
+- Set out the garnishes separately so each bowl can be adjusted at the table.
+  Lime, red onion, cilantro, chili oil, and pickled mustard greens all bring
+  something different.
+- Keep the broth savory, lightly sweet, and creamy, then use lime and pickled
+  mustard greens to cut through the coconut richness.
+- For a thicker broth, simmer uncovered near the end. For a soupier bowl, add
+  more stock and adjust with fish sauce and lime.
+- The beef curry broth can be made a day ahead and reheated gently. Cook the
+  noodles right before serving so they do not absorb too much broth.
+- This is filling on its own, but cucumber salad or Thai fresh rolls make it feel
+  like a fuller meal.
 
 ## Variations
 
-Use short ribs or brisket instead of chuck for an even richer bowl. Chicken
-thighs also work, but they need much less time to cook.
-
-For a thicker broth, simmer uncovered near the end. For a soupier bowl, add more
-stock and adjust the fish sauce and lime.
-
-## Make-Ahead Tips
-
-The beef curry broth can be made a day ahead and reheated gently. Cook the
-noodles right before serving so they do not absorb too much broth.
+- Use short ribs or brisket instead of chuck for an even richer bowl.
+- Use chicken thighs for a lighter version, but shorten the simmering time so the
+  chicken stays tender.
+- Add more chili oil at the table for a spicier bowl without making the whole pot
+  too hot.
+- Add extra crispy noodles if you want more crunch against the rich curry broth.

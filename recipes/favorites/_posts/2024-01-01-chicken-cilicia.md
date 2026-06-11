@@ -59,31 +59,49 @@ instructions:
 prep_time: PT35M
 cook_time: PT45M
 total_time: PT1H20M
+nutrition:
+  serving_size: 1 small wedge
+  servings_per_recipe: 8
+  calories: 430
+  total_fat: 27
+  saturated_fat: 10
+  cholesterol: 105
+  sodium: 470
+  total_carbohydrates: 22
+  dietary_fiber: 2
+  total_sugars: 3
+  protein: 25
+  vitamin_a: 140
+  vitamin_c: 7
+  calcium: 60
+  iron: 3
 ---
 
 # Chicken Cilicia
 
-## Savory Spiced Chicken in Phyllo
+## Taking Inspiration from a Favorite
 
-This dish is inspired by Mediterranean chicken pastries: flaky phyllo on the
-outside, warmly spiced chicken inside. The filling should be moist enough to
-taste rich, but dry enough that it does not make the phyllo soggy.
+This dish is a variation on one I had at La Mediterranee in San Francisco:
+flaky phyllo on the outside, warmly spiced chicken inside, and just enough
+sweet-savory flavor to make it memorable. It is delicious, but I like it best in
+smaller servings because the filling leans a little sweet for a full main dish.
 
 Almonds add crunch, lemon keeps the filling bright, and herbs keep the spices
-from feeling too heavy.
+from feeling too heavy. Serve it with cucumber salad, Greek salad, yogurt sauce,
+roasted carrots, or lemony greens. It can be a light main dish, but it is also
+great cut into smaller wedges for a shared appetizer.
 
-## Serving Ideas
+## Tips
 
-Serve with cucumber salad, Greek salad, yogurt sauce, roasted carrots, or lemony
-greens. It can be a main dish or cut into smaller wedges for a shared appetizer.
+- Keep the filling moist enough to taste rich, but dry enough that it does not
+  make the phyllo soggy.
+- Cool the filling before assembling so the phyllo stays crisp.
+- The filling can be made a day ahead. Assemble the pie shortly before baking.
+- Leftovers reheat best in the oven.
 
 ## Variations
 
-Add chopped dried apricots or golden raisins if you want more sweet-savory
-contrast. For a richer filling, stir in a spoonful of Greek yogurt once the
-mixture cools.
-
-## Make-Ahead Tips
-
-The filling can be made a day ahead. Assemble the pie shortly before baking so
-the phyllo stays crisp. Leftovers reheat best in the oven.
+- Add chopped dried apricots or golden raisins if you want more sweet-savory
+  contrast.
+- For a richer filling, stir in a spoonful of Greek yogurt once the mixture
+  cools.

@@ -60,20 +60,21 @@ instructions:
     description: Transfer Fesenjan to a serving dish, garnish with pomegranate seeds, and serve over white Persian steamed rice for a truly traditional experience.
 nutrition:
   serving_size: 1 serving
-  servings_per_recipe: 4-5
-  calories: 600
-  total_fat: 30g
-  saturated_fat: 5g
-  cholesterol: 120mg
-  sodium: 200mg
-  total_carbohydrates: 25g
-  dietary_fiber: 5g
-  total_sugars: 15g
-  protein: 50g
-  vitamin_d: 0mcg
-  calcium: 60mg
-  iron: 3mg
-  potassium: 700mg
+  servings_per_recipe: 5
+  calories: 660
+  total_fat: 43
+  saturated_fat: 5
+  cholesterol: 120
+  sodium: 240
+  total_carbohydrates: 32
+  dietary_fiber: 5
+  total_sugars: 20
+  protein: 37
+  vitamin_a: 20
+  vitamin_c: 4
+  calcium: 80
+  iron: 3
+  potassium: 700
 prep_time: PT20M
 cook_time: PT1H45M
 total_time: PT2H5M
@@ -81,20 +82,32 @@ total_time: PT2H5M
 
 # Fesenjoon
 
-## Persian Walnut and Pomegranate Stew
+## The Dish I Was Hesitant to Try
 
-Embark on a culinary adventure with Fesenjoon, a stew that marries the sweetness and tang of pomegranate with the earthy depth of walnuts, culminating in a dish that's as rich in history as it is in flavor. This recipe simplifies the process, guiding you to create a dish that's bound to become a centerpiece at your table, inviting you to delve into the heart of Persian cuisine with each savory spoonful.
+Fesenjoon was one of those dishes I was hesitant to try because of how it looks:
+dark, thick, and not immediately obvious if you have never had it before. But
+once I tried it, I fell in love. It is now one of my all-time favorite dishes:
+tart from pomegranate, rich from walnuts, savory from chicken and onions, and
+deeply comforting over rice.
 
-## Serving Suggestions and Pairings
+I had it for the first time at a restaurant I used to go to with coworkers for
+team lunches. It was the only good sit-down restaurant near the office, and my
+coworkers eventually got tired of going there, but I never did. Fesenjoon was a
+big reason why.
 
-Fesenjoon is traditionally served over a bed of fluffy, aromatic Persian rice, which perfectly complements the stew’s rich flavors. For a complete meal, consider accompanying it with a side of Shirazi Salad, a refreshing mix of cucumbers, tomatoes, onions, and a tangy lime dressing, to balance the richness of the stew. A plate of fresh herbs, known as Sabzi Khordan, along with radishes and walnuts, can also be served alongside, embodying the Persian tradition of enjoying herbs with meals. To drink, a glass of Doogh, a savory yogurt-based beverage, can cleanse the palate and enhance the dining experience.
+## Tips
 
-## Personal Touches and Alterations
+- Process the walnuts until they form a paste so the sauce becomes thick and
+  velvety.
+- Stir occasionally while the stew simmers so the walnut sauce does not catch on
+  the bottom.
+- Serve over Persian rice with Shirazi salad, fresh herbs, radishes, walnuts, or
+  doogh on the side.
 
-While Fesenjoon is typically made with chicken, it's equally delicious with duck, offering a richer flavor profile, or even with meatballs for a different twist. For a vegetarian version, roasted eggplants or mushrooms can substitute the meat, absorbing the sauce’s flavors beautifully. Some families add a bit of saffron-infused water to the stew, introducing a subtle fragrance and golden hue that makes the dish even more special.
+## Variations
 
-## A Story of Tradition
-
-Every bowl of Fesenjoon carries with it stories of family gatherings, festive celebrations, and the warmth of shared meals. This dish, with its centuries-old roots, is a testament to the enduring appeal of Persian cuisine, known for its intricate flavors and culinary techniques. Preparing Fesenjoon is not just about following a recipe; it’s about continuing a culinary legacy, creating memories that, like the dish itself, are rich, layered, and deeply satisfying.
-
-By introducing Fesenjoon to your table, you’re not only offering a meal but an experience — a journey through flavors that tell tales of history, culture, and the simple joy of eating together. So, as you simmer your stew, remember that each stir is a connection to a tradition that has been cherished for generations, and now, you're a part of that beautiful story.
+- Duck is a traditional option and makes the stew even richer.
+- Meatballs work well if you want a different texture.
+- For a vegetarian version, use roasted eggplant or mushrooms so they can absorb
+  the pomegranate-walnut sauce.
+- Add a little saffron-infused water for extra fragrance.

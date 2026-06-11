@@ -5,7 +5,7 @@ description: >
   JFK Chowder, a recipe my mother borrowed from the Presidential Library, is a creamy,
   comforting blend of tender haddock, hearty potatoes, and crisp celery.
 image: /assets/img/recipes/jfk-chowder.jpg
-tags: ["Family Recipes", "Soups and Stews", "Comfort Food"]
+tags: ["Soups and Stews", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-crab-rangoon-dip.md

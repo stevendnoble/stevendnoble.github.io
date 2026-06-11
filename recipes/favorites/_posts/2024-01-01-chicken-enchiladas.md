@@ -4,7 +4,7 @@ title: Chicken Enchiladas
 description: >
   Saucy baked chicken enchiladas with shredded chicken, red enchilada sauce, melted cheese, and bright toppings.
 image: /assets/img/recipes/chicken-enchiladas.jpg
-tags: ["Latin", "Comfort Food", "Quick and Easy"]
+tags: ["Latin", "Quick and Easy"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-pork-carnitas.md

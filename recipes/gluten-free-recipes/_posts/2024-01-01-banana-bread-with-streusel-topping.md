@@ -5,7 +5,7 @@ description: >
   A gluten-free banana bread with ripe bananas, vanilla, melted butter, and a
   cinnamon brown sugar streusel topping.
 image: /assets/img/recipes/banana-bread-with-streusel-topping.jpg
-tags: ["Gluten-Free", "Desserts", "Comfort Food"]
+tags: ["Gluten-Free", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/gluten-free-recipes/_posts/2024-01-01-banana-bread.md

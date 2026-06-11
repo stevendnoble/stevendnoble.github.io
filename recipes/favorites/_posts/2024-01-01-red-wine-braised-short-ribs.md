@@ -5,7 +5,7 @@ description: >
   Immerse yourself in the rich, succulent flavors of Red Wine Braised Short Ribs, a
   dish that embodies the essence of comfort food.
 image: /assets/img/recipes/red-wine-braised-short-ribs.jpg
-tags: ["European", "Comfort Food"]
+tags: ["Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-shepherds-pie-potato-skins.md

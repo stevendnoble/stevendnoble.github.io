@@ -5,7 +5,7 @@ description: >
   Crispy risotto rice balls filled with chicken and potato, served over a fragrant
   Vietnamese-style coconut curry with lemongrass, carrots, and potatoes.
 image: /assets/img/recipes/vietnamese-chicken-curry-rice-balls.jpg
-tags: ["Asian", "Comfort Food"]
+tags: ["Asian"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-thai-fried-rice.md

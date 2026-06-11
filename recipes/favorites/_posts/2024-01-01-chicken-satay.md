@@ -5,7 +5,7 @@ description: >
   Chicken Satay, marinated in spices and grilled to perfection, offers a succulent taste
   journey with every bite, complemented by a rich, tangy peanut sauce.
 image: /assets/img/recipes/chicken-satay.jpg
-tags: ['Chicken Satay', 'Peanut Lime Sauce', 'Thai', 'Dinner']
+tags: ["Asian"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-pad-kaprow.md

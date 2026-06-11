@@ -5,7 +5,7 @@ description: >
   Dive into the ultimate comfort food experience with my mother's classic Baked Mac and
   Cheese recipe, a creamy, cheesy delight.
 image: /assets/img/recipes/baked-mac-and-cheese.jpg
-tags: ['Mom', 'Linda', 'Baby Back Ribs', 'Comfort Food']
+tags: ["Family Recipes", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-baby-back-ribs.md

@@ -5,7 +5,7 @@ description: >
   A cozy curry chicken pot pie with chicken thighs, peas, carrots, riced
   cauliflower, warming spices, cream, and a flaky pastry crust.
 image: /assets/img/recipes/curry-chicken-pot-pie.jpg
-tags: ['Favorites', 'Curry Chicken Pot Pie', 'Chicken', 'Comfort Food', 'Dinner']
+tags: ["Asian", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-lamb-saag.md

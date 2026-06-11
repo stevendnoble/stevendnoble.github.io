@@ -5,7 +5,7 @@ description: >
   Savor the comforting embrace of my mother's Crockpot Cowboy Soup, a robust and
   flavorful dish that brings the heartiness of the frontier to your dinner table.
 image: /assets/img/recipes/crockpot-cowboy-soup.jpg
-tags: ['Mom', 'Linda', 'Crockpot Cowboy Soup', 'Comfort Food']
+tags: ["Family Recipes", "Soups and Stews", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-crispy-seasoned-baked-potato-rounds.md

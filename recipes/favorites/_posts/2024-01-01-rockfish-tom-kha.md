@@ -5,7 +5,7 @@ description: >
   A refined Thai coconut fish soup with rockfish, lemongrass, galangal or
   ginger, mushrooms, lime, fish sauce, herbs, and a gentle chile heat.
 image: /assets/img/recipes/rockfish-tom-kha.png
-tags: ['Favorites', 'Rockfish Tom Kha', 'Thai Cuisine', 'Rockfish', 'Soup']
+tags: ["Asian", "Soups and Stews"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-tom-kha-soup.md

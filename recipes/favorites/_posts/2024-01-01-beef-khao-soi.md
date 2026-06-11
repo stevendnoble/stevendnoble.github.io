@@ -5,7 +5,7 @@ description: >
   A Northern Thai-inspired coconut curry noodle soup with tender beef, egg
   noodles, crispy noodles, lime, red onion, and pickled mustard greens.
 image: /assets/img/recipes/beef-khao-soi.jpg
-tags: ['Favorites', 'Beef Khao Soi', 'Thai Cuisine', 'Beef', 'Noodles']
+tags: ["Asian", "Soups and Stews"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-beef-massaman-curry.md

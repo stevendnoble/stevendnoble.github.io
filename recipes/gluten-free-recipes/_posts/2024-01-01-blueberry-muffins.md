@@ -5,7 +5,7 @@ description: >
   Dive into the delightful world of Gluten-Free Blueberry Muffins, where every bite
   is a moist celebration of sweet blueberries and a golden, crumbly topping.
 image: /assets/img/recipes/gluten-free-blueberry-muffins.jpg
-tags: ['Gluten Free', 'Blueberry Muffins', 'Breakfast']
+tags: ["Gluten-Free", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/gluten-free-recipes/_posts/2024-01-01-brownies.md

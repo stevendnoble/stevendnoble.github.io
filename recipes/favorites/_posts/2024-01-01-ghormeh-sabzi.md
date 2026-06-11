@@ -5,7 +5,7 @@ description: >
   Ghormeh Sabzi, Iran's beloved national dish, blends the rich flavors of fresh herbs
   with the tangy kick of dried limes.
 image: /assets/img/recipes/ghormeh-sabzi.jpg
-tags: ['Ghormeh Sabzi', 'Chicken', 'Persian Cuisine', 'National Dish', 'Dinner']
+tags: ["Mediterranean and Middle Eastern", "Soups and Stews"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-fesenjoon.md

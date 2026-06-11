@@ -5,7 +5,7 @@ description: >
   A gluten-free cheesy Mexican cornbread with corn, jalapenos, buttermilk, honey,
   olive oil, and plenty of cheddar baked until golden.
 image: /assets/img/recipes/gf-cheesy-mexican-cornbread.jpg
-tags: ['Gluten Free', 'Cornbread', 'Cheddar', 'Side Dish']
+tags: ["Gluten-Free", "Latin", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/gluten-free-recipes/_posts/2024-01-01-banana-bread.md

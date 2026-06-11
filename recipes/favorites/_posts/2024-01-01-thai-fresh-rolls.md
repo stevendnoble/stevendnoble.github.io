@@ -5,7 +5,7 @@ description: >
   Thai Fresh Rolls are a symphony of fresh vegetables, herbs, and your choice of
   protein, all wrapped in delicate rice paper.
 image: /assets/img/recipes/thai-fresh-rolls.jpg
-tags: ['Thai Fresh Rolls', 'Thai', 'Dinner']
+tags: ["Asian", "Quick and Easy"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-chicken-satay.md

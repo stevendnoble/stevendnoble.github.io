@@ -5,7 +5,7 @@ description: >
   A fast, fragrant Thai fried rice with shrimp, garlic-chili paste, basil, eggs,
   fish sauce, oyster sauce, and day-old jasmine or basmati rice.
 image: /assets/img/recipes/thai-fried-rice.jpg
-tags: ['Favorites', 'Thai Fried Rice', 'Thai Cuisine', 'Shrimp', 'Dinner']
+tags: ["Asian"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-pad-kaprow.md

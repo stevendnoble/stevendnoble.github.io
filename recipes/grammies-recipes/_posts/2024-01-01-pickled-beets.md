@@ -5,7 +5,7 @@ description: >
   Discover the joy of homemade Pickled Beets with my grandmother Elsie's easy-to-follow
   recipe, a perfect blend of sweet, tangy, and earthy flavors.
 image: /assets/img/recipes/pickled-beets.jpg
-tags: ['Grammie', 'Elsie', 'Pickled Beets', 'Pickling']
+tags: ["Family Recipes"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-harvard-beets.md

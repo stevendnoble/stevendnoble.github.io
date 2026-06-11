@@ -4,7 +4,7 @@ title: Leek and Potato Soup
 description: >
   A silky leek and potato soup with butter-soft leeks, creamy potatoes, chives, and a simple savory finish.
 image: /assets/img/recipes/leek-and-potato-soup.jpg
-tags: ['Favorites', 'Soup', 'Vegetarian', 'Dinner']
+tags: ["European", "Soups and Stews", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-clam-chowder.md

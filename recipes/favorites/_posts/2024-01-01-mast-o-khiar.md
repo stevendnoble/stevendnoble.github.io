@@ -5,7 +5,7 @@ description: >
   Mast-o Khiar is a refreshing Persian dip that epitomizes simplicity and flavor,
   combining creamy strained Greek yogurt with cucumbers, dill, and mint.
 image: /assets/img/recipes/mast-o-khiar.jpg
-tags: ['Mast-o Khiar', 'Persian Cuisine', 'Dip']
+tags: ["Mediterranean and Middle Eastern"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-ghormeh-sabzi.md

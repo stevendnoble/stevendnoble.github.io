@@ -5,7 +5,7 @@ description: >
   Shepherd's Pie Potato Skins blend the comforting flavors of a classic shepherd's pie
   with the crispy, satisfying texture of potato skins.
 image: /assets/img/recipes/shepherds-pie-potato-skins.jpg
-tags: ["Shepherd's Pie Potato Skins", 'British/Irish Food', 'Appetizer']
+tags: ["European", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-bacalao-guisado.md

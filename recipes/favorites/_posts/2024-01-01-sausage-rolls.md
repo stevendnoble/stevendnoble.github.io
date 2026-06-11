@@ -5,7 +5,7 @@ description: >
   Flaky puff pastry sausage rolls filled with seasoned pork, fennel, onion,
   garlic, herbs, and breadcrumbs.
 image: /assets/img/recipes/sausage-rolls.jpg
-tags: ['Favorites', 'Sausage Rolls', 'Pork', 'Appetizer', 'Comfort Food']
+tags: ["European", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-meat-pies.md

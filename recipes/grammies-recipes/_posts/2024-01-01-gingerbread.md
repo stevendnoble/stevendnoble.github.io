@@ -5,7 +5,7 @@ description: >
   This Classic Gingerbread recipe from my grandmother Elsie's kitchen brings to life the
   cherished flavors of the holiday season.
 image: /assets/img/recipes/classic-gingerbread.jpg
-tags: ['Grammie', 'Elsie', 'Classic Gingerbread', 'Dessert']
+tags: ["Family Recipes", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-whoopie-pies.md

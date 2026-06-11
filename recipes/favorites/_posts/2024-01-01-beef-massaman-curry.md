@@ -5,7 +5,7 @@ description: >
   A slow-simmered Thai beef massaman curry with coconut milk, potatoes, onion,
   peanuts, and warm spices.
 image: /assets/img/recipes/beef-massaman-curry.jpg
-tags: ['Favorites', 'Beef Massaman Curry', 'Thai Cuisine', 'Beef', 'Dinner']
+tags: ["Asian", "Soups and Stews"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-beef-khao-soi.md

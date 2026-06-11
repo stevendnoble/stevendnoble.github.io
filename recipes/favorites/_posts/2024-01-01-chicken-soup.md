@@ -4,7 +4,7 @@ title: Chicken Soup
 description: >
   A classic chicken soup with tender chicken, carrots, celery, herbs, and a clear golden broth.
 image: /assets/img/recipes/chicken-soup.jpg
-tags: ['Favorites', 'Chicken', 'Soup', 'Dinner']
+tags: ["Soups and Stews", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-leek-and-potato-soup.md

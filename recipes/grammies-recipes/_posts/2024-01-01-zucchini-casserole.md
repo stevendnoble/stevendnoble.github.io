@@ -5,7 +5,7 @@ description: >
   My grandmother Elsie's Zucchini Casserole recipe is a delightful exploration of
   textures and flavors, combining the zucchinis with sharp cheddar cheese.
 image: /assets/img/recipes/zucchini-casserole.jpg
-tags: ['Grammie', 'Elsie', 'Zucchini Casserole', 'Savory Dishes']
+tags: ["Family Recipes", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-shrimp-casserole.md

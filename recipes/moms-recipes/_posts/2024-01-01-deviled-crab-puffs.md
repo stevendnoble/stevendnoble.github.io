@@ -5,7 +5,7 @@ description: >
   My mother's Deviled Crab Puffs are a sublime fusion of creamy cheese and delicate
   crab meat nestled atop toasted bread, creating an elegant appetizer.
 image: /assets/img/recipes/deviled-crab-puffs.jpg
-tags: ['Mom', 'Linda', 'Deviled Crab Puffs', 'Seafood Dishes']
+tags: ["Family Recipes", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-shrimpies.md

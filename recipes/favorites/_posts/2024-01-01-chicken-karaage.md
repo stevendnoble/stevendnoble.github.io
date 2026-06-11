@@ -5,7 +5,7 @@ description: >
   Japanese fried chicken marinated with garlic, ginger, soy sauce, sake, sesame oil,
   and white pepper, then coated in potato starch and fried until crisp.
 image: /assets/img/recipes/chicken-karaage.jpg
-tags: ['Favorites', 'Chicken Karaage', 'Japanese Cuisine', 'Chicken', 'Dinner']
+tags: ["Asian", "Comfort Food", "Quick and Easy"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-korean-fried-chicken.md

@@ -5,7 +5,7 @@ description: >
   Crispy Vietnamese-style imperial rolls filled with pork, shrimp, glass noodles,
   vegetables, and mushrooms, served with herbs, lettuce, and nuoc cham.
 image: /assets/img/recipes/imperial-rolls.jpg
-tags: ['Favorites', 'Imperial Rolls', 'Vietnamese Cuisine', 'Appetizer', 'Dinner']
+tags: ["Asian"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-vietnamese-shaking-beef.md

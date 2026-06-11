@@ -5,7 +5,7 @@ description: >
   A Greek spinach and feta pie with flaky phyllo, dill, parsley, scallions, and
   lemon.
 image: /assets/img/recipes/spanakopita.jpg
-tags: ['Favorites', 'Spanakopita', 'Greek', 'Vegetarian', 'Appetizer']
+tags: ["Mediterranean and Middle Eastern"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-moussaka.md

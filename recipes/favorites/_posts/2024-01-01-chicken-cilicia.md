@@ -5,7 +5,7 @@ description: >
   A Mediterranean spiced chicken phyllo pie with shredded chicken, onions,
   toasted almonds, herbs, lemon, and warm spices.
 image: /assets/img/recipes/chicken-cilicia.jpg
-tags: ['Favorites', 'Chicken Cilicia', 'Mediterranean', 'Chicken', 'Dinner']
+tags: ["Mediterranean and Middle Eastern"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-spanakopita.md

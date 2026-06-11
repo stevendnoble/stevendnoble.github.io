@@ -5,7 +5,7 @@ description: >
   My mother's Creamy Marshmallow Fudge melds the lush richness of semi-sweet chocolate
   with the fluffy sweetness of marshmallows.
 image: /assets/img/recipes/creamy-marshmallow-fudge.jpg
-tags: ['Mom', 'Linda', 'Creamy Marshmallow Fudge', 'Dessert']
+tags: ["Family Recipes", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-millionaires-fudge.md

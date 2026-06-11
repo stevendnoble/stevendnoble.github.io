@@ -5,7 +5,7 @@ description: >
   This Mincemeat Square recipe from my grandmother Elsie's kitchen transforms the
   holiday flavors of mincemeat into a convenient, mouth-watering treat.
 image: /assets/img/recipes/mincemeat-squares.jpg
-tags: ['Grammie', 'Elsie', 'Mincemeat Squares', 'Dessert']
+tags: ["Family Recipes", "Desserts"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/grammies-recipes/_posts/2024-01-01-mincemeat-pie.md

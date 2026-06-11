@@ -5,7 +5,7 @@ description: >
   Indulge in the delightful flavors of my mother's Salmon Loaf, a dish that elevates
   canned salmon to new heights with its golden-brown crust.
 image: /assets/img/recipes/salmon-loaf.jpg
-tags: ['Mom', 'Linda', 'Salmon Loaf', 'Comfort Food']
+tags: ["Family Recipes", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/moms-recipes/_posts/2024-01-01-crockpot-cowboy-soup.md

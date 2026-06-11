@@ -4,7 +4,7 @@ title: Bolognese
 description: >
   A slow-cooked meat sauce with beef, pork, aromatics, tomato, wine, milk, and tagliatelle.
 image: /assets/img/recipes/bolognese.jpg
-tags: ['Favorites', 'Italian', 'Pasta', 'Dinner']
+tags: ["European", "Comfort Food"]
 author: stevendnoble-recipes
 related_posts:
   - recipes/favorites/_posts/2024-01-01-lasagna.md

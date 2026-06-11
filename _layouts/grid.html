@@ -10,6 +10,10 @@ layout: page
 {% endif %}
 
 {% assign posts = site.categories[page.slug] | default:site.tags[page.slug] | default:site.posts %}
+{% assign sort_posts_by = page.sort_posts_by %}
+{% if sort_posts_by %}
+  {% assign posts = posts | sort:sort_posts_by %}
+{% endif %}
 
 {{ content }}
 
@@ -20,7 +24,7 @@ layout: page
 
 {% assign prev_date = 0 %}
 {% if page.no_groups %}<div class="columns {% if compact_posts %}compact-post-grid{% endif %} {% unless no_third_column %}columns-break{% endunless %}">{% endif %}
-{% for post in posts reversed %}
+{% for post in posts %}
   {% assign current_date = post.date | date:list_group_by %}
 
   {% unless page.no_groups %}{% if current_date != prev_date %}

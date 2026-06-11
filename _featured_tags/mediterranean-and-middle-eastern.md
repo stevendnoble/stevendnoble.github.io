@@ -9,6 +9,7 @@ author: stevendnoble-recipes
 image: /assets/img/recipes/section-mediterranean-and-middle-eastern.png
 hide_description: true
 no_groups: true
+sort_posts_by: title
 sitemap: true
 ---
 

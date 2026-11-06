@@ -1,0 +1,510 @@
+:root{
+  color-scheme:light;
+  --paper:#f7f5fc;
+  --ink:#201a37;
+  --muted:#665d78;
+  --purple:#6745db;
+  --lavender:#eae3fa;
+  --line:#dfd8eb;
+  --white:#fff;
+  --green:#206f59;
+  --radius:24px;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  color:var(--ink);
+  background:var(--paper);
+  scroll-behavior:smooth}
+  *{
+    box-sizing:border-box}
+    body{
+      margin:0}
+      img{
+        max-width:100%;
+        display:block}
+        a{
+          color:var(--purple);
+          text-underline-offset:4px}
+          button,a{
+            -webkit-tap-highlight-color:transparent}
+            a:focus-visible,summary:focus-visible{
+              outline:3px solid #8770d6;
+              outline-offset:6px}
+              p{
+                line-height:1.7}
+                h1,h2,h3,p{
+                  margin-top:0}
+                  h1,h2,h3{
+                    font-family:Georgia,"Times New Roman",serif;
+                    font-weight:700;
+                    letter-spacing:-.045em;
+                    line-height:1.08}
+                    h1{
+                      font-size:clamp(44px,6vw,76px);
+                      margin-bottom:25px}
+                      h2{
+                        font-size:clamp(32px,4vw,48px);
+                        margin-bottom:20px}
+                        h3{
+                          font-size:25px;
+                          margin-bottom:12px}
+                          .wrap{
+                            width:min(1120px,calc(100% - 64px));
+                            margin-inline:auto}
+                            .skip{
+                              position:absolute;
+                              top:0;
+                              left:20px;
+                              transform:translateY(-150%);
+                              background:var(--white);
+                              padding:14px;
+                              z-index:20}
+                              .skip:focus{
+                                transform:translateY(0)}
+                                .site-header{
+                                  display:flex;
+                                  justify-content:space-between;
+                                  align-items:center;
+                                  gap:24px;
+                                  padding-block:27px}
+                                  .brand{
+                                    display:flex;
+                                    gap:13px;
+                                    align-items:center;
+                                    text-decoration:none;
+                                    color:var(--ink)}
+                                    .brand img{
+                                      border-radius:11px}
+                                      .brand span{
+                                        font-size:12px;
+                                        letter-spacing:2px;
+                                        font-weight:750;
+                                        line-height:1.5}
+                                        .site-header nav{
+                                          display:flex;
+                                          gap:30px}
+                                          .site-header nav a{
+                                            text-decoration:none;
+                                            color:var(--muted);
+                                            font-size:14px;
+                                            padding-block:10px}
+                                            .site-header nav a:hover{
+                                              color:var(--purple)}
+                                              .hero{
+                                                display:grid;
+                                                grid-template-columns:1.15fr 1fr;
+                                                align-items:center;
+                                                gap:50px;
+                                                min-height:680px;
+                                                padding-block:35px 70px}
+                                                .eyebrow{
+                                                  text-transform:uppercase;
+                                                  letter-spacing:2px;
+                                                  font-size:11px;
+                                                  font-weight:700;
+                                                  color:var(--purple);
+                                                  margin-bottom:22px}
+                                                  .lead{
+                                                    font-size:18px;
+                                                    color:var(--muted);
+                                                    max-width:440px;
+                                                    margin-bottom:28px}
+                                                    .hero-copy h1 span{
+                                                      color:var(--purple)}
+                                                      .hero-actions{
+                                                        display:flex;
+                                                        gap:15px;
+                                                        align-items:center;
+                                                        flex-wrap:wrap}
+                                                        .pill{
+                                                          border-radius:100px;
+                                                          padding:15px 24px;
+                                                          background:var(--purple);
+                                                          color:#fff;
+                                                          text-decoration:none;
+                                                          display:inline-flex;
+                                                          align-items:center;
+                                                          justify-content:center;
+                                                          min-height:50px;
+                                                          font-size:14px;
+                                                          font-weight:650}
+                                                          .pill:hover{
+                                                            background:#5132b7}
+                                                            .pill.secondary{
+                                                              background:var(--lavender);
+                                                              color:var(--purple)}
+                                                              .soon{
+                                                                display:inline-flex;
+                                                                align-items:center;
+                                                                gap:10px;
+                                                                border:1px solid var(--line);
+                                                                border-radius:100px;
+                                                                padding:14px 20px;
+                                                                font-size:14px;
+                                                                color:var(--muted)}
+                                                                .soon:before{
+                                                                  content:"";
+                                                                  width:7px;
+                                                                  height:7px;
+                                                                  background:var(--green);
+                                                                  border-radius:50%}
+                                                                  .hero-note{
+                                                                    font-size:12px;
+                                                                    color:var(--muted);
+                                                                    margin-top:20px}
+                                                                    .hero-stage{
+                                                                      overflow:clip;
+                                                                      isolation:isolate;
+                                                                      position:relative;
+                                                                      display:grid;
+                                                                      place-items:center;
+                                                                      min-height:575px}
+                                                                      .hero-stage:before,.hero-stage:after{
+                                                                        content:"";
+                                                                        position:absolute;
+                                                                        border-radius:50%;
+                                                                        width:100%;
+                                                                        height:64%;
+                                                                        background:#e4dbf8;
+                                                                        transform:rotate(-20deg);
+                                                                        z-index:-1}
+                                                                        .hero-stage:after{
+                                                                          background:#dceee7;
+                                                                          transform:rotate(20deg);
+                                                                          width:70%;
+                                                                          height:75%;
+                                                                          left:25%}
+                                                                          .phone{
+                                                                            background:#1d1928;
+                                                                            border:7px solid #1d1928;
+                                                                            border-radius:37px;
+                                                                            box-shadow:0 24px 60px #33204b21;
+                                                                            overflow:hidden;
+                                                                            width:265px;
+                                                                            position:relative}
+                                                                            .phone img{
+                                                                              width:100%;
+                                                                              height:auto}
+                                                                              .hero-stage .phone{
+                                                                                transform:rotate(5deg)}
+                                                                                .section{
+                                                                                  padding-block:80px}
+                                                                                  .section-intro{
+                                                                                    max-width:610px;
+                                                                                    margin-bottom:36px}
+                                                                                    .section-intro>p{
+                                                                                      color:var(--muted);
+                                                                                      font-size:17px}
+                                                                                      .games{
+                                                                                        border-top:1px solid var(--line)}
+                                                                                        .game-grid{
+                                                                                          display:grid;
+                                                                                          grid-template-columns:repeat(3,1fr);
+                                                                                          gap:18px}
+                                                                                          .game-card{
+                                                                                            padding:24px;
+                                                                                            background:var(--white);
+                                                                                            border-radius:var(--radius);
+                                                                                            border:1px solid #eee8f4;
+                                                                                            min-width:0}
+                                                                                            .game-card img{
+                                                                                              width:160px;
+                                                                                              height:85px;
+                                                                                              object-fit:contain;
+                                                                                              object-position:left;
+                                                                                              margin-bottom:19px}
+                                                                                              .game-card h3{
+                                                                                                font-size:24px}
+                                                                                                .game-card p{
+                                                                                                  font-size:14px;
+                                                                                                  color:var(--muted);
+                                                                                                  margin-bottom:16px}
+                                                                                                  .mode{
+                                                                                                    font-size:10px;
+                                                                                                    letter-spacing:1.3px;
+                                                                                                    text-transform:uppercase;
+                                                                                                    color:var(--purple);
+                                                                                                    font-weight:700}
+                                                                                                    .game-card:last-child{
+                                                                                                      grid-column:2}
+                                                                                                      .screens-section{
+                                                                                                        background:#eee8f7}
+                                                                                                        .screens{
+                                                                                                          display:grid;
+                                                                                                          grid-template-columns:repeat(3,1fr);
+                                                                                                          gap:45px;
+                                                                                                          max-width:920px;
+                                                                                                          margin:auto}
+                                                                                                          .screens figure{
+                                                                                                            margin:0;
+                                                                                                            min-width:0}
+                                                                                                            .screens .phone{
+                                                                                                              width:100%;
+                                                                                                              max-width:245px;
+                                                                                                              margin:auto;
+                                                                                                              border-width:6px;
+                                                                                                              border-radius:30px}
+                                                                                                              .screens figcaption{
+                                                                                                                margin-top:23px;
+                                                                                                                text-align:center}
+                                                                                                                .screens h3{
+                                                                                                                  font-size:22px;
+                                                                                                                  margin-bottom:7px}
+                                                                                                                  .screens p{
+                                                                                                                    font-size:13px;
+                                                                                                                    color:var(--muted);
+                                                                                                                    margin-bottom:0}
+                                                                                                                    .pricing-grid{
+                                                                                                                      display:grid;
+                                                                                                                      grid-template-columns:1fr 1fr;
+                                                                                                                      gap:24px}
+                                                                                                                      .price-card{
+                                                                                                                        padding:36px;
+                                                                                                                        border-radius:var(--radius);
+                                                                                                                        background:var(--white);
+                                                                                                                        border:1px solid var(--line)}
+                                                                                                                        .price-card.full{
+                                                                                                                          background:#eae2fa;
+                                                                                                                          border-color:#ded1f7}
+                                                                                                                          .price-card h3{
+                                                                                                                            font-size:31px;
+                                                                                                                            margin:14px 0}
+                                                                                                                            .price{
+                                                                                                                              font:700 42px Georgia,serif;
+                                                                                                                              letter-spacing:-2px;
+                                                                                                                              margin:15px 0 4px}
+                                                                                                                              .price-note{
+                                                                                                                                font-size:13px;
+                                                                                                                                color:var(--muted)}
+                                                                                                                                .price-card ul{
+                                                                                                                                  padding-left:20px;
+                                                                                                                                  margin:25px 0 0}
+                                                                                                                                  .price-card li{
+                                                                                                                                    font-size:15px;
+                                                                                                                                    line-height:1.65;
+                                                                                                                                    padding-bottom:10px}
+                                                                                                                                    .pricing-fine{
+                                                                                                                                      font-size:12px;
+                                                                                                                                      color:var(--muted);
+                                                                                                                                      max-width:800px;
+                                                                                                                                      margin-top:22px}
+                                                                                                                                      .support-grid{
+                                                                                                                                        display:grid;
+                                                                                                                                        grid-template-columns:.8fr 1.2fr;
+                                                                                                                                        gap:70px}
+                                                                                                                                        .support-intro p{
+                                                                                                                                          color:var(--muted)}
+                                                                                                                                          .support-email{
+                                                                                                                                            font-size:14px;
+                                                                                                                                            overflow-wrap:anywhere}
+                                                                                                                                            .faq details{
+                                                                                                                                              border-bottom:1px solid var(--line);
+                                                                                                                                              padding-block:18px}
+                                                                                                                                              .faq details:first-child{
+                                                                                                                                                padding-top:0}
+                                                                                                                                                .faq summary{
+                                                                                                                                                  font-weight:600;
+                                                                                                                                                  font-size:15px;
+                                                                                                                                                  line-height:1.5;
+                                                                                                                                                  cursor:pointer;
+                                                                                                                                                  min-height:32px}
+                                                                                                                                                  .faq details p{
+                                                                                                                                                    font-size:14px;
+                                                                                                                                                    color:var(--muted);
+                                                                                                                                                    margin:15px 0 0;
+                                                                                                                                                    padding-right:16px}
+                                                                                                                                                    .site-footer{
+                                                                                                                                                      padding-block:34px;
+                                                                                                                                                      border-top:1px solid var(--line)}
+                                                                                                                                                      .footer-brand{
+                                                                                                                                                        font:700 22px Georgia,serif;
+                                                                                                                                                        text-decoration:none;
+                                                                                                                                                        color:var(--ink);
+                                                                                                                                                        display:inline-block;
+                                                                                                                                                        margin-bottom:25px}
+                                                                                                                                                        .site-footer nav{
+                                                                                                                                                          display:flex;
+                                                                                                                                                          flex-wrap:wrap;
+                                                                                                                                                          gap:12px 24px}
+                                                                                                                                                          .site-footer nav a{
+                                                                                                                                                            font-size:13px;
+                                                                                                                                                            color:var(--muted)}
+                                                                                                                                                            .site-footer p{
+                                                                                                                                                              font-size:12px;
+                                                                                                                                                              color:var(--muted);
+                                                                                                                                                              margin:25px 0 0}
+                                                                                                                                                              .legal{
+                                                                                                                                                                max-width:790px;
+                                                                                                                                                                padding-block:50px 85px}
+                                                                                                                                                                .back{
+                                                                                                                                                                  font-size:14px;
+                                                                                                                                                                  display:inline-block;
+                                                                                                                                                                  margin-bottom:38px}
+                                                                                                                                                                  .legal h1{
+                                                                                                                                                                    font-size:clamp(38px,5vw,56px)}
+                                                                                                                                                                    .legal h2{
+                                                                                                                                                                      font-size:28px;
+                                                                                                                                                                      letter-spacing:-.02em;
+                                                                                                                                                                      margin-top:42px;
+                                                                                                                                                                      margin-bottom:15px}
+                                                                                                                                                                      .legal p,.legal li{
+                                                                                                                                                                        font-size:16px;
+                                                                                                                                                                        line-height:1.8;
+                                                                                                                                                                        color:var(--muted)}
+                                                                                                                                                                        .legal li{
+                                                                                                                                                                          padding-bottom:8px}
+                                                                                                                                                                          .legal strong{
+                                                                                                                                                                            color:var(--ink)}
+                                                                                                                                                                            .legal pre{
+                                                                                                                                                                              white-space:pre-wrap;
+                                                                                                                                                                              overflow-wrap:anywhere;
+                                                                                                                                                                              font-size:12px;
+                                                                                                                                                                              line-height:1.7;
+                                                                                                                                                                              background:#eeebf4;
+                                                                                                                                                                              border-radius:14px;
+                                                                                                                                                                              padding:22px}
+                                                                                                                                                                              .legal table{
+                                                                                                                                                                                border-collapse:collapse;
+                                                                                                                                                                                width:100%;
+                                                                                                                                                                                font-size:14px}
+                                                                                                                                                                                .legal td,.legal th{
+                                                                                                                                                                                  text-align:left;
+                                                                                                                                                                                  padding:12px 8px;
+                                                                                                                                                                                  border-bottom:1px solid var(--line);
+                                                                                                                                                                                  vertical-align:top}
+                                                                                                                                                                                  .legal td{
+                                                                                                                                                                                    color:var(--muted)}
+                                                                                                                                                                                    .legal .notice{
+                                                                                                                                                                                      border-left:3px solid var(--purple);
+                                                                                                                                                                                      padding-left:18px;
+                                                                                                                                                                                      margin-block:25px}
+                                                                                                                                                                                      @media(min-width:1500px){
+                                                                                                                                                                                        .hero{
+                                                                                                                                                                                          min-height:740px}
+                                                                                                                                                                                        }
+                                                                                                                                                                                        @media(max-width:850px){
+                                                                                                                                                                                          .hero{
+                                                                                                                                                                                            gap:25px}
+                                                                                                                                                                                            .hero-stage{
+                                                                                                                                                                                              min-height:490px}
+                                                                                                                                                                                              .hero-stage .phone{
+                                                                                                                                                                                                width:220px}
+                                                                                                                                                                                                .game-grid{
+                                                                                                                                                                                                  grid-template-columns:repeat(2,1fr)}
+                                                                                                                                                                                                  .game-card:last-child{
+                                                                                                                                                                                                    grid-column:auto}
+                                                                                                                                                                                                    .screens{
+                                                                                                                                                                                                      gap:22px}
+                                                                                                                                                                                                      .support-grid{
+                                                                                                                                                                                                        gap:35px}
+                                                                                                                                                                                                      }
+                                                                                                                                                                                                      @media(max-width:600px){
+                                                                                                                                                                                                        .wrap{
+                                                                                                                                                                                                          width:calc(100% - 40px)}
+                                                                                                                                                                                                          .site-header{
+                                                                                                                                                                                                            padding-block:20px;
+                                                                                                                                                                                                            align-items:flex-start;
+                                                                                                                                                                                                            gap:12px}
+                                                                                                                                                                                                            .brand{
+                                                                                                                                                                                                              gap:8px}
+                                                                                                                                                                                                              .brand img{
+                                                                                                                                                                                                                width:35px;
+                                                                                                                                                                                                                height:35px;
+                                                                                                                                                                                                                border-radius:9px}
+                                                                                                                                                                                                                .brand span{
+                                                                                                                                                                                                                  font-size:9px;
+                                                                                                                                                                                                                  letter-spacing:1.4px}
+                                                                                                                                                                                                                  .site-header nav{
+                                                                                                                                                                                                                    gap:8px;
+                                                                                                                                                                                                                    flex-wrap:wrap;
+                                                                                                                                                                                                                    justify-content:flex-end;
+                                                                                                                                                                                                                    max-width:190px}
+                                                                                                                                                                                                                    .site-header nav a{
+                                                                                                                                                                                                                      font-size:11px;
+                                                                                                                                                                                                                      padding:6px}
+                                                                                                                                                                                                                      .hero{
+                                                                                                                                                                                                                        grid-template-columns:1fr;
+                                                                                                                                                                                                                        gap:32px;
+                                                                                                                                                                                                                        padding-top:45px;
+                                                                                                                                                                                                                        padding-bottom:60px;
+                                                                                                                                                                                                                        min-height:0}
+                                                                                                                                                                                                                        .hero-copy{
+                                                                                                                                                                                                                          text-align:center}
+                                                                                                                                                                                                                          .hero h1{
+                                                                                                                                                                                                                            font-size:48px}
+                                                                                                                                                                                                                            .lead{
+                                                                                                                                                                                                                              font-size:16px}
+                                                                                                                                                                                                                              .hero-actions{
+                                                                                                                                                                                                                                justify-content:center}
+                                                                                                                                                                                                                                .hero-stage{
+                                                                                                                                                                                                                                  min-height:475px;
+                                                                                                                                                                                                                                  isolation:isolate}
+                                                                                                                                                                                                                                  .hero-stage .phone{
+                                                                                                                                                                                                                                    width:220px}
+                                                                                                                                                                                                                                    .section{
+                                                                                                                                                                                                                                      padding-block:55px}
+                                                                                                                                                                                                                                      .game-grid{
+                                                                                                                                                                                                                                        grid-template-columns:1fr}
+                                                                                                                                                                                                                                        .game-card{
+                                                                                                                                                                                                                                          display:grid;
+                                                                                                                                                                                                                                          grid-template-columns:92px 1fr;
+                                                                                                                                                                                                                                          gap:0 16px;
+                                                                                                                                                                                                                                          padding:22px}
+                                                                                                                                                                                                                                          .game-card img{
+                                                                                                                                                                                                                                            grid-row:1/4;
+                                                                                                                                                                                                                                            width:92px;
+                                                                                                                                                                                                                                            height:75px;
+                                                                                                                                                                                                                                            align-self:center;
+                                                                                                                                                                                                                                            margin:0}
+                                                                                                                                                                                                                                            .game-card h3{
+                                                                                                                                                                                                                                              font-size:22px}
+                                                                                                                                                                                                                                              .game-card p{
+                                                                                                                                                                                                                                                font-size:13px;
+                                                                                                                                                                                                                                                margin-bottom:10px}
+                                                                                                                                                                                                                                                .game-card .mode{
+                                                                                                                                                                                                                                                  grid-column:2}
+                                                                                                                                                                                                                                                  .screens{
+                                                                                                                                                                                                                                                    grid-template-columns:1fr;
+                                                                                                                                                                                                                                                    gap:40px}
+                                                                                                                                                                                                                                                    .screens figure{
+                                                                                                                                                                                                                                                      display:grid;
+                                                                                                                                                                                                                                                      grid-template-columns:150px 1fr;
+                                                                                                                                                                                                                                                      align-items:center;
+                                                                                                                                                                                                                                                      gap:24px}
+                                                                                                                                                                                                                                                      .screens .phone{
+                                                                                                                                                                                                                                                        width:150px;
+                                                                                                                                                                                                                                                        border-width:4px;
+                                                                                                                                                                                                                                                        border-radius:21px}
+                                                                                                                                                                                                                                                        .screens figcaption{
+                                                                                                                                                                                                                                                          text-align:left;
+                                                                                                                                                                                                                                                          margin:0}
+                                                                                                                                                                                                                                                          .screens h3{
+                                                                                                                                                                                                                                                            font-size:24px}
+                                                                                                                                                                                                                                                            .pricing-grid,.support-grid{
+                                                                                                                                                                                                                                                              grid-template-columns:1fr}
+                                                                                                                                                                                                                                                              .price-card{
+                                                                                                                                                                                                                                                                padding:28px}
+                                                                                                                                                                                                                                                                .support-grid{
+                                                                                                                                                                                                                                                                  gap:25px}
+                                                                                                                                                                                                                                                                  .legal{
+                                                                                                                                                                                                                                                                    padding-top:35px}
+                                                                                                                                                                                                                                                                    .legal h1{
+                                                                                                                                                                                                                                                                      font-size:40px}
+                                                                                                                                                                                                                                                                      .legal table{
+                                                                                                                                                                                                                                                                        font-size:12px}
+                                                                                                                                                                                                                                                                        .site-footer nav{
+                                                                                                                                                                                                                                                                          gap:14px 20px}
+                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                        @media(max-width:350px){
+                                                                                                                                                                                                                                                                          .hero h1{
+                                                                                                                                                                                                                                                                            font-size:42px}
+                                                                                                                                                                                                                                                                            .screens figure{
+                                                                                                                                                                                                                                                                              grid-template-columns:130px 1fr;
+                                                                                                                                                                                                                                                                              gap:16px}
+                                                                                                                                                                                                                                                                              .screens .phone{
+                                                                                                                                                                                                                                                                                width:130px}
+                                                                                                                                                                                                                                                                                .brand span{
+                                                                                                                                                                                                                                                                                  display:none}
+                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                @media(prefers-reduced-motion:reduce){
+                                                                                                                                                                                                                                                                                  :root{
+                                                                                                                                                                                                                                                                                    scroll-behavior:auto}
+                                                                                                                                                                                                                                                                                  }

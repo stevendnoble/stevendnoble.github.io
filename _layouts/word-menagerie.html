@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} | Word Menagerie</title>
+  <meta name="description" content="{{ page.description | escape }}">
+  <meta name="theme-color" content="#f5f2fc">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page.title | escape }} | Word Menagerie">
+  <meta property="og:description" content="{{ page.description | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ '/assets/word-menagerie/morph-art.webp' | absolute_url }}">
+  <link rel="icon" type="image/webp" href="{{ '/assets/word-menagerie/app-icon.webp' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/word-menagerie/style.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header wrap">
+    <a class="brand" href="{{ '/word-menagerie/' | relative_url }}"><img src="{{ '/assets/word-menagerie/app-icon.webp' | relative_url }}" width="46" height="46" alt=""><span>WORD<br>MENAGERIE</span></a>
+    <nav aria-label="Main navigation"><a href="{{ '/word-menagerie/#games' | relative_url }}">The games</a><a href="{{ '/word-menagerie/#pricing' | relative_url }}">Free & full</a><a href="{{ '/word-menagerie/#support' | relative_url }}">Support</a></nav>
+  </header>
+  {% if page.landing %}
+    <main id="main">{{ content }}</main>
+  {% else %}
+    <main id="main" class="legal wrap"><a class="back" href="{{ '/word-menagerie/' | relative_url }}">← Back to Word Menagerie</a>{{ content }}</main>
+  {% endif %}
+  <footer class="site-footer wrap">
+    <a class="footer-brand" href="{{ '/word-menagerie/' | relative_url }}">A little wordplay goes a long way.</a>
+    <nav aria-label="Footer navigation"><a href="{{ '/word-menagerie/privacy/' | relative_url }}">Privacy Policy</a><a href="{{ '/word-menagerie/disclosures/' | relative_url }}">Disclosures & Credits</a><a href="mailto:wordmenagerie.support@gmail.com">Contact support</a></nav>
+    <p>Created by <a href="{{ '/' | relative_url }}">Steven Noble</a>. © {{ site.time | date: '%Y' }} Steven Noble.</p>
+  </footer>
+</body>
+</html>

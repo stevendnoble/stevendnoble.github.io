@@ -39,6 +39,12 @@
     {{ post.intro }}
   {% endif %}
 
+  {% if post.safety_note %}
+    <section class="recipe-safety-note" aria-label="Food safety">
+      {{ post.safety_note | markdownify }}
+    </section>
+  {% endif %}
+
   {% if post.ingredients %}
     <h2 id="ingredients">
       Ingredients
@@ -71,7 +77,7 @@
 
   {% if post.instructions %}
     <h2 id="instructions">
-      Instructions
+      {{ post.instructions_title | default: 'Instructions' | escape }}
     </h2>
     <ol>
       {%- for step in post.instructions -%}

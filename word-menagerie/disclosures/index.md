@@ -33,9 +33,13 @@ Apple processes payment. Open **Purchase → Restore purchases** using the Apple
 
 Offer codes use Apple’s redemption flow. Eligibility and redemption deadlines depend on the offer. Redeeming an eligible full-game code grants the same permanent unlock; a code’s redemption deadline is not a subscription or an expiration of the unlock. Production codes will be available only after the required Apple approvals.
 
-## Advertising
+## Advertising and optional analytics
 
-The current app contains **no advertising SDK or rewarded ads**. Optional rewarded ads for extra solo plays and hints are planned but are not implemented. Any ad-enabled version will have updated privacy information and the applicable choices before ads are requested. No ad viewing is needed to use the current daily free allowance.
+Word Menagerie is ad-free. Rewarded ads are deferred.
+
+In builds that offer gameplay analytics, sharing is off by default. If you choose **Share analytics** after your first game, Word Menagerie sends a one-time summary of the game, mode, and outcome to Google Analytics for Firebase and enables sharing for future gameplay activity. If you choose **Don’t share**, the summary is discarded. You can turn sharing off anytime under **Settings → Share gameplay analytics**. Your choice does not affect free or paid access.
+
+[Read the privacy policy](/word-menagerie/privacy/#advertising-and-analytics) for details about analytics data and deletion requests.
 
 ## Word lists and game rules
 

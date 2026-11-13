@@ -8,7 +8,7 @@ permalink: /word-menagerie/privacy/
 
 Publisher: Steven Noble
 
-Last updated: November 5, 2026
+Last updated: November 12, 2026
 
 Contact: [wordmenagerie.support@gmail.com](mailto:wordmenagerie.support@gmail.com)
 
@@ -18,7 +18,7 @@ This policy describes how Word Menagerie handles information in its current vers
 
 Word Menagerie stores solo game progress, saved games, statistics, earned stickers, and daily play and hint allowances on your device. The app uses bundled word lists and puzzle collections to run solo games. It does not require a separate Word Menagerie account.
 
-The current app does not send solo game progress to a server operated by Steven Noble. Your device and Apple backup settings may affect whether local app data is included in backups.
+Your device and Apple backup settings may affect whether local app data is included in backups. If you opt in to gameplay analytics in a build that offers it, the app shares the activity described below.
 
 ## Game Center and multiplayer
 
@@ -40,9 +40,15 @@ Support correspondence is retained as needed to handle your request, maintain re
 
 ## Advertising and analytics
 
-The current release does not include advertising SDKs or third-party analytics SDKs. The app does not perform cross-app advertising tracking. Apple may process App Store, Game Center, and diagnostic information according to your account and device settings and Apple's privacy practices.
+Word Menagerie is ad-free. Apple may process App Store, Game Center, and diagnostic information according to your account and device settings and Apple’s privacy practices.
 
-If advertising or additional data services are introduced, this policy and the app's privacy disclosures will be updated before the relevant release. Any required consent or permission choices will be provided in the app.
+In builds that offer gameplay analytics, sharing is off by default. After your first completed game, the app may ask if you want to share analytics with Google Analytics for Firebase to help improve Word Menagerie. Your choice does not affect access to games or the price of the unlock.
+
+If you choose **Share analytics** in the prompt, the app sends one summary of the game you just finished. The summary reports which game you played, its mode, and the outcome. Choosing **Don’t share** discards the summary. Turning sharing on later in Settings enables sharing for future activity.
+
+With sharing on, the app reports activity such as starting or finishing games, using hints, earning stickers, and viewing or completing the Full Game Unlock purchase. Google Analytics for Firebase uses an app installation identifier and may receive app and device information and automatic usage events. The app’s analytics events do not include your name, email address, words you enter, Game Center identifiers, purchase receipts, or payment details. Word Menagerie uses gameplay analytics to improve the app and does not use it for advertising or cross-app tracking.
+
+To stop sharing, open **Settings → Share gameplay analytics** in Word Menagerie and turn it off. This stops further collection and clears Firebase analytics data stored on your device. Data already sent is subject to the analytics service’s retention settings. Use the contact address above to ask about analytics data or request deletion.
 
 ## Your choices and deletion
 

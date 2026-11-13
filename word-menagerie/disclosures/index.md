@@ -7,7 +7,7 @@ permalink: /word-menagerie/disclosures/
 # Disclosures & Credits
 
 Publisher: Steven Noble  
-Last updated: November 5, 2026  
+Last updated: November 12, 2026\
 Contact: [wordmenagerie.support@gmail.com](mailto:wordmenagerie.support@gmail.com)
 
 ## Availability
@@ -16,18 +16,18 @@ Word Menagerie is being prepared for its iPhone launch. The landing page will li
 
 ## Free plays and hints
 
-- Each game has **five free solo plays per day**. The games have separate play allowances.
+- **Today’s daily challenges are free.** Modes with solo play limits include **five free plays per game per day**.
 - **Five free hints per day** are shared across all games.
 - Free allowances refresh at local midnight and do not accumulate.
-- A play starts when a new solo puzzle or run begins. A multi-round Last Letter Standing or ten-day Word Market run uses one play; internal rounds do not use additional plays.
+- In modes with solo play limits, a play starts when a new puzzle or run begins. A multi-round Last Letter Standing or ten-day Word Market run uses one play; internal rounds do not use additional plays.
 - Continuing a saved unfinished game and restarting the same unfinished puzzle do not use another play. Replaying a completed puzzle or replacing a run with new content uses a play.
-- Letter Duel and Cross Clash currently do not preserve unfinished solo boards after their screens are discarded. Starting again uses another play.
+- Letter Duel’s standalone Solo mode does not preserve unfinished rounds. You can return to daily challenges you’ve already started.
 - Allowances are stored locally and are separate on each device. Reinstalling the app or changing the device calendar may reset local allowances. Reset all game data does not replenish them.
 - Multiplayer, statistics, and earned stickers are available without the full-game unlock.
 
 ## The permanent full-game unlock
 
-The planned US price is **$4.99 as a one-time, non-consumable in-app purchase**, not a subscription. It provides unlimited solo plays and unlimited hints across all seven games in the current collection. Local prices may vary by storefront; the app shows Apple’s price before you confirm.
+The planned US price is **$4.99 as a one-time, non-consumable in-app purchase**, not a subscription. It provides unlimited plays in modes with solo play limits, unlimited hints, and access to past daily challenges across six games. Local prices may vary by storefront; the app shows Apple’s price before you confirm.
 
 Apple processes payment. Open **Purchase → Restore purchases** using the Apple Account that obtained the unlock to recover eligible ownership. Purchase access depends on verified StoreKit ownership and may be removed following a refund or revocation. Refund requests are handled through Apple.
 

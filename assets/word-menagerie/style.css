@@ -197,7 +197,7 @@
                                                                                         border-top:1px solid var(--line)}
                                                                                         .game-grid{
                                                                                           display:grid;
-                                                                                          grid-template-columns:repeat(3,1fr);
+                                                                                          grid-template-columns:repeat(4,1fr);
                                                                                           gap:18px}
                                                                                           .game-card{
                                                                                             padding:24px;
@@ -223,8 +223,6 @@
                                                                                                     text-transform:uppercase;
                                                                                                     color:var(--purple);
                                                                                                     font-weight:700}
-                                                                                                    .game-card:last-child{
-                                                                                                      grid-column:2}
                                                                                                       .screens-section{
                                                                                                         background:#eee8f7}
                                                                                                         .screens{
@@ -389,8 +387,6 @@
                                                                                                                                                                                                 width:220px}
                                                                                                                                                                                                 .game-grid{
                                                                                                                                                                                                   grid-template-columns:repeat(2,1fr)}
-                                                                                                                                                                                                  .game-card:last-child{
-                                                                                                                                                                                                    grid-column:auto}
                                                                                                                                                                                                     .screens{
                                                                                                                                                                                                       gap:22px}
                                                                                                                                                                                                       .support-grid{
@@ -515,4 +511,51 @@
 @media (max-width: 600px) {
   .site-header { align-items: center; }
   .site-header nav { flex-wrap: nowrap; max-width: none; gap: 8px; }
+}
+
+.screen-preview {
+  display: block;
+  cursor: pointer;
+}
+
+.screen-preview img {
+  display: block;
+}
+
+.screen-preview .screen-toggle {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+
+.screen-preview:focus-within {
+  outline: 3px solid #5342a0;
+  outline-offset: 4px;
+}
+
+.screen-preview .screen-complete {
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  object-fit: contain;
+  visibility: hidden;
+}
+
+.screen-toggle:checked ~ .screen-gameplay {
+  visibility: hidden;
+}
+
+.screen-toggle:checked ~ .screen-complete {
+  visibility: visible;
+}
+
+@media (hover: hover) {
+  .screen-preview:hover .screen-toggle:not(:checked) ~ .screen-gameplay {
+    visibility: hidden;
+  }
+
+  .screen-preview:hover .screen-toggle:not(:checked) ~ .screen-complete {
+    visibility: visible;
+  }
 }

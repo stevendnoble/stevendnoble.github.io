@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "SEO: Mastering Metrics"
-description: >
-  This blog post delves into measuring the effectiveness of SEO strategies, highlighting
-  the importance of setting clear goals and tracking key performance metrics.
 image: /assets/img/growth-engineering/seo-mastering-metrics.jpg
 tags: ['Growth Engineer', 'SEO Metrics', 'SEO Effectiveness', 'Organic Traffic', 'Keyword Rankings', 'Click-Through Rate (CTR)']
 author: stevendnoble
@@ -12,6 +9,8 @@ related_posts:
   - growth-engineering/_posts/2023-03-13-seo-earning-quality-backlinks.md
 sitemap: true
 hide_description: true
+description: >-
+  Learn which SEO metrics to track, how to set measurable goals, and how to assess whether your efforts are improving search performance.
 ---
 
 * this unordered seed list will be replaced by the toc

@@ -1,3 +1,7 @@
+---
+description: >-
+  Read the Hydejack PRO license summary and terms, including permissions for commercial use and changes to the source code.
+---
 # PRO License
 
 * this list will be replaced by the table of contents

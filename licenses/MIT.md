@@ -1,3 +1,7 @@
+---
+description: >-
+  Read the MIT License text, including permission to use, copy, modify, and distribute software and the applicable warranty disclaimer.
+---
 # MIT License
 
 Copyright (c) \<YEAR\> \<COPYRIGHT HOLDER\>

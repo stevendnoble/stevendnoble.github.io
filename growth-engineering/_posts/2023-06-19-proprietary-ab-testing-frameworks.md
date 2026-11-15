@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Proprietary A/B Testing Frameworks
-description: >
-  This post delves into the emerging trend of proprietary A/B testing frameworks,
-  exploring how custom-built solutions are shaping the future of digital marketing.
 image: /assets/img/growth-engineering/proprietary-ab-testing-frameworks.jpg
 tags: ['Growth Engineer', 'A/B Testing', 'Proprietary A/B Testing Frameworks', 'Custom Testing Solutions', 'In-House Testing Software', 'Experimentation Platforms']
 author: stevendnoble
@@ -12,6 +9,8 @@ related_posts:
   - growth-engineering/_posts/2023-06-05-statistical-significance-in-ab-testing.md
 sitemap: true
 hide_description: true
+description: >-
+  Explore why teams build proprietary A/B testing frameworks and what to consider when evaluating a custom experimentation platform.
 ---
 
 * this unordered seed list will be replaced by the toc

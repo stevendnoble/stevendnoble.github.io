@@ -1,9 +1,6 @@
 ---
 layout: recipe
 title: Pulled Pork
-description: >
-  Slow-cooked pulled pork with a smoky spice rub, tangy sauce, and tender
-  shreddable texture.
 image: /assets/img/recipes/pulled-pork.jpg
 tags: ["Comfort Food"]
 author: stevendnoble-recipes
@@ -68,6 +65,8 @@ nutrition:
 prep_time: PT15M
 cook_time: PT8H
 total_time: PT8H15M
+description: >-
+  Make tender pulled pork with this home-cooking recipe, with directions for seasoning, cooking, and shredding the pork before serving.
 ---
 
 # Pulled Pork

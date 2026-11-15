@@ -2,14 +2,14 @@
 layout: grid
 title: Quick and Easy Recipes
 slug: Quick and Easy
-description: >
-  Low-fuss favorites for weeknights, fast dinners, and simple crowd-pleasers.
 author: stevendnoble-recipes
 image: /assets/img/recipes/section-quick-and-easy.jpg
 hide_description: true
 no_groups: true
 sort_posts_by: title
 sitemap: true
+description: >-
+  Find quick and easy recipes for busy days, with approachable mains and sides you can make without a long prep list.
 ---
 
 # Quick and Easy Recipes

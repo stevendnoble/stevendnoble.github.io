@@ -1,8 +1,6 @@
 ---
 layout: recipe
 title: Chicken Soup
-description: >
-  A classic chicken soup with tender chicken, carrots, celery, herbs, and a clear golden broth.
 image: /assets/img/recipes/chicken-soup.jpg
 tags: ["Soups and Stews", "Comfort Food"]
 author: stevendnoble-recipes
@@ -63,6 +61,8 @@ nutrition:
   vitamin_c: 10
   calcium: 60
   iron: 2
+description: >-
+  Make homemade chicken soup with this comforting recipe, including the ingredients and steps for building the broth and preparing the soup.
 ---
 # Chicken Soup
 

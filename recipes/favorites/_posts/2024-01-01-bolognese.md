@@ -1,8 +1,6 @@
 ---
 layout: recipe
 title: Bolognese
-description: >
-  A slow-cooked meat sauce with beef, pork, aromatics, tomato, wine, milk, and tagliatelle.
 image: /assets/img/recipes/bolognese.jpg
 tags: ["European", "Comfort Food"]
 author: stevendnoble-recipes
@@ -69,6 +67,8 @@ nutrition:
   vitamin_c: 18
   calcium: 160
   iron: 5
+description: >-
+  Make a savory homemade Bolognese sauce for pasta, with directions for preparing the ingredients and simmering the sauce.
 ---
 # Bolognese
 

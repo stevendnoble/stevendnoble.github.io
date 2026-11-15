@@ -2,21 +2,11 @@
 layout: grid
 title: 'Worldly Lathers: Artisanal Soap Making'
 slug: worldly-lathers
-description: >
-  "Worldly Lathers" is a journey into the world of soap making that spans
-  continents and centuries. This unique blog offers readers a window into the rich
-  traditions of old world soaps from various cultures around the globe, combined with
-  practical advice for those embarking on their own soap making adventures. Each post
-  is a blend of historical insight, detailed beginner tips, spotlights on diverse soap
-  making ingredients, and carefully curated recipes that have been personally tested
-  and loved. Whether you're drawn to the ancient soap recipes of the Middle East, the
-  rustic bars of the European countryside, or seeking to craft your very own bespoke
-  soap from the comfort of your home, "Worldly Lathers" is your go-to source for all
-  things saponified, promising a blend of education, inspiration, and a deep appreciation
-  for the art and science of soap making.
 author: worldlylathers
 no_groups: true
 sitemap: true
+description: >-
+  Explore handmade soap traditions, learn cold and hot process techniques, and find out how ingredients shape the finished bar.
 ---
 
 # Worldly Lathers: Artisanal Soap Making

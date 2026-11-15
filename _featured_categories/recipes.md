@@ -8,6 +8,9 @@ compact_posts: true
 sort_posts_by: title
 sitemap: true
 hide_description: true
+social_image: /assets/img/recipes/section-family-recipes.jpg
+description: >-
+  Browse Steven Noble’s recipe collection by cuisine, course, or cooking style, with family favorites, quick meals, comforting stews, and desserts.
 ---
 
 # Recipes

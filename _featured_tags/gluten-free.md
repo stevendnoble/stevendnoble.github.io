@@ -2,14 +2,14 @@
 layout: grid
 title: Gluten-Free Recipes
 slug: Gluten-Free
-description: >
-  Recipes tagged gluten-free across all recipe collections.
 author: stevendnoble-recipes
 image: /assets/img/recipes/section-gluten-free.jpg
 hide_description: true
 no_groups: true
 sort_posts_by: title
 sitemap: true
+description: >-
+  Browse the gluten-free recipe collection for mains, sides, and baked treats, including brownies, muffins, and family favorites.
 ---
 
 # Gluten-Free Recipes

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Unified Community Guidelines for WebDevFun & Worldly Lathers
-description: >
-  Community Guidelines for the WebDevFun and Worldly Lathers blogs
 hide_description: true
 sitemap: true
 hide_description: true
+seo_title: Community Guidelines | Steven D Noble
+description: >-
+  Read the community guidelines for WebDevFun and Worldly Lathers, including how to participate and what to expect from moderation.
 ---
 
 * this unordered seed list will be replaced by the toc

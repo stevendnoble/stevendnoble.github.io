@@ -1,9 +1,6 @@
 ---
 layout: recipe
 title: Spanakopita
-description: >
-  A Greek spinach and feta pie with flaky phyllo, dill, parsley, scallions, and
-  lemon.
 image: /assets/img/recipes/spanakopita.jpg
 tags: ["Mediterranean and Middle Eastern"]
 author: stevendnoble-recipes
@@ -66,6 +63,8 @@ nutrition:
 prep_time: PT30M
 cook_time: PT45M
 total_time: PT1H15M
+description: >-
+  Make Greek spanakopita with flaky phyllo and a savory spinach filling. Follow the steps for preparing, layering, and baking the pie.
 ---
 
 # Spanakopita

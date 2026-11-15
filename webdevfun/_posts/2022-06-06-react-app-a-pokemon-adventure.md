@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "React App: A Pokémon Adventure"
-description: >
-  Dive into the captivating world of React and Pokémon with our latest blog post, where
-  we guide you through creating your very own Pokédex application with React.
 image: /assets/img/webdevfun/react-app-a-pokemon-adventure.jpg
 tags: ['React', 'create-react-app', 'Node.js', 'Components', 'Modules', 'PokeAPI']
 author: stevendnoble
@@ -12,6 +9,8 @@ related_posts:
   - webdevfun/_posts/2022-05-23-project-showcase-build-a-pokedex.md
 sitemap: true
 hide_description: true
+description: >-
+  Build a Pokédex in React with a hands-on tutorial that covers components, fetching Pokémon data, and running the finished demo.
 ---
 
 * this unordered seed list will be replaced by the toc

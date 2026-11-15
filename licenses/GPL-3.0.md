@@ -1,3 +1,7 @@
+---
+description: >-
+  Read the GNU General Public License, Version 3, including the terms for copying, modifying, and distributing covered software.
+---
 # GNU GENERAL PUBLIC LICENSE
 
 Version 3, 29 June 2007

@@ -1,3 +1,7 @@
+---
+description: >-
+  Find the open source and commercial licenses used on Steven D Noble’s site, including MIT, Apache 2.0, GPL 3.0, W3C, and Hydejack PRO.
+---
 # Licenses
 
 ## Open Source

@@ -1,4 +1,17 @@
 {% comment %}<!--
 Including `seo` in a partial prevents a parse error when `jekyll-seo-tag` is not included
 -->{% endcomment %}
-{% seo %}
+{% capture seo_markup %}
+  {% if page.seo_title %}
+    <title>{{ page.seo_title | escape }}</title>
+    {% seo title=false %}
+  {% else %}
+    {% seo %}
+  {% endif %}
+{% endcapture %}
+{{ seo_markup }}
+{% unless seo_markup contains 'property="og:image"' %}
+  {% assign social_image = page.social_image | default: site.logo | absolute_url %}
+  <meta property="og:image" content="{{ social_image | escape }}">
+  <meta name="twitter:image" content="{{ social_image | escape }}">
+{% endunless %}

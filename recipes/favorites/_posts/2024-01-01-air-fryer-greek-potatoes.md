@@ -1,8 +1,6 @@
 ---
 layout: recipe
 title: Air Fryer Greek Potatoes
-description: >
-  Crispy lemon-garlic Greek potato wedges with oregano, parsley, feta, and an easy air fryer method.
 image: /assets/img/recipes/air-fryer-greek-potatoes.jpg
 tags: ["Mediterranean and Middle Eastern", "Comfort Food"]
 author: stevendnoble-recipes
@@ -60,6 +58,8 @@ nutrition:
   vitamin_c: 45
   calcium: 80
   iron: 2
+description: >-
+  Make Greek-style potatoes in the air fryer. This recipe explains how to season and cook the potatoes for a crisp, flavorful side dish.
 ---
 # Air Fryer Greek Potatoes
 

@@ -1,3 +1,7 @@
+---
+description: >-
+  Read the Apache License, Version 2.0, including its definitions, terms for use and redistribution, and warranty and liability provisions.
+---
 # Apache License
 
 Version 2.0, January 2004

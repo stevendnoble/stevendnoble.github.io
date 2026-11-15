@@ -1,10 +1,6 @@
 ---
 layout: recipe
 title: Quick Nut Fudge
-description: >
-  My mother's Quick Nut Fudge offers a rich, chocolaty indulgence that perfectly
-  balances the crunchiness of nuts with the smoothness of fudge in every bite.
-  sophisticated taste.
 image: /assets/img/recipes/quick-nut-fudge.jpg
 tags: ["Family Recipes", "Desserts"]
 author: stevendnoble-recipes
@@ -59,6 +55,8 @@ nutrition:
 prep_time: PT15M
 cook_time: PT5M
 total_time: PT20M
+description: >-
+  Make Mom’s Quick Nut Fudge with this family recipe for smooth chocolate fudge with a nutty crunch. Find the ingredients and directions.
 ---
 
 # Quick Nut Fudge

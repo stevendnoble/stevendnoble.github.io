@@ -2,6 +2,8 @@
 layout: welcome
 title: Hey There! 👋
 cover: true
+description: >-
+  Steven Noble shares hands-on web development tutorials, articles about growth engineering, favorite recipes, and notes on handmade soap.
 ---
 
 I'm a tech enthusiast with a knack for simplifying the complex - especially in the

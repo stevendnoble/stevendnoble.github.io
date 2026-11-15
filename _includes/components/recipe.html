@@ -254,18 +254,6 @@
         "fiberContent": "{{ nf.dietary_fiber }}g",
         "sugarContent": "{{ nf.total_sugars }}g",
         "proteinContent": "{{ nf.protein }}g"
-        {% if nf.vitamin_a %},
-          "vitaminAContent": "{{ nf.vitamin_a }}mcg"
-        {% endif %}
-        {% if nf.vitamin_c %},
-          "vitaminCContent": "{{ nf.vitamin_c }}mg"
-        {% endif %}
-        {% if nf.calcium %},
-          "calciumContent": "{{ nf.calcium }}mg"
-        {% endif %}
-        {% if nf.iron %},
-          "ironContent": "{{ nf.iron }}mg"
-        {% endif %}
       }
     }
     </script>

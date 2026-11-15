@@ -81,7 +81,7 @@
     </h2>
     <ol>
       {%- for step in post.instructions -%}
-        <li>
+        <li id="instructions-step-{{ forloop.index }}">
           <p><strong>{{ step.title }}</strong>: {{ step.description }}</p>
         </li>
       {%- endfor -%}
@@ -205,6 +205,20 @@
     <p>
       Nutrition information is an estimate and will vary based on ingredients and preparation.
     </p>
+    {% assign recipe_url = post.canonical_url | default: post.url | absolute_url %}
+    {% assign cuisines = '' | split: ',' %}
+    {% assign categories = '' | split: ',' %}
+    {% assign keywords = '' | split: ',' %}
+    {% for tag in post.tags %}
+      {% case tag %}
+        {% when 'Asian', 'European', 'Latin', 'Mediterranean and Middle Eastern' %}
+          {% assign cuisines = cuisines | push: tag %}
+        {% when 'Desserts', 'Soups and Stews' %}
+          {% assign categories = categories | push: tag %}
+        {% else %}
+          {% assign keywords = keywords | push: tag %}
+      {% endcase %}
+    {% endfor %}
     <script type="application/ld+json">
     {
       "@context": "http://schema.org",
@@ -216,6 +230,15 @@
         "name": "Steven D Noble"
       },
       "description": "{{ post.description }}",
+      {% if cuisines.size > 0 %}
+        "recipeCuisine": {{ cuisines | join: ', ' | jsonify }},
+      {% endif %}
+      {% if categories.size > 0 %}
+        "recipeCategory": {{ categories | join: ', ' | jsonify }},
+      {% endif %}
+      {% if keywords.size > 0 %}
+        "keywords": {{ keywords | join: ', ' | jsonify }},
+      {% endif %}
       {% if post.prep_time %}
         "prepTime": "{{ post.prep_time }}",
       {% endif %}
@@ -239,7 +262,11 @@
           {%- capture end_comma -%}{% if forloop.last %}{{ end_with }}{% else %}{{ ", " }}{% endif %}{%- endcapture -%}
           {
             "@type": "HowToStep",
-            "text": "{{ step.title }}: {{ step.description }}"
+            {% if step.title and step.title != empty %}
+              "name": {{ step.title | jsonify }},
+            {% endif %}
+            "url": {{ recipe_url | append: '#instructions-step-' | append: forloop.index | jsonify }},
+            "text": {{ step.description | jsonify }}
           }{{ end_comma }}
         {%- endfor -%}
       ],

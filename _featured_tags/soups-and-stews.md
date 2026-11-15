@@ -5,7 +5,7 @@ slug: Soups and Stews
 description: >
   Cozy soups, chowders, curries, braises, and long-simmered stews.
 author: stevendnoble-recipes
-image: /assets/img/recipes/section-soups-and-stews.png
+image: /assets/img/recipes/section-soups-and-stews.jpg
 hide_description: true
 no_groups: true
 sort_posts_by: title

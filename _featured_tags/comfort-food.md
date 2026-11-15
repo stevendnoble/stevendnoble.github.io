@@ -5,7 +5,7 @@ slug: Comfort Food
 description: >
   Cozy mains, casseroles, pies, pastas, stews, and nostalgic favorites.
 author: stevendnoble-recipes
-image: /assets/img/recipes/section-comfort-food.png
+image: /assets/img/recipes/section-comfort-food.jpg
 hide_description: true
 no_groups: true
 sort_posts_by: title

@@ -5,7 +5,7 @@ slug: European
 description: >
   French, Italian, British, Australian, and other European recipes.
 author: stevendnoble-recipes
-image: /assets/img/recipes/section-european.png
+image: /assets/img/recipes/section-european.jpg
 hide_description: true
 no_groups: true
 sort_posts_by: title

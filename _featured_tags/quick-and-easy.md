@@ -5,7 +5,7 @@ slug: Quick and Easy
 description: >
   Low-fuss favorites for weeknights, fast dinners, and simple crowd-pleasers.
 author: stevendnoble-recipes
-image: /assets/img/recipes/section-quick-and-easy.png
+image: /assets/img/recipes/section-quick-and-easy.jpg
 hide_description: true
 no_groups: true
 sort_posts_by: title

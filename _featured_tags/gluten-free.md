@@ -5,7 +5,7 @@ slug: Gluten-Free
 description: >
   Recipes tagged gluten-free across all recipe collections.
 author: stevendnoble-recipes
-image: /assets/img/recipes/section-gluten-free.png
+image: /assets/img/recipes/section-gluten-free.jpg
 hide_description: true
 no_groups: true
 sort_posts_by: title

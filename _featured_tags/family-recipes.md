@@ -5,7 +5,7 @@ slug: Family Recipes
 description: >
   Recipes from Mom's and Grammie's collections.
 author: stevendnoble-recipes
-image: /assets/img/recipes/section-family-recipes.png
+image: /assets/img/recipes/section-family-recipes.jpg
 hide_description: true
 no_groups: true
 sort_posts_by: title

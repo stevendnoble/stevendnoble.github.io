@@ -5,7 +5,7 @@ slug: Asian
 description: >
   Thai, Korean, Vietnamese, Japanese, Indian-inspired, and other Asian recipes.
 author: stevendnoble-recipes
-image: /assets/img/recipes/section-asian.png
+image: /assets/img/recipes/section-asian.jpg
 hide_description: true
 no_groups: true
 sort_posts_by: title

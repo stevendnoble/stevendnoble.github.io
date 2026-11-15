@@ -76,3 +76,7 @@ quick; others are projects that make the house smell good for hours before dinne
 I like recipes that feel personal, flexible, and worth returning to. The goal is
 not to make everything precious or perfect, but to keep track of the meals that
 have become part of my life and make them easier to share.
+
+## Site credits
+
+This site uses the Hydejack theme. See the [Hydejack PRO license](/licenses/PRO/).

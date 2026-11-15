@@ -13,3 +13,20 @@ description: >-
 # WebDevFun: Putting the FUN in Web Development Fundamentals
 
 Please refer to our [Community Guidelines](/community-guidelines/)
+
+## Live demos
+
+### Pizza Chronicles
+
+- [HTML, CSS, and JavaScript](/webdevfun/pizza/basics/)
+- [Responsive layout with media queries](/webdevfun/pizza/media-queries/)
+- [Responsive layout with Bootstrap](/webdevfun/pizza/bootstrap/)
+- [Web accessibility](/webdevfun/pizza/accessibility/)
+
+### Pokédex
+
+- [PokéAPI project showcase](/webdevfun/pokemon/pokedex/)
+- [Dynamic templates with Handlebars](/webdevfun/pokemon/handlebars/)
+- [React components and data fetching](/webdevfun/pokemon/pokedex-react/)
+- [React Router](/webdevfun/pokemon/pokedex-react-router/)
+- [React state and props](/webdevfun/pokemon/pokedex-react-enhanced/)
